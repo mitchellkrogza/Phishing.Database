@@ -115,11 +115,43 @@ git commit -am "V0.1.${TRAVIS_BUILD_NUMBER} [ci skip]"
 sudo git push origin master
 }
 
+# **********************
+# Run PyFunceble Testing
+# **********************
+# ****************************************************************
+# This uses the awesome PyFunceble script created by Nissar Chababy
+# Find PyFunceble at: https://github.com/funilrys/PyFunceble
+# ****************************************************************
+
+PyFunceble () {
+
+yeartag=$(date +%Y)
+monthtag=$(date +%m)
+sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py
+cd ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/
+export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
+export GH_TOKEN=${GH_TOKEN}
+export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
+export GIT_EMAIL=${GIT_EMAIL}
+export GIT_NAME=${GIT_NAME}
+
+# ******************************************************************************
+# Updating PyFunceble && Run PyFunceble
+# Note: We use the same statement so that if something is broken everything else
+#   is not run.
+# ******************************************************************************
+  sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --dev -u && \
+  mv ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config.yaml && \
+  sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${output}
+
+
 fetch
 initiate
 prepare
-updatereadme
-commit
+#updatereadme
+PyFunceble
+#commit
 
 # **********************
 # Exit With Error Number
