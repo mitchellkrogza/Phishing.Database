@@ -141,8 +141,9 @@ git commit -am "V0.1.${TRAVIS_BUILD_NUMBER} [ci skip]"
 sudo git push origin master
 }
 
+fetch
 initiate
-generate
+#generate
 #updatereadme
 commit
 
