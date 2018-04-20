@@ -47,7 +47,7 @@ sudo cp ${input} ${output}
 cut -d'/' -f3 ${output} > ${outputtmp}
 sort -u ${outputtmp} -o ${outputtmp}
 grep '[^[:blank:]]' < ${outputtmp} > ${output}
-#sudo mv ${outputtmp} ${output}
+sudo rm ${outputtmp}
 }
 
 # *******************************
