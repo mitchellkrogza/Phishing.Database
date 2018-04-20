@@ -6,6 +6,8 @@ env:
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Phishing.Database
     - GIT_BRANCH: master
+  matrix:
+    - USE_NETWORK=true
 
 language: python
 
