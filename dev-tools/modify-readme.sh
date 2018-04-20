@@ -10,6 +10,9 @@ versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
 totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing.list)
+activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt)
+inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt)
+
 
 # **************************************************
 # Write Version and Exploit Count into the README.md
@@ -17,7 +20,7 @@ totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing.list)
 
 updatereadme () {
 
-printf '%s\n%s%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### Total Phishing Domains: " "${totalexploits}" "${endmarker}" >> ${tmprdme}
+printf '%s\n%s%s\n%s%s\n%s%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### Total Phishing Domains: " "${totalexploits}" "#### Active Phishing Domains (Tested): " "#{activesites}" "#### Inactive Phishing Domains (Tested): " "#{inactivesites}" "${endmarker}" >> ${tmprdme}
 mv ${tmprdme} ${tmprdme2}
 ed -s ${tmprdme2}<<\IN
 1,/_______________/d
