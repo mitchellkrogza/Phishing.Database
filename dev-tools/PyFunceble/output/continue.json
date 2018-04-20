@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
-        "down": 0,
+        "down": 13,
         "invalid": 0,
-        "tested": 0,
-        "up": 0
+        "tested": 626,
+        "up": 613
     }
 }
