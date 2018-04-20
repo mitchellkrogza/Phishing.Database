@@ -7,14 +7,15 @@ tmplt=tmplt
 tmprdme=tmprdme
 tmprdme2=tmprdme2
 input=${TRAVIS_BUILD_DIR}/input-source/exploits.list
-output=${TRAVIS_BUILD_DIR}/webexploits.conf
+output=${TRAVIS_BUILD_DIR}/phishing.list
+outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
 feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 version=V0.1.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
-totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/exploits.list)
+totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing.list)
 
 # *******************************************
 # Fetch our feed and append to our input file
@@ -23,6 +24,7 @@ totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/exploits.list)
 fetch () {
 sudo wget https://openphish.com/feed.txt -O ${TRAVIS_BUILD_DIR}/input-source/openphish.list
 cat ${feed1} >> ${input}
+sudo rm ${feed1}
 }
 
 # ************************************************
@@ -33,6 +35,18 @@ initiate () {
 sort -u ${input} -o ${input}
 grep '[^[:blank:]]' < ${input} > ${tmp}
 sudo mv ${tmp} ${input}
+}
+
+# ***************************************
+# Prepare our list for PyFunceble Testing
+# ***************************************
+
+prepare () {
+sudo cp ${input} ${output}
+cut -d'/' -f3 ${output} > ${outputtmp}
+sort -u ${outputtmp} -o ${output}
+grep '[^[:blank:]]' < ${output} > ${outputtmp}
+sudo mv ${outputtmp} ${output}
 }
 
 # *******************************
@@ -143,6 +157,7 @@ sudo git push origin master
 
 fetch
 initiate
+prepare
 #generate
 #updatereadme
 commit
