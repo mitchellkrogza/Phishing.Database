@@ -42,11 +42,12 @@ sudo mv ${tmp} ${input}
 # ***************************************
 
 prepare () {
+sudo truncate -s 0 ${output}
 sudo cp ${input} ${output}
 cut -d'/' -f3 ${output} > ${outputtmp}
-sort -u ${outputtmp} -o ${output}
-grep '[^[:blank:]]' < ${output} > ${outputtmp}
-sudo mv ${outputtmp} ${output}
+sort -u ${outputtmp} -o ${outputtmp}
+grep '[^[:blank:]]' < ${outputtmp} > ${output}
+#sudo mv ${outputtmp} ${output}
 }
 
 # *******************************
