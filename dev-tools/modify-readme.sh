@@ -20,7 +20,7 @@ inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt)
 
 updatereadme () {
 
-printf '%s\n%s%s\n%s%s\n%s%s\n%s%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### Active Phishing Domains (Tested): " "${activesites}" "#### Inactive Phishing Domains (Tested): " "${inactivesites}" "*****************************" "#### Domains to be tested on next run: " "${totalexploits}" "${endmarker}" >> ${tmprdme}
+printf '%s\n%s%s\n%s%s\n%s%s\n%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### Active Phishing Domains (Tested): " "${activesites}" "#### Inactive Phishing Domains (Tested): " "${inactivesites}" "*****************************" "#### Domains to be tested on next run: " "${totalexploits}" "${endmarker}" >> ${tmprdme}
 mv ${tmprdme} ${tmprdme2}
 ed -s ${tmprdme2}<<\IN
 1,/_______________/d
