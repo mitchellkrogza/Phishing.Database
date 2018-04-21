@@ -1,5 +1,5 @@
 #!/bin/bash
-# Modify Readme Script for Phishing.Database
+# Modify README.md Script for Phishing.Database
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
