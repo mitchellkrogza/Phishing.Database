@@ -9,7 +9,7 @@ version=V0.1.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
-totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing.list)
+totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list)
 activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt)
 inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt)
 
