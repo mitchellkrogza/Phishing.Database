@@ -17,6 +17,7 @@ python:
 cache:
   - apt
   - pip
+  - pip3
 
 matrix:
   fast_finish: true
@@ -28,9 +29,6 @@ addons:
 
 before_install:
   - export TZ=Africa/Johannesburg
-  - sudo apt-get -y install python3-pip python3-yaml
-  - sudo apt-get -y install dos2unix
-  - pip3 install colorama
 
 script:
   - bash dev-tools/generate.sh
