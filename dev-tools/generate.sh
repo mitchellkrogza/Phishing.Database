@@ -5,6 +5,10 @@
 
 input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 
+# *********************************************
+# Get Travis CI Prepared for Committing to Repo
+# *********************************************
+
 PrepareTravis () {
 git remote rm origin
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
@@ -14,14 +18,11 @@ git config --global push.default simple
 git checkout master
 }
 
-
 # **********************
 # Run PyFunceble Testing
-# **********************
-# ****************************************************************
-# This uses the awesome PyFunceble script created by Nissar Chababy
+# **********************************************************
 # Find PyFunceble at: https://github.com/funilrys/PyFunceble
-# ****************************************************************
+# **********************************************************
 
 PyFunceble () {
 
