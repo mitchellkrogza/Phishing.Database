@@ -51,28 +51,6 @@ dos2unix ${output}
 }
 
 
-# **************************************************
-# Write Version and Exploit Count into the README.md
-# **************************************************
-
-updatereadme () {
-
-printf '%s\n%s%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### Total Phishing Domains: " "${totalexploits}" "${endmarker}" >> ${tmprdme}
-mv ${tmprdme} ${tmprdme2}
-ed -s ${tmprdme2}<<\IN
-1,/_______________/d
-/____________________/,$d
-,d
-.r /home/travis/build/mitchellkrogza/Phishing.Database/README.md
-/_______________/x
-.t.
-.,/____________________/-d
-w /home/travis/build/mitchellkrogza/Phishing.Database/README.md
-q
-IN
-rm ${tmprdme2}
-}
-
 # ******************************
 # Now add and commit the changes
 # ******************************
@@ -159,7 +137,6 @@ export GIT_NAME=${GIT_NAME}
 #fetch
 #initiate
 #prepare
-#updatereadme
 preparetravis
 PyFunceble
 #commit
