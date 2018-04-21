@@ -18,7 +18,7 @@ This is just one of a number of extensive projects dealing with testing the stat
 ************************************************
 ## How do you test?
 
-We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by Nissar Chababay. Over a year in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list.
+We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by [Nissar Chababy](https://github.com/funilrys/). Over a year in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list.
 
 ************************************************
 ## Contributing
@@ -35,7 +35,7 @@ If you have a source list of phishing domains why not contribute them to this pr
 ************************************************
 MIT License
 
-Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
+Copyright (c) 2018 Mitchell Krog
 https://github.com/mitchellkrogza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
