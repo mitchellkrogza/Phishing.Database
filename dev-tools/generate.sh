@@ -3,97 +3,9 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
-tmprdme=tmprdme
-tmprdme2=tmprdme2
-input=${TRAVIS_BUILD_DIR}/input-source/exploits.list
-output=${TRAVIS_BUILD_DIR}/phishing.list
-outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
-feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
-tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
-version=V0.1.${TRAVIS_BUILD_NUMBER}
-versiondate="$(date)"
-startmarker="_______________"
-endmarker="____________________"
-totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing.list)
+input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 
-# *******************************************
-# Fetch our feed and append to our input file
-# *******************************************
-
-fetch () {
-sudo wget https://openphish.com/feed.txt -O ${TRAVIS_BUILD_DIR}/input-source/openphish.list
-cat ${feed1} >> ${input}
-sudo rm ${feed1}
-}
-
-# ************************************************
-# Prepare our input list and remove any duplicates
-# ************************************************
-
-initiate () {
-sort -u ${input} -o ${input}
-grep '[^[:blank:]]' < ${input} > ${tmp}
-sudo mv ${tmp} ${input}
-}
-
-# ***************************************
-# Prepare our list for PyFunceble Testing
-# ***************************************
-
-prepare () {
-sudo truncate -s 0 ${output}
-sudo cp ${input} ${output}
-cut -d'/' -f3 ${output} > ${outputtmp}
-sort -u ${outputtmp} -o ${outputtmp}
-grep '[^[:blank:]]' < ${outputtmp} > ${output}
-sudo rm ${outputtmp}
-dos2unix ${output}
-}
-
-
-# ******************************
-# Now add and commit the changes
-# ******************************
-
-commit () {
-cd ${TRAVIS_BUILD_DIR}
-
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
-
-git remote rm origin
-
-# **************************
-# Add Remote with Secure Key
-# **************************
-
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# *********************
-# Set Our Git Variables
-# *********************
-
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
-
-# *******************************************************
-# Add all the modified files, commit and push the changes
-# *******************************************************
-
-git add -A
-git commit -am "V0.1.${TRAVIS_BUILD_NUMBER} [ci skip]"
-sudo git push origin master
-}
-
-preparetravis () {
+PrepareTravis () {
 git remote rm origin
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 git config --global user.email "${GIT_EMAIL}"
@@ -131,15 +43,11 @@ export GIT_NAME=${GIT_NAME}
 # ******************************************************************************
   sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --dev -u && \
   mv ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config.yaml && \
-  sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${output}
+  sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
 }
 
-#fetch
-#initiate
-#prepare
-preparetravis
+PrepareTravis
 PyFunceble
-#commit
 
 # **********************
 # Exit With Error Number

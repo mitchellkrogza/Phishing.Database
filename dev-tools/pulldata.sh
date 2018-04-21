@@ -3,30 +3,48 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
-input=${TRAVIS_BUILD_DIR}/input-source/exploits.list
-output=${TRAVIS_BUILD_DIR}/phishing.list
+# *******************************
+# Input and Output File Variables
+# *******************************
+
+input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
+input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
+output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
+
+# **************
+# Temp Variables
+# **************
+
 outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
 feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
-# *******************************************
-# Fetch our feed and append to our input file
-# *******************************************
+# **********************************************
+# Fetch our feed(s) and append to our input file
+# **********************************************
 
 fetch () {
-sudo wget https://openphish.com/feed.txt -O ${TRAVIS_BUILD_DIR}/input-source/openphish.list
-cat ${feed1} >> ${input}
+sudo wget https://openphish.com/feed.txt -O ${feed1}
+cat ${feed1} >> ${input1}
 sudo rm ${feed1}
 }
 
-# ************************************************
-# Prepare our input list and remove any duplicates
-# ************************************************
+# *************************************************
+# Prepare our input lists and remove any duplicates
+# *************************************************
 
 initiate () {
-sort -u ${input} -o ${input}
-grep '[^[:blank:]]' < ${input} > ${tmp}
-sudo mv ${tmp} ${input}
+
+# Prepare Feed 1
+sort -u ${input1} -o ${input}
+grep '[^[:blank:]]' < ${input1} > ${tmp}
+sudo mv ${tmp} ${input1}
+
+# Prepare Feed 2
+sort -u ${input2} -o ${input2}
+grep '[^[:blank:]]' < ${input2} > ${tmp}
+sudo mv ${tmp} ${input2}
+
 }
 
 # ***************************************
@@ -35,7 +53,8 @@ sudo mv ${tmp} ${input}
 
 prepare () {
 sudo truncate -s 0 ${output}
-sudo cp ${input} ${output}
+sudo cp ${input1} ${output}
+cat ${input2} >> ${output}
 cut -d'/' -f3 ${output} > ${outputtmp}
 sort -u ${outputtmp} -o ${outputtmp}
 grep '[^[:blank:]]' < ${outputtmp} > ${output}
