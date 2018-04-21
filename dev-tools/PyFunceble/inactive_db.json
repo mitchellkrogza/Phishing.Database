@@ -1,4 +1,36 @@
 {
+    "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-ALL.list": {
+        "1524310551": [
+            "a.oururl.bid",
+            "account-cofirm1ocked-secure.com",
+            "account-limited-verify.com",
+            "accrenew-login492.com",
+            "acikdeniz.denizdeiphone.com",
+            "adrninistrator.site",
+            "alntrta.ga",
+            "amazon-securitys.com",
+            "appbb.desenhoonline.com",
+            "appie-detaii.com",
+            "appieid-detaii.com",
+            "appleid.com-verificationyourbillingcountry.com",
+            "aye2.burosa2018.com",
+            "aççount-reçovery.com",
+            "bancomer-movil-mx-mexico.com",
+            "bankofamerica-userprofile.ml",
+            "bankverification.online",
+            "blacorindy245.ml",
+            "bmo.verification-securite.com",
+            "bnpafrance.com",
+            "bofa-udirectverification.ga",
+            "businessimportant.tk",
+            "businesspage.ecuaradionline.com",
+            "bǀockchain.com",
+            "bịllogram.com",
+            "capit.ziplineeducation.com",
+            "cepteteb-tr.com",
+            "check2bill.org"
+        ]
+    },
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
         "1524230789": [
             "a.oururl.bid",
