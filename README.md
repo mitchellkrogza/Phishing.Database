@@ -3,11 +3,11 @@
 A Testing Repository for Phishing Domains, Web Sites and Threats.
 
 _______________
-#### Version: V0.1.51
+#### Version: V0.1.52
 #### Active Phishing Domains (Tested): 3119
 #### Inactive Phishing Domains (Tested): 100
 *****************************
-#### Domains to be tested on next run: 3236
+#### Domains to be tested on next run: 
 ____________________
 
 
