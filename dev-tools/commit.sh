@@ -9,6 +9,7 @@
 
 cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
 cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
+cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
 
 # *********************************************************
 # Pull Fresh Data for our Next Tests and Modify Readme File
