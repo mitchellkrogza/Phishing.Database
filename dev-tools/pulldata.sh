@@ -24,7 +24,7 @@ tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 # **********************************************
 
 fetch () {
-sudo wget https://openphish.com/feed.txt -O ${feed1}
+sudo wget https://hosts.ubuntu101.co.za/openphish/openphish-feed.list -O ${feed1}
 cat ${feed1} >> ${input1}
 sudo rm ${feed1}
 }
@@ -36,7 +36,7 @@ sudo rm ${feed1}
 initiate () {
 
 # Prepare Feed 1
-sort -u ${input1} -o ${input}
+sort -u ${input1} -o ${input1}
 grep '[^[:blank:]]' < ${input1} > ${tmp}
 sudo mv ${tmp} ${input1}
 
