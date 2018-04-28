@@ -1,0 +1,22 @@
+Domains2IDNA
+=============
+
+Python module/library to convert a domain or a file with a list of domain to the famous IDNA format.
+
+By Funilrys http://github.com/funilrys
+
+
+Features
+=============
+ * Read a file and convert each line to IDNA.
+ * Read a given domain and return it in IDNA format.
+ * Write result into a file
+
+Usage example
+=============
+
+>>> # This save the output into 'translators.json' in your current location
+>>> from domain2idna.core import Core
+>>> print(Core('bittréẋ.com').to_idna())
+
+For more please report to https://github.com/funilrys/domain2idna

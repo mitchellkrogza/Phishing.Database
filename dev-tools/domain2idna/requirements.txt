@@ -1,0 +1,2 @@
+colorama==0.3.9
+setuptools==39.0.1

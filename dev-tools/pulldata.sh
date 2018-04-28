@@ -63,9 +63,20 @@ dos2unix ${output}
 }
 
 
+# *********************************
+# Prepare our list into IDNA format
+# *********************************
+
+idna () {
+sudo python ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/domain2idna -f ${output} -o ${tmp}
+sudo mv ${tmp} ${output}
+}
+
 fetch
 initiate
 prepare
+idna
+
 
 # **********************
 # Exit With Error Number
