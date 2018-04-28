@@ -69,6 +69,7 @@ dos2unix ${output}
 # *********************************
 
 idna () {
+pip install -e git+https://github.com/funilrys/domain2idna.git#egg=domain2idna
 sudo domain2idna -f ${output} -o ${output2}
 dos2unix ${output2}
 #sudo mv ${tmp} ${output}

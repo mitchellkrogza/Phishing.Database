@@ -31,7 +31,6 @@ before_install:
   - export TZ=Africa/Johannesburg
   - sudo apt-get -y install python3-pip python3-yaml
   - pip3 install colorama
-  - pip install --user -e git+https://github.com/funilrys/domain2idna.git#egg=domain2idna
 
 script:
   - bash dev-tools/generate.sh
