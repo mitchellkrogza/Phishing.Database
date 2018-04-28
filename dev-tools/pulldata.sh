@@ -69,7 +69,7 @@ dos2unix ${output}
 # *********************************
 
 idna () {
-domain2idna -f ${output} -f ${tmp}
+domain2idna -f ${output} -o ${tmp}
 sudo mv ${tmp} ${output}
 }
 
