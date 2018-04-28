@@ -10,6 +10,7 @@
 input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
 input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
 output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
+#output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 
 # **************
 # Temp Variables
@@ -68,7 +69,7 @@ dos2unix ${output}
 # *********************************
 
 idna () {
-sudo python ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/domain2idna -f ${output} -o ${tmp}
+domain2idna -f ${output} -f ${tmp}
 sudo mv ${tmp} ${output}
 }
 
