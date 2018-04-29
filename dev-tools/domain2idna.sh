@@ -76,6 +76,7 @@ cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
 pip install -e .
 ls -la /home/travis/virtualenv/
 ls -la /home/travis/virtualenv/python2.7.14/
+ls -la /home/travis/virtualenv/python3.6.3/
 /home/travis/virtualenv/python2.7.14/python domain2idna -f ${output} -o ${output2}
 dos2unix ${output2}
 #sudo mv ${tmp} ${output}
