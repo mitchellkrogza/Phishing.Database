@@ -69,14 +69,13 @@ dos2unix ${output}
 # *********************************
 
 idna () {
-#pip install -e git+https://github.com/funilrys/domain2idna.git#egg=domain2idna
-#sudo domain2idna -f ${output} -o ${output2}
 cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
 python setup.py test
 pip install -e .
-domain2idna -f ${output} -o ${output2}
-dos2unix ${output2}
-#sudo mv ${tmp} ${output}
+domain2idna -f ${output} -o ${tmp}
+sudo mv ${tmp} ${output}
+sort -u ${output} -o ${output}
+dos2unix ${output}
 }
 
 fetch
