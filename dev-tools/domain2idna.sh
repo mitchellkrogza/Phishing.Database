@@ -74,7 +74,7 @@ python setup.py test
 pip install -e .
 domain2idna -f ${output} -o ${output2}
 sort -u ${output2} -o ${output2}
-tr A-Z a-z < ${output2}
+tr '[:upper:]' '[:lower:]' < ${output2}
 dos2unix ${output2}
 }
 
