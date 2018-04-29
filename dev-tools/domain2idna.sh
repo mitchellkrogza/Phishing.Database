@@ -72,10 +72,9 @@ idna () {
 cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
 python setup.py test
 pip install -e .
-domain2idna -f ${output} -o ${tmp}
-sudo mv ${tmp} ${output}
-sort -u ${output} -o ${output}
-dos2unix ${output}
+domain2idna -f ${output} -o ${output2}
+sort -u ${output2} -o ${output2}
+dos2unix ${output2}
 }
 
 fetch
