@@ -599,6 +599,33 @@
         ],
         "to_test": []
     },
+    "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
+        "1525000062": [
+            "3tww1hudckpmqj5qzhjl.ulasteaq.gq",
+            "59ewf8lo2b9rxuupidae.ulasteaq.gq",
+            "a.oururl.bid",
+            "accessmail.net",
+            "account-limited-verify.com",
+            "accountupdates-verification.com",
+            "accrenew-login492.com",
+            "acikdeniz.denizdeiphone.com",
+            "acikdnz-bireysel.com",
+            "acilldenz-bireyselim.com",
+            "acxens.everycheckinsavesakitten.com",
+            "adrninistrator.site",
+            "alertnoticepage.cf",
+            "alibabaexpress-customerlogin.ml",
+            "alntrta.ga",
+            "amazon-securitys.com",
+            "appbb.desenhoonline.com",
+            "appie-detaii.com",
+            "appieid-detaii.com",
+            "apple.appleid.xn--80akq.com",
+            "appleid.com-verificationyourbillingcountry.com",
+            "appleosahdnhwcsteam01.com",
+            "apps-storeintl.cloud"
+        ]
+    },
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
         "1524230789": [
             "a.oururl.bid",
