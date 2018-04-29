@@ -74,8 +74,7 @@ idna () {
 cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
 python setup.py test
 pip install -e .
-pip install colorama
-pip install setuptools
+ls -la /home/travis/virtualenv/
 python domain2idna -f ${output} -o ${output2}
 dos2unix ${output2}
 #sudo mv ${tmp} ${output}
