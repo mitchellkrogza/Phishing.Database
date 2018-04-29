@@ -84,7 +84,6 @@ initiate
 prepare
 idna
 
-
 # **********************
 # Exit With Error Number
 # **********************
