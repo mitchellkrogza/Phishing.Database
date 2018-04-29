@@ -73,7 +73,7 @@ idna () {
 #sudo domain2idna -f ${output} -o ${output2}
 cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
 python setup.py test
-sudo pip install -e .
+#sudo pip install -e .
 python domain2idna -f ${output} -o ${output2}
 dos2unix ${output2}
 #sudo mv ${tmp} ${output}
