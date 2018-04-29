@@ -33,6 +33,7 @@ before_install:
   - pip3 install colorama
 
 script:
+  - bash dev-tools/domain2idna.sh
   - bash dev-tools/generate.sh
 
 notifications:
