@@ -72,9 +72,9 @@ idna () {
 #pip install -e git+https://github.com/funilrys/domain2idna.git#egg=domain2idna
 #sudo domain2idna -f ${output} -o ${output2}
 cd ${TRAVIS_BUILD_DIR}/dev-tools/domain2idna/
-sudo python setup.py test
+python setup.py test
 pip install -e .
-sudo python domain2idna -f ${output} -o ${output2}
+python domain2idna -f ${output} -o ${output2}
 dos2unix ${output2}
 #sudo mv ${tmp} ${output}
 }
