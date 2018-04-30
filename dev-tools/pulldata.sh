@@ -63,6 +63,8 @@ sort -u ${outputtmp} -o ${outputtmp}
 grep '[^[:blank:]]' < ${outputtmp} > ${output}
 sudo rm ${outputtmp}
 dos2unix ${output}
+sort -u ${inputA} -o ${inputA}
+dos2unix ${inputA}
 }
 
 
