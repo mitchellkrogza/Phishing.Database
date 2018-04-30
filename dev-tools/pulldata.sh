@@ -7,6 +7,7 @@
 # Input and Output File Variables
 # *******************************
 
+inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
 input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
 input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
 output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
@@ -56,6 +57,7 @@ prepare () {
 sudo truncate -s 0 ${output}
 sudo cp ${input1} ${output}
 cat ${input2} >> ${output}
+sudo cp ${output} ${inputA}
 cut -d'/' -f3 ${output} > ${outputtmp}
 sort -u ${outputtmp} -o ${outputtmp}
 grep '[^[:blank:]]' < ${outputtmp} > ${output}
