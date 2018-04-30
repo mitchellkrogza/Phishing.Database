@@ -10,6 +10,7 @@
 inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
 input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
 input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
+input3=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
 output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 
@@ -19,6 +20,7 @@ output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 
 outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
 feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
+feed2=${TRAVIS_BUILD_DIR}/input-source/phishtank.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
 # **********************************************
@@ -29,6 +31,9 @@ fetch () {
 sudo wget https://hosts.ubuntu101.co.za/openphish/openphish-feed.list -O ${feed1}
 cat ${feed1} >> ${input1}
 sudo rm ${feed1}
+sudo wget https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
+cat ${feed2} >> ${input3}
+sudo rm ${feed2}
 }
 
 # *************************************************
@@ -37,15 +42,20 @@ sudo rm ${feed1}
 
 initiate () {
 
-# Prepare Feed 1
+# Prepare Feed 1 / OpenPhish
 sort -u ${input1} -o ${input1}
 grep '[^[:blank:]]' < ${input1} > ${tmp}
 sudo mv ${tmp} ${input1}
 
-# Prepare Feed 2
+# Prepare Feed 2 / IllegalFawn
 sort -u ${input2} -o ${input2}
 grep '[^[:blank:]]' < ${input2} > ${tmp}
 sudo mv ${tmp} ${input2}
+
+# Prepare Feed 3 / Phishtank
+sort -u ${input3} -o ${input3}
+grep '[^[:blank:]]' < ${input3} > ${tmp}
+sudo mv ${tmp} ${input3}
 
 }
 
@@ -57,6 +67,7 @@ prepare () {
 sudo truncate -s 0 ${output}
 sudo cp ${input1} ${output}
 cat ${input2} >> ${output}
+cat ${input3} >> ${output}
 sudo cp ${output} ${inputA}
 cut -d'/' -f3 ${output} > ${outputtmp}
 sort -u ${outputtmp} -o ${outputtmp}
@@ -88,10 +99,9 @@ initiate
 prepare
 idna
 
+
 # **********************
 # Exit With Error Number
 # **********************
 
 exit ${?}
-
-
