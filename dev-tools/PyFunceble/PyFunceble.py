@@ -1308,10 +1308,13 @@ class HTTPCode(object):  # pylint: disable=too-few-public-methods
         try:
             try:
                 try:
-                    req = requests.head(
-                        "http://%s:80" % CONFIGURATION["domain"],
-                        timeout=CONFIGURATION["seconds_before_http_timeout"],
-                    )
+                    try:
+                        req = requests.head(
+                            "http://%s:80" % CONFIGURATION["domain"],
+                            timeout=CONFIGURATION["seconds_before_http_timeout"],
+                        )
+                    except requests.exceptions.InvalidURL:
+                        return None
                 except socket.timeout:
                     return None
 
@@ -2233,7 +2236,7 @@ class ExpirationDate(object):
             We only test IPv4 because for now we only support domain and IPv4.
         """
 
-        regex_ipv4 = r"^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)"  # pylint: disable=line-too-long
+        regex_ipv4 = r"^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[0-9]{1,}\/[0-9]{1,})$"  # pylint: disable=line-too-long
 
         if IP:
             to_test = IP
@@ -4065,7 +4068,7 @@ if __name__ == "__main__":
         help=" Get the latest version of PyFunceble.",
     )
     PARSER.add_argument(
-        "-v", "--version", action="version", version="%(prog)s 0.61.1-beta"
+        "-v", "--version", action="version", version="%(prog)s 0.62.0-beta"
     )
 
     ARGS = PARSER.parse_args()
