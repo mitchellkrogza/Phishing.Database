@@ -1336,7 +1336,10 @@
             "transaction-verify90.com",
             "update-account-limt-inrofmation.com",
             "url",
-            "users.atw.hu:80"
+            "users.atw.hu:80",
+            "verification-secure.fairauditors.com",
+            "verification.peypal.com.meyershouses.co.uk:443",
+            "webapi.data-46817-ssl.com"
         ],
         "to_test": []
     },
