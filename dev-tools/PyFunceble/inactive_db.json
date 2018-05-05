@@ -600,10 +600,20 @@
         "to_test": []
     },
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "1525000062": [
+        "1525533018": [
+            "177.153.18.117:8181",
+            "188.15.200.109:8080",
+            "3dscanme.co.nz",
             "3tww1hudckpmqj5qzhjl.ulasteaq.gq",
             "59ewf8lo2b9rxuupidae.ulasteaq.gq",
+            "8768676013.buyingcars.info",
+            "a.cotonpasha.co.uk",
+            "a.cotonpasha.it",
+            "a.cotonpasha.uk",
             "a.oururl.bid",
+            "a.virtusupply.com"
+        ],
+        "to_test": [
             "accessmail.net",
             "account-limited-verify.com",
             "accountupdates-verification.com",
@@ -1217,9 +1227,6 @@
             "www.vettaw.com",
             "www.wh-atsapp.com",
             "www.whitemirror.ga",
-            "177.153.18.117:8181",
-            "188.15.200.109:8080",
-            "3dscanme.co.nz",
             "account-cofirm1ocked-secure.com",
             "account-update-notifaction.com",
             "account.uploads.theoaksatcolumbus.com",
@@ -1401,7 +1408,6 @@
             "www.reviewproblems.gq",
             "www.securityanddevelopment.tk",
             "www.strrrijj2.com",
-            "8768676013.buyingcars.info",
             "access.edu.lb",
             "administrar-ordenes.com",
             "akbnk.nut.cc",
@@ -1542,9 +1548,9 @@
             "www.zindagiisfake.tk",
             "xn--snapcht-u4a.com",
             "yara-electronique.ml",
-            "zepule.gq"
-        ],
-        "to_test": []
+            "zepule.gq",
+            "041f5c7.netsolhost.com"
+        ]
     },
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
         "1524230789": [
