@@ -1645,11 +1645,15 @@
             "yara-electronique.ml",
             "zepule.gq",
             "ziraat-bankasi-online.com",
-            "zoiiom.ml"
+            "zoiiom.ml",
+            "041f5c7.netsolhost.com",
+            "35-56",
+            "35-57",
+            "40",
+            "4exchanger.pw",
+            "a961bfrf49dispatch.scieron.com"
         ],
-        "to_test": [
-            "041f5c7.netsolhost.com"
-        ]
+        "to_test": []
     },
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
         "1524230789": [
