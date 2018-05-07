@@ -649,7 +649,6 @@
             "appieid-iogins.com",
             "apple.appleid.com-2398292.secure-authaccount.com",
             "apple.appleid.xn--80akq.com",
-            "appleeid-apple.com-sub-logins.info",
             "appleid.apple.com-login-account.case-verify-cancellation.com",
             "appleid.com-verificationyourbillingcountry.com",
             "appleosahdnhwcsteam01.com",
@@ -1653,7 +1652,10 @@
             "4exchanger.pw",
             "a961bfrf49dispatch.scieron.com",
             "academicsys.top",
-            "alhosain.ir"
+            "alhosain.ir",
+            "apartments-lk.cf",
+            "appleid.apple.com-credit-usage.info",
+            "apr"
         ],
         "to_test": []
     },
