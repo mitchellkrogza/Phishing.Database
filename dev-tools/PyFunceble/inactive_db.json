@@ -600,7 +600,29 @@
         "to_test": []
     },
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "1525533018": [
+        "1525965042": [
+            "www.boxnetexm.com:85",
+            "www.bravomedia.ch",
+            "www.breakingwhite.cf",
+            "www.brunettebabes.org",
+            "www.bsn-merchantonline.biz",
+            "www.btightyuild.ga",
+            "www.buhaha.xyz",
+            "www.businessimportant.tk",
+            "www.camoretcomes.pw",
+            "www.cancelation-inproccessreturn.com",
+            "www.canvaspy.ga",
+            "www.carrier-customersfund.com",
+            "www.casasbahia.diadeorfertas.com",
+            "www.ccarp.net",
+            "www.cefrussia2018.ml",
+            "www.central-support-new.tk",
+            "www.ch-ssonechdokumentdriv.com",
+            "www.ch-switzpavpal0bestatigung.com",
+            "www.ch-switzpavpalx0ppbestatigung.com",
+            "www.championsgate.com"
+        ],
+        "to_test": [
             "177.153.18.117:8181",
             "188.15.200.109:8080",
             "3dscanme.co.nz",
@@ -1333,21 +1355,6 @@
             "www.boa-secauth.com",
             "www.bofadatareview-bofa-com.ga",
             "www.bofamerica.online",
-            "www.boxnetexm.com:85",
-            "www.bravomedia.ch",
-            "www.breakingwhite.cf",
-            "www.brunettebabes.org",
-            "www.btightyuild.ga",
-            "www.buhaha.xyz",
-            "www.businessimportant.tk",
-            "www.camoretcomes.pw",
-            "www.cancelation-inproccessreturn.com",
-            "www.canvaspy.ga",
-            "www.ccarp.net",
-            "www.cefrussia2018.ml",
-            "www.central-support-new.tk",
-            "www.ch-switzpavpal0bestatigung.com",
-            "www.ch-switzpavpalx0ppbestatigung.com",
             "www.checkaccountpage.tk",
             "www.checkviolation.ga",
             "www.chemlite.gq",
@@ -1727,7 +1734,6 @@
             "www.bametcha.gq",
             "www.biobebr.ml",
             "www.bitsimple.online",
-            "www.casasbahia.diadeorfertas.com",
             "www.confirmaccountpage.tk",
             "www.curriculook.com",
             "www.dataiaccount.eu",
@@ -2007,9 +2013,6 @@
             "www.assurancecoming.cf",
             "www.azinz.net",
             "www.bankofamerica.santajicollege.ac.in",
-            "www.bsn-merchantonline.biz",
-            "www.carrier-customersfund.com",
-            "www.ch-ssonechdokumentdriv.com",
             "www.contact-team-services.ml",
             "www.darajanimedicalclinic.co.ke",
             "www.dbatle.ga",
@@ -2189,8 +2192,7 @@
             "verifyaccountinfo9.com",
             "visualfactory.com.pl",
             "webapps-cancelation.com"
-        ],
-        "to_test": []
+        ]
     },
     "/home/travis/build/mitchellkrogza/Phishing.Database/phishing.list": {
         "1524230789": [
