@@ -29,13 +29,13 @@ addons:
 
 before_install:
   - export TZ=Africa/Johannesburg
-  - sudo apt-get -y install python3-pip python3-yaml
   - pip3 install colorama
 
 script:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update.py
   - bash dev-tools/pulldata.sh
   - bash dev-tools/generate.sh
 
 notifications:
-  email: false
- 
+  on_success:   change
+  on_failure:   always
