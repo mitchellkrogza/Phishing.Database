@@ -1,0 +1,12 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "currently_under_test": "0",
+    "days_until_next_test": "2",
+    "last_test": "1527043626",
+    "list_name": "/dev-tools/phishing-domains-IDNA.list",
+    "name": "Domain Status Testing for Phishing Database",
+    "raw_link": "",
+    "stable": "0"
+}
