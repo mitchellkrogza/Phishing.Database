@@ -24,7 +24,6 @@ PyFunceble () {
 
 }
 
-PrepareTravis
 PyFunceble
 
 # **********************
