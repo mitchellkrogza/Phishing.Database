@@ -10,12 +10,12 @@ input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 # *********************************************
 
 PrepareTravis () {
-git remote rm origin
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-git checkout master
+    git remote rm origin
+    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+    git config --global user.email "${GIT_EMAIL}"
+    git config --global user.name "${GIT_NAME}"
+    git config --global push.default simple
+    git checkout master
 }
 
 # **********************
@@ -26,31 +26,17 @@ git checkout master
 
 PyFunceble () {
 
-yeartag=$(date +%Y)
-monthtag=$(date +%m)
-sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
-sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py
-cd ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/
-export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
-export GH_TOKEN=${GH_TOKEN}
-export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
-export GIT_EMAIL=${GIT_EMAIL}
-export GIT_NAME=${GIT_NAME}
+    yeartag=$(date +%Y)
+    monthtag=$(date +%m)
+    sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+    sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py
+    cd ${TRAVIS_BUILD_DIR}/dev-tools
 
-# ******************************************************************************
-# Updating PyFunceble && Run PyFunceble
-# Note: We use the same statement so that if something is broken everything else
-#   is not run.
-# ******************************************************************************
-  #sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --dev -u && \
-  #mv ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config.yaml && \
-  #sudo python3 ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -a -ex --plain --split #--share-logs --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
+    # We use the following so that PyFunceble will get and configure automatically everything needed.
+    export PYFUNCEBLE_AUTO_CONFIGURATION="PyFunceble"
 
-  
-  #mv ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/config.yaml 
-  
-  PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
-  
+    PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -ex --plain --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
+
 }
 
 PrepareTravis
@@ -61,5 +47,3 @@ PyFunceble
 # **********************
 
 exit ${?}
-
-
