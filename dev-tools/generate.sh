@@ -12,7 +12,7 @@ input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 # Find PyFunceble at: https://github.com/funilrys/PyFunceble
 # **********************************************************
 
-PyFunceble () {
+RunFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
@@ -25,7 +25,7 @@ PyFunceble () {
 
 }
 
-PyFunceble
+RunFunceble
 
 # **********************
 # Exit With Error Number
