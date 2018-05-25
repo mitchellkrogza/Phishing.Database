@@ -18,10 +18,6 @@ python:
 matrix:
   fast_finish:  true
 
-cache:
-  - apt
-  - pip
-
 sudo:           required
 
 addons:
@@ -34,7 +30,7 @@ install:
   - pip3 install git+https://github.com/funilrys/domain2idna.git@master#egg=domain2idna
 
 script:
-  # We but both in same statement so that if one fails the whole test resulst will fail.
+  # We put both in same statement so that if one fails the whole test result will fail.
   - bash dev-tools/pulldata.sh && bash dev-tools/generate.sh
 
 notifications:
