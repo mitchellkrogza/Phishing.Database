@@ -29,7 +29,7 @@ PyFunceble () {
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
     sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
-    sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/PyFunceble.py
+
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
     # We use the following so that PyFunceble will get and configure automatically everything needed.
