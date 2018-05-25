@@ -23,6 +23,19 @@ feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
 feed2=${TRAVIS_BUILD_DIR}/input-source/phishtank.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
+# *********************************************
+# Get Travis CI Prepared for Committing to Repo
+# *********************************************
+
+PrepareTravis () {
+    git remote rm origin
+    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+    git config --global user.email "${GIT_EMAIL}"
+    git config --global user.name "${GIT_NAME}"
+    git config --global push.default simple
+    git checkout master
+}
+
 # **********************************************
 # Fetch our feed(s) and append to our input file
 # **********************************************
@@ -91,6 +104,7 @@ idna () {
     dos2unix ${output2}
 }
 
+PrepareTravis
 fetch
 initiate
 prepare
