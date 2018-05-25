@@ -18,6 +18,10 @@ python:
 matrix:
   fast_finish:  true
 
+cache:
+  - apt
+  - pip
+
 sudo:           required
 
 addons:
