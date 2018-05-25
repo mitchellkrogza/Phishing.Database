@@ -6,6 +6,7 @@ env:
     - TRAVIS_REPO_SLUG: mitchellkrogza/Phishing.Database
     - GIT_BRANCH: master
     - TZ:       Africa/Johannesburg
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
   matrix:
     - USE_NETWORK=true
 

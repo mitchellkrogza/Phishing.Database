@@ -28,12 +28,9 @@ PyFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
-    sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+    #sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
 
     cd ${TRAVIS_BUILD_DIR}/dev-tools
-
-    # We use the following so that PyFunceble will get and configure automatically everything needed.
-    export PYFUNCEBLE_AUTO_CONFIGURATION="PyFunceble"
 
     PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -ex --plain --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
