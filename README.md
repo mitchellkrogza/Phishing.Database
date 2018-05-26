@@ -3,12 +3,12 @@
 A Testing Repository for Phishing Domains, Web Sites and Threats.
 
 _______________
-#### Version: V0.1.695
-#### ACTIVE Phishing Domains (Tested): [29230](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt) (93 %)
-#### INACTIVE Phishing Domains (Tested): [2109](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt) (7 %)
-#### INVALID Phishing Domains (Tested): [57](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID.txt) (0 %)
+#### Version: V0.1.779
+#### ACTIVE Phishing Domains (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt) ( %)
+#### INACTIVE Phishing Domains (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt) ( %)
+#### INVALID Phishing Domains (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID.txt) ( %)
 *****************************
-#### Total Phishing URL's Captured: [101260](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds.list) :exclamation: Large File
+#### Total Phishing URL's Captured: [112489](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds.list) :exclamation: Large File
 ____________________
 
 
