@@ -7,25 +7,25 @@
 # Copy tested files into root of repo
 # ***********************************
 
-cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/PyFunceble/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
+cat ${TRAVIS_BUILD_DIR}/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
+cat ${TRAVIS_BUILD_DIR}/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
+cat ${TRAVIS_BUILD_DIR}/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
 
 # *********************************************************
 # Pull Fresh Data for our Next Tests and Modify Readme File
 # *********************************************************
 
-sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/pulldata.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
+#sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/pulldata.sh
+#sudo chmod +x ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
 
-sudo ${TRAVIS_BUILD_DIR}/dev-tools/pulldata.sh
-sudo ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
+bash ${TRAVIS_BUILD_DIR}/dev-tools/pulldata.sh
+bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
 
 # *******************************
 # Make sure Travis owns all files
 # *******************************
 
-sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+#sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
 
 # ***************
 # Exit our Script
