@@ -2853,7 +2853,6 @@
             "www.view-pdf-onlineoffice.com",
             "www.violation-page.ga",
             "www.violationspageaccount.ga",
-            "www.viralnewsnetizen.com",
             "www.visualfactory.com.pl",
             "www.vrf-facebook-account-com.cf",
             "www.vvusefs.global",
@@ -3032,7 +3031,10 @@
             "www.putussekolah.com",
             "www.ranib.com",
             "www.servicenterelectronic.com",
-            "www.stuart75.beget.tech"
+            "www.stuart75.beget.tech",
+            "www1.dolcissimo.be:8080",
+            "www1.lescarles.com:8080",
+            "www1.semiramis-asbl.org:8080"
         ],
         "to_test": []
     }
