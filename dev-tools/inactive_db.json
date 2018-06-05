@@ -1,13 +1,19 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "1527246576": [
+        "1528208844": [
+            ".rowq4qvncrw8mvu6oe5.u8rn",
             "02-abril.cs07016.tmweb.ru",
             "02abril.cd02834.tmweb.ru",
             "041f5c7.netsolhost.com",
             "1-messages.gq",
             "1.3.4.1.2.4.sydneypropertyinvestors.com",
             "1.conveniosaude.us",
+            "10-found.gq",
             "10-pass.ml",
+            "104.236.164.122:8080",
+            "10kgego.ga",
+            "10mains.ga",
+            "10pass.gq",
             "10pass.tk",
             "10volny.ga",
             "123me.ga",
@@ -15,22 +21,31 @@
             "13strong.tk",
             "13strongs.gq",
             "13strongs.ml",
+            "15invitation.tk",
             "177.153.18.117:8181",
             "188.15.200.109:8080",
             "18bfe6368da9c911",
             "1kqha8mx7sdfmkowmxta.viomil.ro",
             "1server10.cf",
+            "1vbbe8yhcd.vpnxxa7cad.faujibandinchandigarh.com",
             "20-word.gq",
             "21-server.ga",
+            "212.124.118.210:8090",
             "212.129.24.74:8080",
+            "24-banorte-acceso.com",
+            "24.banorte.com.mx.index.html.acceso.mueblesdicse.com",
             "24paybank.co:443",
+            "2bic.online",
             "2bit.guru",
             "2bit.online",
             "2bit.pw",
             "2bit.site",
             "2bit.space",
+            "2bitt.pw",
             "35-56",
-            "35-57",
+            "35-57"
+        ],
+        "to_test": [
             "365.en-customers.online",
             "365change.pw",
             "3dankofamerica.ga",
@@ -2931,10 +2946,6 @@
             "zvdxdsfsdf.tk",
             "zvnjt.app",
             "zxvddgdf.5gbfree.com",
-            "104.236.164.122:8080",
-            "1vbbe8yhcd.vpnxxa7cad.faujibandinchandigarh.com",
-            "24-banorte-acceso.com",
-            "2bic.online",
             "4612f6efb5df8c8515c142749c023c58",
             "a7ngrfli6g8r.semiramis-asbl.org:8080",
             "actualizaciontarjetasmastercard.ml",
@@ -3008,9 +3019,6 @@
             "www1.dolcissimo.be:8080",
             "www1.lescarles.com:8080",
             "www1.semiramis-asbl.org:8080",
-            "._curg9_r345l.0u",
-            ".rowq4qvncrw8mvu6oe5.u8rn",
-            "15invitation.tk",
             "7lrswnftao6c.dolcissimo.be:8080",
             "a.mgoogle.ml",
             "a.mtwitter.ml",
@@ -3182,8 +3190,8 @@
             "xfinity.login.tempodancewear.com.au",
             "xizes.ml",
             "yahoo-lovers.space",
-            "zesuluq.gq"
-        ],
-        "to_test": []
+            "zesuluq.gq",
+            "._curg9_r345l.0u"
+        ]
     }
 }
