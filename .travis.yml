@@ -20,7 +20,7 @@ matrix:
 
 cache:
   - apt
-  - pip
+  - pip3
 
 sudo:           required
 
@@ -30,7 +30,6 @@ addons:
       - dos2unix
 
 install:
-  - pip3 install -r requirements.txt
   - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
   - pip3 install git+https://github.com/funilrys/domain2idna.git@master#egg=domain2idna
 
