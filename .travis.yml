@@ -13,7 +13,7 @@ env:
 language:       python
 
 python:
-  - "3.6"
+  - "3.6.5"
 
 matrix:
   fast_finish:  true
