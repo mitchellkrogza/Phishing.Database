@@ -64,3 +64,8 @@
 0.0.0.0 netlockmail.com.au:443 
 0.0.0.0 no-reply@hpair.org 
 0.0.0.0 nonsfw.com:443 
+0.0.0.0 outlook_web_app_update56.editor.multiscreensite.com 
+0.0.0.0 outlook_webaccess_owa.editor.multiscreensite.com 
+0.0.0.0 outlook_webaccessowa.editor.multiscreensite.com 
+0.0.0.0 outlookupdate_team.editor.multiscreensite.com 
+0.0.0.0 owa_outlookwebapp.editor.multiscreensite.com 
