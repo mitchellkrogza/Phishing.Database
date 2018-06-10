@@ -1,6 +1,6 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "1528208844": [
+        "1528644466": [
             ".rowq4qvncrw8mvu6oe5.u8rn",
             "02-abril.cs07016.tmweb.ru",
             "02abril.cd02834.tmweb.ru",
@@ -43,7 +43,9 @@
             "2bit.space",
             "2bitt.pw",
             "35-56",
-            "35-57",
+            "35-57"
+        ],
+        "to_test": [
             "365.en-customers.online",
             "365chaenge.online",
             "365change.com.ru",
@@ -3897,7 +3899,6 @@
             "zvdxdsfsdf.tk",
             "zvnjt.app",
             "zxvddgdf.5gbfree.com",
-            "._curg9_r345l.0u",
             "accilimit.net",
             "account-update.snowlandhotel.com.np",
             "accounts.no-reply-google.com",
@@ -4140,8 +4141,8 @@
             "ysuite.5gbfree.com",
             "zyaviv.co",
             "zyaviv.global",
-            "zyaviv.org"
-        ],
-        "to_test": []
+            "zyaviv.org",
+            "._curg9_r345l.0u"
+        ]
     }
 }
