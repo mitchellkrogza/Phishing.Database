@@ -11,6 +11,7 @@ inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
 input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
 input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
 input3=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
+input4=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog-feed.list
 output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 
@@ -21,6 +22,7 @@ output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
 feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
 feed2=${TRAVIS_BUILD_DIR}/input-source/phishtank.list
+feed3=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
 # *********************************************
@@ -70,6 +72,11 @@ initiate () {
     grep '[^[:blank:]]' < ${input3} > ${tmp}
     sudo mv ${tmp} ${input3}
 
+    # Prepare Feed 4 / Mitchell Krog
+    sort -u ${input4} -o ${input4}
+    grep '[^[:blank:]]' < ${input4} > ${tmp}
+    sudo mv ${tmp} ${input4}
+	
 }
 
 # ***************************************
@@ -81,6 +88,7 @@ prepare () {
     sudo cp ${input1} ${output}
     cat ${input2} >> ${output}
     cat ${input3} >> ${output}
+    cat ${input4} >> ${output}
     sudo cp ${output} ${inputA}
     cut -d'/' -f3 ${output} > ${outputtmp}
     sort -u ${outputtmp} -o ${outputtmp}
