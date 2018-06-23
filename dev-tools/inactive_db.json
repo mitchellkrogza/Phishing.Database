@@ -5090,7 +5090,6 @@
             "paypal.co.uk.oa0s.pw",
             "paypal.com-webapps-intl.tph-au.com",
             "paypal.com.signin.confirmations-this-accounts.com",
-            "pointexp.com",
             "przedszkole.jas-malgosia.com",
             "public.mails.consumentenvoordeelmail.com",
             "public.mails.nieuwsbrieven-nl.com",
@@ -5717,7 +5716,24 @@
             "phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target",
             "pic.mynewmatchpictureprofile.com,http:",
             "piccturess.craym.eu",
-            "pictures.myownnewpics.com,http:"
+            "pictures.myownnewpics.com,http:",
+            "platinum-trade.net,http:",
+            "poczta-admin-security-desk-cen.sitey.me,http:",
+            "pocztasecuritysecurepotal.moonfruit.com,http:",
+            "podarki-vkontakte.esy.es,http:",
+            "podarki-vkontakte.hol.es,http:",
+            "podarkihostcom.esy.es,http:",
+            "polroniex.com,http:",
+            "porloniex.com,http:",
+            "postereb.cloud,http:",
+            "postesicure.cloud,http:",
+            "previewphoto.16mb.com,http:",
+            "previewphotosmatch.16mb.com,http:",
+            "prf-gov-br.myfreesites.net,http:",
+            "private-etherwallet.com,http:",
+            "privateinfoacc.com",
+            "privatematchpic.weebly.com,http:",
+            "productvocal.org"
         ],
         "to_test": []
     }
