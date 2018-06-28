@@ -6342,11 +6342,16 @@
             "vbtgf.tk",
             "verify-accesaccount-1imited.com",
             "verify-limited-account.com",
-            "verify-my-account-info.vitruvio.com.co"
-        ],
-        "to_test": [
+            "verify-my-account-info.vitruvio.com.co",
+            "vvamart.16mb.com,http:",
+            "wainrope.thusbant.us",
+            "weaccount-limited.com",
+            "webapps-intl-serviced.verify-cgi.info",
             "webapps-verify-account-caseid6843-apple.com",
             "webauth.service.ohio-state.edu.llil.nl",
+            "webb.services.tripod.com,http:"
+        ],
+        "to_test": [
             "worldclassdropbox.chyenterprise.com",
             "www.alhadbaa.org",
             "www.breakingwhite.cf",
@@ -6366,7 +6371,6 @@
             "yapikredi-worldpuan.com",
             "yara-electronique.ml",
             "yarkan.gq",
-            "webb.services.tripod.com,http:",
             "worldativelion.my-free.website,http:",
             "worldconnect.ng",
             "www.purchase-invoice.com",
