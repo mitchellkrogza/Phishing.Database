@@ -6485,7 +6485,10 @@
             "eleletieleleparthard.ml",
             "emb302.ml",
             "eosauthority.info,http:",
-            "eraophyetras.info"
+            "eraophyetras.info",
+            "eth-claim.net,http:",
+            "eth-pay.org,http:",
+            "event-eth.org,http:"
         ],
         "to_test": []
     }
