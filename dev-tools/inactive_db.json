@@ -6551,7 +6551,13 @@
             "myeostrust.com,http:",
             "myown.co.place",
             "myshense.com",
-            "n3xi-s-ervi-io-iopne-eiododod-dsisiswis.freeddns.org"
+            "n3xi-s-ervi-io-iopne-eiododod-dsisiswis.freeddns.org",
+            "nab.anz-gprs.com,http:",
+            "nabonlineservices.com,http:",
+            "nationalaustr.aliabank.com,http:",
+            "nationalaustralia.bank.com,http:",
+            "net.seriesnetb6.online",
+            "netflix.billing.support.com.netflix-department.com"
         ],
         "to_test": []
     }
