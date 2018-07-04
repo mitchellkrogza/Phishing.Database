@@ -7027,12 +7027,18 @@
             "eosdrop.xn--mythrwallt-c7a86c5a.com,http:",
             "ercrewsd.app",
             "estgkailrhtdvrzhdvmx.towncrier.com.pk",
-            "eth-promo.org,http:"
-        ],
-        "to_test": [
+            "eth-promo.org,http:",
+            "ethercontest.site",
+            "ethereum-event.com,http:",
+            "ethereum-platform.org,http:",
+            "ethergift.io,http:",
+            "ethgivers.com,http:",
+            "ewisjr.com",
             "ezproxy.aub.edu.lb.llil.nl",
             "ezproxy.leidenuniv.nl.llil.nl",
-            "ezptntfdueb6coblmfca.viomil.ro",
+            "ezptntfdueb6coblmfca.viomil.ro"
+        ],
+        "to_test": [
             "getbigdeals.org,http:",
             "getdatas.lovlicr.com",
             "prestashopib.altervista.org",
