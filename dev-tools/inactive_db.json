@@ -7036,11 +7036,15 @@
             "fincennews.com,http:",
             "fincenusa.us,http:",
             "free-stik.tk",
-            "ftp.msimn.altervista.org"
-        ],
-        "to_test": [
+            "ftp.msimn.altervista.org",
+            "geeetesd.usa.cc",
+            "gena.website",
             "getbigdeals.org,http:",
             "getdatas.lovlicr.com",
+            "getnow.dailynings.host",
+            "ggsdsdashop.es"
+        ],
+        "to_test": [
             "prestashopib.altervista.org",
             "service.townhallstreams.com:8000"
         ]
