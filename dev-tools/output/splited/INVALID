@@ -439,3 +439,5 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 pinfot.ru:55555                                                                                      IANA       ***        Fri 06 Jul 10:07:06 SAST 2018 
 pluggy.cymtv.com:81                                                                                  IANA       ***        Fri 06 Jul 10:07:47 SAST 2018 
 qcyoe2tw9n7e.semiramis-asbl.org:8080                                                                 IANA       ***        Fri 06 Jul 11:07:34 SAST 2018 
+randomstring.dolcissimo.be:8080                                                                      IANA       ***        Fri 06 Jul 11:07:05 SAST 2018 
+randomstring.semiramis-asbl.org:8080                                                                 IANA       ***        Fri 06 Jul 11:07:05 SAST 2018 
