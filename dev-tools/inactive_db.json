@@ -7242,11 +7242,13 @@
             "vkantakte.ga",
             "webminology.com",
             "webpaged-verified-payment.com",
-            "www.apple.com-information-securepay-merchant.com"
-        ],
-        "to_test": [
+            "www.apple.com-information-securepay-merchant.com",
             "www.asb2mobileweb.com",
             "www.asbmobileapp.com",
+            "www.beertime.com.mx",
+            "www.beta.winnovation.org"
+        ],
+        "to_test": [
             "www.biobebr.ml",
             "www.festival-latin-grec.eu",
             "www.id-paypal.ooo",
