@@ -28,6 +28,7 @@ addons:
   apt:
     packages:
       - dos2unix
+      - pandoc
 
 install:
   - pip3 install --upgrade pip
