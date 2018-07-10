@@ -7430,13 +7430,18 @@
             "https-yahoomail-com.frolongconstructions.com",
             "https-yahoomail-com.realityi9nvestments.com",
             "https-yahoomail-com.rovoniasalesindustries.com",
-            "https-yahoomail-com.sevengroupofcompanies.com"
-        ],
-        "to_test": [
+            "https-yahoomail-com.sevengroupofcompanies.com",
+            "hytrfserw.is-gone.com",
+            "iade-paraf-halk.com",
+            "icloud-apple-id-security-information-restore-onlineprocedure.cdel.cl",
             "icloud.com.es-us.ga",
             "icloud.com.find-myiphone.co",
             "icloud.com.ilogin.review",
+            "icloud.com.login.surtoqui.com",
             "icloud.com.support-apple-service.me",
+            "identity.tsb.name"
+        ],
+        "to_test": [
             "infoshelps.net",
             "infoshilp.com",
             "infoslimites.net",
@@ -7451,8 +7456,7 @@
             "mc-stores.com,http:",
             "mcafee.retail-isetup.com",
             "mcafee.setup-portals.com",
-            "miguelrevenge.gq",
-            "icloud.com.login.surtoqui.com"
+            "miguelrevenge.gq"
         ]
     }
 }
