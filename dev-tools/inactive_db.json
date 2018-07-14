@@ -849,7 +849,6 @@
             "myetherwallet-verification.top",
             "myetherwallet.com.api.signmessage.me",
             "myetherwallet.com.api.signmessage.me,http:",
-            "myetherwallet.news",
             "myetherwallet.ru,http:",
             "myetherwalletverification.signmsg.work",
             "myetheswallet.info,http:",
@@ -859,7 +858,6 @@
             "myghyxywl.com",
             "myinvoice.homeftp.org",
             "myketheht.ooo",
-            "myown.co.place",
             "myownnewpics.com,http:",
             "myphotosview.000webhostapp.com,http:",
             "mypxgio.com",
@@ -7974,17 +7972,18 @@
             "moaroe.xyz",
             "mobile-free-fr-moncompte.ml",
             "mobwebcadstro.craym.eu",
-            "mp3hungama.xyz"
-        ],
-        "to_test": [
+            "mp3hungama.xyz",
             "mylikkx.org",
             "mylinuxmore.org",
             "mylouisvuittonstoreonlines.gb.net",
+            "mymatchphoto.rn-trade.com",
             "mymatchselfies.weebly.com,http:",
             "mymyaccounthelp.com",
             "myonlineapps-updates.com",
             "myonlineappsupdates.com",
-            "myonnbx.org",
+            "myonnbx.org"
+        ],
+        "to_test": [
             "netflix-customer.com",
             "netflix-netflixsupport.com,http:",
             "netflix-ptt.com",
