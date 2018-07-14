@@ -8030,10 +8030,15 @@
             "paypal.co.uk.wot1.pw",
             "paypal.co.uk.xrvv.pw",
             "paypal.com.myaccount.webapps-dispatch.question-confirm.security-paypal.projectplanet.us",
-            "paypal.com.secure-alerts-notifications.whatwould-mails.business"
+            "paypal.com.secure-alerts-notifications.whatwould-mails.business",
+            "paypal.store.com-update-account-limited.com",
+            "paypalonlineverificationpage.midnite3d.com",
+            "paypalsecureverificationlogin.co.uk",
+            "peparedyre.sempakbolong.us",
+            "piaskowymlyn.pl",
+            "pichhinchas.webcindario.com,http:"
         ],
         "to_test": [
-            "pichhinchas.webcindario.com,http:",
             "preprod-contact-et-moi.nexity.fr",
             "secure-authentication-service.com",
             "secure-authentication.service-costumer-account.work",
