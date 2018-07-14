@@ -7981,13 +7981,15 @@
             "mymyaccounthelp.com",
             "myonlineapps-updates.com",
             "myonlineappsupdates.com",
-            "myonnbx.org"
-        ],
-        "to_test": [
+            "myonnbx.org",
+            "natvvestpersonal.com",
             "netflix-customer.com",
             "netflix-netflixsupport.com,http:",
+            "netflix-oppdater-betalingsinformasjon.person-2018.com",
             "netflix-ptt.com",
-            "netflix-update.info",
+            "netflix-update.info"
+        ],
+        "to_test": [
             "out-owa.co.nf,http:",
             "paypal.co.uk.68oc.pw",
             "paypal.co.uk.79w9.pw",
