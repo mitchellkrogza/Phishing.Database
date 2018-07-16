@@ -8289,10 +8289,11 @@
             "ing-direct-client.fr",
             "insect67.esy.es",
             "intesa-bank-sanpaolo.it",
-            "itoken-app.esy.es"
+            "itoken-app.esy.es",
+            "jalinmckinney.com",
+            "jhgfa.ml",
+            "jrsconsultingsd.com"
         ],
-        "to_test": [
-            "jalinmckinney.com"
-        ]
+        "to_test": []
     }
 }
