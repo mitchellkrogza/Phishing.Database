@@ -49,6 +49,9 @@ fetch () {
     sudo wget https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
     cat ${feed2} >> ${input3}
     sudo rm ${feed2}
+    sudo wget https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
+    cat ${feed3} >> ${input4}
+    sudo rm ${feed3}
 }
 
 # *************************************************
