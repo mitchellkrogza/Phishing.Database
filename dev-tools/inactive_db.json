@@ -6824,7 +6824,6 @@
             "services.runescape.com-zs.top",
             "services.runescape.com-zv.top",
             "services.runescape.comof.top",
-            "servicesdone.top",
             "serviceslimites.net",
             "servicess-mailed-billingupdates-com.ml",
             "servicessuports.net",
@@ -8898,11 +8897,17 @@
             "securebanking-bankofamerica-secure.cf",
             "secured.mywebapps.euroairsolution.com",
             "securedeskcc.ga",
-            "secureinfo-business-pp.net"
-        ],
-        "to_test": [
+            "secureinfo-business-pp.net",
+            "semogabisa26.hol.es",
             "semooo4.ga",
             "semooo5.ga",
+            "service-manager-ovh.eu",
+            "services.runescape.com-xi.top",
+            "servicio24mx.com",
+            "serviesc-teaminfo-supporting-go.s-host.net",
+            "servizio-supporto-netflix.eu"
+        ],
+        "to_test": [
             "settingssecureupdate.xyz",
             "settingstab.tech",
             "superpromopinguim.com",
@@ -8915,8 +8920,7 @@
             "www.abanca-es.eu",
             "www.abanca-webclient.cloud",
             "www.abanca.cloud",
-            "www.azinz.net",
-            "semogabisa26.hol.es"
+            "www.azinz.net"
         ]
     }
 }
