@@ -1,106 +1,89 @@
-# Activation/Deactivation of the adblock format decoding.
-# NOTE:                       If this is activated we do not decode other format.
+# Enable / disable the adblock format decoding.
 adblock:                      False
-# Activation/Deactivation of the autocontinue system.
+# Enable / disable the auto continue system.
 auto_continue:                True
-# Set the commant to run before the final commit.
-# Only active if auto_continue is True.
+# Set the command to run before the final commit.
 command_before_end:           ""
-# Set the custom IP  to use generate_hosts is True.
+# Set the custom IP to use when we generate a line in the hosts file format.
 custom_ip:                    "0.0.0.0"
-# This variable set the number of the day between inactive-db retest
+# Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
 days_between_db_retest:       1
-# Generate debug file if logs is True.
+# Enable / disable the generation of debug file(s).
 debug:                        False
-# This will save the domain that is currently under test.
+# Set the element that have to be tested.
+# NOTE: If empty, we use this index as saver of the element we are currently testing.
 domain:                       ""
-# Domain to filter. For example \.blogspot\. will test only blogspot.* domains.
+# Set the element to filter.
 filter:                       ""
-# Activate/Deactivate the generation of hosts file.
+# Enable / disable the generation of the hosts file(s).
 generate_hosts:               True
-# Used to check if the header has been already printed on screen.
+# Say to the system if the header has been already printed or not.
 header_printed:               False
-# This will save the content of iana_domains_db
+# Save the content of iana-domains-db.json for the different system.
 iana_db:                      {}
-# This is the location of the iana_whois_server.
+# Set the server to call to get the whois referer of a given element.
 iana_whois_server:            whois.iana.org
-# Activate/Deactivate the usage of a database to save the inactive domains.
+# Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
 inactive_database:            True
-# This will dave the database.
+# Save the content of inactive-db.json for the different system or subsystems.
 inactive_db:                  {}
-# Activate/Deactivate the output of every informations.
-less:                         False
-# Activate/Deactivate the output of logs.
+# Enable / Disable the output of every information of screen.
+less:                         True
+# Enable / Disable the output of every logs.
 logs:                         True
-# Deactivate the generation of files.
+# Enable / Disable the generation of any file(s).
 no_files:                     False
-# Activate/Deactivate the usage of WHOIS records for our tests results.
+# Enable / Disable the usage of whois in the tests.
 no_whois:                     False
-# Activate/Deactivate the generation of plain list of domains.
+# Enable / Disable the generation of the plain list of element sorted by statuses.
 plain_list_domain:            False
-# Activate/Deactivate the quiet mode.
+# Save the content of public-suffix.json for the different system or subsystems.
+psl_db:                       {}
+# Enable / Disable the generation of output on screen.
 quiet:                        False
-# The following will save the referer.
+# Set the referer of the element that is currently under tested.
 referer:                      ""
-# HTTP Status code timeout.
-# Consider this as the minimum time in seconds that we need before closing our
-# request.
+# Set the timeout to apply to every HTTP status code requests.
 seconds_before_http_timeout:  3
-# Activate/Deactivate the logs sharing.
-# This allow you to share logs which are used to write PyFunceble updates.
+# Enable / disable the logs sharing.
 share_logs:                   True
-# Show/hide execution time.
+# Enable / disable the output of the execution time.
 show_execution_time:          False
-# Show/hide the percentage.
+# Enable / disable the output of the percentage of each statuses.
 show_percentage:              True
-# Activate/Deactivate the simple output mode.
-# In this mode we only return the status of the tested domain.
+# Enable / disable the simple output mode.
 simple:                       False
-# Activate/Deactivate the split of results fils.
+# Enable / disable the split of the results files.
 split:                        True
-# Activation/Deactivation of Travis CI autosave system.
+# Enable / disable the Travis CI autosave system.
 travis:                       False
-# Default commit message we use for the commit at the end of
-# the the travis_autosave_minutes if we did not read the file completly.
+# Set the default commit message we have to use when have to save but we did not finished the test.
 travis_autosave_commit:       "PyFunceble - AutoSave"
-# Default final commit message we append at the end the last commit.
+# Set the default final commit message we have to usve when have to save and we finished the test.
 travis_autosave_final_commit: "PyFunceble - Results"
-# Minimum of minutes before we start commiting to upstream under Travis CI.
+# Set the minimum of minutes we have to run before to automatically save our test results.
 travis_autosave_minutes:      15
-# This tell us in which branch we have to push
+# Set the git branch where we are going to push our results.
 travis_branch:                master
 # Activate/Deactivate the generation of unified files for the results logs.
 unified:                      False
 
-# The following are the configurations related to the output/ directory.
-# NOTE:                       If you change the following section please delete the current output and
-# the  current `dir_structure.json` so that your new structure can be generated
-# automatically based on your changes here.
 outputs:
   default_files:
-    # The following is the default name of the dir_structure.json.
-    # NOTE:                   The following does not have any influence on dir_structure_production.json.
     dir_structure:            dir_structure.json
-    # The following is the default name of iana_domains_db.json.
     iana:                     iana-domains-db.json
-    # The following is the default name of inactive_db.json.
     inactive_db:              inactive_db.json
-    # The following is the default name of results.txt.
     results:                  results.txt
+    public_suffix:            public-suffix.json
 
-  # This section is related to the location of all list of domain without
-  # decorator. In other words, it is the location of all plain list of domains.
   domains:
     directory:                domains/
     filename:                 list
 
-  # This section is related to the location of all generated hosts files.
   hosts:
     directory:                hosts/
     filename:                 hosts
 
-  # This section is related to the section of HTTP_Analytic which is managed and generated
-  # based on the status code the domain return.
   http_analytic:
     directories:
       parent:                 HTTP_Analytic/
@@ -112,7 +95,6 @@ outputs:
       potentially_up:         potentially_up
       up:                     active_and_merged_in_results
 
-  # This section is related to all logs we generate.
   logs:
     directories:
       date_format:            date_format/
@@ -131,13 +113,9 @@ outputs:
   # This is the main directory which we call output/ in all our communication.
   parent_directory:           output/
 
-  # This if the splited section where we put all results log splited by status.
   splited:
     directory:                splited/
 
-# The following section helps you change the status in the script.
-# NOTE: if you cahnge the official status please also add it to its
-# list section. If you do not do that, the script will stop working correctly.
 status:
   list:
     up:
@@ -167,9 +145,6 @@ status:
     invalid:                  INVALID
 
 
-# NOTE: DO NOT CHANGE THIS SECTION UNLESS YOU KNOW WHAT IT IMPLIES.
-# Indeed, we only advice changing the active which will activate (True) or deactivate (False)
-# the usage of the domain status code in our results.
 http_codes:
   active:                     True
   list:
@@ -218,18 +193,16 @@ http_codes:
       - 504
       - 505
 
-# NOTE: DO NOT CHANGE THIS SECTION UNLESS YOU KNOW WHAT IT IMPLIES.
 links:
   api_date_format:            "http://pyfunceble.funilrys.com/api/date-format"
   api_no_referer:             "http://pyfunceble.funilrys.com/api/no-referer"
-  config:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/master/.PyFunceble_production.yaml"
-  dir_structure:              "https://raw.githubusercontent.com/funilrys/PyFunceble/master/dir_structure_production.json"
-  iana:                       "https://raw.githubusercontent.com/funilrys/PyFunceble/master/iana-domains-db.json"
+  config:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
+  dir_structure:              "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
+  iana:                       "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
   repo:                       "https://github.com/funilrys/PyFunceble"
-  requirements:               "https://raw.githubusercontent.com/funilrys/PyFunceble/master/requirements.txt"
-  script:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/master/PyFunceble.py"
+  requirements:               "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
+  script:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/PyFunceble.py"
 
-# NOTE: DO NOT CHANGE THIS SECTION UNLESS YOU KNOW WHAT IT IMPLIES.
 counter:
   number:
     down:                     0
