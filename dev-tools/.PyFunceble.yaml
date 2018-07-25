@@ -67,6 +67,8 @@ travis_autosave_minutes:      15
 travis_branch:                master
 # Activate/Deactivate the generation of unified files for the results logs.
 unified:                      False
+# Set the default user agent use when requesting the HTTP code.
+user_agent:                   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
 
 outputs:
   default_files:
