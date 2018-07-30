@@ -64,3 +64,7 @@ nationalaustr.aliabank.com,http:                                                
 nationalaustralia.bank.com,http:                                                                     INVALID     IANA       
 netlockmail.com.au:443                                                                               INVALID     IANA       
 nonsfw.com:443                                                                                       INVALID     IANA       
+pgh0bww%20dqo8c3r5bgu%20igjvzhkgeybtyxjnaw46ida7ig92zxjmbg93oiboawrkzw47ih0gpc9zdhlszt4nciagpglmcmft INVALID     IANA       
+pgh0bww+dqo8c3r5bgu+igjvzhkgeybtyxjnaw46ida7ig92zxjmbg93oiboawrkzw47ih0gpc9zdhlszt4nciagpglmcmft     INVALID     IANA       
+phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target               INVALID     IANA       
+pinfot.ru:55555                                                                                      INVALID     IANA       
