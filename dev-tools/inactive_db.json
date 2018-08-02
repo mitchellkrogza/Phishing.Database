@@ -10470,7 +10470,12 @@
             "eoscountdown.co,http:",
             "eosdash.io,http:",
             "eosdrop.xn--mythrwallt-c7a86c5a.com,http:",
-            "eosprivate.io,http:"
+            "eosprivate.io,http:",
+            "ethnow.org,http:",
+            "ethnowpromo.org,http:",
+            "ethpromoaction.com,http:",
+            "ethpromotions.org",
+            "evnansei.com"
         ],
         "to_test": [
             "adobfile.tk",
@@ -10495,9 +10500,6 @@
             "dsdss.ml",
             "dsesads-login.com",
             "edtdrivinglessonsdublin.ie",
-            "ethnow.org,http:",
-            "ethnowpromo.org,http:",
-            "ethpromoaction.com,http:",
             "fakeboookz.esy.es",
             "falconpack.cf",
             "freefacebook.xyz",
