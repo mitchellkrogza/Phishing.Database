@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "down": 7463,
+        "down": 7579,
         "invalid": 274,
-        "tested": 47629,
-        "up": 39892
+        "tested": 48116,
+        "up": 40263
     }
 }
