@@ -9011,7 +9011,6 @@
             "auth-etransdata.com",
             "auth-mobile.com",
             "auth-vk.tk",
-            "authe-funds.com",
             "authenticate-confirm.xyz",
             "authenticate.device.sms-confirmation-wfb.xyz",
             "authentication-sms-bank.authorizations-wfb.xyz",
@@ -10695,7 +10694,9 @@
             "appleeid-apple.com-add-payment.info",
             "appleid.webapps-mobile.gq",
             "artul.hol.es",
-            "asdgaw.cf"
+            "asdgaw.cf",
+            "autodiscover.conectandosuenos.com",
+            "badcreditbert.icu"
         ],
         "to_test": [
             "bank-of-america-secured-account-update.12retireinmalaysia.com",
