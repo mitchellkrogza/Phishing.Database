@@ -10362,7 +10362,6 @@
             "ecmxo.com,http:",
             "ecohimal.ecohimal.org.np",
             "ecoledejournalisme.ml",
-            "economik.com.ve",
             "ecopayz.site",
             "edariman.co.network",
             "eddge-5.ml",
@@ -10741,12 +10740,11 @@
             "ddt.zyr.su",
             "diadosnam2.sslblindado.com",
             "disconver.gq",
-            "donnap6f.beget.tech"
-        ],
-        "to_test": [
+            "donnap6f.beget.tech",
             "dsdss.ml",
             "dsesads-login.com",
             "edtdrivinglessonsdublin.ie"
-        ]
+        ],
+        "to_test": []
     }
 }
