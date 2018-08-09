@@ -1,3 +1,4 @@
+<img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/dev-tools/phishing-logo.jpg" alt="Phishing Domain Status Testing Repo"/>
 # Phishing Domain Database
 
 A Testing Repository for Phishing Domains, Web Sites and Threats.
