@@ -373,7 +373,11 @@
         "org.bm"
     ],
     "bn": [
-        "bn"
+        "com.bn",
+        "edu.bn",
+        "gov.bn",
+        "net.bn",
+        "org.bn"
     ],
     "bo": [
         "academia.bo",
@@ -1699,6 +1703,7 @@
         "my.id",
         "net.id",
         "or.id",
+        "ponpes.id",
         "sch.id",
         "web.id",
         "zone.id"
