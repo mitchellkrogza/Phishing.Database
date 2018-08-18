@@ -373,7 +373,11 @@
         "org.bm"
     ],
     "bn": [
-        "bn"
+        "com.bn",
+        "edu.bn",
+        "gov.bn",
+        "net.bn",
+        "org.bn"
     ],
     "bo": [
         "academia.bo",
@@ -1699,6 +1703,7 @@
         "my.id",
         "net.id",
         "or.id",
+        "ponpes.id",
         "sch.id",
         "web.id",
         "zone.id"
@@ -4169,7 +4174,13 @@
         "edu.krd"
     ],
     "kw": [
-        "kw"
+        "com.kw",
+        "edu.kw",
+        "emb.kw",
+        "gov.kw",
+        "ind.kw",
+        "net.kw",
+        "org.kw"
     ],
     "ky": [
         "com.ky",
@@ -6825,7 +6836,6 @@
     ],
     "space": [
         "linkitools.space",
-        "stackspace.space",
         "uber.space",
         "xs4all.space"
     ],
