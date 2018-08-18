@@ -81,3 +81,7 @@
 0.0.0.0 asd.dolcissimo.be:8080
 0.0.0.0 asd.lescarles.com:8080
 0.0.0.0 asd.semiramis-asbl.org:8080
+0.0.0.0 attonline.org,http:
+0.0.0.0 aug
+0.0.0.0 avatariahack.ru,http:
+0.0.0.0 azc7hhi39.ukit.me,http:
