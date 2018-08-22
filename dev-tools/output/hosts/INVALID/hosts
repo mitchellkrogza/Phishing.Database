@@ -62,3 +62,6 @@
 0.0.0.0 my.rs,http:
 0.0.0.0 nationalaustr.aliabank.com,http:
 0.0.0.0 nationalaustralia.bank.com,http:
+0.0.0.0 no-reply@hpair.org
+0.0.0.0 nocitimailappienot912.com,http:
+0.0.0.0 nonsfw.com:443
