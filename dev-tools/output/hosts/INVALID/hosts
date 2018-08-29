@@ -126,3 +126,6 @@
 0.0.0.0 www.rezygnacjagumtree.pl,http:
 0.0.0.0 www.securitasepaycom.org,http:
 0.0.0.0 www.warrenjamesshop.com,http:
+0.0.0.0 www1.dolcissimo.be:8080
+0.0.0.0 www1.lescarles.com:8080
+0.0.0.0 www1.semiramis-asbl.org:8080
