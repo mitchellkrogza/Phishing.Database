@@ -2577,14 +2577,12 @@
             "168.61.51.146:82",
             "177.153.18.117:8181",
             "177.201.68.249:5659",
-            "184.168.189.1,http:"
-        ],
-        "to_test": [
-            "1961coffeehead.com.au",
+            "184.168.189.1,http:",
             "1bmonlinsecurssll.com",
             "1indianaavenue.ml",
             "1kqha8mx7sdfmkowmxta.viomil.ro",
             "1ogin.nnicrosoftonline.micorbis.com",
+            "1phone-update-service-app.gq",
             "1server10.cf",
             "1st-settings.xyz",
             "1vbbe8yhcd.vpnxxa7cad.faujibandinchandigarh.com",
@@ -2613,7 +2611,9 @@
             "2bit.guru",
             "2bit.online",
             "2bit.pw",
-            "2bit.site",
+            "2bit.site"
+        ],
+        "to_test": [
             "2bit.space",
             "2mi.design",
             "2radiopark.gq",
