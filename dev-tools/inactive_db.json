@@ -4318,12 +4318,12 @@
             "168.61.51.146:82",
             "177.153.18.117:8181",
             "177.201.68.249:5659",
-            "184.168.189.1,http:"
-        ],
-        "to_test": [
+            "184.168.189.1,http:",
+            "190.248.134.158:8081",
             "1bmonlinsecurssll.com",
             "1indianaavenue.ml",
             "1kqha8mx7sdfmkowmxta.viomil.ro",
+            "1l1a.online",
             "1ogin.nnicrosoftonline.micorbis.com",
             "1phone-update-service-app.gq",
             "1server10.cf",
@@ -4347,7 +4347,9 @@
             "22tg8s8qzdw73i7ptlky.towncrier.com.pk",
             "24-banorte-acceso.com",
             "24.banorte.com.mx.index.html.acceso.mueblesdicse.com",
-            "24paybank.co:443",
+            "24paybank.co:443"
+        ],
+        "to_test": [
             "2bic.online",
             "2biit.icu",
             "2bit.group,http:",
