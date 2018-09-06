@@ -1,21 +1,5 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
-        "1535796675": [
-            "youtiytr.org",
-            "zvdxdsfsdf.tk",
-            "zvk.16mb.com",
-            "zvnjt.app",
-            "zwxptappings.xyz",
-            "zwybpossibles.gb.net",
-            "zxvddgdf.5gbfree.com",
-            "zyaviv.co",
-            "zyaviv.com",
-            "zyaviv.global",
-            "zyaviv.org",
-            "zyqiin.global",
-            "zytechmedical.com",
-            "zzzpolaiot.eu"
-        ],
         "1535904610": [
             "._curg9_r345l.0u",
             "00www-spotify.com",
@@ -13588,6 +13572,9 @@
             "zonaseguro-bcpmovil.ml",
             "zonawebsegura.ml"
         ],
+        "1536250814": [
+            "17.deduch.z8.ru"
+        ],
         "to_test": [
             "4yiankbyfcgnt667xydf.towncrier.com.pk",
             "5000eth-giveaway.online",
@@ -14659,7 +14646,21 @@
             "www.tuscaloosa.thehudsonproject.org",
             "www.zoompondy.com",
             "yahoolovers.space",
-            "ztp.23du.top"
+            "youtiytr.org",
+            "ztp.23du.top",
+            "zvdxdsfsdf.tk",
+            "zvk.16mb.com",
+            "zvnjt.app",
+            "zwxptappings.xyz",
+            "zwybpossibles.gb.net",
+            "zxvddgdf.5gbfree.com",
+            "zyaviv.co",
+            "zyaviv.com",
+            "zyaviv.global",
+            "zyaviv.org",
+            "zyqiin.global",
+            "zytechmedical.com",
+            "zzzpolaiot.eu"
         ]
     }
 }
