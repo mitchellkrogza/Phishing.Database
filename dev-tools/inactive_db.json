@@ -2127,11 +2127,7 @@
             "212.129.24.74:8080",
             "21341-vk-com-214122.96.lt",
             "216-58-206-88.985-778-9830.com",
-            "216.119.132.99.static.a2webhosting.com"
-        ],
-        "to_test": [
-            "184.168.189.1,http:",
-            "22tg8s8qzdw73i7ptlky.towncrier.com.pk",
+            "216.119.132.99.static.a2webhosting.com",
             "24-banorte-acceso.com",
             "24.banorte.com.mx.index.html.acceso.mueblesdicse.com",
             "24paybank.co:443",
@@ -2207,7 +2203,11 @@
             "3dscanme.co.nz",
             "3dsec-service.com",
             "3flemingstreet.ml",
-            "3idwatertech.com",
+            "3idwatertech.com"
+        ],
+        "to_test": [
+            "184.168.189.1,http:",
+            "22tg8s8qzdw73i7ptlky.towncrier.com.pk",
             "3tww1hudckpmqj5qzhjl.ulasteaq.gq",
             "3washington.cf",
             "40",
