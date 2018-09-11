@@ -12,6 +12,9 @@ pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.ya
 # Find PyFunceble at: https://github.com/funilrys/PyFunceble
 # **********************************************************
 
+# Update README to keep stats more current
+bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
+
 RunFunceble () {
 
     yeartag=$(date +%Y)
