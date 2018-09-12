@@ -15598,14 +15598,7 @@
             "id-ihdr.loadmailweb.icu",
             "id-ivvr.message8.icu",
             "inc-appleid-suporte.com",
-            "instagarm.net"
-        ],
-        "to_test": [
-            "bcpzonasequra.betaviabxp.ml",
-            "betazonasegura.viabcdpx.ml",
-            "blockchain-wallets.online",
-            "blockchatn.com",
-            "crahtdg.com",
+            "instagarm.net",
             "invoice-bale.com",
             "invoice-bill.com",
             "invoice-connect-me.com",
@@ -15613,7 +15606,14 @@
             "invoice-m.com",
             "invoice-paym.com",
             "invoice-upto.com",
-            "invoice-val-me.com",
+            "invoice-val-me.com"
+        ],
+        "to_test": [
+            "bcpzonasequra.betaviabxp.ml",
+            "betazonasegura.viabcdpx.ml",
+            "blockchain-wallets.online",
+            "blockchatn.com",
+            "crahtdg.com",
             "j-shears.1takemedia.net",
             "lingergroups.ml",
             "longsleeverobe.cheapsell.today",
