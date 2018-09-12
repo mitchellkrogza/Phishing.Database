@@ -12,12 +12,6 @@ pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.ya
 # Find PyFunceble at: https://github.com/funilrys/PyFunceble
 # **********************************************************
 
-# Update README to keep stats more current
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
-bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
-
 RunFunceble () {
 
     yeartag=$(date +%Y)
