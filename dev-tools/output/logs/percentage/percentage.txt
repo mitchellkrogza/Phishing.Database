@@ -1,8 +1,8 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 16 Sep 21:09:52 SAST 2018 
+# Date of generation: Sun 16 Sep 21:09:32 SAST 2018 
 
 Status      Percentage   Numbers     
 ----------- ------------ ------------
-ACTIVE      83%          11514       
-INACTIVE    15%          2086        
-INVALID     1%           139         
+ACTIVE      83%          11988       
+INACTIVE    15%          2188        
+INVALID     0%           143         
