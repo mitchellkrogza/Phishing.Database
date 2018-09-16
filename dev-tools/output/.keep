@@ -5,8 +5,11 @@
 # We don't ignore the hosts directory
 !/hosts/
 # We don't ignore the HTTP_Analytic directory
+# We keep the following for historical reason.
+# Indeed, the following directory may exist in some session.
 !/HTTP_Analytic/
 # We don't ignore the logs directory
 !/logs/
 # We don't ignore the splited directory
 !/splited/
+!/Analytic/

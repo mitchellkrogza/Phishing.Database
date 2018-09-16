@@ -1,121 +1,123 @@
 # Enable / disable the adblock format decoding.
-adblock:                      False
+adblock: False
 # Enable / disable the auto continue system.
-auto_continue:                True
+auto_continue: True
 # Set the command to run before the final commit.
-command_before_end:           ""
+command_before_end: ""
 # Set the custom IP to use when we generate a line in the hosts file format.
-custom_ip:                    "0.0.0.0"
+custom_ip: "0.0.0.0"
 # Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
-days_between_db_retest:       1
+days_between_db_retest: 1
 # Enable / disable the generation of debug file(s).
-debug:                        False
+debug: False
 # Set the element that have to be tested.
 # NOTE: If empty, we use this index as saver of the element we are currently testing.
-domain:                       ""
+domain: ""
 # Set the element to filter.
-filter:                       ""
+filter: ""
 # Enable / disable the generation of the hosts file(s).
-generate_hosts:               True
+generate_hosts: True
 # Say to the system if the header has been already printed or not.
-header_printed:               False
+header_printed: False
 # Tell to the system to use the historical sorting instead of the alphabetical sorting.
-hierarchical_sorting:         False
+hierarchical_sorting: False
 # Save the content of iana-domains-db.json for the different system.
-iana_db:                      {}
+iana_db: {}
 # Set the server to call to get the whois referer of a given element.
-iana_whois_server:            whois.iana.org
+iana_whois_server: whois.iana.org
 # Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
-inactive_database:            True
+inactive_database: True
 # Save the content of inactive-db.json for the different system or subsystems.
-inactive_db:                  {}
+inactive_db: {}
 # Enable / Disable the output of every information of screen.
-less:                         True
+less: True
 # Enable / Disable the output of every logs.
-logs:                         True
+logs: True
 # Enable / Disable the generation of any file(s).
-no_files:                     False
+no_files: False
 # Enable / Disable the usage of whois in the tests.
-no_whois:                     False
+no_whois: False
 # Enable / Disable the generation of the plain list of element sorted by statuses.
-plain_list_domain:            False
+plain_list_domain: False
 # Save the content of public-suffix.json for the different system or subsystems.
-psl_db:                       {}
+psl_db: {}
 # Enable / Disable the generation of output on screen.
-quiet:                        False
+quiet: False
 # Set the referer of the element that is currently under tested.
-referer:                      ""
+referer: ""
 # Set the timeout to apply to every HTTP status code requests.
-seconds_before_http_timeout:  3
+seconds_before_http_timeout: 3
 # Enable / disable the logs sharing.
-share_logs:                   True
+share_logs: True
 # Enable / disable the output of the execution time.
-show_execution_time:          False
+show_execution_time: False
 # Enable / disable the output of the percentage of each statuses.
-show_percentage:              True
+show_percentage: True
 # Enable / disable the simple output mode.
-simple:                       False
+simple: False
 # Enable / disable the split of the results files.
-split:                        True
+split: True
 # Enable / disable the Travis CI autosave system.
-travis:                       False
+travis: False
 # Set the default commit message we have to use when have to save but we did not finished the test.
-travis_autosave_commit:       "PyFunceble - AutoSave"
+travis_autosave_commit: "PyFunceble - AutoSave"
 # Set the default final commit message we have to usve when have to save and we finished the test.
 travis_autosave_final_commit: "PyFunceble - Results"
 # Set the minimum of minutes we have to run before to automatically save our test results.
-travis_autosave_minutes:      15
+travis_autosave_minutes: 15
 # Set the git branch where we are going to push our results.
-travis_branch:                master
+travis_branch: master
 # Activate/Deactivate the generation of unified files for the results logs.
-unified:                      False
+unified: False
 # Set the default user agent use when requesting the HTTP code.
-user_agent:                   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
 
 outputs:
   default_files:
-    dir_structure:            dir_structure.json
-    iana:                     iana-domains-db.json
-    inactive_db:              inactive_db.json
-    results:                  results.txt
-    public_suffix:            public-suffix.json
+    dir_structure: dir_structure.json
+    iana: iana-domains-db.json
+    inactive_db: inactive_db.json
+    results: results.txt
+    public_suffix: public-suffix.json
 
   domains:
-    directory:                domains/
-    filename:                 list
+    directory: domains/
+    filename: list
 
   hosts:
-    directory:                hosts/
-    filename:                 hosts
+    directory: hosts/
+    filename: hosts
 
-  http_analytic:
+  analytic:
     directories:
-      parent:                 HTTP_Analytic/
-      potentially_down:       POTENTIALLY_INACTIVE/
-      potentially_up:         POTENTIALLY_ACTIVE/
-      up:                     ACTIVE/
+      parent: Analytic/
+      potentially_down: POTENTIALLY_INACTIVE/
+      potentially_up: POTENTIALLY_ACTIVE/
+      up: ACTIVE/
+      suspicious: SUSPICIOUS/
     filenames:
-      potentially_down:       down_or_potentially_down
-      potentially_up:         potentially_up
-      up:                     active_and_merged_in_results
+      potentially_down: down_or_potentially_down
+      potentially_up: potentially_up
+      up: active_and_merged_in_results
+      suspicious: suspicious_and_merged_in_results
 
   logs:
     directories:
-      date_format:            date_format/
-      no_referer:             no_referer/
-      parent:                 logs/
-      percentage:             percentage/
-      whois:                  whois/
+      date_format: date_format/
+      no_referer: no_referer/
+      parent: logs/
+      percentage: percentage/
+      whois: whois/
     filenames:
-      auto_continue:          continue.json
-      execution_time:         execution.log
-      percentage:             percentage.txt
+      auto_continue: continue.json
+      execution_time: execution.log
+      percentage: percentage.txt
 
   # This is the main directory which we call output/ in all our communication.
-  parent_directory:           output/
+  parent_directory: output/
 
   splited:
-    directory:                splited/
+    directory: splited/
 
 status:
   list:
@@ -140,14 +142,17 @@ status:
     potentially_up:
       - potentially_up
       - potentially_active
+    suspicious:
+      - strange
+      - suspicious
+      - hum
   official:
-    up:                       ACTIVE
-    down:                     INACTIVE
-    invalid:                  INVALID
-
+    up: ACTIVE
+    down: INACTIVE
+    invalid: INVALID
 
 http_codes:
-  active:                     True
+  active: True
   list:
     up:
       - 100
@@ -195,22 +200,22 @@ http_codes:
       - 505
 
 links:
-  api_date_format:            "http://pyfunceble.funilrys.com/api/date-format"
-  api_no_referer:             "http://pyfunceble.funilrys.com/api/no-referer"
-  config:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
-  dir_structure:              "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
-  iana:                       "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
-  repo:                       "https://github.com/funilrys/PyFunceble"
-  requirements:               "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
-  script:                     "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/PyFunceble.py"
-
+  api_date_format: "http://pyfunceble.funilrys.com/api/date-format"
+  api_no_referer: "http://pyfunceble.funilrys.com/api/no-referer"
+  config: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
+  dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
+  iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
+  repo: "https://github.com/funilrys/PyFunceble"
+  requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
+  script: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/PyFunceble.py"
+  psl: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json"
 counter:
   number:
-    down:                     0
-    invalid:                  0
-    tested:                   0
-    up:                       0
+    down: 0
+    invalid: 0
+    tested: 0
+    up: 0
   percentage:
-    down:                     0
-    invalid:                  0
-    up:                       0
+    down: 0
+    invalid: 0
+    up: 0
