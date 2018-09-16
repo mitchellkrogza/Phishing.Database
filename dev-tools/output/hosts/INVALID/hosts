@@ -77,3 +77,7 @@
 0.0.0.0 appleid.com.isign.live,http:
 0.0.0.0 apr
 0.0.0.0 armastars.ru,http:
+0.0.0.0 asd.lescarles.com:8080
+0.0.0.0 asd.semiramis-asbl.org:8080
+0.0.0.0 attonline.org,http:
+0.0.0.0 aug
