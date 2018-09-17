@@ -21,14 +21,10 @@ generate_hosts: True
 header_printed: False
 # Tell to the system to use the historical sorting instead of the alphabetical sorting.
 hierarchical_sorting: False
-# Save the content of iana-domains-db.json for the different system.
-iana_db: {}
 # Set the server to call to get the whois referer of a given element.
 iana_whois_server: whois.iana.org
 # Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
 inactive_database: True
-# Save the content of inactive-db.json for the different system or subsystems.
-inactive_db: {}
 # Enable / Disable the output of every information of screen.
 less: True
 # Enable / Disable the output of every logs.
@@ -39,8 +35,6 @@ no_files: False
 no_whois: False
 # Enable / Disable the generation of the plain list of element sorted by statuses.
 plain_list_domain: False
-# Save the content of public-suffix.json for the different system or subsystems.
-psl_db: {}
 # Enable / Disable the generation of output on screen.
 quiet: False
 # Set the referer of the element that is currently under tested.
