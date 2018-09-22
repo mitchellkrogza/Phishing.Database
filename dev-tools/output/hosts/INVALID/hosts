@@ -444,3 +444,6 @@
 0.0.0.0 ser-paypal.com,http:
 0.0.0.0 serverbbm-kontendewasa.890m.com,http:
 0.0.0.0 service.townhallstreams.com:8000
+0.0.0.0 sharekit.io,http:
+0.0.0.0 sicherheit-kundeninfo.com,http:
+0.0.0.0 signin.gatchub.com,http:
