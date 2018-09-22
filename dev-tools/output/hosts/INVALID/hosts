@@ -542,3 +542,8 @@
 0.0.0.0 www.hig.se,http:
 0.0.0.0 www.hktech.so,http:
 0.0.0.0 www.hotmailloginsigninup.com,http:
+0.0.0.0 www.icloud.com.us-sign.in,http:
+0.0.0.0 www.icypsac.com,http:
+0.0.0.0 www.igardi.com:32000
+0.0.0.0 www.istec.biz:443
+0.0.0.0 www.istiadat.gov.my.hospitalityequipgroup.com,http:
