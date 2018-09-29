@@ -84,6 +84,30 @@
                 "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
             }
         },
+        "json/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/",
+                "sha512": "81d4f55145ec0d6b20b99aa850814eeb6b6f5d4f646c390c5fcbf6a9b5f8e22686457001590d24a2ec465ee5a55c3275b7eb049abed6263bad246300c84bf1c1"
+            }
+        },
+        "json/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/INVALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
         "logs/": {
             ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/date_format/@@@!/no_referer/@@@!/percentage/@@@!/whois/",

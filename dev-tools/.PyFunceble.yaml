@@ -17,12 +17,16 @@ domain: ""
 filter: ""
 # Enable / disable the generation of the hosts file(s).
 generate_hosts: True
+# Enable / Disable the generation of a JSON format for the output
+generate_json: False
 # Say to the system if the header has been already printed or not.
 header_printed: False
 # Tell to the system to use the historical sorting instead of the alphabetical sorting.
 hierarchical_sorting: False
 # Set the server to call to get the whois referer of a given element.
 iana_whois_server: whois.iana.org
+# Tell to the system to convert all domain to IDNA if possible.
+idna_conversion: True
 # Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
 inactive_database: True
 # Enable / Disable the output of every information of screen.
@@ -33,6 +37,8 @@ logs: True
 no_files: False
 # Enable / Disable the usage of whois in the tests.
 no_whois: False
+# Enable / Disable the URL/domain mining.
+mining: False
 # Enable / Disable the generation of the plain list of element sorted by statuses.
 plain_list_domain: False
 # Enable / Disable the generation of output on screen.
@@ -73,6 +79,7 @@ outputs:
     inactive_db: inactive_db.json
     results: results.txt
     public_suffix: public-suffix.json
+    mining: mining.json
 
   domains:
     directory: domains/
@@ -81,6 +88,10 @@ outputs:
   hosts:
     directory: hosts/
     filename: hosts
+
+  json:
+    directory: json/
+    filename: dump.json
 
   analytic:
     directories:
