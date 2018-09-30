@@ -59,27 +59,27 @@ fetch () {
 # *************************************************
 
 initiate () {
-
+    
     # Prepare Feed 1 / OpenPhish
     sort -u ${input1} -o ${input1}
     grep '[^[:blank:]]' < ${input1} > ${tmp}
     sudo mv ${tmp} ${input1}
-
+    
     # Prepare Feed 2 / IllegalFawn
     sort -u ${input2} -o ${input2}
     grep '[^[:blank:]]' < ${input2} > ${tmp}
     sudo mv ${tmp} ${input2}
-
+    
     # Prepare Feed 3 / Phishtank
     sort -u ${input3} -o ${input3}
     grep '[^[:blank:]]' < ${input3} > ${tmp}
     sudo mv ${tmp} ${input3}
-
+    
     # Prepare Feed 4 / Mitchell Krog
     sort -u ${input4} -o ${input4}
     grep '[^[:blank:]]' < ${input4} > ${tmp}
     sudo mv ${tmp} ${input4}
-	
+    
 }
 
 # ***************************************
@@ -102,24 +102,10 @@ prepare () {
     dos2unix ${inputA}
 }
 
-
-# *********************************
-# Prepare our list into IDNA format
-# *********************************
-
-idna () {
-    domain2idna -f ${output} -o ${output2}
-    sort -u ${output2} -o ${output2}
-    tr '[:upper:]' '[:lower:]' < ${output2} > ${tmp}
-    sudo mv ${tmp} ${output2}
-    dos2unix ${output2}
-}
-
 PrepareTravis
 fetch
 initiate
 prepare
-idna
 
 
 # **********************
