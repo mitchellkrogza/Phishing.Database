@@ -26,7 +26,7 @@ hierarchical_sorting: False
 # Set the server to call to get the whois referer of a given element.
 iana_whois_server: whois.iana.org
 # Tell to the system to convert all domain to IDNA if possible.
-idna_conversion: True
+idna_conversion: False
 # Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
 inactive_database: True
 # Enable / Disable the output of every information of screen.
