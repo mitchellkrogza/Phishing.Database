@@ -99,3 +99,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 private-etherwallet.com,http:
 privatematchpic.weebly.com,http:
 putty-portal.com,http:
+ramenspot.net,http:
+randomstring.dolcissimo.be:8080
+randomstring.semiramis-asbl.org:8080
