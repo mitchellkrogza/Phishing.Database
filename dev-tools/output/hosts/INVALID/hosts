@@ -124,3 +124,7 @@
 0.0.0.0 vvvv-pay.com:443
 0.0.0.0 web-telegram.ru,http:
 0.0.0.0 webx.myfreesites.net,http:
+0.0.0.0 wincheck.org,http:
+0.0.0.0 win.key14.com,http:
+0.0.0.0 winplatform.io,http:
+0.0.0.0 wireless-loginverification.info,http:
