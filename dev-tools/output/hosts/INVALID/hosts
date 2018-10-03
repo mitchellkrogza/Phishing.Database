@@ -96,3 +96,5 @@
 0.0.0.0 omise-go.info,http:
 0.0.0.0 paqes2-unirecovery.ml?facebook.com=checkpoint
 0.0.0.0 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
+0.0.0.0 private-etherwallet.com,http:
+0.0.0.0 privatematchpic.weebly.com,http:
