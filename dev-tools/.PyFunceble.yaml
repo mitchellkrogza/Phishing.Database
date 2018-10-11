@@ -31,6 +31,8 @@ idna_conversion: False
 inactive_database: True
 # Enable / Disable the output of every information of screen.
 less: True
+# Enable / Disable the test in local network.
+local: False
 # Enable / Disable the output of every logs.
 logs: True
 # Enable / Disable the generation of any file(s).
