@@ -10,9 +10,6 @@ custom_ip: "0.0.0.0"
 days_between_db_retest: 1
 # Enable / disable the generation of debug file(s).
 debug: False
-# Set the element that have to be tested.
-# NOTE: If empty, we use this index as saver of the element we are currently testing.
-domain: ""
 # Set the element to filter.
 filter: ""
 # Enable / disable the generation of the hosts file(s).
