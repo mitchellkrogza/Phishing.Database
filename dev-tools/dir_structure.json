@@ -2,8 +2,8 @@
     "output/": {
         "": {
             ".gitignore": {
-                "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@!/Analytic/",
-                "sha512": "d8def00c067e0dc312d5f52b9ca9713abed39664e7b768628a755592e60802ad1f831cfbb4afa2cef666753f74e5a7d8353d5e54dbe37c48542512fa2354259d"
+                "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/",
+                "sha512": "8b738ed679e0e373e7cee44a131ca2d86488f3fa821f5d964a5aafb4ad903cba236d9ff5addf5042916209d060046c3a2fec260fa01e3f6b3deaaaba907f5db1"
             }
         },
         "Analytic/": {

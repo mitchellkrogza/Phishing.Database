@@ -12,4 +12,7 @@
 !/logs/
 # We don't ignore the splited directory
 !/splited/
+# We don't ignore the analytic directory
 !/Analytic/
+# We don't ignore the json directory
+!/json/
