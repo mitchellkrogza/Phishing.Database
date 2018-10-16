@@ -93,3 +93,5 @@
 0.0.0.0 palpay.com,http:
 0.0.0.0 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
 0.0.0.0 polroniex.com,http:
+0.0.0.0 privatematchpic.weebly.com,http:
+0.0.0.0 putty-portal.com,http:
