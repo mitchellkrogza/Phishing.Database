@@ -91,3 +91,4 @@
 0.0.0.0 olympicswinter.org,http:
 0.0.0.0 omise-go.info,http:
 0.0.0.0 palpay.com,http:
+0.0.0.0 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
