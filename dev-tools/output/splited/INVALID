@@ -4,3 +4,6 @@
 Domain                                                                                               Status      HTTP Code 
 177.153.18.117:8181                                                                                  INVALID     IANA      
 177.201.68.249:5659                                                                                  INVALID     IANA      
+184.168.189.1,http:                                                                                  INVALID     IANA      
+212.124.118.210:8090                                                                                 INVALID     IANA      
+212.129.24.74:8080                                                                                   INVALID     IANA      
