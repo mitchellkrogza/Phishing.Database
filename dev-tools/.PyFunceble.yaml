@@ -42,8 +42,6 @@ mining: False
 plain_list_domain: False
 # Enable / Disable the generation of output on screen.
 quiet: False
-# Set the referer of the element that is currently under tested.
-referer: ""
 # Set the timeout to apply to every HTTP status code requests.
 seconds_before_http_timeout: 3
 # Enable / disable the logs sharing.
@@ -70,6 +68,8 @@ travis_branch: master
 unified: False
 # Set the default user agent use when requesting the HTTP code.
 user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+# Enable / disable the usage of a database to store the hash of the whois record
+whois_database: True
 
 outputs:
   default_files:
@@ -79,6 +79,7 @@ outputs:
     results: results.txt
     public_suffix: public-suffix.json
     mining: mining.json
+    whois_db: whois_db.json
 
   domains:
     directory: domains/
@@ -114,7 +115,7 @@ outputs:
       whois: whois/
     filenames:
       auto_continue: continue.json
-      execution_time: execution.log
+      execution_time: execution_time.json
       percentage: percentage.txt
 
   # This is the main directory which we call output/ in all our communication.
