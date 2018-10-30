@@ -1625,6 +1625,11 @@
             "expiration_date": "15-dec-2018",
             "state": "future"
         },
+        "a-cutabovelawn.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
         "a1adultservices.com": {
             "epoch": "1570485600",
             "expiration_date": "08-oct-2019",
@@ -2365,6 +2370,21 @@
             "expiration_date": "20-mar-2019",
             "state": "future"
         },
+        "ac-gree.id": {
+            "epoch": "1544047200",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "ac-hcp.com": {
+            "epoch": "1545688800",
+            "expiration_date": "25-dec-2018",
+            "state": "future"
+        },
+        "ac-stock.ru": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
         "acaaldia.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
@@ -2440,6 +2460,21 @@
             "expiration_date": "07-aug-2019",
             "state": "future"
         },
+        "acc-serviceslock.shop": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "acc-success.center": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "acc-validate.services": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
         "accademiadeicoach.net": {
             "epoch": "1560117600",
             "expiration_date": "10-jun-2019",
@@ -2478,6 +2513,846 @@
         "accessadvancedcodewf.com": {
             "epoch": "1558389600",
             "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "account-icloud.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "account-id-ee.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "account-lnstagram-security-confirm.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "account-locked-verified.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "account-login-webscrinfolimitppl.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "account-notif.net": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "account-requirement.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "account-servicesinfo.org": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "account-setting-information-apple.com": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "account-softbank.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "account-statusupdate.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "account-storage-limits.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "account-update-login.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "account-update-your-info-account.com": {
+            "epoch": "1572300000",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "account-validate.top": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "account-validation.agency": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "account-validation.club": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "account-validation.info": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "account-validation.today": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "account-validation.top": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "account-verification.org": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "account-verifycation-paypal.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "account-youtube.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "accountcpa.com": {
+            "epoch": "1543183200",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "accountlogin.live": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "accountlogin2fa.com": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "accounts-autscout24.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "accounts-craigslist-log.org": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "accounts-craigslist-message.org": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "accounts-gioogles.info": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "accounts-login-craigslist.org": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "accounts-premium.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "accounts2133manageidverifywebappid.com": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "accountsafety-pyp-invoice.net": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "accountsw-adwordse.info": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "accountus-authenticationveriv.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "accountverfiy.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "accountverification.it": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "accountwf.club": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "accountwr-informatioan.com": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "accrent.top": {
+            "epoch": "1545343200",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "accroforum.com": {
+            "epoch": "1547244000",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "accs-it.com": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "accs-service-support.biz": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "accs-service-support.shop": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "accs-services-support.org": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "accs-servicesupport.info": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "accsbuy.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "acct-secure-login-account.com": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "acctupdate.net": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "accuant-googlc.com": {
+            "epoch": "1553378400",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "accuconsulting.ca": {
+            "epoch": "1604354400",
+            "expiration_date": "03-nov-2020",
+            "state": "future"
+        },
+        "accuload3.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "accurateofes.com": {
+            "epoch": "1544306400",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "acdistributors.ca": {
+            "epoch": "1541023200",
+            "expiration_date": "01-nov-2018",
+            "state": "future"
+        },
+        "acdracamu.org": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "acedevelopmentfund.org": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "acediesels.com": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "acenonwoven.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "aceofbladesbarber.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "acerogreen.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "acesofjax.com": {
+            "epoch": "1576447200",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "acess-id3-fr.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "acessa.app": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "acessandoseguro0302.info": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "acessar-app.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "acessaroportal.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "acesse-app.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "acesse-conta.info": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "acesse-on.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "acesseapp.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "acessecaixa.info": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "acesso-aphome.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "acesso-contabb.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "acesso-uber.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "acesso-web.mobi": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "acessoaocliente.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "acessobrbbanknet.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "acessoclientesac.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "acessomobile30hrs.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "acessoseguroreg.info": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "acesuryagence.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "acevoyages.co": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "acgxxx.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "achador.net": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "achahost.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "achetonsresponsable.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "achievementfirstbcv.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "achieverspoint.com": {
+            "epoch": "1645394400",
+            "expiration_date": "21-feb-2022",
+            "state": "future"
+        },
+        "achiprepair.org": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "achwireonline.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "acid-skins.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "acik-denizbankasi.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-banksubesi.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "acikdeniz-bireysel.com": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbank-m0bilsube.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbank-m0bilsubesi.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbank-tr.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbankasitr.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbanking.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbankmobilgiris.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbankmobilsube.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbanktr.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-denizbonus.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "acikdeniz-sube.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "acikdeniz-trdenizbank.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "acikdeniz-trdenizbankasi.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "acikdenizicepsube.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "acikdenz-bireysel.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "acilebanon.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "acipimox.com": {
+            "epoch": "1650319200",
+            "expiration_date": "19-apr-2022",
+            "state": "future"
+        },
+        "acird.org": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "acisindonesia.com": {
+            "epoch": "1553724000",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "acme-ins.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "acmeprojectsindia.com": {
+            "epoch": "1592172000",
+            "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
+        "acmhomes.com": {
+            "epoch": "1579125600",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "acmindgsd.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "acoachat.org": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "acolourfulmind.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "acornpresscanada.com": {
+            "epoch": "1657317600",
+            "expiration_date": "09-jul-2022",
+            "state": "future"
+        },
+        "acouleeview.com": {
+            "epoch": "1590184800",
+            "expiration_date": "23-may-2020",
+            "state": "future"
+        },
+        "acount-id.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "acourseinpresence.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "acquatec.net": {
+            "epoch": "1599343200",
+            "expiration_date": "06-sep-2020",
+            "state": "future"
+        },
+        "acquireenglish.org": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "acquireinfotech.co": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "acquittement-gouv.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "acrp.in": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "acscoatings.ca": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "acswebsi.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "act99.cc": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "actba.org": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "actcoating.com": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "actgtexas.com": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "actinla.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "actionbuildersinc.com": {
+            "epoch": "1589493600",
+            "expiration_date": "15-may-2020",
+            "state": "future"
+        },
+        "actionclouds.com": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "actionnetwork.org": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "actionresearchedu.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "activate-facebook.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "activate-wfb.life": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "activate-wfb.services": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "activated-mail.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "activation-manager-nab.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "active-account-information.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "active-netflix.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "activecity.ro": {
+            "epoch": "1541714400",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "activekeys.info": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "activemobilityupstate.com": {
+            "epoch": "1548367200",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "activeparents.club": {
+            "epoch": "1537048800",
+            "expiration_date": "16-sep-2018",
+            "state": "past"
+        },
+        "activesmshub.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "activewf.agency": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "activewf.review": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "activewf.trade": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "activewf.win": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "activexchanger.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "actividadesvulnerables.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "actualizacionesjuridicasdeantioquia.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "actupspeedreading.com": {
+            "epoch": "1581372000",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "actvision.in": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "acu.men": {
+            "epoch": "1541973600",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "acuherbtherapy.com": {
+            "epoch": "1588456800",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
+        "ad0be.download": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "ad0be.review": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "adaamps.com": {
+            "epoch": "1598738400",
+            "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "adabtv.org": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "adaccount-limita.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "adacure.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
             "state": "future"
         },
         "www-yobit.com": {
