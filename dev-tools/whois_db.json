@@ -90,6 +90,21 @@
             "expiration_date": "29-aug-2019",
             "state": "future"
         },
+        "1-btc.cc": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "1-myetherwallet.com": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "1-tamiflu.us": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
         "1000.domains": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
@@ -333,6 +348,236 @@
         "1800contactcustomerphonenumber.com": {
             "epoch": "1553119200",
             "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "1860-nicaragua-banish.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "1886buffalocafe.ca": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "1914-minotaur.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "1949.hk": {
+            "epoch": "1547589600",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "1952shorewood.com": {
+            "epoch": "1577829600",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "1ahb.com": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "1b.yt": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "1bm0-secure-confirm-ac193.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "1bmo-security-alert.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "1d1offer.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "1drv.ms": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "1enkk.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "1granddaily.org": {
+            "epoch": "1548540000",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "1hostingmurah.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "1ink.cc": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "1ink.info": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "1jci.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "1leafclover.net": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "1link.one": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "1mesasdepool.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "1mikesflooring.ca": {
+            "epoch": "1592431200",
+            "expiration_date": "18-jun-2020",
+            "state": "future"
+        },
+        "1morerd.com": {
+            "epoch": "1547416800",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "1myetherwallet.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "1myetherwallet.net": {
+            "epoch": "1552514400",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "1n1xv7-streamlessvz.stream": {
+            "epoch": "1539986400",
+            "expiration_date": "20-oct-2018",
+            "state": "past"
+        },
+        "1raintreeboule.cf": {
+            "epoch": "1855000800",
+            "expiration_date": "13-oct-2028",
+            "state": "future"
+        },
+        "1rogersbonus.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "1royalbank.net": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "1stopresort.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "1successteam.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "1superstoreonline.com": {
+            "epoch": "1536703200",
+            "expiration_date": "12-sep-2018",
+            "state": "past"
+        },
+        "1synergyhosting.net": {
+            "epoch": "1535580000",
+            "expiration_date": "30-aug-2018",
+            "state": "past"
+        },
+        "1update-account.com": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "1vy.org": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "1webauthentications-www-paypal.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "2007-mobile.com": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "2018-domain.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "2018bakingrecipe.com": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "2018likegoda.pro": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "2018mart.com": {
+            "epoch": "1552082400",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "2018mart.info": {
+            "epoch": "1552082400",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "2018saldao.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "2018uksex.win": {
+            "epoch": "1551650400",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "2070modern.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "20jutarupiah.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "20pinestreet.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
             "state": "future"
         },
         "www-yobit.com": {
