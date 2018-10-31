@@ -90885,6 +90885,16 @@
             "expiration_date": "05-jul-2019",
             "state": "future"
         },
+        "t.cn": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "t.co": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
         "t2m.io": {
             "epoch": "1556920800",
             "expiration_date": "04-may-2019",
@@ -90953,6 +90963,11 @@
         "t7adishawarmer.com": {
             "epoch": "1553292000",
             "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "ta-valmar.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "ta65dealers.com": {
@@ -91053,6 +91068,1321 @@
         "tagcabosportfishing.com": {
             "epoch": "1582063200",
             "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "tashift.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "tashtagphotography.com": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "taskesencomertgayrimenkul.com": {
+            "epoch": "1545861600",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "taskorgomanerb.us": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "tasmis.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "tasteintour.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "tasuhealth.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "tatabiznes.net": {
+            "epoch": "1545084000",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "tatakanekikun.net": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "tatarendy.org": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "tatascancigars.info": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "tatascancigars.org": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "tatilinizdenizden.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "tatownsandcountry.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "tatpk.ru": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "tattvamyogi.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "tatweerogs.com": {
+            "epoch": "1548108000",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "taumiq.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "tav.so": {
+            "epoch": "1606168800",
+            "expiration_date": "24-nov-2020",
+            "state": "future"
+        },
+        "tavernsnacks.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "tavismaccallum.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "tawal.mx": {
+            "epoch": "1544047200",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "tax-lien-strategies.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "taxaccountanttoronto.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "taxcom-online.ru": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "taxdepotnj.com": {
+            "epoch": "1671314400",
+            "expiration_date": "18-dec-2022",
+            "state": "future"
+        },
+        "taxgeeks.net": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "taxi-david-lourdes.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "taxi956.ru": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "taxipolska19100.pl": {
+            "epoch": "1551391200",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "taxrefundpayment.info": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "taylormadegolf.asia": {
+            "epoch": "1551477600",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "taytravel.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "tazanews4u.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "tazaragroup.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "tazplus.com": {
+            "epoch": "1541109600",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "tbeale.com": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "tbmbusanamuslim.com": {
+            "epoch": "1541973600",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "tbr-d.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "tc-teb-iade.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "tccontractorsinc.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "tcfutbolakademisi.com": {
+            "epoch": "1598306400",
+            "expiration_date": "25-aug-2020",
+            "state": "future"
+        },
+        "tchpconnect.net": {
+            "epoch": "1553378400",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "tcoffeeint.com": {
+            "epoch": "1583618400",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "tcretail.com": {
+            "epoch": "1549490400",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "tcsaglik.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "tcwrcgeneralcontractors.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "td-troitsa.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "td-udol.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "tdclubs.com": {
+            "epoch": "1545861600",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "tdhcommunications.com": {
+            "epoch": "1545948000",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "tdmcculloch.com": {
+            "epoch": "1548021600",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "tdprod.com": {
+            "epoch": "1550008800",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "tdsgo.ru": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "teaduniya.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "teaemreoit.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "teahcahii.info": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "team-apple-id.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "team-aurelius.com": {
+            "epoch": "1541541600",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "team-recovery-2018.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "team5cup.com": {
+            "epoch": "1553551200",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "teamamangerserver.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "teamasiahodo.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "teamazimut.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "teamerchantcomic.com": {
+            "epoch": "1536357600",
+            "expiration_date": "08-sep-2018",
+            "state": "past"
+        },
+        "teamlocksmith.net": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "teammarandre.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "teamslocum.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "teamspeak.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "teamt2a.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "teamxbow.org": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "teamxltd.com": {
+            "epoch": "1545688800",
+            "expiration_date": "25-dec-2018",
+            "state": "future"
+        },
+        "teatrgalateya.ru": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "teatrical.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "teb-bayramcoskusu.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "teb-mobilsube.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "teb-subeniz.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "teb76yil.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "tebaciksube.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "tebaidathizmet.com": {
+            "epoch": "1593036000",
+            "expiration_date": "25-jun-2020",
+            "state": "future"
+        },
+        "tebaidathizmetleri.com": {
+            "epoch": "1593036000",
+            "expiration_date": "25-jun-2020",
+            "state": "future"
+        },
+        "tebbanksi.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "tebbet1.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "tebbireysel-onlinesube.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "tebbnk.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "tebdecepsube.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "tebdekazanin.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "tebekonomgundem.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "tebgirisonline.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "tebonlineislemlerim.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "tech4dreams.com": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "tech930pro.com": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "techatalyst.com": {
+            "epoch": "1673560800",
+            "expiration_date": "13-jan-2023",
+            "state": "future"
+        },
+        "techbdnext.com": {
+            "epoch": "1534456800",
+            "expiration_date": "17-aug-2018",
+            "state": "past"
+        },
+        "techbox-corporate.com": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "techdryindia.com": {
+            "epoch": "1655589600",
+            "expiration_date": "19-jun-2022",
+            "state": "future"
+        },
+        "techevox.info": {
+            "epoch": "1547503200",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "techflite.com": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "techgeni.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "techhiking.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "techinsightshub.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "techistorm.com": {
+            "epoch": "1543356000",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "techitacs.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "techlawcentral.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "techlightz.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "techmartonline.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "technical-service-comm.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "technicalguru.info": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "technimum.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "technofridge.com": {
+            "epoch": "1535580000",
+            "expiration_date": "30-aug-2018",
+            "state": "past"
+        },
+        "technoklus.com": {
+            "epoch": "1612735200",
+            "expiration_date": "08-feb-2021",
+            "state": "future"
+        },
+        "technologyintegrationineducation.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "technologyloop.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "technologynew.cc": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "technoslim.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "technostargroup.in": {
+            "epoch": "1599343200",
+            "expiration_date": "06-sep-2020",
+            "state": "future"
+        },
+        "techrox.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "techsabah.com": {
+            "epoch": "1541973600",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "techsuneducation.com": {
+            "epoch": "1600466400",
+            "expiration_date": "19-sep-2020",
+            "state": "future"
+        },
+        "techsupportlinks.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "techtalkforum.com": {
+            "epoch": "1543010400",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "techvus.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "techwisebrand.bid": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "techzomb.com": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "tecladomusicalvirtual.com": {
+            "epoch": "1550008800",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "teclamm.com": {
+            "epoch": "1600725600",
+            "expiration_date": "22-sep-2020",
+            "state": "future"
+        },
+        "tecmaze.com": {
+            "epoch": "1610316000",
+            "expiration_date": "11-jan-2021",
+            "state": "future"
+        },
+        "tecnauto.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "tecnicosaduanales.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "tecnisistemasyredes.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "tecnoelettricalombardi.it": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "tecnopymes.cl": {
+            "epoch": "1591826400",
+            "expiration_date": "11-jun-2020",
+            "state": "future"
+        },
+        "tecnova.cl": {
+            "epoch": "1582495200",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "tecofc.com": {
+            "epoch": "1545343200",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "tecproquim-ingenieria.cl": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "tecsa.pl": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "tectomy.com": {
+            "epoch": "1785621600",
+            "expiration_date": "02-aug-2026",
+            "state": "future"
+        },
+        "teddybrews.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "tedevents.org": {
+            "epoch": "1583100000",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "tee-essfarms.com": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "teecherry.com": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "teen-bedroom.net": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "teespring.com": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "tehachapicoffeemill.com": {
+            "epoch": "1598047200",
+            "expiration_date": "22-aug-2020",
+            "state": "future"
+        },
+        "tehcproject.com": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "tehofilter.fi": {
+            "epoch": "1654466400",
+            "expiration_date": "06-jun-2022",
+            "state": "future"
+        },
+        "tehrancopy.com": {
+            "epoch": "1580680800",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "tehrecordings.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "teiconst.com": {
+            "epoch": "1640901600",
+            "expiration_date": "31-dec-2021",
+            "state": "future"
+        },
+        "tejasmaritime.com": {
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "tejofactory.cl": {
+            "epoch": "1653775200",
+            "expiration_date": "29-may-2022",
+            "state": "future"
+        },
+        "tekilahosting.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "tekno-is.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "teks-team.com": {
+            "epoch": "1541800800",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "tekstile-illusioner.dk": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "tel-service.info": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "tela-so.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "telaso.us": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "telasoca.me": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "telecablesmart.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "telecredltobop.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "telefrancsfr.com": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "telegr.am": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "telegram-downloads.ru": {
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "telegram-online.ru": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "telegram-web.ru": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "telegram.market": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "telegramm.uz": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "telegramm1.ru": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "telepedia.net": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "telephoneanswerservice.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "telimatrimony.org": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "telmendez.com": {
+            "epoch": "1552168800",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "telmex.com": {
+            "epoch": "1669932000",
+            "expiration_date": "02-dec-2022",
+            "state": "future"
+        },
+        "telstra-webmail.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "telvecitfiyatlari.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "temcas.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "temeco-eg.net": {
+            "epoch": "1658181600",
+            "expiration_date": "19-jul-2022",
+            "state": "future"
+        },
+        "temizelsuaritim.com": {
+            "epoch": "1611957600",
+            "expiration_date": "30-jan-2021",
+            "state": "future"
+        },
+        "temizmetal.com": {
+            "epoch": "1793484000",
+            "expiration_date": "01-nov-2026",
+            "state": "future"
+        },
+        "templatesbay.com": {
+            "epoch": "1549404000",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "templecard.com": {
+            "epoch": "1628719200",
+            "expiration_date": "12-aug-2021",
+            "state": "future"
+        },
+        "temsbilgisayar.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "tendabagus.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "tenemoslapalabra.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "tenminutereviews.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "tennesseekettlebell.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "tennis-kharkov.com": {
+            "epoch": "1547762400",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "tenniscoacher.ru": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "tenniscostadelsol.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "tenochpublicidad.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "tentenpie.mx": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "tentudiadirecto.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "tentudiateatro.com": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "tenutasanmauro.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "tenzinngodup.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "tep4u.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "teplo-blago.ru": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "teplovaiya-pushka.ru": {
+            "epoch": "1550613600",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "terapiaintensivaneonatalepediatrica.it": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "terapiinsomnia.com": {
+            "epoch": "1537567200",
+            "expiration_date": "22-sep-2018",
+            "state": "past"
+        },
+        "terasdecoration.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "terbservrel.services": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "terbush.net": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "terdolskimardiliot.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "tereguillen.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "teresahileko.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "terhain.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "teripalken.info": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "termid-paypal.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "termilinegarivares.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "terminaljalanan.com": {
+            "epoch": "1589407200",
+            "expiration_date": "14-may-2020",
+            "state": "future"
+        },
+        "terra-master.ru": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "terracegardeners.com": {
+            "epoch": "1541282400",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "terrafirmadesignltd.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "terraintroopers.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "terrariumtvappapk.co": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "territory24.com": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "territorytwotwo.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "terrumvinoteca.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "terrykannlaw.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "terrysylvester.com": {
+            "epoch": "1633471200",
+            "expiration_date": "06-oct-2021",
+            "state": "future"
+        },
+        "tervisekabinet.us": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "terviyandefolnedse.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "terziurunleri.com": {
+            "epoch": "1543615200",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "tescobankonline.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "tescokipasangin.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "tescussance.com": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "tesfayeministries.org": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "tesisga.com": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "tesla-nutritions.com": {
+            "epoch": "1586728800",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
+        "tesla.center": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "teslafiles.net": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "teslalubricants.com": {
+            "epoch": "1642456800",
+            "expiration_date": "18-jan-2022",
+            "state": "future"
+        },
+        "tesorohealing.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "tessrouseyphoto.com": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "test143.com": {
+            "epoch": "1613340000",
+            "expiration_date": "15-feb-2021",
+            "state": "future"
+        },
+        "testbuddy.biz": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "tester100.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "testinfos.net": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "testosteronesite.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "testovaciweb.com": {
+            "epoch": "1541541600",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "testservers.co": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "testwheel.info": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "testwifi.info": {
+            "epoch": "1580508000",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "tetismir.ru": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "tetraco.com": {
+            "epoch": "1833573600",
+            "expiration_date": "08-feb-2028",
+            "state": "future"
+        },
+        "tetradinternational.com": {
+            "epoch": "1596146400",
+            "expiration_date": "31-jul-2020",
+            "state": "future"
+        },
+        "tetradthailand.net": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "teurhr.org": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "tevbulten2.com": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "tevclicks.info": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "tevemania.bid": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "tewenas.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "texangloves.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "texasholdemteacher.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "texashomeinspectorsguide.com": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "texasspeedclub.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "texasvendit.com": {
+            "epoch": "1599602400",
+            "expiration_date": "09-sep-2020",
+            "state": "future"
+        },
+        "texlinepk.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "textileexport.in": {
+            "epoch": "1581976800",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
+        },
+        "textsmsconfirmation8891.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "tezbox.net": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
             "state": "future"
         },
         "www-yobit.com": {
