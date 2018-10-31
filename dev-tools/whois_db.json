@@ -55395,6 +55395,11 @@
             "expiration_date": "19-jul-2019",
             "state": "future"
         },
+        "l-jackets.com": {
+            "epoch": "1549404000",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
         "l1ftdigital.com": {
             "epoch": "1625090400",
             "expiration_date": "01-jul-2021",
@@ -57133,6 +57138,1251 @@
         "lidan.ru": {
             "epoch": "1559080800",
             "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "limite-account-verif.me": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "limited-help.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "limited-promo.org": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "limited-promotion.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "limited-up.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "limitedacces-helpcenter.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "limitede-smmarry-accuntz.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "limitedfreeoffers.com": {
+            "epoch": "1548367200",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "limitedlimiteda.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "limiteedupdate.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "limitoffbilling-intlpaypal.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "limittedreview-serviceedit.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "limmodemma.com": {
+            "epoch": "1548108000",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "limoinparadise.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "limopsafe.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "limpatudodeofertas.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "limpiatodo.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "limprimeriedebort.fr": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "lincolnictshipping.us": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "lindadunegan.com": {
+            "epoch": "1549404000",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "lindanabasa.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "lindaofertadejunho.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "lindarubio.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "lindgrenfinancial.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "lindionline.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "lindyjordan.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "lindysmithphotography.com": {
+            "epoch": "1543356000",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "lineage-pace.com": {
+            "epoch": "1541282400",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "linesavings.com": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "linevo.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "lingdabagiwala.com": {
+            "epoch": "1537048800",
+            "expiration_date": "16-sep-2018",
+            "state": "past"
+        },
+        "lingdirects.com": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "lingo.cl": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "lingofacto.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "linguait.com": {
+            "epoch": "1547503200",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "link-03.net": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "link-200.ru": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "link-group.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "link.do": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "link211.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "link2link.world": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "link2you.ru": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "link999.ru": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "linkconsultants.net": {
+            "epoch": "1638223200",
+            "expiration_date": "30-nov-2021",
+            "state": "future"
+        },
+        "linkedinpanel.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "linkedinpublic.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "linkedkim.com": {
+            "epoch": "1547244000",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "linkforcesg.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "linkindian.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "linkis.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "linkmyc.bid": {
+            "epoch": "1545256800",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "links99.info": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "linkship.date": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "linkship.men": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "linksman.su": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "linksoulz.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "linkszy.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "linktr.ee": {
+            "epoch": "1552082400",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "linktrack.info": {
+            "epoch": "1613858400",
+            "expiration_date": "21-feb-2021",
+            "state": "future"
+        },
+        "linquik.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "lintsentry.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "lintwor.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "linuxcambodia.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "linuxhelps.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "linuxted.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "linz.zone": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "lionheads.ca": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "liorclop.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "lipcodes.trade": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "liphotographie.com": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "lipripperz.com": {
+            "epoch": "1591048800",
+            "expiration_date": "02-jun-2020",
+            "state": "future"
+        },
+        "lipserman.com": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "liquidacao-da-semana.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "liquidacao-online.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "liquidacao-total-dia.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "liquidacaodeagosto.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "liquidacaodomes.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "liquidacaopinguim.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "liquidadodia.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "liquidatelv.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "liquidmoondesigns.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "liquidprism.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "liraycia.cl": {
+            "epoch": "1598565600",
+            "expiration_date": "28-aug-2020",
+            "state": "future"
+        },
+        "lisa-lupo.com": {
+            "epoch": "1552082400",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "lisahoward.me": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "lisarobins.com": {
+            "epoch": "1586901600",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
+        },
+        "lisasierradesign.com": {
+            "epoch": "1553724000",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "lisasnatural.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "lisatingle.com": {
+            "epoch": "1681336800",
+            "expiration_date": "13-apr-2023",
+            "state": "future"
+        },
+        "lisawade.net": {
+            "epoch": "1547589600",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "list.ky": {
+            "epoch": "1534456800",
+            "expiration_date": "17-aug-2018",
+            "state": "past"
+        },
+        "listar.org": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "listbuildingreport.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "listconnecting.com": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "listdoo.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "listenhappy.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "listeninginstitute.org": {
+            "epoch": "1551564000",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "listeningtohistory.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "listoutbreak.com": {
+            "epoch": "1578002400",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "litcel.com": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "litconnection.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "litecoin-chain.info": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "litepol.net": {
+            "epoch": "1612389600",
+            "expiration_date": "04-feb-2021",
+            "state": "future"
+        },
+        "litestyrqtyinfo.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "litocom.com": {
+            "epoch": "1568584800",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "litoeuropa.it": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "litopia21.com": {
+            "epoch": "1578348000",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
+        "litoto.org": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "littleexperiences.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "littlekombuchatime.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "littlesteshop.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "littlethingsbigdifference.com": {
+            "epoch": "1667340000",
+            "expiration_date": "02-nov-2022",
+            "state": "future"
+        },
+        "lituationmedia.com": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "livecannerydavis.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "livefoodrecipe.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "livehoney.ru": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "liveitoutblog.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "livekombucha.ca": {
+            "epoch": "1606428000",
+            "expiration_date": "27-nov-2020",
+            "state": "future"
+        },
+        "livelakeforest.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "livelongerhere.com": {
+            "epoch": "1662933600",
+            "expiration_date": "12-sep-2022",
+            "state": "future"
+        },
+        "livemusicmovement.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "livemuslim.net": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "livenart.com": {
+            "epoch": "1604700000",
+            "expiration_date": "07-nov-2020",
+            "state": "future"
+        },
+        "livenatlanta.com": {
+            "epoch": "1548712800",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "liveonstock.ru": {
+            "epoch": "1546293600",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "livepind.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "liverdiseasesurvivors.com": {
+            "epoch": "1543874400",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "liverichspreadwealthworldtour.com": {
+            "epoch": "1591912800",
+            "expiration_date": "12-jun-2020",
+            "state": "future"
+        },
+        "liveservice-auftrag-pp.net": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "liveteach.fr": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "livevsfifa.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "living-in-spain.me": {
+            "epoch": "1598652000",
+            "expiration_date": "29-aug-2020",
+            "state": "future"
+        },
+        "livingfaithministry.org": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "livinginhopebooks.com": {
+            "epoch": "1550872800",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "livinginhopefarm.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "livingmaverick.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "livingston.rs": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "livingstonseo.com": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "livingthebalancedlife.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "livingwithchronicbackpain.com": {
+            "epoch": "1551564000",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "livingwithheartandpower.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "livingwordmission.com": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "livostream.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "liyeplimal.com": {
+            "epoch": "1534629600",
+            "expiration_date": "19-aug-2018",
+            "state": "past"
+        },
+        "lizdombrowski.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "ljd-ent.com": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "ljvk.ru": {
+            "epoch": "1576447200",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "lk21download.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "lkarmousezwine.com": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "lkralken.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "llaick.bid": {
+            "epoch": "1550268000",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "llamining.com": {
+            "epoch": "1547416800",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "llantascasagrande.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "llantasdecoatzintla.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "llaveroelectoral.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "llbanrorteporinternet.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "llbfarm.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "llk.dk": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "llll.today": {
+            "epoch": "1564610400",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "llllll.su": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "lloydssonlinetsb.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "llupa.com": {
+            "epoch": "1688767200",
+            "expiration_date": "08-jul-2023",
+            "state": "future"
+        },
+        "lmc-arquitectos.com": {
+            "epoch": "1594591200",
+            "expiration_date": "13-jul-2020",
+            "state": "future"
+        },
+        "lmecenter-css-mstech.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "lmhorse.se": {
+            "epoch": "1538949600",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "lndeed.work": {
+            "epoch": "1583445600",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "lnetfllix.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "lng-direct-france.net": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "lnk.direct": {
+            "epoch": "1546380000",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "lnk.pics": {
+            "epoch": "1605045600",
+            "expiration_date": "11-nov-2020",
+            "state": "future"
+        },
+        "lnkd.in": {
+            "epoch": "1586383200",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "lnkgo.com": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "lnkto.net": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "lntek.ca": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "lnterac-payments.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "lnterac-refund.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "lnvoice-summarly.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "lnvtechusa.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "lo2lo2.net": {
+            "epoch": "1551564000",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "loadhtl.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "loading102.id": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "loaf-sandwichbar.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "loan-usadirectcashloan.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "loannaka.com": {
+            "epoch": "1575756000",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "loansaugusta.com": {
+            "epoch": "1551218400",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "loansnatch.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "loanspromo.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "lobbyhero.co": {
+            "epoch": "1544738400",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "lobietakieujyhvye.net": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "lobovoesteklo.ru": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "lobsterboy.org": {
+            "epoch": "1589839200",
+            "expiration_date": "19-may-2020",
+            "state": "future"
+        },
+        "lobuenoylomalo.net": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "local-online-dating1.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "localbitcn.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "localbitcoins.com": {
+            "epoch": "1685916000",
+            "expiration_date": "05-jun-2023",
+            "state": "future"
+        },
+        "localbitcoins.net": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "localbitcoinsel.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "localbitcoinssell.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "localbizmag.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "localbizvideo.biz": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "localbusinessguides.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "localdatedreams.com": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "localethereum-support.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "localetherieum.com": {
+            "epoch": "1551909600",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "localetherwallet.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "localisationing.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "localizacion-findmyiphone.info": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "localkinecards.com": {
+            "epoch": "1715119200",
+            "expiration_date": "08-may-2024",
+            "state": "future"
+        },
+        "locallearningcentre.com": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "localmafic.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "localprepper.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "localsafeverify.com": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "localsearchbiz.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "localserver-a.net": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "locates-apple.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "location-apple-icloud.live": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "location-apple-map.live": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "location-icloud.live": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "locatizationphone.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "lockdowntrainingsolutions.com": {
+            "epoch": "1642456800",
+            "expiration_date": "18-jan-2022",
+            "state": "future"
+        },
+        "locked-user.cloud": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "lockedacclog.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "lockedacclog.link": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "lockhosts.com": {
+            "epoch": "1546725600",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "lockmountains.info": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "lockoutrxabuse.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "locofamacy.com": {
+            "epoch": "1543615200",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "lodestarcoaches.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "loffdd.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "lofotkran.date": {
+            "epoch": "1541282400",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "loftycreativeworks.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "loftyengineering.com": {
+            "epoch": "1568584800",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "log-in-appleid.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "log-in-appleld.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "logenlbb.dk": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "logfdre.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "logfunding.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "logic-host.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "logicielpirater.fr": {
+            "epoch": "1553637600",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "logicndtsolutions.ca": {
+            "epoch": "1554242400",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "login-accountid.com": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "login-apple-icloud.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "login-apple-ld.com": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "login-apple-services-us.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "login-apple-us.net": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "login-appleid-support.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "login-bancobrasil.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "login-binance.net": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "loginbank.org": {
+            "epoch": "1629324000",
+            "expiration_date": "19-aug-2021",
             "state": "future"
         },
         "www-yobit.com": {
