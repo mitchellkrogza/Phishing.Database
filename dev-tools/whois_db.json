@@ -101980,6 +101980,11 @@
             "expiration_date": "27-apr-2019",
             "state": "future"
         },
+        "www-endesaclientes.net": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
         "www-yobit.com": {
             "epoch": "1553896800",
             "expiration_date": "30-mar-2019",
@@ -101993,6 +101998,11 @@
         "wwwbestchange.ru": {
             "epoch": "1549922400",
             "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "wwwepaymentnetflix.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
             "state": "future"
         },
         "wwwsoftbankjp.com": {
