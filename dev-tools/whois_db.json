@@ -52525,6 +52525,16 @@
             "expiration_date": "05-jun-2019",
             "state": "future"
         },
+        "k-idtech.com": {
+            "epoch": "1541023200",
+            "expiration_date": "01-nov-2018",
+            "state": "future"
+        },
+        "k-oktyabr.ru": {
+            "epoch": "1549836000",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
         "k2corrosion.com": {
             "epoch": "1548280800",
             "expiration_date": "24-jan-2019",
@@ -53558,6 +53568,1146 @@
         "kendralmt.com": {
             "epoch": "1568152800",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "keyid5hfzk4dgkfzk4dg5hkf0jot3z5fzk4dg.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "keyid5hfzk4dgkfzk4dg5hkf0jot3z5fzk4dg.info": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "keyidgjdg5hkfzk4d5hkfzg5hkf0jot3z5.info": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "keypattani.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "keyrates.org": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "keysclipper.net": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "keystone.jobs": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "keystonecm.com": {
+            "epoch": "1693432800",
+            "expiration_date": "31-aug-2023",
+            "state": "future"
+        },
+        "kgpowersports.com": {
+            "epoch": "1548194400",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "kh3inc.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "khabar.ly": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "khadimatliltanazul.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "khairolazhar.com": {
+            "epoch": "1563055200",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "khalisalgrhat.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "khaliskoppar.info": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "khamootgostar.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "khangroup.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "khanhgiang.com": {
+            "epoch": "1633471200",
+            "expiration_date": "06-oct-2021",
+            "state": "future"
+        },
+        "khannaconstructions.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "khantallverify.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "khanzaacc.id": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "kharisma-tp.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "khatsaz.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "khattarshorthandinstitute.com": {
+            "epoch": "1602108000",
+            "expiration_date": "08-oct-2020",
+            "state": "future"
+        },
+        "khawajasons.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "khayratblady.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "khazarealestate.com": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "khcan.com": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "kheopsinternational.ca": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "khiefidn.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "khitmah.com": {
+            "epoch": "1629669600",
+            "expiration_date": "23-aug-2021",
+            "state": "future"
+        },
+        "khmch.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "khmerbit.com": {
+            "epoch": "1535407200",
+            "expiration_date": "28-aug-2018",
+            "state": "past"
+        },
+        "khomloy.org": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "khrystyn.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "khubung.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "khudermunkh.mn": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "khushalitravels.com": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "khushamded.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "khushiconstructions.com": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "khyberlink.info": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "kianpg.com": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "kiboubj.life": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "kichodot.id": {
+            "epoch": "1540936800",
+            "expiration_date": "31-oct-2018",
+            "state": "past"
+        },
+        "kickabove.com": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "kidaskimusic.com": {
+            "epoch": "1547935200",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "kiddygoldnest.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "kidfunleague.com": {
+            "epoch": "1683237600",
+            "expiration_date": "05-may-2023",
+            "state": "future"
+        },
+        "kidgaze.com": {
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "kids-cosmos.com": {
+            "epoch": "1578693600",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "kids4mo.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "kidswaitingroomtoysandfurniture.com": {
+            "epoch": "1590357600",
+            "expiration_date": "25-may-2020",
+            "state": "future"
+        },
+        "kidswallpainting.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "kidxxchoicexx.us": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "kidzenter.com": {
+            "epoch": "1547503200",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "kientop.com": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "kifreight.com": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "kigalikonnect.com": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "kiinteistotili.fi": {
+            "epoch": "1542492000",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "kikilovell.com": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "kikobucks.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "kikogoatnation.com": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "kilicaslanyapidekorasyon.org": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "kilimanjarotrip.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "killingafatguy.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "kimadkn.club": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "kimakasdsadc.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "kimakasdsadc.net": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "kimakasdsadc.org": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "kimberlinsilentauction.com": {
+            "epoch": "1549490400",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "kimberly11.com": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "kimberlyayala23.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "kimberlyorient.net": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "kimcildecline.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "kimdoc.top": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "kimthemakeupartist.com": {
+            "epoch": "1645826400",
+            "expiration_date": "26-feb-2022",
+            "state": "future"
+        },
+        "kimudesign.com": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "kimwooi.com": {
+            "epoch": "1583100000",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
+        },
+        "kinecosystem.io": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "kinerjaads.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "kinerjago.com": {
+            "epoch": "1548540000",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "kinerjatechnology.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "kinesicintell.com": {
+            "epoch": "1545343200",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "kineslince.com": {
+            "epoch": "1542837600",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "kinetic-ind.com": {
+            "epoch": "1584914400",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "kineticio.network": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "kinetictoken.net": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "kingdomradioonline.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "kingeley.com": {
+            "epoch": "1550613600",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "kinghot.org": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "kingofprussiaequipment.com": {
+            "epoch": "1611180000",
+            "expiration_date": "21-jan-2021",
+            "state": "future"
+        },
+        "kingslodgemotel.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "kingsofharvest.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "kingstaronline.com": {
+            "epoch": "1550440800",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "kingstonthepug.com": {
+            "epoch": "1544047200",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "kinhdoanhcontainer.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "kinhnghiemdulichsapa.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "kinhtetv.com": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "kiniopoisk.ru": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "kinishko.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "kinjoken.win": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "kinman.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "kinnaurspititour.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "kinocinema.tv": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "kinopoosk.ru": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "kinotavr.ru": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "kinup-dent.ru": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "kippscoffee.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "kirbet.com": {
+            "epoch": "1596751200",
+            "expiration_date": "07-aug-2020",
+            "state": "future"
+        },
+        "kirbytent.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "kirklarelimektep.org": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "kirkmayracing.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "kirloskarbrothers.com": {
+            "epoch": "1543356000",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "kirtichitre.com": {
+            "epoch": "1549836000",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "kisakoenig.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "kissobynekitni.com": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "kitadiusircuy.in": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "kitamulaidari0yabos.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "kitavu.com": {
+            "epoch": "1626645600",
+            "expiration_date": "19-jul-2021",
+            "state": "future"
+        },
+        "kitchengadgets.world": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "kitchenherb.mn": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "kitchenkidsmeals.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "kitchenrentalslasvegas.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "kitna-padega.com": {
+            "epoch": "1547071200",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "kitnatoinho.com": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "kitrepairat.com": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "kitsapmap.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "kiwigolfpool.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "kiwiproductionsuk.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "kjcleaningservice.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "kjcosmetics.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "kjcustom.com": {
+            "epoch": "1604786400",
+            "expiration_date": "08-nov-2020",
+            "state": "future"
+        },
+        "kjhdcsc.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "kjiophul.org": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "kjkasdjaksdasdbe.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "kjlfdw.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "kjsa.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "kkbco.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "kketp.com": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "kkk.tw": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "kkmusicproduction.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "klartscouncil.ca": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "klarzynski.pl": {
+            "epoch": "1542492000",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "klass.md": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "klassika-decora.ru": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "klaus-juergen-adler-b-eng.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "kleenoh.com": {
+            "epoch": "1591912800",
+            "expiration_date": "12-jun-2020",
+            "state": "future"
+        },
+        "klik-hemat.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "klikfresh.com": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "klikhan.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "kliknya.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "klimaservisbodrum.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "klingemeyer.com": {
+            "epoch": "1551218400",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "klingstone.com": {
+            "epoch": "1598824800",
+            "expiration_date": "31-aug-2020",
+            "state": "future"
+        },
+        "klinikkecantikankulithelena.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "kliniksholiong.com": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "klldeat.org": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "kloctinn.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "kloepper.org": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "kloetconstruction.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "kloudteck.com": {
+            "epoch": "1682805600",
+            "expiration_date": "30-apr-2023",
+            "state": "future"
+        },
+        "klpcuganda.org": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "klugtaxlaw.com": {
+            "epoch": "1657231200",
+            "expiration_date": "08-jul-2022",
+            "state": "future"
+        },
+        "klugus.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "kmajormusic.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "kmcl.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "kmnnl.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "kmsfood.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "kmusicalawards.com": {
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "kn9ymw-15n9ar.stream": {
+            "epoch": "1539900000",
+            "expiration_date": "19-oct-2018",
+            "state": "past"
+        },
+        "kneesurgeonhouston.com": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "knjigovodstvo-smart.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "knjsystem.net": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "knot6.com": {
+            "epoch": "1612044000",
+            "expiration_date": "31-jan-2021",
+            "state": "future"
+        },
+        "knotion.net": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "kobenhavn.cl": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "kocije-holbak.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "koennig.info": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "kofcstmichael.org": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "kogantihomes.org": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "kohsarmangla.com": {
+            "epoch": "1662242400",
+            "expiration_date": "04-sep-2022",
+            "state": "future"
+        },
+        "kojak-group.com": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "kojakian.com": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "kojhiro-takeshi.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "kojinyuusi.win": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "koketki.org": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "koko.by": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "kokoyh.org": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "koksform.com": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "kokyakusapotochekku.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "kokyu.pl": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "kolackies.com": {
+            "epoch": "1548626400",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "kolamrenangpro.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "koldinaremaslone.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "koleksiyonrattan.com": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "kolman.si": {
+            "epoch": "1706738400",
+            "expiration_date": "01-feb-2024",
+            "state": "future"
+        },
+        "koloiji.info": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "kolokonta.net": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "kolykhaloff.ru": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "komalsen.in": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "komanda-c-project.ru": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "komanefilms.com": {
+            "epoch": "1543874400",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "komatz-tech.com": {
+            "epoch": "1550008800",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "kometyay.com": {
+            "epoch": "1729980000",
+            "expiration_date": "27-oct-2024",
+            "state": "future"
+        },
+        "komhotell.se": {
+            "epoch": "1538949600",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "komit.mn": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "komkarinho.com": {
+            "epoch": "1548194400",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "konarkproject.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "kondas.net": {
+            "epoch": "1639864800",
+            "expiration_date": "19-dec-2021",
+            "state": "future"
+        },
+        "konepajasihvo.fi": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "konferanskoltuguureticisi.com": {
+            "epoch": "1599688800",
+            "expiration_date": "10-sep-2020",
+            "state": "future"
+        },
+        "kongapages.com": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "koniciea-setpo.net": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "konka2.biz": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "konkurs123.ru": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "konnertec.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "konobaspilja.me": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "konpacruise.com": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "konqsberq.com": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "kontaxxa.ro": {
+            "epoch": "1655589600",
+            "expiration_date": "19-jun-2022",
+            "state": "future"
+        },
+        "kontierungs-abc.info": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "kontosrestaurant-naxos.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "koochiscloset.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "koodobonus.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "kooiii.com": {
+            "epoch": "1541973600",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "kookabullasports.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "kooltap.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "kooss.cl": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
             "state": "future"
         },
         "www-yobit.com": {
