@@ -104755,6 +104755,11 @@
             "expiration_date": "30-nov-2019",
             "state": "future"
         },
+        "zuis.si": {
+            "epoch": "1548799200",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
         "zukodesigns.com": {
             "epoch": "1567116000",
             "expiration_date": "30-aug-2019",
