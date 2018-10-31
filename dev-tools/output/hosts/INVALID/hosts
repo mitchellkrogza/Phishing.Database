@@ -362,3 +362,6 @@
 0.0.0.0 localbitcn.com,http:
 0.0.0.0 lp-001.domaincentral.com.au:8443
 0.0.0.0 luisvelazquez.com.mx,http:
+0.0.0.0 mail1.thebirdgroup.com:83
+0.0.0.0 mail33.serverstream.com:32000
+0.0.0.0 mail.lewislegal.com:32000
