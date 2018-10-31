@@ -50870,6 +50870,16 @@
             "expiration_date": "19-feb-2019",
             "state": "future"
         },
+        "j-shears.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "j.gs": {
+            "epoch": "1550181600",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
         "j2spro.com": {
             "epoch": "1583877600",
             "expiration_date": "11-mar-2020",
@@ -50893,6 +50903,1471 @@
         "jackiechionh.com": {
             "epoch": "1551304800",
             "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "jarielymaycol.com": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "jarvaomakerwin.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "jarzabek.info": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "jasa-satpam.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "jascolabs.com": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "jasdeepbuildcon.com": {
+            "epoch": "1534975200",
+            "expiration_date": "23-aug-2018",
+            "state": "past"
+        },
+        "jaskc.re": {
+            "epoch": "1545170400",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "jasonbarnesphoto.com": {
+            "epoch": "1551823200",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "jasonesposito.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "jasonmdurham.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "jasperchineserestaurant.com": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "jatmarriagebureau.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "jatsgroup.com": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "javapackindonesia.com": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "javaplusinnovations.com": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "javelinprogram.com": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "javema.cl": {
+            "epoch": "1582754400",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "jawdropping.bid": {
+            "epoch": "1554242400",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "jawedhabibspa.com": {
+            "epoch": "1535320800",
+            "expiration_date": "27-aug-2018",
+            "state": "past"
+        },
+        "jawwadagroengineering.com": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "jax-x.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "jaxonwilliamsmusic.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "jayaantikafurniture.com": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "jayanthyenterprises.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "jaychallenge.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "jaycopromoters.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "jaydcarter.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "jaymay-owa.com": {
+            "epoch": "1544047200",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "jayprakashsomani.com": {
+            "epoch": "1601935200",
+            "expiration_date": "06-oct-2020",
+            "state": "future"
+        },
+        "jaysonbd.com": {
+            "epoch": "1602367200",
+            "expiration_date": "11-oct-2020",
+            "state": "future"
+        },
+        "jaytakeapic.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "jazeegroup.com": {
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "jazzcafefm.com": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "jazzyautoimaging.com": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "jazzyhometheater.com": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "jbeileparchy.org": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "jbiphotovideo.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "jblackandassociates.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "jblogics.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "jbnphilly.org": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "jbwealthandassets.com": {
+            "epoch": "1588716000",
+            "expiration_date": "06-may-2020",
+            "state": "future"
+        },
+        "jc-podroze.pl": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "jcarchi.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "jcbpr.org": {
+            "epoch": "1548540000",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "jcbreg.com": {
+            "epoch": "1589580000",
+            "expiration_date": "16-may-2020",
+            "state": "future"
+        },
+        "jcfcashandcarry.com": {
+            "epoch": "1676325600",
+            "expiration_date": "14-feb-2023",
+            "state": "future"
+        },
+        "jcrdrillsol.com": {
+            "epoch": "1576620000",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "jdanielcook.net": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "jdavidfranzke.com": {
+            "epoch": "1657317600",
+            "expiration_date": "09-jul-2022",
+            "state": "future"
+        },
+        "jdfrt.co": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "jdiriemergency.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "jdkernaghan.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "jdtccl.com": {
+            "epoch": "1548799200",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "jeanbaardsen.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "jeanfrancoislebrun.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "jeansnedegar.com": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "jecomms.com": {
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "jeevanjyotiuniforms.com": {
+            "epoch": "1552255200",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "jeffbeaudette.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "jefferywells.us": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "jeffgramlich.org": {
+            "epoch": "1547416800",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "jeffgrayrealty.com": {
+            "epoch": "1542664800",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "jeffkempteam.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "jeffpruittmusic.com": {
+            "epoch": "1543701600",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "jeffreybcam.net": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "jeffrybabb.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "jeffsamoray.com": {
+            "epoch": "1552255200",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "jeffteza.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "jeins.net": {
+            "epoch": "1548194400",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "jeita.biz": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "jejekindulert.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "jelajahkepri.com": {
+            "epoch": "1560722400",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "jelbanaoubdi.net": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "jellenson.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "jemimaevents.com": {
+            "epoch": "1541109600",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "jempskenyatours.com": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "jenaecherry.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "jenbingham.com": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "jendoesmyhair.com": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "jenerationhealth.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "jenilynphotojewelry.com": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "jenmayconsulting.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "jennielodien.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "jenniferdufek.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "jenniferneslund.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "jennyandgrant.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jentee.cz": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "jenuhbos.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "jenwportfolio.com": {
+            "epoch": "1588543200",
+            "expiration_date": "04-may-2020",
+            "state": "future"
+        },
+        "jeopatikstres.com": {
+            "epoch": "1614117600",
+            "expiration_date": "24-feb-2021",
+            "state": "future"
+        },
+        "jeramaxdata.biz": {
+            "epoch": "1547071200",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "jermanisn.com": {
+            "epoch": "1547935200",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "jeroumanfesserine.net": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "jeroumanfesserine.org": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "jeroumanfesthreonine.org": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "jerseygastricbypass.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "jesed.org": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "jesesmobileac.com": {
+            "epoch": "1602108000",
+            "expiration_date": "08-oct-2020",
+            "state": "future"
+        },
+        "jessbeyou.org": {
+            "epoch": "1553464800",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "jessekanclerz.com": {
+            "epoch": "1599948000",
+            "expiration_date": "13-sep-2020",
+            "state": "future"
+        },
+        "jesseslade.net": {
+            "epoch": "1534197600",
+            "expiration_date": "14-aug-2018",
+            "state": "past"
+        },
+        "jessicafoleylaw.com": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "jessicahoffman.me": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "jessieward.com": {
+            "epoch": "1598738400",
+            "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "jessisjewels.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "jessthreadingbeautysalon.com": {
+            "epoch": "1821996000",
+            "expiration_date": "27-sep-2027",
+            "state": "future"
+        },
+        "jesuskristus.org": {
+            "epoch": "1541109600",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "jesuskristus.tv": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "jesuslive.us": {
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "jesusposter.net": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "jesussaved.net": {
+            "epoch": "1549404000",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "jethooky.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "jetplayz.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "jewelsbynicole.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "jewishpenpals.org": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "jewonder.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "jexmoney.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "jexpressonline.com": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "jezycjada.pl": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "jf-odivelas.win": {
+            "epoch": "1539295200",
+            "expiration_date": "12-oct-2018",
+            "state": "past"
+        },
+        "jfpartyplanner.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "jhanjartv.com": {
+            "epoch": "1653948000",
+            "expiration_date": "31-may-2022",
+            "state": "future"
+        },
+        "jhasel.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "jhcauk.org": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "jhdhfile.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.me": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.net": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.org": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhnwellness.org": {
+            "epoch": "1661724000",
+            "expiration_date": "29-aug-2022",
+            "state": "future"
+        },
+        "jhoninbox.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "jiaauto.in": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "jiajiaelizabeth.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "jiayuins.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "jibrilianangelintrove.id": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "jidelnahradecka.cz": {
+            "epoch": "1646776800",
+            "expiration_date": "09-mar-2022",
+            "state": "future"
+        },
+        "jihadalasadi.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "jilicola.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "jillmsommers.com": {
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "jimf-bi.org": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "jimgirardi.com": {
+            "epoch": "1597701600",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "jimhartsen.com": {
+            "epoch": "1667080800",
+            "expiration_date": "30-oct-2022",
+            "state": "future"
+        },
+        "jimmiehardinshowhorses.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "jimsings.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "jimyateswaterpolo.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "jingsolutions.info": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "jinyuqi.com": {
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "jirehms.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "jisaconsulting.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "jishaohua.com": {
+            "epoch": "1537394400",
+            "expiration_date": "20-sep-2018",
+            "state": "past"
+        },
+        "jishindo.it": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "jiskajobhimali.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "jisukcho.com": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "jiteenengineering.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "jiuxconsultant.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "jiwantravels.com": {
+            "epoch": "1542492000",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "jj288.com": {
+            "epoch": "1608674400",
+            "expiration_date": "23-dec-2020",
+            "state": "future"
+        },
+        "jjcdr.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "jjfgjgjf4.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "jjminstruments.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "jjolmyunga.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "jjpatel.in": {
+            "epoch": "1553637600",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "jk-47.net": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "jleealbums.com": {
+            "epoch": "1602280800",
+            "expiration_date": "10-oct-2020",
+            "state": "future"
+        },
+        "jljsalesgroup.com": {
+            "epoch": "1600207200",
+            "expiration_date": "16-sep-2020",
+            "state": "future"
+        },
+        "jlmmobiservi.com": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "jltl.org": {
+            "epoch": "1587420000",
+            "expiration_date": "21-apr-2020",
+            "state": "future"
+        },
+        "jmb-photography.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "jmcbaenterprises.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "jmcoderz.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "jmdphysiotronic.in": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "jmp2.in": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "jmsalesassociates.com": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "jn-accounting.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "jn-car.ru": {
+            "epoch": "1545256800",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "jnb.in": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "jnhoje.com": {
+            "epoch": "1541887200",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "jnisign.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "jnkinstituteofeducation.org": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "jntrcpl.com": {
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "jnytgff.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "jo-danielshair.com": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "joanlovell.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "joannablack.ca": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "jobarba.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "jobhere.in": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "jobhips.net": {
+            "epoch": "1554242400",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "jobhostels.ru": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "jobinbpos.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jobpush.net": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "jobquarters.com": {
+            "epoch": "1551218400",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "jobsearchinaustria.info": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "jobsfordevelopment.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "jobsmarket.com": {
+            "epoch": "1595541600",
+            "expiration_date": "24-jul-2020",
+            "state": "future"
+        },
+        "jocelynweiss.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "jocjw.com": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "jodanssupplyco.id": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "jodascience.ru": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "jodiepeterkin.com": {
+            "epoch": "1617573600",
+            "expiration_date": "05-apr-2021",
+            "state": "future"
+        },
+        "jodimakers.org": {
+            "epoch": "1605823200",
+            "expiration_date": "20-nov-2020",
+            "state": "future"
+        },
+        "jodohmu.info": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "joeknowsgayporn.com": {
+            "epoch": "1551823200",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "joerath.ca": {
+            "epoch": "1578002400",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "joewhalenradio.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "joeynizuk.com": {
+            "epoch": "1541887200",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "joger.se": {
+            "epoch": "1553637600",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "johannelacombe.ca": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "johansenelectric.com": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "john-mcafee.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "johnbeel.com": {
+            "epoch": "1552773600",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "johnboydbooks.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "johnbreen.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "johncantine.com": {
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "johnfernandez.net": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "johnferner.com": {
+            "epoch": "1541714400",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "johnfkellywines.com": {
+            "epoch": "1589752800",
+            "expiration_date": "18-may-2020",
+            "state": "future"
+        },
+        "johnlophotography.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "johnsonmediagroup.com": {
+            "epoch": "1548712800",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "johnsonsmith11.org": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "johnspages.org": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "joinfuckbook.com": {
+            "epoch": "1552773600",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "joinrb24.com": {
+            "epoch": "1551823200",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "jointrent.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "jointreplacementandtrauma.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "joklandesiklatrfoben.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "jolche.men": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "joldinaremaslone.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "joliecustomhomes.com": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "jomarjewelry.com": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "jomjb.com": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "jonasandtricia.com": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "jonathangreye.com": {
+            "epoch": "1606082400",
+            "expiration_date": "23-nov-2020",
+            "state": "future"
+        },
+        "joncomet.com": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "jones-world.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "jonesautobrokers.com": {
+            "epoch": "1655157600",
+            "expiration_date": "14-jun-2022",
+            "state": "future"
+        },
+        "jonnyborgesmusic.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "jonovelli.com": {
+            "epoch": "1719525600",
+            "expiration_date": "28-jun-2024",
+            "state": "future"
+        },
+        "jonslo.com": {
+            "epoch": "1585864800",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
+        "jontebusch.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "joopiter-toys.com": {
+            "epoch": "1572300000",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "jopstyle.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "jordan6.org": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "jordangerman.net": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "jordikoki.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "jormanunderwear.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "joseantonioescuela.com": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "josepharancio.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "josephjlucas.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "josephpolytechnic.com": {
+            "epoch": "1548453600",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "joseramal.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "joshba.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "joshuacassidy.com": {
+            "epoch": "1588370400",
+            "expiration_date": "02-may-2020",
+            "state": "future"
+        },
+        "joshuamjordan.com": {
+            "epoch": "1541455200",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "joshuaspoon.com": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "joshuawilkerson.com": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "josiahjustice.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "joso-kankou.win": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "jotauretze.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "jotolm.men": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "journaldemourreal.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "journalofsurgicalsciences.com": {
+            "epoch": "1553637600",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "journalsurgicalsimulation.com": {
+            "epoch": "1583445600",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "jowiltravels.com": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "jowy-hax.net": {
+            "epoch": "1546725600",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "joybath.com": {
+            "epoch": "1855605600",
+            "expiration_date": "20-oct-2028",
+            "state": "future"
+        },
+        "joynt.net": {
+            "epoch": "1626040800",
+            "expiration_date": "12-jul-2021",
+            "state": "future"
+        },
+        "joyofcode.com": {
+            "epoch": "1592949600",
+            "expiration_date": "24-jun-2020",
+            "state": "future"
+        },
+        "joypremium.com": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "joyteambiz.com": {
+            "epoch": "1542492000",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "joytin.com": {
+            "epoch": "1541368800",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "joywinning.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "jp-tunes9218301.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "jpc-cdom.org": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "jpdyechem.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "jpelectricalsindia.com": {
+            "epoch": "1545688800",
+            "expiration_date": "25-dec-2018",
+            "state": "future"
+        },
+        "jphomeimprovementny.com": {
+            "epoch": "1543528800",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "jplawfirms.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "jpsinteriordesigns.com": {
+            "epoch": "1547935200",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "jpstan.com": {
+            "epoch": "1548108000",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "jrglobaladvisors.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "jrsistemasinfo.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "jrsolutionscanus.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "jrt-consulting.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "jsa-realestateservices.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "jsfiddle.net": {
+            "epoch": "1635372000",
+            "expiration_date": "28-oct-2021",
+            "state": "future"
+        },
+        "jsjewellerycity.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "jsmgroupinc.com": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "jssengineering.com": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "jswcementdlp.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "jswyjd.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "jsystem.org": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "jtaxaltoona.com": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "jtbconst.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "jtdeal.in": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
             "state": "future"
         },
         "www-yobit.com": {
