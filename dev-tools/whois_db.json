@@ -97215,6 +97215,21 @@
             "expiration_date": "22-dec-2018",
             "state": "future"
         },
+        "v-kontakte.co": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "v-myehterwellet.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "v-v.ps": {
+            "epoch": "1545948000",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
         "v8automoviles.com": {
             "epoch": "1559944800",
             "expiration_date": "08-jun-2019",
@@ -99175,6 +99190,51 @@
             "expiration_date": "23-dec-2018",
             "state": "future"
         },
+        "vk-logs.ru": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "vk-naw.ru": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "vk-nevv.ru": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "vk-reports.ru": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "vk-ru.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "vk-sign.ru": {
+            "epoch": "1551477600",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "vk-stik.pro": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "vk-supports.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "vk-welcome.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
         "vk.cc": {
             "epoch": "1648245600",
             "expiration_date": "26-mar-2022",
@@ -99183,6 +99243,11 @@
         "vk.com": {
             "epoch": "1561240800",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "vk.me": {
+            "epoch": "1658613600",
+            "expiration_date": "24-jul-2022",
             "state": "future"
         },
         "vkamode.ru": {
@@ -99198,6 +99263,686 @@
         "vkcomid336726300.ru": {
             "epoch": "1563314400",
             "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "vkonect.in": {
+            "epoch": "1585864800",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
+        "vkontahte.ru": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "vkontutke.ru": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "vkpick.me": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "vksstiker.ru": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "vkstik.ru": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "vkstore24.ru": {
+            "epoch": "1543183200",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "vla-bcp.com": {
+            "epoch": "1541196000",
+            "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "vlabep.info": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "vladfilm.pro": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "vladimirlande.com": {
+            "epoch": "1601589600",
+            "expiration_date": "02-oct-2020",
+            "state": "future"
+        },
+        "vladnetwork.com": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "vlamangounkes.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "vlasta.fr": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "vlessing.com": {
+            "epoch": "1687989600",
+            "expiration_date": "29-jun-2023",
+            "state": "future"
+        },
+        "vlid-invoice.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "vlworks.com": {
+            "epoch": "1609279200",
+            "expiration_date": "30-dec-2020",
+            "state": "future"
+        },
+        "vmcmottini.it": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "vmesilver.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "vmg1.info": {
+            "epoch": "1625349600",
+            "expiration_date": "04-jul-2021",
+            "state": "future"
+        },
+        "vmindustriesrajkot.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "vmrinternational.com": {
+            "epoch": "1545084000",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "vnlandscape.com": {
+            "epoch": "1636149600",
+            "expiration_date": "06-nov-2021",
+            "state": "future"
+        },
+        "vnpplab.ru": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "vnttennis.net": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "vocaltop.in": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "vocenetflix.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "vodaf0ne.org": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "vodafone-inloggen.com": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "vodkaagency.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "voedegol.net": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "voentorg56.ru": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "voflanka.com": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "voicecallrec.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "voicenet.fi": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "voiceonacademy.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "voicesmusic.com": {
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "voip-review.org": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "voipinstant.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "voipz.net": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "vokkalseeds.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "voklamanaxs.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "vol-tack.ru": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "volarevic.com": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "volcanotrailer.cl": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "volt-electric.ca": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "voltaje.ru": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "volte-ofen.ru": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "voluntarybenefitscertification.com": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "vonmenzel.cl": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "vonnrivera.com": {
+            "epoch": "1536012000",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "voorheeslawfirm.net": {
+            "epoch": "1696111200",
+            "expiration_date": "01-oct-2023",
+            "state": "future"
+        },
+        "vorkuta-online.ru": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "vos-partibhasupa.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "voscalculs-impotsannees2018.com": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "voslcedksa.net": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "vostoknao.ru": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "votkalitakipci.club": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "votre-espace-client-fr.com": {
+            "epoch": "1534370400",
+            "expiration_date": "16-aug-2018",
+            "state": "past"
+        },
+        "voundrinchert.com": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "voxcom.it": {
+            "epoch": "1548712800",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "vp-sb.ru": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "vpflock.com": {
+            "epoch": "1538085600",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
+        "vplan.com": {
+            "epoch": "1544306400",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "vpnvk.info": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "vpp-motors.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "vpsc.fit": {
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
+        "vqjgyx.com": {
+            "epoch": "1572300000",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "vrdebd.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "vrdronegeek.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "vrte462.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "vsalab.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "vse-akki.ru": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "vse-obvesy.ru": {
+            "epoch": "1548021600",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "vsegda-plys.ru": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "vseigrautayanet.info": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "vseprodum.cz": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "vsezdorovy.com": {
+            "epoch": "1581026400",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "vsl-libya.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "vstrips.com": {
+            "epoch": "1553464800",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "vtc.cm": {
+            "epoch": "1513720800",
+            "expiration_date": "20-dec-2017",
+            "state": "past"
+        },
+        "vtechshop.net": {
+            "epoch": "1586728800",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
+        "vtormet-kolomna.ru": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "vtrippers.com": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "vtriton.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "vu.fr": {
+            "epoch": "1614636000",
+            "expiration_date": "02-mar-2021",
+            "state": "future"
+        },
+        "vuagro.com": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "vuittonswitzerland.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "vukarus.ru": {
+            "epoch": "1542405600",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "vukyp-akkov.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "vulafe.info": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "vulcanomarket.com": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "vuonglaw.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "vvallbtc.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "vvcbg.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "vvegroep.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "vvitra.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "vvs56.ru": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "vvvv-pay.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "vvvv.sale": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "vvvvms.shop": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "vyasabooks.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "vzemy.com": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "vzt.me": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "vzturl.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "w107fm.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "w2magazine.com": {
+            "epoch": "1543528800",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "w3eaytg3eqawytghew.ru": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "w3techservices.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "waa.ai": {
+            "epoch": "1593036000",
+            "expiration_date": "25-jun-2020",
+            "state": "future"
+        },
+        "waaynet.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "wac-ye.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "wachtel.pl": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "wachtmeester.nu": {
+            "epoch": "1544133600",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "wadasbuy.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "waficsaab.com": {
+            "epoch": "1610143200",
+            "expiration_date": "09-jan-2021",
+            "state": "future"
+        },
+        "wagasports.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "wagerinternational.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "waiting-page.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "wakondel.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "walausudahnikmatimalamii.cc": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "waldonprojects.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "walefoundation1.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "walkercrain.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "walkingproject.org": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "walkinjobsonweb.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "walkinshaw.net": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "wallacecollisioncenter.com": {
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "wallartz.co": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "wallet-btc.ltd": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "wallet-security.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "wallet-top-up.org": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "walleteos.co": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "walleteos.org": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "walleteth.top": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "walletico.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "www-yobit.com": {
