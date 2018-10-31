@@ -98235,6 +98235,971 @@
             "expiration_date": "26-apr-2019",
             "state": "future"
         },
+        "viabcpc.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "viabcpsbeta.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "viacaoprogresso.com": {
+            "epoch": "1680472800",
+            "expiration_date": "03-apr-2023",
+            "state": "future"
+        },
+        "viagensmiles.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "viajemosbien.com": {
+            "epoch": "1552168800",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "viajestabascochavos.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "viam-advisors.com": {
+            "epoch": "1591048800",
+            "expiration_date": "02-jun-2020",
+            "state": "future"
+        },
+        "viaxann.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "vibearts.ca": {
+            "epoch": "1639260000",
+            "expiration_date": "12-dec-2021",
+            "state": "future"
+        },
+        "vicbiznetworkinc.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "viccza.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "vicembinayikimkirim.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "vicmusik.com": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "victimsafetyguide.com": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "victoiremousseau.fr": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "victorcafe.com": {
+            "epoch": "1674252000",
+            "expiration_date": "21-jan-2023",
+            "state": "future"
+        },
+        "victoriaengineering.co": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "victoriaungureanu.com": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "victoriazenoff.com": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "victoryuniquecharityfoundation.org": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "victoryvidhyalaya.com": {
+            "epoch": "1595887200",
+            "expiration_date": "28-jul-2020",
+            "state": "future"
+        },
+        "vicunitapacha.com": {
+            "epoch": "1536098400",
+            "expiration_date": "05-sep-2018",
+            "state": "past"
+        },
+        "vidaychia.com": {
+            "epoch": "1603922400",
+            "expiration_date": "29-oct-2020",
+            "state": "future"
+        },
+        "vidchenault.com": {
+            "epoch": "1548540000",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "viddiflash.com": {
+            "epoch": "1690754400",
+            "expiration_date": "31-jul-2023",
+            "state": "future"
+        },
+        "video-zapis.ru": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "videoadagency.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "videoautograph.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "videoinprint.net": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "videoinvolo.it": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "videopesan.com": {
+            "epoch": "1545948000",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "videophilography.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "videopokerman.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "videosalesfactory.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "videosearchengineoptimization2.com": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "videosmultiaventura.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "videosulawesi.com": {
+            "epoch": "1536530400",
+            "expiration_date": "10-sep-2018",
+            "state": "past"
+        },
+        "videowns.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "videshnaukri.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "videsignz.com": {
+            "epoch": "1545861600",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "vidi-store.ru": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "vidoresto.men": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "vidyadevi.org": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "vienthammyasia.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "vienuongmamdaunanh.shop": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "vietnam-life.net": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "view-location-icloud.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "view-location-id.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "view-pdf-onlineoffice.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "view-wallel.info": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "view-webwallet.info": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "viewhotitemsonline.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "viewjakarta.com": {
+            "epoch": "1536357600",
+            "expiration_date": "08-sep-2018",
+            "state": "past"
+        },
+        "viewnepal.com": {
+            "epoch": "1550613600",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "viewpdf.net": {
+            "epoch": "1553637600",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "vigidev.fr": {
+            "epoch": "1543701600",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "vigona.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "vigrxpluswebsite.com": {
+            "epoch": "1543010400",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "vihaangroups.in": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "vijayalaxmi.in": {
+            "epoch": "1546898400",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "vijayaspices.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "vijaykiyawat.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "vijethaherbals.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "vikasguptashadi.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "vikgrommm.ru": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "vikingantiques.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "vikkyplus.com": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "vikramassociate.in": {
+            "epoch": "1550440800",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "vikramfoodproducts.com": {
+            "epoch": "1543096800",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "viktor-art.pl": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "viktori-automation.com": {
+            "epoch": "1548453600",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "vilaradic.hr": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "vilaysaffron.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "vildhavrens.se": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "villaadaccountlimitaonline.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "villaelina.com": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "villageagroculture.org": {
+            "epoch": "1548799200",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "villaggiocolostrai.it": {
+            "epoch": "1548626400",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "villaggioinsicilia.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "villanirappresentanze.it": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "villaparadiso.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "villerconsult.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "vimalbearings.com": {
+            "epoch": "1624312800",
+            "expiration_date": "22-jun-2021",
+            "state": "future"
+        },
+        "vimanikacomics.com": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "vin-italy.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "vinaaha.com": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "vinateddy.com": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "vincentrowold.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "vincule-app.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "vindicoelectronics.com": {
+            "epoch": "1547416800",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "vindori.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "vindvashnidevelopers.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "vineyard-garden.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "vingames.net": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "vinoda.men": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "vinoragroup.com": {
+            "epoch": "1541109600",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "vins-et-vacances.com": {
+            "epoch": "1547503200",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "vinsoftsolutions.net": {
+            "epoch": "1546898400",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "vintagelivesgen.com": {
+            "epoch": "1591653600",
+            "expiration_date": "09-jun-2020",
+            "state": "future"
+        },
+        "vintagetreasuresshop.com": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "vintech-india.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "vinted-france.fr": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "vip-24.info": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "vip-expres.ru": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "vipainterior.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "vipauto-sochi.ru": {
+            "epoch": "1543096800",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "vipbdfl.com": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "vipeksetiket.net": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "vipersite.com": {
+            "epoch": "1560722400",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "vipfb.ru": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "viphair.it": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "vipips.ru": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "vipmakeup.co": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "vipnannyagency.com": {
+            "epoch": "1688594400",
+            "expiration_date": "06-jul-2023",
+            "state": "future"
+        },
+        "vipnast-ipc.by": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "vipprice.bid": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "viprealtypr.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "vipsearch.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "vipuserlogin.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "vipva.org": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "vipvoyages.net": {
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "viralhealthytrends.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "viralnewsnetizen.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "viralnook.com": {
+            "epoch": "1590789600",
+            "expiration_date": "30-may-2020",
+            "state": "future"
+        },
+        "virgencom.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "virgilecatherine.fr": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "virginhairs.in": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "virtuallycertain.net": {
+            "epoch": "1546207200",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "virtualsynergy.net": {
+            "epoch": "1550786400",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "virtualvaluation.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "virtualwirex.trade": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "virtualworldcommunity.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "virtuetechnology.com": {
+            "epoch": "1548367200",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "virusprotection225.win": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "visaa4you.com": {
+            "epoch": "1614722400",
+            "expiration_date": "03-mar-2021",
+            "state": "future"
+        },
+        "visasuportt.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "vishwaa-apperals.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "vishwagramodaya.org": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "vision-rhino.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "vision360solutions.in": {
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "visioncarenews.in": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "visiondiseno.cl": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "visiongroupghana.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "visionmtd.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "visionphp.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "visitamericavacationhomes.com": {
+            "epoch": "1602280800",
+            "expiration_date": "10-oct-2020",
+            "state": "future"
+        },
+        "visitbolton.com": {
+            "epoch": "1675116000",
+            "expiration_date": "31-jan-2023",
+            "state": "future"
+        },
+        "visitguineaecuatorial.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "visitmorocco.ma": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "visittoraja.org": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "vistarbn.download": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "vitagold.org": {
+            "epoch": "1551477600",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "vital-confirmation-protection.agency": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "vital-security-certification.agency": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "vital-security-certification.services": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "vitalarix.ru": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "vitalcom.ru": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "vitalikbuterin.info": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "vitalikgiveaway.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "vitaliumglobal.com": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "vitallperu.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "vitaltrainings.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "vitamerc.cl": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "vitaplan.rs": {
+            "epoch": "1551823200",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "vitawani.com": {
+            "epoch": "1639519200",
+            "expiration_date": "15-dec-2021",
+            "state": "future"
+        },
+        "vitazana.com": {
+            "epoch": "1551477600",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "vitimprim.fr": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "vitinhtd.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "vittalaara.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "vivaarquitectura.com": {
+            "epoch": "1541541600",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "vivafascino.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "vivahabandham.in": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "vivaparty.party": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "vivatpersonal.ru": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "vivatraveleg.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "vivebale.com": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "vividea.ro": {
+            "epoch": "1553464800",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "vividrealitiesconsult.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "vivirenchina.com": {
+            "epoch": "1579730400",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "vivirensaludpanama.com": {
+            "epoch": "1540936800",
+            "expiration_date": "31-oct-2018",
+            "state": "past"
+        },
+        "vivostation.com": {
+            "epoch": "1563055200",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "vivrefort.com": {
+            "epoch": "1545688800",
+            "expiration_date": "25-dec-2018",
+            "state": "future"
+        },
+        "viyp1.info": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "viyp1.org": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "vizitkarte.ws": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "vizts.com": {
+            "epoch": "1598738400",
+            "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "vizyon2018.com": {
+            "epoch": "1550872800",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "vk-abuse.ru": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "vk.cc": {
+            "epoch": "1648245600",
+            "expiration_date": "26-mar-2022",
+            "state": "future"
+        },
+        "vk.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "vkamode.ru": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "vkanunited.com": {
+            "epoch": "1597701600",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "vkcomid336726300.ru": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
         "www-yobit.com": {
             "epoch": "1553896800",
             "expiration_date": "30-mar-2019",
