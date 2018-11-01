@@ -47023,7 +47023,7 @@
         "funkaari.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "funminecraftips.com": {
             "epoch": "1546207200",
@@ -47490,6 +47490,11 @@
             "expiration_date": "04-jan-2019",
             "state": "future"
         },
+        "gallop.pl": {
+            "epoch": "1549404000",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
         "galorehost.com": {
             "epoch": "1561759200",
             "expiration_date": "29-jun-2019",
@@ -47503,6 +47508,11 @@
         "galwayshotokankarate.com": {
             "epoch": "1571608800",
             "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "gamabuty.pl": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
             "state": "future"
         },
         "gamatele.com": {
@@ -47741,9 +47751,9 @@
             "state": "future"
         },
         "garimela.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "garnirwanda.com": {
             "epoch": "1541541600",
@@ -47773,7 +47783,7 @@
         "garyreynoldsmedia.com": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "garysview.com": {
             "epoch": "1560117600",
@@ -48214,6 +48224,241 @@
             "epoch": "1556661600",
             "expiration_date": "01-may-2019",
             "state": "future"
+        },
+        "generationcrafters.com": {
+            "epoch": "1579644000",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "generationtogeneration.us": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "genericrobotics.in": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "genesauction.com": {
+            "epoch": "1589666400",
+            "expiration_date": "17-may-2020",
+            "state": "future"
+        },
+        "genesisandlightcenter.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "genesisconsulting.it": {
+            "epoch": "1550440800",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "genesisdisposables.com": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "genesishrservices.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "genesisplacements.in": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "genesmedia.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "geneticsforherpers.com": {
+            "epoch": "1542578400",
+            "expiration_date": "19-nov-2018",
+            "state": "future"
+        },
+        "genevagame.com": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "genevawatersports.com": {
+            "epoch": "1624917600",
+            "expiration_date": "29-jun-2021",
+            "state": "future"
+        },
+        "genexdoors.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "genghijau.com": {
+            "epoch": "1545688800",
+            "expiration_date": "25-dec-2018",
+            "state": "future"
+        },
+        "geni.us": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "geniuseducationconsultants.com": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "genomicsinc.org": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "genova.ee": {
+            "epoch": "1542751200",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "genova7.it": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "gentriwatercorp.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "gentrytelegraph.net": {
+            "epoch": "1551218400",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "genuinewellness.ca": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "geo-marketing.org": {
+            "epoch": "1545775200",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "geo-mongol.mn": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "geoduct.com": {
+            "epoch": "1554588000",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "geoffmaydesign.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "geoffreysim.club": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "geoinfotech.in": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "geolocaux.men": {
+            "epoch": "1545343200",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "geometris.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "geomid.mx": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "geomlocatelli.it": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "george12.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "georgejeansonne.com": {
+            "epoch": "1592258400",
+            "expiration_date": "16-jun-2020",
+            "state": "future"
+        },
+        "georgiewilson.com": {
+            "epoch": "1628287200",
+            "expiration_date": "07-aug-2021",
+            "state": "future"
+        },
+        "georginahassan.com": {
+            "epoch": "1551823200",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "geosp.pro": {
+            "epoch": "1547589600",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "geotalot.com": {
+            "epoch": "1584396000",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "geracaobenjamim.com": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "geraldbernier.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "geraldinejippe.com": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "geraldkogler.com": {
+            "epoch": "1543528800",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "gerdavsbes.com": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "gerencia-app.trade": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "gerenciacasapontes2.com": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "gerenpro.net": {
+            "epoch": "1537135200",
+            "expiration_date": "17-sep-2018",
+            "state": "past"
         },
         "germanfinance.ru": {
             "epoch": "1567202400",
