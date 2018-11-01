@@ -11625,6 +11625,121 @@
             "expiration_date": "19-dec-2018",
             "state": "future"
         },
+        "assure-ameli-remboursement.info": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "assure-ameli-remboursement.net": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "assure-moncompte-enligne.com": {
+            "epoch": "1550268000",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "astar-success.com": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "astazi.ro": {
+            "epoch": "1541368800",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "astclick.club": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "astelsa.net": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "aster-m.su": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "asterfree.net": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "asterixtecho.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "astra-sn.org": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "astraders.info": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "astradirectory.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "astral-journey.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "astral-mantika.com": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "astratwintop.net": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "astrocompatibilityreports.com": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "astroquest.in": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "astsupershop.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "astutlmans.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "asuperiorhomeinspection.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "asyabahisuye.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "asygj.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "at-indonesia.com": {
             "epoch": "1552255200",
             "expiration_date": "11-mar-2019",
@@ -11633,6 +11748,101 @@
         "at-pac.cc": {
             "epoch": "1543615200",
             "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "atamanlouer.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "atarye.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "atbacksw.club": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "atbpro.com": {
+            "epoch": "1570226400",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "atccn3.it": {
+            "epoch": "1546898400",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "atcgoaltending.com": {
+            "epoch": "1674165600",
+            "expiration_date": "20-jan-2023",
+            "state": "future"
+        },
+        "ateamglobalevents.com": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "ateasecafe.com": {
+            "epoch": "1543096800",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "atedimento-sicredi.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "atehno.md": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "ateljekontrast.com": {
+            "epoch": "1576792800",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "atendimento-clientesac.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "atendimento-contatoclientes.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "atendimento-virtual.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "atendimentoapp-contato.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "atendimentocandsilva.club": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "atendimentocontato-clientes.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "atendsac1.pro": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "atendsac2.pro": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
             "state": "future"
         },
         "atetitude.com": {
@@ -11723,6 +11933,11 @@
         "atlashealthcare.ca": {
             "epoch": "1584568800",
             "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "atlasweb.ro": {
+            "epoch": "1632952800",
+            "expiration_date": "30-sep-2021",
             "state": "future"
         },
         "atlga.com": {
