@@ -51606,9 +51606,9 @@
             "state": "future"
         },
         "grscooterclub.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "grtrucking.net": {
             "epoch": "1608847200",
@@ -51640,6 +51640,16 @@
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "grupo-sol.com": {
+            "epoch": "1541455200",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "grupo-viva.com": {
+            "epoch": "1548626400",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
         "grupoarcsi.com": {
             "epoch": "1561240800",
             "expiration_date": "23-jun-2019",
@@ -51668,6 +51678,241 @@
         "grupogmg.mx": {
             "epoch": "1557871200",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "grupomaxima.mx": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "grupomifad.com": {
+            "epoch": "1579125600",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "grupomtm.mx": {
+            "epoch": "1539813600",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
+        "gruporx.com": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "gruposasperus.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "grupotrt.com": {
+            "epoch": "1680040800",
+            "expiration_date": "29-mar-2023",
+            "state": "future"
+        },
+        "grupovibruno.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "gruppocartasi.biz": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "grupporomano.org": {
+            "epoch": "1598565600",
+            "expiration_date": "28-aug-2020",
+            "state": "future"
+        },
+        "gruppounicredit.cloud": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "gruzovoetaxi.ru": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "gruzvn.ru": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "grzegorzlaszuk.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "gs-aviation.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "gsbadda.info": {
+            "epoch": "1550181600",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "gsbihani.com": {
+            "epoch": "1610488800",
+            "expiration_date": "13-jan-2021",
+            "state": "future"
+        },
+        "gsckvv.com": {
+            "epoch": "1534716000",
+            "expiration_date": "20-aug-2018",
+            "state": "past"
+        },
+        "gsf6w73hjs.bid": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "gsimaging.net": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "gslapshina.ru": {
+            "epoch": "1567288800",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "gsmedu.com": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "gsmfaizan.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "gsshenoy.com": {
+            "epoch": "1543615200",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "gstact2017.com": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "gsthstreturns.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "gsvvdesign.co": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "gt-thailand.com": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "gt.edu": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "gtchristianstudents.org": {
+            "epoch": "1780092000",
+            "expiration_date": "30-may-2026",
+            "state": "future"
+        },
+        "gtechproauto.us": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "gtiiti.org": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "gtkg.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "gtmtiket.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "gtrehtistic.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "gtresidency.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "gtstintpro.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "guadalupestables.com": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "guanabidesign.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "guanranteetrustdelivery.org": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "guardiangpsapp.com": {
+            "epoch": "1586383200",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "guardiansolutions.in": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "guateenphilly.com": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "guaxuco.com": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "guckaynaklariservisi.com": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "gudafen.com": {
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "gudanggamismuslimah.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "gudangmaticbali.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
             "state": "future"
         },
         "guiadeempresasperu.com": {
@@ -52443,7 +52688,7 @@
         "hamrasouk.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hamsayegan.com": {
             "epoch": "1548280800",
