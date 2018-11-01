@@ -54325,9 +54325,264 @@
             "expiration_date": "15-jul-2019",
             "state": "future"
         },
+        "hitb-tco.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "hitbtc-login.com": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
         "hitbtc.bid": {
             "epoch": "1559253600",
             "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "hitbtc.cam": {
+            "epoch": "1553724000",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "hitbtc.cc": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "hitbtc.win": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "hitbtcbuy.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "hitbtcsite.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "hitek-engg.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "hitesupackaging.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "hithood.org": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "hitmanjazz.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "hitnaija.co": {
+            "epoch": "1545256800",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "hitnaija.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "hitnaijas.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "hitra.id": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "hitsalon-nature.info": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "hittar.nu": {
+            "epoch": "1541196000",
+            "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "hittinghelmet.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "hive.am": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "hiwasepehr.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "hixsonlawfirm.com": {
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "hizliexpress.com": {
+            "epoch": "1550786400",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "hizliislemler.net": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "hizlipaykasaal.com": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "hkanimalhospital.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "hkdogsport.com": {
+            "epoch": "1591135200",
+            "expiration_date": "03-jun-2020",
+            "state": "future"
+        },
+        "hkelectron.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "hkrecoverygroup.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "hksafaris.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "hktcs.com": {
+            "epoch": "1553983200",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "hl-business.ru": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "hlascan.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "hltbtc.cam": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "hmrc-form.com": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "hmrcgov-uk.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "hmrconline.org": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "hmrctaxrefunduk.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "hmscapital.com": {
+            "epoch": "1552773600",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "ho.do": {
+            "epoch": "1600120800",
+            "expiration_date": "15-sep-2020",
+            "state": "future"
+        },
+        "hoangpottery.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "hoatriphat.com": {
+            "epoch": "1580940000",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
+        },
+        "hoatuoidanghoa.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "hobbyhubdubai.com": {
+            "epoch": "1580076000",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "hobidenal.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "hobochi.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "hochienbirds.com": {
+            "epoch": "1597528800",
+            "expiration_date": "16-aug-2020",
+            "state": "future"
+        },
+        "hocomserv.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "hoffmanag.com": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "hogewoodhouse.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "hohtechlabs.com": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "hoidulich.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
             "state": "future"
         },
         "hointelaso.com": {
@@ -54496,9 +54751,9 @@
             "state": "future"
         },
         "homeinspectors-sanantonio.com": {
-            "epoch": "1534111200",
-            "expiration_date": "13-aug-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "homel.pro": {
             "epoch": "1563228000",
@@ -55298,7 +55553,7 @@
         "hoyanunciosgratis.com": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hoypagamenos.com": {
             "epoch": "1571176800",
