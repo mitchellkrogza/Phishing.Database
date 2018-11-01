@@ -29550,14 +29550,384 @@
             "expiration_date": "16-jul-2019",
             "state": "future"
         },
+        "coxshop24.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "coyotecals.international": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "cozumeldiscovery.com": {
+            "epoch": "1611957600",
+            "expiration_date": "30-jan-2021",
+            "state": "future"
+        },
+        "cpa-moms.us": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "cpa-programs.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "cpaassociatesllc.com": {
+            "epoch": "1547157600",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "cpawindormediapro.com": {
+            "epoch": "1554242400",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "cpbld.co": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "cpc.cx": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "cpf-banreservas.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "cpimtelangana.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "cpinterpacks.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "cpr4doctors.com": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "cprbr.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "cprcertifications.org": {
+            "epoch": "1545775200",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "cprpt.com": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "cpu2you.com": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "cpvmarketingprofessional.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "cqent.biz": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "cqpltqione.com": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
         "cr-refound.com": {
             "epoch": "1563746400",
             "expiration_date": "22-jul-2019",
             "state": "future"
         },
+        "cr3ativespace.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "cr831.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "cradotex.com": {
+            "epoch": "1589320800",
+            "expiration_date": "13-may-2020",
+            "state": "future"
+        },
+        "craftandplank.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "craftcombat.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "craftinghopethemovie.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "craftyorwot.com": {
+            "epoch": "1550440800",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "crahst.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "craigandpamswedding.com": {
+            "epoch": "1546380000",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "craigbergman.info": {
+            "epoch": "1592863200",
+            "expiration_date": "23-jun-2020",
+            "state": "future"
+        },
+        "craigsdesigns.com": {
+            "epoch": "1548367200",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "craigslist-security.us": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "craigslist-verification.org": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "cranetiee.com": {
+            "epoch": "1541455200",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "crashscan.net": {
+            "epoch": "1536444000",
+            "expiration_date": "09-sep-2018",
+            "state": "past"
+        },
+        "craumagnonaire.com": {
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "crawfordballs.com": {
+            "epoch": "1596405600",
+            "expiration_date": "03-aug-2020",
+            "state": "future"
+        },
+        "crawfordperformanceengineering.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "craymondng.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "crazedcheetah.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "crazybot.org": {
+            "epoch": "1585951200",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "crazyparty.in": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "crcfde.org": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "crdesignsnc.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "cre8ive10.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "creabeads.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "creadicard.bid": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "crealdesign.ro": {
+            "epoch": "1843768800",
+            "expiration_date": "05-jun-2028",
+            "state": "future"
+        },
+        "creamcity5k.org": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "creamtitangelmalang.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "crearcomunicaciones.net": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "createchatvideo.ru": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "creatingcoutureparties.com": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "creationpublicrelations.com": {
+            "epoch": "1550527200",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "creationxpress.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "creative-evaluations.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "creativeingredient.com": {
+            "epoch": "1590444000",
+            "expiration_date": "26-may-2020",
+            "state": "future"
+        },
+        "creativelivingpublications.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "creativelycracked.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "creativelyone.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "creativenuts.com": {
+            "epoch": "1547935200",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "creativepixelpress.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "creativepmg.club": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "creativesaif.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "creatividaddigitalrm.com": {
+            "epoch": "1549490400",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "creativzeit.org": {
+            "epoch": "1600984800",
+            "expiration_date": "25-sep-2020",
+            "state": "future"
+        },
+        "creatus.hr": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "credencechildcare.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "credential-packages.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
         "credi-way-secure.com": {
             "epoch": "1569276000",
             "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "credicare.mx": {
+            "epoch": "1548194400",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "creditmoment.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "creditositau.org": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "creditsaved.org": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "creditscoremaster.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
             "state": "future"
         },
         "creditvalleyoptical.com": {
