@@ -55935,6 +55935,11 @@
             "expiration_date": "20-apr-2019",
             "state": "future"
         },
+        "hvezdnybazar.cz": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
         "hwy11-17-hwy582tocoughlin.com": {
             "epoch": "1558821600",
             "expiration_date": "26-may-2019",
@@ -56008,6 +56013,11 @@
         "hyperfilmes.com": {
             "epoch": "1556920800",
             "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "hyperformance.ca": {
+            "epoch": "1575151200",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "hypermagalutododia.com": {
@@ -56558,6 +56568,11 @@
         "icloud-location.live": {
             "epoch": "1568325600",
             "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "icloud-log-ln.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
             "state": "future"
         },
         "icloud-login.net": {
