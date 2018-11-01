@@ -53280,6 +53280,256 @@
             "expiration_date": "23-dec-2018",
             "state": "future"
         },
+        "hbrtdvd.net": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "hbrumenterprises.ca": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "hc-happycasting.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "hcgacademics.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "hciot.net": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "hcohco.com": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "hcp-sumter.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "hd-kashy.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "hdcibuilders.com": {
+            "epoch": "1795903200",
+            "expiration_date": "29-nov-2026",
+            "state": "future"
+        },
+        "hdeco.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "hdkomputer.id": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "hdmovies.org": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "hdwallz.ru": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "headlinesanddeadlines.com": {
+            "epoch": "1568584800",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "headrestbarbershop.net": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "heal2.com": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "healadin.com": {
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "healmedicaltrauma.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "health-burnfats.world": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "health-news.com": {
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "health-serv-int.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "healthab-services.com": {
+            "epoch": "1568239200",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "healthalbertaserv-inter.com": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "healthateverysizeblog.org": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "healthfactssite.com": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "healthforsurvival.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "healthgainsmd.com": {
+            "epoch": "1594245600",
+            "expiration_date": "09-jul-2020",
+            "state": "future"
+        },
+        "healthifoodrecipe.com": {
+            "epoch": "1544738400",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "healthplexdental.ca": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "healthproltd.com": {
+            "epoch": "1554674400",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "healthreviews123.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "healthscientificmedicals.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "healthsdelta.com": {
+            "epoch": "1614463200",
+            "expiration_date": "28-feb-2021",
+            "state": "future"
+        },
+        "healthstoreforwomen.com": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "healthycityfoods.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "healthyfamilydigest.org": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "healthyfood-company.com": {
+            "epoch": "1544565600",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "healthygreendrops.com": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "healthymarrow.org": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "healthymensjournal.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "healthyoilnews.com": {
+            "epoch": "1610402400",
+            "expiration_date": "12-jan-2021",
+            "state": "future"
+        },
+        "healthyweightwatchers.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "hearingcarepk.com": {
+            "epoch": "1551391200",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "hearmaxx.ca": {
+            "epoch": "1632693600",
+            "expiration_date": "27-sep-2021",
+            "state": "future"
+        },
+        "heartattackcentral.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "heartenergymedicine.com": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "heartproductions.ca": {
+            "epoch": "1608588000",
+            "expiration_date": "22-dec-2020",
+            "state": "future"
+        },
+        "heartsandhandsclergy.com": {
+            "epoch": "1580680800",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "heartsmatters.com": {
+            "epoch": "1547244000",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "heartstrongyoga.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
         "heatherdolland.com": {
             "epoch": "1607983200",
             "expiration_date": "15-dec-2020",
