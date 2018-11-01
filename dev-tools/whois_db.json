@@ -42635,9 +42635,374 @@
             "expiration_date": "20-nov-2018",
             "state": "future"
         },
+        "eva-trans.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
         "evafazzari.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
+            "state": "future"
+        },
+        "evakuator-duminichi.ru": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "evaluarederisc-securitatefizica.ro": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "evandeveraux.com": {
+            "epoch": "1575583200",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "evangeliooriginalradio.com": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "evanime.com": {
+            "epoch": "1665698400",
+            "expiration_date": "14-oct-2022",
+            "state": "future"
+        },
+        "evarehfilm.com": {
+            "epoch": "1534543200",
+            "expiration_date": "18-aug-2018",
+            "state": "past"
+        },
+        "evcstation.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "eveannlovero.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "evelynmoh.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "eveningofsparkles.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "event-eth-ada.uk": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "event-eth-give-away.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "event-eth-giveaway.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "event-eth.com": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "event-eth.org": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "eventclergy.com": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "eventeam2016.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "eventek-tn.com": {
+            "epoch": "1541541600",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "eventeth.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "eventgers.fr": {
+            "epoch": "1569362400",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "eventlocations.org": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "eventmangementnow.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "eventosbacus.com": {
+            "epoch": "1550268000",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "eventsexpo.net": {
+            "epoch": "1541282400",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "ever00nstender.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "everglee.com": {
+            "epoch": "1548799200",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "evergreendeal.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "evergreenmotorsgh.com": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "everycheckinsavesakitten.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "everyleads.com": {
+            "epoch": "1553378400",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "everystocks.bid": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "everything-ladybug.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "everythingabouther.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "everythingcom.net": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "everythingdirects.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "everythingiswine.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "everythingisworkable.com": {
+            "epoch": "1597701600",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "evg.mx": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "evidencebasedmarketing.ca": {
+            "epoch": "1648245600",
+            "expiration_date": "26-mar-2022",
+            "state": "future"
+        },
+        "evidyabharati.net": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "evkapen.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "evlnet.ru": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "evolution-support.it": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "evolutiontrip.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "evolvercreative.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "evolveremodeling.com": {
+            "epoch": "1598565600",
+            "expiration_date": "28-aug-2020",
+            "state": "future"
+        },
+        "evoproduction.com": {
+            "epoch": "1552255200",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "evotrustllc.com": {
+            "epoch": "1552255200",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "evrik.pro": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "evsei-vlg.ru": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "evsfoodproducts.com": {
+            "epoch": "1655071200",
+            "expiration_date": "13-jun-2022",
+            "state": "future"
+        },
+        "evzonelimited.com": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "ewebhost4u.com": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "eweuhbomnya.support": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "eweyan.org": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "ewisl.net": {
+            "epoch": "1627596000",
+            "expiration_date": "30-jul-2021",
+            "state": "future"
+        },
+        "ewnc.org": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "exactcolorsystems.com": {
+            "epoch": "1550440800",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "exactlyhow.bid": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "exam.green": {
+            "epoch": "1577656800",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "examfun.in": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "exampsychologist.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "exc-acc-ms.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "excelcare.co": {
+            "epoch": "1541628000",
+            "expiration_date": "08-nov-2018",
+            "state": "future"
+        },
+        "excelexim.com": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "excelfull.com": {
+            "epoch": "1546466400",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "excelpacificinsurance.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "exchange-airdrop.com": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "exchange-mail.ru": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "exchangedictionary.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "exchangehostedservice.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "exchangemsssrv.bid": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "exchanger24.net": {
@@ -42703,6 +43068,11 @@
         "executivetrainersltd.com": {
             "epoch": "1544738400",
             "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "executoralba.ro": {
+            "epoch": "1844114400",
+            "expiration_date": "09-jun-2028",
             "state": "future"
         },
         "exile-studio.com": {
@@ -43263,6 +43633,11 @@
         "facesplit.com": {
             "epoch": "1554674400",
             "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "faceyou.ml": {
+            "epoch": "1835215200",
+            "expiration_date": "27-feb-2028",
             "state": "future"
         },
         "faconsulting-ks.com": {
