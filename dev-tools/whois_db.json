@@ -31260,6 +31260,11 @@
             "expiration_date": "25-may-2019",
             "state": "future"
         },
+        "cy-gov.org": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
         "cy5-maleimide.com": {
             "epoch": "1553378400",
             "expiration_date": "24-mar-2019",
@@ -31325,6 +31330,56 @@
             "expiration_date": "29-jul-2019",
             "state": "future"
         },
+        "cyntax.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "cyrilfonseca.com": {
+            "epoch": "1634335200",
+            "expiration_date": "16-oct-2021",
+            "state": "future"
+        },
+        "cyrrobackup.com": {
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "cysmith.net": {
+            "epoch": "1575064800",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "cz-ebay.cz": {
+            "epoch": "1543960800",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "cz-grad.ru": {
+            "epoch": "1544306400",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "czarnypaswsprzedazy.pl": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "czbarnard.net": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "czbinance.claims": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "czystewentylacje.pl": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
         "d-a-r-p.com": {
             "epoch": "1561154400",
             "expiration_date": "22-jun-2019",
@@ -31353,6 +31408,86 @@
         "d.pr": {
             "epoch": "1570917600",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "d28solutions.com": {
+            "epoch": "1658959200",
+            "expiration_date": "28-jul-2022",
+            "state": "future"
+        },
+        "d2camp.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "d3ipinc.com": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "d8el6.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "daa.pl": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "dabluesman.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "dabouqvalet.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "dabriwalabanijyaudyogltd.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "dabrowiecka.pl": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "dachigamnationalpark.org": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "dacompsc.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "dadalee-lulu.com": {
+            "epoch": "1535580000",
+            "expiration_date": "30-aug-2018",
+            "state": "past"
+        },
+        "dadgah.org": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "dadinfo.fr": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "dados-seguro.com": {
+            "epoch": "1567029600",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "dadotv.net": {
+            "epoch": "1543874400",
+            "expiration_date": "04-dec-2018",
             "state": "future"
         },
         "daewooenc.me": {
@@ -31980,6 +32115,11 @@
             "expiration_date": "04-oct-2019",
             "state": "future"
         },
+        "davidclark.cz": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
         "davidclowney87.com": {
             "epoch": "1554242400",
             "expiration_date": "03-apr-2019",
@@ -32011,8 +32151,8 @@
             "state": "future"
         },
         "davidiosdeveloper.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "davidjypark.com": {
@@ -32338,7 +32478,7 @@
         "deckerlawfirm.com": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "decoalfaro.com": {
             "epoch": "1562796000",
