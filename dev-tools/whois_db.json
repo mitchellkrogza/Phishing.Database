@@ -1805,6 +1805,11 @@
             "expiration_date": "28-jun-2019",
             "state": "future"
         },
+        "a-querida.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
         "a-softbank.com": {
             "epoch": "1565042400",
             "expiration_date": "06-aug-2019",
@@ -10070,9 +10075,294 @@
             "expiration_date": "14-apr-2019",
             "state": "future"
         },
+        "appstore-confirmations-order44265.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "appstrosiunwfn.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "appstunestore.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "appsy-centas-itunes8774.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "appsy0ar-apple.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "appverfdate.com": {
+            "epoch": "1535666400",
+            "expiration_date": "31-aug-2018",
+            "state": "past"
+        },
+        "appvs.rs": {
+            "epoch": "1542578400",
+            "expiration_date": "19-nov-2018",
+            "state": "future"
+        },
+        "appyss-miappidsrvinc.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "aprendenegocios.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "aprendizajecooperativo.cl": {
+            "epoch": "1734818400",
+            "expiration_date": "22-dec-2024",
+            "state": "future"
+        },
+        "aprilcleanb.com": {
+            "epoch": "1554760800",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "aprogalpa.com": {
+            "epoch": "1547503200",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "aproveita-as-ofertinhas-especiais.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "aproveite-agora-mesmo.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "aproveite.top": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "aproveiteesoessasemna.com": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "aproveitequeesoatehoje.com": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "aproveitequeresohoje.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "apsdsoverese.it": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "apstokoyomonjus.org": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "apteekit.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "aptekindonesia.com": {
+            "epoch": "1543701600",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "aptex.pro": {
+            "epoch": "1543010400",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "aptgram.biz": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "aptmediaug.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "aptostechnology.com": {
+            "epoch": "1747778400",
+            "expiration_date": "21-may-2025",
+            "state": "future"
+        },
+        "aptresourcesgroup.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "aptrk8.com": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "apusdeltitikaka.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "apuwa.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "apuzzleofpictures.com": {
+            "epoch": "1552168800",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "aqqloo.cloud": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "aqrtd.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "aquahire-uk.com": {
+            "epoch": "1589407200",
+            "expiration_date": "14-may-2020",
+            "state": "future"
+        },
+        "aqualeto.ru": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "aqualinasfds.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "aquamramor.rs": {
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "aquansh.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "aquaridgelimited.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "aquatech.in": {
+            "epoch": "1729634400",
+            "expiration_date": "23-oct-2024",
+            "state": "future"
+        },
+        "aquaticagenova.it": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "aquisempretemoferta.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "aquivocevalemais.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
         "ar-gamehost.com": {
             "epoch": "1555970400",
             "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "arabtopengineering.com": {
+            "epoch": "1548280800",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "aradesigncollections.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "arafatprinters.com": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "aragonconsultores.cl": {
+            "epoch": "1690668000",
+            "expiration_date": "30-jul-2023",
+            "state": "future"
+        },
+        "arakfactory.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "araniti.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "araratinitibari.com": {
+            "epoch": "1594936800",
+            "expiration_date": "17-jul-2020",
+            "state": "future"
+        },
+        "arathilmahaedavaka.com": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "aratiankalikar.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "arayhamtokm.com": {
+            "epoch": "1555279200",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "arbcraft.com": {
+            "epoch": "1549490400",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "arbiaweb.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "arborbayinc.com": {
+            "epoch": "1629928800",
+            "expiration_date": "26-aug-2021",
+            "state": "future"
+        },
+        "arbrekadabra.com": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
             "state": "future"
         },
         "arc-kawangware.org": {
@@ -10083,6 +10373,26 @@
         "arc-tv.com": {
             "epoch": "1560290400",
             "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "arcade-groupe.com": {
+            "epoch": "1614463200",
+            "expiration_date": "28-feb-2021",
+            "state": "future"
+        },
+        "arcade.agency": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "arcasholdings.com": {
+            "epoch": "1625522400",
+            "expiration_date": "06-jul-2021",
+            "state": "future"
+        },
+        "arccollective.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
             "state": "future"
         },
         "archelons.com": {
@@ -10113,7 +10423,7 @@
         "archilabo.net": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "architecturalfacades.com": {
             "epoch": "1681682400",
@@ -10138,7 +10448,7 @@
         "arcsengineering.it": {
             "epoch": "1540936800",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "arctechelectricals.com": {
             "epoch": "1553205600",
@@ -10483,7 +10793,7 @@
         "aromaessentialoilstore.com": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aromarabica.com": {
             "epoch": "1544824800",
@@ -10491,8 +10801,8 @@
             "state": "future"
         },
         "aromaspeciality.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "aromaterapeutas.org": {
@@ -10696,8 +11006,8 @@
             "state": "future"
         },
         "artkrasota.ru": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1575151200",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "artlanow.com": {
