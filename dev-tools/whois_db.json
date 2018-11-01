@@ -43455,6 +43455,16 @@
             "expiration_date": "18-feb-2019",
             "state": "future"
         },
+        "f-softbank.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "f-tone.com": {
+            "epoch": "1624312800",
+            "expiration_date": "22-jun-2021",
+            "state": "future"
+        },
         "fa.do": {
             "epoch": "1568584800",
             "expiration_date": "16-sep-2019",
@@ -45565,6 +45575,126 @@
             "expiration_date": "14-apr-2019",
             "state": "future"
         },
+        "fledglingdesigns.com": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "fleuriste.com": {
+            "epoch": "1543183200",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "flexfreelance.net": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "flexiprofessor.org": {
+            "epoch": "1606687200",
+            "expiration_date": "30-nov-2020",
+            "state": "future"
+        },
+        "flexisolve.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "flexnet.ca": {
+            "epoch": "1543701600",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "flickerstick.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "flickqow.com": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "flightallegiantair.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "flightshop.in": {
+            "epoch": "1541455200",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "flink.in": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "flinthappy.ru": {
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "flintseamlessgutters.com": {
+            "epoch": "1548540000",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "flipmultiply.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "flippinghousesbustour.com": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "flirtherelady.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "flixnetmove.com": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "flixserriesnet.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "flizzi.se": {
+            "epoch": "1538949600",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "flokalundur.is": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "floki.net": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "florahyderabad.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "flordealoe.com": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "florentmaloudafan.net": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
         "floridacopyrightlaw.com": {
             "epoch": "1558216800",
             "expiration_date": "19-may-2019",
@@ -45663,7 +45793,7 @@
         "flyrock.in": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "flyt.it": {
             "epoch": "1540591200",
@@ -46156,13 +46286,18 @@
             "state": "future"
         },
         "fotoagenciasantiago.cl": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1604268000",
+            "expiration_date": "02-nov-2020",
             "state": "future"
         },
         "fotograf-reklamowy.pl": {
             "epoch": "1554328800",
             "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "fotohd.ro": {
+            "epoch": "1614376800",
+            "expiration_date": "27-feb-2021",
             "state": "future"
         },
         "fotonenergia.pl": {
@@ -46654,6 +46789,141 @@
             "epoch": "1540677600",
             "expiration_date": "28-oct-2018",
             "state": "past"
+        },
+        "friseur-blatter.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "frixtioneasup.info": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "fromlondonderryroad.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "fronterad.bid": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "frontierlk.com": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "froshiar.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "frostin.party": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "frostycatshow.com": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "fructoseintolerantblog.com": {
+            "epoch": "1542664800",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "fruernes.dk": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "fruitandrap.com": {
+            "epoch": "1586556000",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
+        },
+        "fruive.info": {
+            "epoch": "1541541600",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "frunek.cz": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "frutasbermejo.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "fsc-law.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "fserisomaterkd.info": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "fsr-reps.com": {
+            "epoch": "1548108000",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "fssai.guru": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "fssiknowledgestream.com": {
+            "epoch": "1553119200",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "ftmyersalumnaechapter.com": {
+            "epoch": "1550786400",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "ftpsdosingpumps.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "fttita.net": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "fuaconcept.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "fuadways.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "fuckbookgirls.com": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "fudeal.com": {
+            "epoch": "1552082400",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "fudpage.ru": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
         },
         "fullgsm.org": {
             "epoch": "1552946400",
