@@ -25903,7 +25903,7 @@
         "cip-consortium.ro": {
             "epoch": "1540936800",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "cipasfreefly.com": {
             "epoch": "1552255200",
@@ -26080,6 +26080,11 @@
             "expiration_date": "08-jun-2019",
             "state": "future"
         },
+        "cjalba.ro": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
         "cjgfamilyfoundation.com": {
             "epoch": "1543528800",
             "expiration_date": "30-nov-2018",
@@ -26093,6 +26098,31 @@
         "cjoelyoung.com": {
             "epoch": "1565733600",
             "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "cjoint.net": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "ckandj.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "ckminow.org": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "ckperfect.com": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "ckv40.ru": {
+            "epoch": "1568325600",
+            "expiration_date": "13-sep-2019",
             "state": "future"
         },
         "cl-postid4917.org": {
@@ -26110,9 +26140,374 @@
             "expiration_date": "31-may-2019",
             "state": "future"
         },
+        "claim--paypal.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "claim-2500-xlm.org": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "claim-btc.org": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "claim-eth.net": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "claim-eth.top": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "claim-giveaway.club": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "claim-nowgift.com": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "claim-skin-moonton.com": {
+            "epoch": "1679781600",
+            "expiration_date": "26-mar-2023",
+            "state": "future"
+        },
+        "claimeth.info": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "claimeth.me": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "claimeth.org": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "claimeth.top": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "claimethers.org": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "claimi8.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "claimprize.org": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "claimsafe.org": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "claimyour-btc.org": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "claimyour-eth.org": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "clainfra.com": {
+            "epoch": "1542319200",
+            "expiration_date": "16-nov-2018",
+            "state": "future"
+        },
+        "clalonestar.com": {
+            "epoch": "1550527200",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "clanmunro.me": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "clanwalkerdesign.com": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "clappermedia.com": {
+            "epoch": "1541368800",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "claraleitao.net": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "clarewenhamcounselling.com": {
+            "epoch": "1565560800",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "clargee.us": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "clariter.net": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "clarityfox.com": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "clarksinn.trade": {
+            "epoch": "1540504800",
+            "expiration_date": "26-oct-2018",
+            "state": "past"
+        },
+        "clarocapital.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "clarosm.com": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "classevent.it": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "classichairgr.com": {
+            "epoch": "1698530400",
+            "expiration_date": "29-oct-2023",
+            "state": "future"
+        },
+        "classificadosdacomunidade.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "classikmag.com": {
+            "epoch": "1565733600",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "classofis.com": {
+            "epoch": "1548194400",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "classykcatering.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "classywatches.top": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "claudiennearts.com": {
+            "epoch": "1543096800",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "clayheart.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "clayplan.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "claytonoakproperties.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "claz3.win": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "clba.in": {
+            "epoch": "1560722400",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "clck.ru": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "clclp.me": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "clcollegeofpharmacy.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "clean-clean-peru.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "clean-engines.com": {
+            "epoch": "1581458400",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "cleanandgreenguide.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "cleanandsimple-cyprus.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "cleanbeautyshow.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "cleancometruellc.com": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "cleaneconomical.com": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "cleanfeedback.com": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "cleaningrak.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "cleaningservicesdurban.com": {
+            "epoch": "1552255200",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "clearchemwt.com": {
+            "epoch": "1603058400",
+            "expiration_date": "19-oct-2020",
+            "state": "future"
+        },
+        "cleareye.bid": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "clearfieldcountydemocrats.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "clearionexchange.com": {
+            "epoch": "1632520800",
+            "expiration_date": "25-sep-2021",
+            "state": "future"
+        },
+        "clearload.bid": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "cleiatiles.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "clemshigh.com": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "clermontflinjurycenter.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "clevelandcuriositiesb.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "clevercrowcreative.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "clfktioe.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "clgchurch.org": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "clhint.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
         "cli.re": {
             "epoch": "1549922400",
             "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "clickacvis.ru": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "clickbank4money.com": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "clickbillings.ru": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
             "state": "future"
         },
         "clickcomfort.co": {
@@ -26163,6 +26558,11 @@
         "clicow.ru": {
             "epoch": "1549922400",
             "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "clicprint.ca": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
             "state": "future"
         },
         "client-custareaserv.info": {
@@ -26665,6 +27065,11 @@
             "expiration_date": "29-oct-2020",
             "state": "future"
         },
+        "cniptmoldovanoua.ro": {
+            "epoch": "1595023200",
+            "expiration_date": "18-jul-2020",
+            "state": "future"
+        },
         "cnmoodz.com": {
             "epoch": "1563228000",
             "expiration_date": "16-jul-2019",
@@ -26716,8 +27121,8 @@
             "state": "future"
         },
         "coachlorrie.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "coalyardcafe.com": {
