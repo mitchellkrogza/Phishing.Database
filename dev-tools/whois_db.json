@@ -6528,7 +6528,7 @@
         "allaccesshoops.com": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "allaccountedfor.com": {
             "epoch": "1627250400",
@@ -6601,9 +6601,9 @@
             "state": "future"
         },
         "allensbacherzentrum.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "allergicdining.com": {
             "epoch": "1586901600",
@@ -7091,9 +7091,9 @@
             "state": "future"
         },
         "alpvision.it": {
-            "epoch": "1539554400",
-            "expiration_date": "15-oct-2018",
-            "state": "past"
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
         },
         "alqash.com": {
             "epoch": "1547157600",
@@ -7290,9 +7290,169 @@
             "expiration_date": "25-dec-2018",
             "state": "future"
         },
+        "alvahart.com": {
+            "epoch": "1595541600",
+            "expiration_date": "24-jul-2020",
+            "state": "future"
+        },
+        "alvalleymarketplace.com": {
+            "epoch": "1595973600",
+            "expiration_date": "29-jul-2020",
+            "state": "future"
+        },
+        "alwaseetcenter.com": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "alwaysbesttips.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "alwaysforwardcrossfit.com": {
+            "epoch": "1547589600",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "alwaysnewusa.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "alwesamtv.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "alwindoors.com": {
+            "epoch": "1550181600",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "alyamamajobs.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "alysiella.com": {
+            "epoch": "1547157600",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "alysonpayne.com": {
+            "epoch": "1579212000",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "alyt.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
         "am-t.by": {
             "epoch": "1573682400",
             "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "amabeef.com": {
+            "epoch": "1541887200",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "amaderad.net": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "amagerkarate.dk": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "amainkarting.com": {
+            "epoch": "1634853600",
+            "expiration_date": "22-oct-2021",
+            "state": "future"
+        },
+        "amakcomputers.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "amama-mali.com": {
+            "epoch": "1578002400",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "amamaza.rw": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "amandaabelphoto.com": {
+            "epoch": "1546898400",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "amandadoub.com": {
+            "epoch": "1542924000",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "amandanash.guru": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "amanicational.com": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "amanien.info": {
+            "epoch": "1551391200",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "amanthakker.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "amaravatisilver.com": {
+            "epoch": "1592949600",
+            "expiration_date": "24-jun-2020",
+            "state": "future"
+        },
+        "amarendranarayan.com": {
+            "epoch": "1663192800",
+            "expiration_date": "15-sep-2022",
+            "state": "future"
+        },
+        "amarotranslations.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "amateurblackbbw.com": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "amatiopticaclinicajerez.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "amatyurista.com": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "amaxmortgages.com": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
             "state": "future"
         },
         "amayaclinic.us": {
