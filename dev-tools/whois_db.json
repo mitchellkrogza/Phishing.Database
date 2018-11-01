@@ -13450,6 +13450,11 @@
             "expiration_date": "15-mar-2019",
             "state": "future"
         },
+        "b-w-inc.com": {
+            "epoch": "1579125600",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
         "b.link": {
             "epoch": "1553378400",
             "expiration_date": "24-mar-2019",
@@ -20265,6 +20270,11 @@
             "expiration_date": "19-may-2020",
             "state": "future"
         },
+        "broadwaychange.cz": {
+            "epoch": "1576706400",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
         "broadwaygroup.in": {
             "epoch": "1590530400",
             "expiration_date": "27-may-2020",
@@ -21143,6 +21153,236 @@
         "businessworldusallc.com": {
             "epoch": "1571695200",
             "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "bustaablt.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "bustabitts.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "bustablt.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "bustchonge.ru": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "busywithwork.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "butchersunion.org": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "butchgle.com": {
+            "epoch": "1594936800",
+            "expiration_date": "17-jul-2020",
+            "state": "future"
+        },
+        "buterin-giveaway.org": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "buterineth.org": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "buterinfree.org": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "buterinpromo.cn": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "buterinpromo.live": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "butik1001.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "butiklorenzo.pl": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "butlercleric.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "butlerhomeschoolers.org": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "butlersphoto.com": {
+            "epoch": "1597010400",
+            "expiration_date": "10-aug-2020",
+            "state": "future"
+        },
+        "butterflycrowd.com": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "bux.yt": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "buybags.info": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "buyblackmovies.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "buycpn.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "buycuencaecuador.com": {
+            "epoch": "1546034400",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "buyingorsellingyourhouse.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "buyit4thelow.com": {
+            "epoch": "1596232800",
+            "expiration_date": "01-aug-2020",
+            "state": "future"
+        },
+        "buynpayhere.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "buyoncash.com": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "buypacificmade.com": {
+            "epoch": "1545170400",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "buysittinghome.com": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "buywebtechsolutions.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "buzcoinio.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "buzcommindonesia.com": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "buzovacoin.io": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "buzzflixmedia.com": {
+            "epoch": "1543528800",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "buzzingguide.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "buzzooks.com": {
+            "epoch": "1564610400",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "buzzyzone.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "bvd-ravne.si": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "bveyedoctors.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "bwdafinanceltd.com": {
+            "epoch": "1757196000",
+            "expiration_date": "07-sep-2025",
+            "state": "future"
+        },
+        "bwgrandeprairie.com": {
+            "epoch": "1547416800",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "bwtland.com": {
+            "epoch": "1603576800",
+            "expiration_date": "25-oct-2020",
+            "state": "future"
+        },
+        "byebyegrandma.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "byefra.com": {
+            "epoch": "1543874400",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "bygglankguiden.se": {
+            "epoch": "1538949600",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "bylinky.biz": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
             "state": "future"
         },
         "byzcc.com": {
