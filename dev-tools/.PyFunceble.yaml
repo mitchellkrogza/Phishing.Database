@@ -205,8 +205,8 @@ http_codes:
       - 505
 
 links:
-  api_date_format: "http://pyfunceble.funilrys.com/api/date-format"
-  api_no_referer: "http://pyfunceble.funilrys.com/api/no-referer"
+  api_date_format: "https://pyfunceble.funilrys.com/api/date-format"
+  api_no_referer: "https://pyfunceble.funilrys.com/api/no-referer"
   config: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
   dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
   iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
