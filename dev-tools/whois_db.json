@@ -85045,6 +85045,11 @@
             "expiration_date": "10-aug-2019",
             "state": "future"
         },
+        "okazjesklepowe24.pl": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
         "okbit.ru": {
             "epoch": "1549404000",
             "expiration_date": "06-feb-2019",
@@ -85370,9 +85375,234 @@
             "expiration_date": "01-sep-2019",
             "state": "future"
         },
+        "omisegotoken.com": {
+            "epoch": "1535580000",
+            "expiration_date": "30-aug-2018",
+            "state": "past"
+        },
+        "omiseqo.network": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "omkal.com": {
+            "epoch": "1598911200",
+            "expiration_date": "01-sep-2020",
+            "state": "future"
+        },
+        "ommisoconsultants.in": {
+            "epoch": "1546120800",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "omni-es.com": {
+            "epoch": "1597442400",
+            "expiration_date": "15-aug-2020",
+            "state": "future"
+        },
+        "omniaconsultingparma.it": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "omniwm.com": {
+            "epoch": "1614808800",
+            "expiration_date": "04-mar-2021",
+            "state": "future"
+        },
+        "omolje.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "ompautosport.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "omr-design.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "omucaz.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "omuniversity.net": {
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "omveeraknits.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
         "on-water.net": {
             "epoch": "1564005600",
             "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "onastudios.cl": {
+            "epoch": "1551218400",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "onboardchristiancruises.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "oncamforyou.com": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "onceambientstore.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "onceaunicorn.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "oncologyreturns.com": {
+            "epoch": "1541800800",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "oncue1.com": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "onedigital.bid": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "onedirectioncars.com": {
+            "epoch": "1629669600",
+            "expiration_date": "23-aug-2021",
+            "state": "future"
+        },
+        "onedrivesecurelogin.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "onefiftydips.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "onefoto.ro": {
+            "epoch": "1536357600",
+            "expiration_date": "08-sep-2018",
+            "state": "past"
+        },
+        "onejade.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "oneletsandthatding.top": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "onelovetrips.org": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "oneness4all.org": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "oneoblique.com": {
+            "epoch": "1550527200",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "onerezensiondokumentdrive.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "onesecondimpression.com": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "onesoluctionsmdn.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "onestepa-head.com": {
+            "epoch": "1552687200",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "onestoprecharge.com": {
+            "epoch": "1550268000",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "onestopshopdecor.com": {
+            "epoch": "1548799200",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "onetechparts.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "onetoten.ru": {
+            "epoch": "1551132000",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "onetrusthomeloans.com": {
+            "epoch": "1616450400",
+            "expiration_date": "23-mar-2021",
+            "state": "future"
+        },
+        "onevanillachecker.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "oneworld.ro": {
+            "epoch": "1844460000",
+            "expiration_date": "13-jun-2028",
+            "state": "future"
+        },
+        "ong-paardic.cm": {
+            "epoch": "1552168800",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "ongciaspo.cl": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "ongfamilyfoundation.org": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "onidaelevators.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
             "state": "future"
         },
         "online--qnbfinansbank.com": {
