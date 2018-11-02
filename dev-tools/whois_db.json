@@ -101345,6 +101345,61 @@
             "expiration_date": "10-jul-2023",
             "state": "future"
         },
+        "scottwoolbright.com": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "scout1.co": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "scoutdoorpress.com": {
+            "epoch": "1602626400",
+            "expiration_date": "14-oct-2020",
+            "state": "future"
+        },
+        "scovillainous.com": {
+            "epoch": "1597528800",
+            "expiration_date": "16-aug-2020",
+            "state": "future"
+        },
+        "scraphk.com": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "scratchseeder.club": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "screenroomsstl.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "screensaverstudio.us": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "screentec.repair": {
+            "epoch": "1552773600",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "screeplightning.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "scribbly.net": {
+            "epoch": "1543183200",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
         "scrocketry.com": {
             "epoch": "1611871200",
             "expiration_date": "29-jan-2021",
@@ -101846,9 +101901,9 @@
             "state": "future"
         },
         "secureserviceonline.com": {
-            "epoch": "1534370400",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "secureupdate.cc": {
             "epoch": "1566511200",
@@ -101908,6 +101963,16 @@
         "security-online-banking.com": {
             "epoch": "1562796000",
             "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "security-support-nab.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "security-wfbcertification.agency": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
             "state": "future"
         },
         "securityespecialitypolice.com": {
@@ -101975,9 +102040,414 @@
             "expiration_date": "30-may-2019",
             "state": "future"
         },
+        "securitys-rakuten.com": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
         "securitysettings-new.info": {
             "epoch": "1565733600",
             "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "securityupdate-support-app1e-1d.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "securiweb.co": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "securltys--mysoftbank.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "securtymanagment-supprt-amazn.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "securytrans.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "sederi.org": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "sedirotomotiv.com": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "sedona.biz": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "sedonabd.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "seductiondatabase.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "seductionphuket.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "sedumsortilege.bid": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "sedvsrdfv.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "seek-remembrance.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "seekingjesus.com": {
+            "epoch": "1583445600",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "seeklounge.com": {
+            "epoch": "1547071200",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "seercommunications.com": {
+            "epoch": "1545256800",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "seewhocheckedyourfb.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "seg-app.com": {
+            "epoch": "1589839200",
+            "expiration_date": "19-may-2020",
+            "state": "future"
+        },
+        "seg-clientes.net": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "segredosqueimargordura.com": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "segura-actividadcuentasvsftrs.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "segura-actividadcuentasvsftrsvcs.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "segura-actividadfraudesvtrfsc.com": {
+            "epoch": "1555106400",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "segura-actividadinformationcuentasvstfr.com": {
+            "epoch": "1556661600",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "segurancadigitalcliente.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "seguridad-whatsapp.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "seguro-mobile.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "seguro-verificacao-online.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "segurosyfianzas.org": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "segusaperu.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "seinhn.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "seisuikai.net": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "seithy.com": {
+            "epoch": "1606168800",
+            "expiration_date": "24-nov-2020",
+            "state": "future"
+        },
+        "sejacontabil.com": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "sejamaivoce.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "sejatiartmebel.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "sekolahkecantikan.net": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "sekolahmalam.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "seksiyim.com": {
+            "epoch": "1547935200",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "sekudits.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "selearyow.club": {
+            "epoch": "1563055200",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "selecao-cooktop-casasbhaia.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "selecao-de-cooktop-casasbhaia.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "selectbotanical.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "selectnext.com": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "selecttechnical.in": {
+            "epoch": "1627682400",
+            "expiration_date": "31-jul-2021",
+            "state": "future"
+        },
+        "selfhypnosisaudiocds.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "selfimprovement-reviewed.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "selfprotectionproduct.com": {
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "selfship.com": {
+            "epoch": "1545861600",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "selindia.net": {
+            "epoch": "1605132000",
+            "expiration_date": "12-nov-2020",
+            "state": "future"
+        },
+        "sell-suite.info": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "sell2day.com": {
+            "epoch": "1856037600",
+            "expiration_date": "25-oct-2028",
+            "state": "future"
+        },
+        "sellcheap.world": {
+            "epoch": "1545948000",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "sellercentral-account-amazon.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "selleth.io": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "sellhousefastcashnj.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "sellperfectmoney64.com": {
+            "epoch": "1545602400",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "sellserene.com": {
+            "epoch": "1548712800",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "seltvideos.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "sem.support": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "semaill.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "semana-da-oferta.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "semana-de-ofertinhas.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "semana-de-preco-baixo.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "semana-ofertascasasbhaia.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "semanadesaldao2018.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "semanadeverao.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "semanasaldaoimperdivel.com": {
+            "epoch": "1561500000",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "semaphoreroadcellars.com": {
+            "epoch": "1581458400",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "sembradoresdeamistad.com": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "semec.it": {
+            "epoch": "1545343200",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "semestapalet.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "semexpertdelhi.com": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "semigri.ru": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "semkluchey.ru": {
+            "epoch": "1550527200",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "semoon.mn": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "sempre-descontos.com": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "semushin.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
             "state": "future"
         },
         "serpzen.asia": {
