@@ -92960,6 +92960,11 @@
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "promotroops.ro": {
+            "epoch": "1635804000",
+            "expiration_date": "02-nov-2021",
+            "state": "future"
+        },
         "prompark-tlt.ru": {
             "epoch": "1568844000",
             "expiration_date": "19-sep-2019",
@@ -93035,6 +93040,11 @@
             "expiration_date": "01-sep-2019",
             "state": "future"
         },
+        "propublico.pl": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
         "prorecoverfb.com": {
             "epoch": "1558648800",
             "expiration_date": "24-may-2019",
@@ -93066,9 +93076,9 @@
             "state": "future"
         },
         "prosperbizdepot.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "prosperityondemand.com": {
             "epoch": "1606773600",
@@ -93233,6 +93243,11 @@
         "prysmianperformanstesti.com": {
             "epoch": "1572991200",
             "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "przedszkole75.pl": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
             "state": "future"
         },
         "przedszkoletik-tak.pl": {
@@ -93528,6 +93543,11 @@
         "pufina.men": {
             "epoch": "1561240800",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "pugliasounds.it": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
             "state": "future"
         },
         "puglinks.net": {
@@ -93898,6 +93918,356 @@
         "qiwi-btc.com": {
             "epoch": "1553724000",
             "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "qiwi-login.info": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "qiwitobtc.ru": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "qixu.ca": {
+            "epoch": "1797458400",
+            "expiration_date": "17-dec-2026",
+            "state": "future"
+        },
+        "qkc-upvc.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "qkku.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "qkqu.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "qli-asia.com": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "qlink.me": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "qmt.tips": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "qnb-cardfinans.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "qnb-ifinansbank.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "qnbcardfinans.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "qnbf1nansbank.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "qnbfinans-aidatiade.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "qnbfinansbakbireyselmobil.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "qnbfinansbank-iade.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "qnbfinansbank-parapuan.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "qnbfinanscin.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "qnbfinansciniz.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "qnbfinansdanisman.com": {
+            "epoch": "1557093600",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "qnbfinansinternet-sube.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "qnbfinansinternetsube.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "qnbfinanskatilim.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "qnbifinansbank-enpara.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "qokp.com": {
+            "epoch": "1570658400",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "qousandrouch.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "qpixmarketing.com": {
+            "epoch": "1564178400",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "qponn.net": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "qps.ru": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "qq1q.biz": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "qqclickbet88.com": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "qr-creator.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "qr.net": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "qrislemleri.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "qrnetwork.it": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "qrsuporte.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "qsldlaop.net": {
+            "epoch": "1560895200",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "qsmumbai.com": {
+            "epoch": "1549749600",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "qtaertzresw.net": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "qtbsql.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "qtekits.com": {
+            "epoch": "1542492000",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "quadrantcosmetics.com": {
+            "epoch": "1587333600",
+            "expiration_date": "20-apr-2020",
+            "state": "future"
+        },
+        "quadrigis.it": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "quadstech.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "quakers.me": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "qualchemaz.com": {
+            "epoch": "1577570400",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "qualitydentistry.in": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "qualityhandles.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "qualityny.com": {
+            "epoch": "1551477600",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "quantumhelios.com": {
+            "epoch": "1582840800",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "quantumwomanentrepreneur.com": {
+            "epoch": "1545516000",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "quarterbackmagazine.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "quarterh.com": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "quartoimmobiliare.it": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "quartzslabchina.com": {
+            "epoch": "1598738400",
+            "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "quatruyenthong.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "quatruykich24h.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "quatthonggiochinhhang.com": {
+            "epoch": "1546552800",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "quattrocolours.se": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "qudsiag.com": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "quectel.club": {
+            "epoch": "1547157600",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "queenofdeals.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "queenswreathjewels.com": {
+            "epoch": "1581804000",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "queima-de-estoque-dos-pais.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "queima-de-estoque-julho.com": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "queimageral.com": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "queimatodaldejulho.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "quemco.com": {
+            "epoch": "1544479200",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "queqos.com": {
+            "epoch": "1551650400",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "querlenker.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
             "state": "future"
         },
         "questandpartners.com": {
