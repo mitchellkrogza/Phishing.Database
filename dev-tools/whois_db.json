@@ -126391,8 +126391,8 @@
             "state": "future"
         },
         "yomiyoghurt.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "yonearts.org": {
@@ -127163,6 +127163,11 @@
         "zespolsonex.info": {
             "epoch": "1566943200",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "zespolszkol-stoczeklukowski.pl": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
             "state": "future"
         },
         "zeusmedial.cl": {
