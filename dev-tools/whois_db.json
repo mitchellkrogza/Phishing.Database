@@ -94626,9 +94626,9 @@
             "state": "future"
         },
         "radiocanalfiesta.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "radioesperancafm87.com": {
             "epoch": "1570485600",
@@ -95345,6 +95345,11 @@
             "expiration_date": "12-apr-2019",
             "state": "future"
         },
+        "razvanbradut.ro": {
+            "epoch": "1644616800",
+            "expiration_date": "12-feb-2022",
+            "state": "future"
+        },
         "razzleton.com": {
             "epoch": "1783807200",
             "expiration_date": "12-jul-2026",
@@ -95523,7 +95528,7 @@
         "rdpens.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rdrp.ro": {
             "epoch": "1637964000",
@@ -95613,6 +95618,211 @@
         "realearn.net": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "realestatebeverlyglenn.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "realestatedealdepot.com": {
+            "epoch": "1544738400",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "realestateinsarasotabradenton.com": {
+            "epoch": "1602367200",
+            "expiration_date": "11-oct-2020",
+            "state": "future"
+        },
+        "realfirewallthree.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "realfoodforlivingwell.com": {
+            "epoch": "1546984800",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "realitychurchflorida.org": {
+            "epoch": "1567375200",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "realityread.com": {
+            "epoch": "1570312800",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "realityversusreligion.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "realmagnate.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "realreality.info": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "realsbaja.com": {
+            "epoch": "1602021600",
+            "expiration_date": "07-oct-2020",
+            "state": "future"
+        },
+        "realsexmagic.net": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "realsoulmates.com": {
+            "epoch": "1555020000",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "realsuccessng.com": {
+            "epoch": "1542664800",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "realtekzambia.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "realtimeappliancerepairs.com": {
+            "epoch": "1553724000",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "realtypropertyfile.us": {
+            "epoch": "1562104800",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "realtypropertyfiles.us": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "realzprofessional.com": {
+            "epoch": "1562623200",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "reapaktravel.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "reasonsforoptimism.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "reativamentodeapp.com": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "reauiservicabneae.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "rebates-interac.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "rebeccahoulihanphotography.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "rebeccas-world.com": {
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "rebootblueprint.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "rebrand.ly": {
+            "epoch": "1757714400",
+            "expiration_date": "13-sep-2025",
+            "state": "future"
+        },
+        "recadastramento-globo.com": {
+            "epoch": "1555797600",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "recashfinancial.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "receconevd.com": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "receive-bitcoins.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "receive-btc.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "receive-crypto.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "receive-eth.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "receive-ether.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "receiveethfree.cx": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "receiveethpromo.cx": {
+            "epoch": "1561068000",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "receivingzone.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "recimmobilier.fr": {
+            "epoch": "1565128800",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "recipedrink.bid": {
+            "epoch": "1554415200",
+            "expiration_date": "05-apr-2019",
             "state": "future"
         },
         "reclaimedfurnitureart.com": {
