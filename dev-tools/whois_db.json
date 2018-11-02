@@ -70100,6 +70100,16 @@
             "expiration_date": "24-jul-2019",
             "state": "future"
         },
+        "log-ln-icloud.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "log-ln-location.com": {
+            "epoch": "1564092000",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
         "logenlbb.dk": {
             "epoch": "1556575200",
             "expiration_date": "30-apr-2019",
@@ -70240,6 +70250,86 @@
             "expiration_date": "11-apr-2019",
             "state": "future"
         },
+        "logn-pdf-online.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "logo-artist.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "logo-sonerii.ro": {
+            "epoch": "1539208800",
+            "expiration_date": "11-oct-2018",
+            "state": "past"
+        },
+        "logok.org": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "logoretail.org": {
+            "epoch": "1551909600",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "logoutband.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "logspplverifations.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "logsservicepay.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "lohas-pingpong.com": {
+            "epoch": "1553205600",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "loisekimfoundation.org": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "lojabalu.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "lojacomoferta.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "lojadevariedade.com": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "lojapinguim.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "lojavariedadesgabrielord.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "lojjatunnecha.com": {
+            "epoch": "1566252000",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
         "lokaacc.com": {
             "epoch": "1569362400",
             "expiration_date": "25-sep-2019",
@@ -70293,7 +70383,7 @@
         "lombokwebsite.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "lombokweddingplanner.com": {
             "epoch": "1565215200",
@@ -70806,9 +70896,9 @@
             "state": "future"
         },
         "lteinc.net": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "ltmediagroup.com": {
             "epoch": "1581199200",
@@ -70971,14 +71061,14 @@
             "state": "future"
         },
         "lumbungmadani.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "lumenmedia.net": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "lumenno.com": {
             "epoch": "1569103200",
@@ -71428,6 +71518,316 @@
         "macstrax.com": {
             "epoch": "1564178400",
             "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "macsuco.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "mactayiz.net": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "mactel-com.com": {
+            "epoch": "1547762400",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "madagascar-jrtours.com": {
+            "epoch": "1571176800",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "madarjatmaiz.top": {
+            "epoch": "1557698400",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "maddysphotos.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "madeincomilla.com": {
+            "epoch": "1542319200",
+            "expiration_date": "16-nov-2018",
+            "state": "future"
+        },
+        "madeiravape.com": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "madelinecop.us": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "maderaverdeecuador.com": {
+            "epoch": "1571608800",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "maderisa.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "madhattersl.com": {
+            "epoch": "1566424800",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "madhatterstl.com": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "madhubanpublicschool.in": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "madhurimasweets.com": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "madinahquran.com": {
+            "epoch": "1543788000",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "madisonpermanentcosmetics.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "madou44-ber.ru": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "madridge.com": {
+            "epoch": "1629237600",
+            "expiration_date": "18-aug-2021",
+            "state": "future"
+        },
+        "madsm.ru": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "madsocietytattoo.com": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "madurairesidency.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "madyalingkarartha.com": {
+            "epoch": "1556229600",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "maedan.com": {
+            "epoch": "1558476000",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "maeelan.com": {
+            "epoch": "1551736800",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "maerketer-drama.net": {
+            "epoch": "1564610400",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "maesiagroup.com": {
+            "epoch": "1541973600",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "magaponto.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "magazin-fermier.ro": {
+            "epoch": "1693692000",
+            "expiration_date": "03-sep-2023",
+            "state": "future"
+        },
+        "magazine-lu.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "magazine-promocoes-black-friday.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "magazine-promocoes-blackfriday.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "magazineluiz.net": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "magazineluizaespeciais.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "magazinelunovas.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "magazinenovidades.com": {
+            "epoch": "1558908000",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "magazineoft.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "magazinevenda.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "magazinhealth.com": {
+            "epoch": "1542924000",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "magazintotosha.ru": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "magazzineofertasnovas.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "magdalatravel.com": {
+            "epoch": "1546380000",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "mage-people.com": {
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "magelan-agro.com": {
+            "epoch": "1547244000",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "mageric.ru": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "magichands86.ru": {
+            "epoch": "1550786400",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "magicmembershelp.com": {
+            "epoch": "1575496800",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "magicmyphotos.com": {
+            "epoch": "1603749600",
+            "expiration_date": "27-oct-2020",
+            "state": "future"
+        },
+        "magicoccasions.com": {
+            "epoch": "1672783200",
+            "expiration_date": "04-jan-2023",
+            "state": "future"
+        },
+        "magicperfume.net": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "magifilmworks.com": {
+            "epoch": "1684965600",
+            "expiration_date": "25-may-2023",
+            "state": "future"
+        },
+        "magistral.cm": {
+            "epoch": "1539640800",
+            "expiration_date": "16-oct-2018",
+            "state": "past"
+        },
+        "magma-1.by": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "magnittitus.org": {
+            "epoch": "1544911200",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "magson.ru": {
+            "epoch": "1575928800",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "magstm.ru": {
+            "epoch": "1551564000",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "magtextiles.com": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "maguini.com": {
+            "epoch": "1552773600",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "magzon.com": {
+            "epoch": "1547244000",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "mahacnc.com": {
+            "epoch": "1569880800",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "maharhias.com": {
+            "epoch": "1552946400",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "mahavirmandirpatna.org": {
+            "epoch": "1606168800",
+            "expiration_date": "24-nov-2020",
             "state": "future"
         },
         "mahilacollegeveraval.com": {
