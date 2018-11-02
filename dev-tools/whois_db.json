@@ -107773,7 +107773,7 @@
         "sscvt.org": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ssecurity-auth.com": {
             "epoch": "1563573600",
@@ -108180,6 +108180,16 @@
             "expiration_date": "19-nov-2018",
             "state": "future"
         },
+        "steam-items.net": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "steam-tradeit.com": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
         "steamcammunitu.com": {
             "epoch": "1550872800",
             "expiration_date": "23-feb-2019",
@@ -108193,6 +108203,311 @@
         "steamcommumnity.com": {
             "epoch": "1568671200",
             "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "steamcommunituy.com": {
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "steamcomnuitu.com": {
+            "epoch": "1567116000",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "steamcomnunitu.com": {
+            "epoch": "1560463200",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "steamcomnunuitu.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "steamcomnunutu.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "steamcompanion.com": {
+            "epoch": "1550268000",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "steamcomunilty.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "steamcomunilu.com": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "steamcomunily.com": {
+            "epoch": "1561586400",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "steamcomunitlu.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "steamcomunitly.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "steamcomuniulty.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "steamcomuniutu.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "steamcomuniuty.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "steamcomunuilu.com": {
+            "epoch": "1562191200",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "steamcomunuitly.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "steamcomunuitu.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "steamcomunultu.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "steamcomunutu.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "steamconmmunlty.ru": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "steamconmmunutu.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "steamconmunitly.ru": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "steamconmunultu.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "steamconmunulty.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "steamconmunutlu.com": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "steamconnmunity.com": {
+            "epoch": "1564524000",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "steamconnmuniulu.com": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "steamconnunuily.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "steamconnunuity.com": {
+            "epoch": "1562018400",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "steamconnunulty.com": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "steamientostudio.top": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "steampowerd.com": {
+            "epoch": "1547762400",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "steamrollercontrol.com": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "steamshipint.com": {
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "steancomnunitly.com": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "steancomnuniuty.com": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "steancomnunuity.com": {
+            "epoch": "1566770400",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "steanconmunitly.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "steanconmunutu.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "stearncommunily.com": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "steelestimating.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "steelimpex.net": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "steelships.com": {
+            "epoch": "1631484000",
+            "expiration_date": "13-sep-2021",
+            "state": "future"
+        },
+        "steelteo.com": {
+            "epoch": "1535407200",
+            "expiration_date": "28-aug-2018",
+            "state": "past"
+        },
+        "steeltoncats.org": {
+            "epoch": "1693605600",
+            "expiration_date": "02-sep-2023",
+            "state": "future"
+        },
+        "steem.ly": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "stefan-beier.com": {
+            "epoch": "1543096800",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "stefanklink.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "stellaatrium.com": {
+            "epoch": "1566511200",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "stellar-development-foundation.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "stellar-dolphin.org": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "stellar-free.org": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "stellar-giving.com": {
+            "epoch": "1559080800",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "stellar-lumens-bonus.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "stellar-lumens-wallets.org": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "stellar-org-wallets.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "stellar-w.com": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "stellar-x.co": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "stellarfitness.in": {
+            "epoch": "1541368800",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "stellarterm.org": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "stellarterms.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
             "state": "future"
         },
         "stemrb.ru": {
