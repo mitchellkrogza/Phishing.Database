@@ -65665,6 +65665,11 @@
             "expiration_date": "13-feb-2019",
             "state": "future"
         },
+        "komaz.ws": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
         "kometyay.com": {
             "epoch": "1729980000",
             "expiration_date": "27-oct-2024",
@@ -65788,6 +65793,221 @@
         "kooss.cl": {
             "epoch": "1544133600",
             "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "koozina.ca": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "koperangka.com": {
+            "epoch": "1546898400",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "kopiharummanis.com": {
+            "epoch": "1536012000",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "kopkadmitrov.ru": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "kopolakuhmoinen.fi": {
+            "epoch": "1579730400",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "kopotakkhobloodbank.com": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "kordonkafes.top": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "koreacorp.review": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "koreaframing.com": {
+            "epoch": "1547762400",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "koreanwithkevin.com": {
+            "epoch": "1552168800",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "korekindianationalcricketteammurahalfamart.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "korekkriketmurahindomaret.net": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "korekkriketmurahindomaret.org": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "korekkriketmurahjakarta.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "koreksound.pl": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "korentech.com": {
+            "epoch": "1553551200",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "kornfeldlaw.com": {
+            "epoch": "1751234400",
+            "expiration_date": "30-jun-2025",
+            "state": "future"
+        },
+        "koromias.com": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "korpimaanvalo.fi": {
+            "epoch": "1578434400",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "kortanasa.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "kortlink.dk": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "korzhonov.ru": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "kosakura.com": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "kosmosbrands.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "kosongggg.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "kostow.pl": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "kotaykitem.am": {
+            "epoch": "1558821600",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "kotfx.com": {
+            "epoch": "1552428000",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "kotharis.in": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "kotimi.com": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "kotycraft.ru": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "kovaszradio.ro": {
+            "epoch": "1535493600",
+            "expiration_date": "29-aug-2018",
+            "state": "past"
+        },
+        "koyalgroup.com": {
+            "epoch": "1548021600",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "kozmetichniuredi.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "kpcindustry.com": {
+            "epoch": "1550700000",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "kpcvvn.in": {
+            "epoch": "1608760800",
+            "expiration_date": "24-dec-2020",
+            "state": "future"
+        },
+        "kpggroup.in": {
+            "epoch": "1546207200",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "kpihnb.com": {
+            "epoch": "1549663200",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "kpjmarketing.com": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "kpmsfoundation.org": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "kpscahaya.com": {
+            "epoch": "1542664800",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "kr7anre6-pop-8jcdlpf.win": {
+            "epoch": "1539900000",
+            "expiration_date": "19-oct-2018",
+            "state": "past"
+        },
+        "krabatlazeez.com": {
+            "epoch": "1550095200",
+            "expiration_date": "14-feb-2019",
             "state": "future"
         },
         "krackcn.com": {
@@ -66420,6 +66640,11 @@
             "expiration_date": "03-oct-2022",
             "state": "future"
         },
+        "kwphotography.ro": {
+            "epoch": "1555192800",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
         "kyc.pm": {
             "epoch": "1598652000",
             "expiration_date": "29-aug-2020",
@@ -66493,6 +66718,11 @@
         "l3bv.com": {
             "epoch": "1541800800",
             "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "l3i.ca": {
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "l9gfazvl-prisonnerprs80d4.stream": {
@@ -66620,6 +66850,11 @@
             "expiration_date": "07-aug-2019",
             "state": "future"
         },
+        "laceaune.ro": {
+            "epoch": "1583013600",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
         "lacein.net": {
             "epoch": "1566252000",
             "expiration_date": "20-aug-2019",
@@ -66683,6 +66918,11 @@
         "ladybb.it": {
             "epoch": "1557352800",
             "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "ladycozac.ro": {
+            "epoch": "1560981600",
+            "expiration_date": "20-jun-2019",
             "state": "future"
         },
         "ladytataa.com": {
