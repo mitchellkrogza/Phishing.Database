@@ -61843,7 +61843,7 @@
         "jemimaevents.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jempskenyatours.com": {
             "epoch": "1546812000",
@@ -62003,7 +62003,7 @@
         "jesuskristus.org": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jesuskristus.tv": {
             "epoch": "1569621600",
@@ -62933,6 +62933,266 @@
         "jtdeal.in": {
             "epoch": "1549231200",
             "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "jteras.com": {
+            "epoch": "1546639200",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "jtpi.net": {
+            "epoch": "1565042400",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "jts-seattle.com": {
+            "epoch": "1582322400",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "jttecnologiaaplicada.com": {
+            "epoch": "1565906400",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "jual-lakban.com": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "jualgalonmurah.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "jualparfumgrosir.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "jualumni-bd.org": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "juancarlosromerot.com": {
+            "epoch": "1542319200",
+            "expiration_date": "16-nov-2018",
+            "state": "future"
+        },
+        "juanjorgekuhnle.com": {
+            "epoch": "1615154400",
+            "expiration_date": "08-mar-2021",
+            "state": "future"
+        },
+        "juanmasbaga.com": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "juanrivas.info": {
+            "epoch": "1577311200",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "juanthradio.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "judeparteme.com": {
+            "epoch": "1562968800",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "judgebrantley.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "judijenkins.me": {
+            "epoch": "1605650400",
+            "expiration_date": "18-nov-2020",
+            "state": "future"
+        },
+        "judiremi.com": {
+            "epoch": "1708552800",
+            "expiration_date": "22-feb-2024",
+            "state": "future"
+        },
+        "judithhabert.com": {
+            "epoch": "1553896800",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "judithleoni.com": {
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "judo-saint-junien.fr": {
+            "epoch": "1612216800",
+            "expiration_date": "02-feb-2021",
+            "state": "future"
+        },
+        "jugshots.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "juicecrafters.com": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "juicerfriend.com": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "jujursajaku-mail.business": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "julgom.com": {
+            "epoch": "1544392800",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "julhodeofertas.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "julhodopinguim.com": {
+            "epoch": "1563228000",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "julhodosaldao.com": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "julhosaldao.com": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "julianwesterfield.com": {
+            "epoch": "1678485600",
+            "expiration_date": "11-mar-2023",
+            "state": "future"
+        },
+        "juliemillerweddings.com": {
+            "epoch": "1557439200",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "julienobles.com": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "juliezeneth.com": {
+            "epoch": "1588716000",
+            "expiration_date": "06-may-2020",
+            "state": "future"
+        },
+        "juliusbaer.io": {
+            "epoch": "1552860000",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "jumbotronrentalvirginia.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "jummycatering.net": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "jumppoint.ca": {
+            "epoch": "1542146400",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "jumpstartproducer.com": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "jun200.info": {
+            "epoch": "1687903200",
+            "expiration_date": "28-jun-2023",
+            "state": "future"
+        },
+        "junetides.com": {
+            "epoch": "1566943200",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "junhodearrasar.com": {
+            "epoch": "1561845600",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "junhomaisdescontos.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "juniordr.com": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "juniorssmokehouse.com": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "jurairatacc.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "jusamazin.com": {
+            "epoch": "1623362400",
+            "expiration_date": "11-jun-2021",
+            "state": "future"
+        },
+        "jussfly.com": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "just-autos.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "justanickel.com": {
+            "epoch": "1550613600",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "justaskaron.com": {
+            "epoch": "1630188000",
+            "expiration_date": "29-aug-2021",
+            "state": "future"
+        },
+        "justathought.in": {
+            "epoch": "1604700000",
+            "expiration_date": "07-nov-2020",
+            "state": "future"
+        },
+        "justawesomename.top": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
             "state": "future"
         },
         "justbeemore.com": {
