@@ -94510,6 +94510,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "r-sec1.com": {
+            "epoch": "1586901600",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
+        },
         "r1cy.com": {
             "epoch": "1557266400",
             "expiration_date": "08-may-2019",
@@ -98081,9 +98086,9 @@
             "state": "future"
         },
         "rohss.org": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "roidosanal.net": {
             "epoch": "1563314400",
@@ -98148,6 +98153,11 @@
         "rollstickers.win": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "rollstyle.cz": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
             "state": "future"
         },
         "rolyborgesmd.com": {
@@ -98390,6 +98400,11 @@
             "expiration_date": "25-feb-2019",
             "state": "future"
         },
+        "royal-instantcheck.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
         "royalasiancruiseline.com": {
             "epoch": "1553032800",
             "expiration_date": "20-mar-2019",
@@ -98428,6 +98443,176 @@
         "royalfreshretails.com": {
             "epoch": "1554415200",
             "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "royalkingspizza.com": {
+            "epoch": "1551391200",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "royaltowerbombs.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "royaltymarketingco.com": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "royalwoodcapital.com": {
+            "epoch": "1562450400",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "royh.com": {
+            "epoch": "1639432800",
+            "expiration_date": "14-dec-2021",
+            "state": "future"
+        },
+        "rozalyne.com": {
+            "epoch": "1555884000",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "roznamaibrat.com": {
+            "epoch": "1570572000",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "rpcbl.com": {
+            "epoch": "1722290400",
+            "expiration_date": "30-jul-2024",
+            "state": "future"
+        },
+        "rpmegypt.com": {
+            "epoch": "1544565600",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "rpmexperience.ca": {
+            "epoch": "1544652000",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "rpmorganbroadcast.com": {
+            "epoch": "1549317600",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "rpmsenaleticas.cl": {
+            "epoch": "1591480800",
+            "expiration_date": "07-jun-2020",
+            "state": "future"
+        },
+        "rpmtv.net": {
+            "epoch": "1596060000",
+            "expiration_date": "30-jul-2020",
+            "state": "future"
+        },
+        "rps-game.com": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "rptenthouse.com": {
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "rracca.com": {
+            "epoch": "1547762400",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "rrd.me": {
+            "epoch": "1569016800",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "rremate.com": {
+            "epoch": "1541628000",
+            "expiration_date": "08-nov-2018",
+            "state": "future"
+        },
+        "rrmiddleeastfzc.com": {
+            "epoch": "1763416800",
+            "expiration_date": "18-nov-2025",
+            "state": "future"
+        },
+        "rs-mobile.net": {
+            "epoch": "1552600800",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "rs-mobile.org": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "rsb-digital.com": {
+            "epoch": "1554069600",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "rsc-dc.com": {
+            "epoch": "1626732000",
+            "expiration_date": "20-jul-2021",
+            "state": "future"
+        },
+        "rsleamam.net": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "rslove-appstore.com": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "rsmcicendo.com": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "rsmediaone.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "rsnamur.ru": {
+            "epoch": "1546812000",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "rsplportal.com": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "rspwins.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "rsthomas.net": {
+            "epoch": "1567980000",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "rsticklehunts.com": {
+            "epoch": "1543615200",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "rstk.by": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "rsuwilliambooth.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
             "state": "future"
         },
         "rtaddictiontherapy.com": {
@@ -98661,9 +98846,9 @@
             "state": "future"
         },
         "rus-promo.ru": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1575151200",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "ruschange.com": {
             "epoch": "1566252000",
@@ -99238,6 +99423,11 @@
         "safetyboxx.com": {
             "epoch": "1665007200",
             "expiration_date": "06-oct-2022",
+            "state": "future"
+        },
+        "safetyvillage.ro": {
+            "epoch": "1645826400",
+            "expiration_date": "26-feb-2022",
             "state": "future"
         },
         "safeway-xp.com": {
