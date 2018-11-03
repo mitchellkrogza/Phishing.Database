@@ -10456,9 +10456,9 @@
             "state": "future"
         },
         "archilabo.net": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "architecturalfacades.com": {
             "epoch": "1681682400",
@@ -10826,9 +10826,9 @@
             "state": "future"
         },
         "aromaessentialoilstore.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "aromarabica.com": {
             "epoch": "1544824800",
@@ -11020,6 +11020,11 @@
             "expiration_date": "22-jun-2019",
             "state": "future"
         },
+        "artisdaio.ro": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
         "artisfabrica.it": {
             "epoch": "1547157600",
             "expiration_date": "11-jan-2019",
@@ -11053,6 +11058,11 @@
         "artlapkin.ru": {
             "epoch": "1568152800",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "artlitera.ro": {
+            "epoch": "1541282400",
+            "expiration_date": "04-nov-2018",
             "state": "future"
         },
         "artmedia-huruftimbul.com": {
@@ -11426,8 +11436,8 @@
             "state": "future"
         },
         "asismelilla.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "asistanim.org": {
