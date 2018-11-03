@@ -21765,6 +21765,11 @@
             "expiration_date": "08-may-2019",
             "state": "future"
         },
+        "c-filter.cz": {
+            "epoch": "1544220000",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
         "c-nar.com": {
             "epoch": "1559599200",
             "expiration_date": "04-jun-2019",
@@ -24473,7 +24478,7 @@
         "centralvalleyvineyard.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "centralwavex.com": {
             "epoch": "1562191200",
@@ -25511,9 +25516,9 @@
             "state": "future"
         },
         "cheryl-annhenry.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "cherylannhenry.com": {
             "epoch": "1545602400",
