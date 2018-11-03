@@ -7176,8 +7176,8 @@
             "state": "future"
         },
         "alsulthanscrap.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "alsurdelplaneta.com": {
@@ -7808,6 +7808,11 @@
         "amgtisk.si": {
             "epoch": "1563314400",
             "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "amh.ro": {
+            "epoch": "1635026400",
+            "expiration_date": "24-oct-2021",
             "state": "future"
         },
         "amhfortrade.com": {
