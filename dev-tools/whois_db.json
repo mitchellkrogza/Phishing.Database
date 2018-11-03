@@ -51653,7 +51653,7 @@
         "gowapblog.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "goyangduaj.net": {
             "epoch": "1556661600",
@@ -52266,8 +52266,8 @@
             "state": "future"
         },
         "grgicdoo.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "griddixcat.com": {
@@ -52578,6 +52578,11 @@
         "gslapshina.ru": {
             "epoch": "1567288800",
             "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "gsm-klinika.si": {
+            "epoch": "1550354400",
+            "expiration_date": "17-feb-2019",
             "state": "future"
         },
         "gsmedu.com": {
