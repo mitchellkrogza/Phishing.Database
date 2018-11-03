@@ -13996,9 +13996,9 @@
             "state": "future"
         },
         "balkonsl.by": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1604095200",
+            "expiration_date": "31-oct-2020",
+            "state": "future"
         },
         "balmasedaytu.com": {
             "epoch": "1552687200",
@@ -14780,9 +14780,99 @@
             "expiration_date": "06-apr-2019",
             "state": "future"
         },
+        "basicfoundation.org": {
+            "epoch": "1630447200",
+            "expiration_date": "01-sep-2021",
+            "state": "future"
+        },
+        "basicpolymers.com": {
+            "epoch": "1667599200",
+            "expiration_date": "05-nov-2022",
+            "state": "future"
+        },
+        "basinclinic.com": {
+            "epoch": "1674856800",
+            "expiration_date": "28-jan-2023",
+            "state": "future"
+        },
+        "basispoint.com": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "basitchemicals.com": {
+            "epoch": "1567461600",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "baskentistanbul.top": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "basketmania.cl": {
+            "epoch": "1543183200",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "basmatica.net": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "baspimantionnair.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "baspress.com": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "bassmat.com": {
+            "epoch": "1560204000",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "bastcbenge.ru": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "basten-conveyor.com": {
+            "epoch": "1552341600",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "bastinewstimes.com": {
+            "epoch": "1579903200",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "basvur---qnbfinansbank.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "basvur--qnbfinansbank.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "basvuriade-qnbfinans.com": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
         "basvuru-qnbfinansbank.com": {
             "epoch": "1557784800",
             "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "basvurum-qnbfinansci.com": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
             "state": "future"
         },
         "basylo2323.info": {
