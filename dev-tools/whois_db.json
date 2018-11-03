@@ -44353,7 +44353,7 @@
         "famatechnologies.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fameboxagro.com": {
             "epoch": "1570312800",
@@ -44378,6 +44378,11 @@
         "familylawbarrister.org": {
             "epoch": "1559167200",
             "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "famousagency.cz": {
+            "epoch": "1547330400",
+            "expiration_date": "13-jan-2019",
             "state": "future"
         },
         "fancydiamondtree.com": {
@@ -45161,9 +45166,9 @@
             "state": "future"
         },
         "fenononline.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "fenotakip.com": {
             "epoch": "1558735200",
