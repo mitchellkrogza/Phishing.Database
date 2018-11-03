@@ -37275,6 +37275,11 @@
             "expiration_date": "11-jun-2025",
             "state": "future"
         },
+        "e-denizsubedeislem.com": {
+            "epoch": "1557180000",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
         "e-dgfip-gouv.com": {
             "epoch": "1567116000",
             "expiration_date": "30-aug-2019",
@@ -37996,9 +38001,9 @@
             "state": "future"
         },
         "ecommercesalessystem.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "ecomputernotes.com": {
             "epoch": "1568930400",
@@ -38085,6 +38090,11 @@
             "expiration_date": "17-feb-2021",
             "state": "future"
         },
+        "ecovilla.ro": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "ecreateinfotech.com": {
             "epoch": "1567461600",
             "expiration_date": "03-sep-2019",
@@ -38138,6 +38148,36 @@
         "ecurieperier.com": {
             "epoch": "1545602400",
             "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "edandmarilynlieb.com": {
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "edbsty.club": {
+            "epoch": "1555970400",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "eddiesguitars.us": {
+            "epoch": "1553292000",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "eddiho.me": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "edealinformation.com": {
+            "epoch": "1591480800",
+            "expiration_date": "07-jun-2020",
+            "state": "future"
+        },
+        "eden-roses.com": {
+            "epoch": "1547071200",
+            "expiration_date": "10-jan-2019",
             "state": "future"
         },
         "edfrimmel.com": {
@@ -38766,8 +38806,8 @@
             "state": "future"
         },
         "electricgroups.co": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "electricshadows.com": {
