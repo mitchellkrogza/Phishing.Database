@@ -56655,6 +56655,16 @@
             "expiration_date": "21-may-2019",
             "state": "future"
         },
+        "huntrecruitment.ro": {
+            "epoch": "1600552800",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "huro-crossroads.ro": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
         "hurtelkablo.com": {
             "epoch": "1561586400",
             "expiration_date": "27-jun-2019",
@@ -57468,6 +57478,11 @@
         "icloudlockremoval.us": {
             "epoch": "1550872800",
             "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "icloudmaps.info": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
             "state": "future"
         },
         "icloudrun.top": {
