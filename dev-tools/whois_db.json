@@ -8980,6 +8980,11 @@
             "expiration_date": "22-jan-2019",
             "state": "future"
         },
+        "anularefap.ro": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
         "anuluj-mandat.us": {
             "epoch": "1567375200",
             "expiration_date": "02-sep-2019",
@@ -8988,6 +8993,11 @@
         "anuluj.info": {
             "epoch": "1567548000",
             "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "anulujteraz.pl": {
+            "epoch": "1567634400",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "anuncionoponto.com": {
@@ -9008,6 +9018,11 @@
         "anushkaverma.com": {
             "epoch": "1550527200",
             "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "anvelope-cauciucuri-jante.ro": {
+            "epoch": "1689631200",
+            "expiration_date": "18-jul-2023",
             "state": "future"
         },
         "anvelopeteo.ro": {
@@ -9158,6 +9173,11 @@
         "apartmanizlatibor.net": {
             "epoch": "1547244000",
             "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "apartmorze.pl": {
+            "epoch": "1541800800",
+            "expiration_date": "10-nov-2018",
             "state": "future"
         },
         "apc-nyc.org": {
@@ -10123,6 +10143,11 @@
         "appyss-miappidsrvinc.com": {
             "epoch": "1557266400",
             "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "apra.ro": {
+            "epoch": "1624658400",
+            "expiration_date": "26-jun-2021",
             "state": "future"
         },
         "aprendenegocios.com": {
