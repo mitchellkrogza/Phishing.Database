@@ -55216,8 +55216,8 @@
             "state": "future"
         },
         "hittar.nu": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "hittinghelmet.com": {
@@ -56046,9 +56046,9 @@
             "state": "future"
         },
         "hotelparadisopassogodi.it": {
-            "epoch": "1539727200",
-            "expiration_date": "17-oct-2018",
-            "state": "past"
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
         },
         "hotelredhimalayan.com": {
             "epoch": "1552341600",
@@ -56133,7 +56133,7 @@
         "hotelwoodlandsomnath.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hotelzamzam.com": {
             "epoch": "1550959200",
@@ -56356,9 +56356,9 @@
             "state": "future"
         },
         "hoyanunciosgratis.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "hoypagamenos.com": {
             "epoch": "1571176800",
