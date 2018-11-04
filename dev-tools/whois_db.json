@@ -102740,6 +102740,66 @@
             "expiration_date": "10-jul-2023",
             "state": "future"
         },
+        "scopesports.net": {
+            "epoch": "1557612000",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "scorpiosboats.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "scotia-security.com": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "scotiabank-mobile.net": {
+            "epoch": "1556316000",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "scotiabank-online.net": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "scotiabank-tt.net": {
+            "epoch": "1555624800",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "scotiabanktrinidad.com": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "scotiabanktt.net": {
+            "epoch": "1555452000",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "scottcafe.com": {
+            "epoch": "1551304800",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "scottfaulconbridge.com": {
+            "epoch": "1591480800",
+            "expiration_date": "07-jun-2020",
+            "state": "future"
+        },
+        "scottnepal.com": {
+            "epoch": "1543528800",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "scottsullivan.biz": {
+            "epoch": "1543701600",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
         "scottwoolbright.com": {
             "epoch": "1562796000",
             "expiration_date": "11-jul-2019",
@@ -102833,6 +102893,11 @@
         "scuresignaccountsactivityes.com": {
             "epoch": "1562018400",
             "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "scutece-batrani.ro": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
             "state": "future"
         },
         "scvpssdegreecollege.org": {
