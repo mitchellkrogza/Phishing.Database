@@ -88090,6 +88090,11 @@
             "expiration_date": "15-jun-2019",
             "state": "future"
         },
+        "p-heng.com": {
+            "epoch": "1566684000",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
         "p-knowledge.com": {
             "epoch": "1554501600",
             "expiration_date": "06-apr-2019",
@@ -90053,7 +90058,7 @@
         "pctconsulting.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pcz.tv": {
             "epoch": "1553724000",
@@ -90303,7 +90308,7 @@
         "penguinairwaxhaw.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "peni-poweblast.com": {
             "epoch": "1555365600",
@@ -90825,9 +90830,89 @@
             "expiration_date": "16-jul-2019",
             "state": "future"
         },
+        "pginludhiana.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "pgsolx.com": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "pgvip.net": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
         "ph-facebook.com": {
             "epoch": "1555279200",
             "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "phalanxinfotech.net": {
+            "epoch": "1547676000",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "phaphoidharamsala.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "phar-ubu.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "pharma--partners.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "pharma-life.com": {
+            "epoch": "1549576800",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "pharma-pia.com": {
+            "epoch": "1581544800",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "pharmacyguide1.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "pharmatechscn.com": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "pharmaview.org": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "phatc.com": {
+            "epoch": "1564351200",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "phaustria.org": {
+            "epoch": "1568066400",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "phc-online.bid": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "phebsoft.com": {
+            "epoch": "1594677600",
+            "expiration_date": "14-jul-2020",
             "state": "future"
         },
         "phikaniklayar.com": {
