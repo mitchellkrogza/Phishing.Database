@@ -85461,8 +85461,8 @@
             "state": "future"
         },
         "oceanstechnologies.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1604354400",
+            "expiration_date": "03-nov-2020",
             "state": "future"
         },
         "oceanviewteaching.com": {
@@ -86021,9 +86021,9 @@
             "state": "future"
         },
         "ohmybidness.ca": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "ohmybook-family.co": {
             "epoch": "1542492000",
