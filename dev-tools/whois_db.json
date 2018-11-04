@@ -88578,7 +88578,7 @@
         "pampangaonline.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pamroachpr.com": {
             "epoch": "1560808800",
@@ -89258,6 +89258,96 @@
         "patrickmarionbradley.com": {
             "epoch": "1555279200",
             "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "patrickramirezangels.com": {
+            "epoch": "1544824800",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "patrickrprince.com": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "patrickvaca.com": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "patriot-russia-sb.ru": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "patriot-spasibo.ru": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "patriotsailingcharters.com": {
+            "epoch": "1543442400",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "patronagehub.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "pattanawichakarn.com": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "pattycookies.com": {
+            "epoch": "1542405600",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "patykplumbing.com": {
+            "epoch": "1570831200",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "paulaanderson.info": {
+            "epoch": "1562709600",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "paulallenconnection.com": {
+            "epoch": "1585519200",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
+        "paulchavady.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "paulchehade.com": {
+            "epoch": "1561759200",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "paulcollinslondon.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "pauldamonthomas.com": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "pauldonas.com": {
+            "epoch": "1670364000",
+            "expiration_date": "07-dec-2022",
+            "state": "future"
+        },
+        "paulgodding.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
             "state": "future"
         },
         "pauljmueller.com": {
