@@ -111546,9 +111546,9 @@
             "state": "future"
         },
         "super-deals-online.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "super-freelancer.com": {
             "epoch": "1552860000",
@@ -112193,7 +112193,7 @@
         "svadba-ewa.ru": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "svaeboysever.ru": {
             "epoch": "1567202400",
@@ -112481,9 +112481,9 @@
             "state": "future"
         },
         "swtitletx.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "syauqil.com": {
             "epoch": "1557007200",
