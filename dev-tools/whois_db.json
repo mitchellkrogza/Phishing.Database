@@ -71053,7 +71053,7 @@
         "lofotkran.date": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "loftycreativeworks.com": {
             "epoch": "1555538400",
@@ -71195,6 +71195,11 @@
             "expiration_date": "22-nov-2019",
             "state": "future"
         },
+        "login-verify.ru": {
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
         "loginbank.org": {
             "epoch": "1629324000",
             "expiration_date": "19-aug-2021",
@@ -71223,6 +71228,31 @@
         "loginmsg.com": {
             "epoch": "1554933600",
             "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "logins-ooobtc.com": {
+            "epoch": "1556488800",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "loginsbobetclick.com": {
+            "epoch": "1546380000",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "loginservercheck.com": {
+            "epoch": "1554933600",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "logintinfo.club": {
+            "epoch": "1561672800",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "logistixdrive.ro": {
+            "epoch": "1542405600",
+            "expiration_date": "17-nov-2018",
             "state": "future"
         },
         "logn-pdf-online.com": {
@@ -71318,7 +71348,7 @@
         "lokpal.loan": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "lolacoffeebar.com": {
             "epoch": "1566597600",
@@ -71356,9 +71386,9 @@
             "state": "future"
         },
         "lombokwebsite.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "lombokweddingplanner.com": {
             "epoch": "1565215200",
