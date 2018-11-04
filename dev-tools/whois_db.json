@@ -117545,6 +117545,11 @@
             "expiration_date": "07-may-2019",
             "state": "future"
         },
+        "tr-enparabireysel.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
         "tr-instagram.com": {
             "epoch": "1555020000",
             "expiration_date": "12-apr-2019",
@@ -117733,7 +117738,7 @@
         "transferforlife.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "transfert-verification.com": {
             "epoch": "1564178400",
@@ -118049,6 +118054,46 @@
             "epoch": "1612216800",
             "expiration_date": "02-feb-2021",
             "state": "future"
+        },
+        "trendzcafe.ca": {
+            "epoch": "1607724000",
+            "expiration_date": "12-dec-2020",
+            "state": "future"
+        },
+        "treninoverdedellealpi.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "trentbwarrenmd.com": {
+            "epoch": "1551996000",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "trentturveydesigns.com": {
+            "epoch": "1548712800",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "trevorssecondhandfurniture.com": {
+            "epoch": "1558044000",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "trexel.net": {
+            "epoch": "1543356000",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "trgoabc.bid": {
+            "epoch": "1539295200",
+            "expiration_date": "12-oct-2018",
+            "state": "past"
+        },
+        "triada-reality.club": {
+            "epoch": "1539727200",
+            "expiration_date": "17-oct-2018",
+            "state": "past"
         },
         "triasbersama.com": {
             "epoch": "1700690400",
@@ -118778,6 +118823,11 @@
         "tvapppay.com": {
             "epoch": "1545429600",
             "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "tvexpert.ro": {
+            "epoch": "1560031200",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "tvgent.org": {
