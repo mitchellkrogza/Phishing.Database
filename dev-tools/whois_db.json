@@ -113471,9 +113471,9 @@
             "state": "future"
         },
         "tazplus.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "tbeale.com": {
             "epoch": "1548972000",
@@ -114363,7 +114363,7 @@
         "terracegardeners.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "terrafirmadesignltd.com": {
             "epoch": "1566424800",
@@ -114961,9 +114961,9 @@
             "state": "future"
         },
         "thecathedrallive.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "thecentralbaptist.com": {
             "epoch": "1569276000",
