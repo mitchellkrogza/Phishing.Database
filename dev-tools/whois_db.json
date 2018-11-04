@@ -107298,7 +107298,7 @@
         "slotonline-gclub.net": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "slovograd.ru": {
             "epoch": "1546984800",
@@ -108853,7 +108853,7 @@
         "speakyourminddesigns.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "spearheadcanada.com": {
             "epoch": "1696197600",
