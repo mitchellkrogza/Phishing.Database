@@ -95525,6 +95525,11 @@
             "expiration_date": "23-dec-2018",
             "state": "future"
         },
+        "quarkchain.pl": {
+            "epoch": "1557266400",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
         "quarterbackmagazine.com": {
             "epoch": "1563919200",
             "expiration_date": "24-jul-2019",
@@ -95538,6 +95543,11 @@
         "quartoimmobiliare.it": {
             "epoch": "1571781600",
             "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "quartzglass.pl": {
+            "epoch": "1549922400",
+            "expiration_date": "12-feb-2019",
             "state": "future"
         },
         "quartzslabchina.com": {
@@ -96566,8 +96576,8 @@
             "state": "future"
         },
         "rasakimuritala.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "rasasesaldidasarhati.me": {
@@ -96881,9 +96891,9 @@
             "state": "future"
         },
         "rdpens.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1604268000",
+            "expiration_date": "02-nov-2020",
+            "state": "future"
         },
         "rdrp.ro": {
             "epoch": "1637964000",
@@ -96973,7 +96983,7 @@
         "realearn.net": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "realestatebeverlyglenn.com": {
             "epoch": "1555884000",
