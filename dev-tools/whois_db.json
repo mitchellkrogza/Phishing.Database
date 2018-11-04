@@ -116290,6 +116290,31 @@
             "expiration_date": "26-oct-2019",
             "state": "future"
         },
+        "tiffany-homes.com": {
+            "epoch": "1641074400",
+            "expiration_date": "02-jan-2022",
+            "state": "future"
+        },
+        "tiffanyharrisondesigns.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "tifffitz.com": {
+            "epoch": "1559599200",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "tightensimn.bid": {
+            "epoch": "1554156000",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "tihoogroup.com": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
         "tiki-craft.com": {
             "epoch": "1541714400",
             "expiration_date": "09-nov-2018",
@@ -116915,6 +116940,11 @@
             "expiration_date": "05-feb-2019",
             "state": "future"
         },
+        "tomastrnobransky.cz": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
         "tomaszdyba.pl": {
             "epoch": "1552687200",
             "expiration_date": "16-mar-2019",
@@ -117106,9 +117136,9 @@
             "state": "future"
         },
         "topfrogs.org": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1604268000",
+            "expiration_date": "02-nov-2020",
+            "state": "future"
         },
         "topfun.ro": {
             "epoch": "1572386400",
