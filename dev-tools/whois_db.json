@@ -68656,8 +68656,8 @@
             "state": "past"
         },
         "lcs1st.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "lcvltd.com": {
@@ -69620,6 +69620,21 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "lideradestinations.com": {
+            "epoch": "1556143200",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "lidereseninternet.com": {
+            "epoch": "1544997600",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "liencs.fr": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
         "life-antics.com": {
             "epoch": "1569880800",
             "expiration_date": "01-oct-2019",
@@ -70026,8 +70041,8 @@
             "state": "future"
         },
         "lineage-pace.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "linesavings.com": {
