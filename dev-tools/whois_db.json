@@ -93453,7 +93453,7 @@
         "primocafeandgrille.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "primspa.mx": {
             "epoch": "1553983200",
@@ -93493,6 +93493,11 @@
         "print2webdesign.com": {
             "epoch": "1568930400",
             "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "printate.ro": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
             "state": "future"
         },
         "printerhelpdesks.com": {
@@ -94130,6 +94135,11 @@
             "expiration_date": "06-oct-2019",
             "state": "future"
         },
+        "promled.men": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
         "promo-claims.org": {
             "epoch": "1564610400",
             "expiration_date": "01-aug-2019",
@@ -94158,6 +94168,46 @@
         "promo-official.org": {
             "epoch": "1562104800",
             "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "promobinance.com": {
+            "epoch": "1560549600",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "promobr.top": {
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "promobtc.win": {
+            "epoch": "1557007200",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "promocao-megasaldao.com": {
+            "epoch": "1559944800",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "promocao2018copa.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "promocaodacopa.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "promocaomaio.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "promocaomaiosmartphones.com": {
+            "epoch": "1556834400",
+            "expiration_date": "03-may-2019",
             "state": "future"
         },
         "promocaouber.net": {
@@ -94518,7 +94568,7 @@
         "proyekto-x.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "prt.nu": {
             "epoch": "1586037600",
