@@ -80165,6 +80165,16 @@
             "expiration_date": "05-sep-2019",
             "state": "future"
         },
+        "my-pay.tv": {
+            "epoch": "1545429600",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "my-payypal.com": {
+            "epoch": "1564437600",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
         "my-rakutencards.com": {
             "epoch": "1557266400",
             "expiration_date": "08-may-2019",
@@ -81410,6 +81420,31 @@
             "expiration_date": "08-jan-2019",
             "state": "future"
         },
+        "mypays.org": {
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "mypecs.by": {
+            "epoch": "1542060000",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "mypetsproducts.com": {
+            "epoch": "1547848800",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "myplay.cc": {
+            "epoch": "1578866400",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "mypomptonlakesnj.com": {
+            "epoch": "1576101600",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
         "mypostepayitaliane.com": {
             "epoch": "1556056800",
             "expiration_date": "24-apr-2019",
@@ -81883,7 +81918,7 @@
         "nabi-barking.co": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nabib.services": {
             "epoch": "1568239200",
@@ -82171,8 +82206,8 @@
             "state": "future"
         },
         "nappynko.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "naqshekhak.com": {
@@ -82773,7 +82808,7 @@
         "nenthom.org": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "neo-kuhny.ru": {
             "epoch": "1573596000",
