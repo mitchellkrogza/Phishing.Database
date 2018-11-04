@@ -64158,7 +64158,7 @@
         "justcleanwindows.ca": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "justdialfx.com": {
             "epoch": "1535234400",
