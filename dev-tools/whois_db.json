@@ -109446,9 +109446,9 @@
             "state": "future"
         },
         "sscvt.org": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "ssecurity-auth.com": {
             "epoch": "1563573600",
@@ -109836,8 +109836,8 @@
             "state": "future"
         },
         "stcroixlofts.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "stdporta.com": {
@@ -110438,6 +110438,11 @@
         "stolizaparketa.ru": {
             "epoch": "1547157600",
             "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "stolonicapsuni.ro": {
+            "epoch": "1550527200",
+            "expiration_date": "19-feb-2019",
             "state": "future"
         },
         "stonecraftersla.com": {
