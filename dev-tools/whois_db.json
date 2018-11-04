@@ -79036,9 +79036,9 @@
             "state": "future"
         },
         "mosmtl.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "mosolcorp.com": {
             "epoch": "1564005600",
@@ -79248,7 +79248,7 @@
         "movingroadsl.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mowebplus.com": {
             "epoch": "1571695200",
@@ -80123,7 +80123,7 @@
         "my-healthmasters.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "my-kassa.com": {
             "epoch": "1550700000",
@@ -80476,9 +80476,9 @@
             "state": "future"
         },
         "mydietjournal.com": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "mydigitalacademy.com": {
             "epoch": "1548885600",
