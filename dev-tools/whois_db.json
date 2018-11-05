@@ -30225,6 +30225,11 @@
             "expiration_date": "11-may-2019",
             "state": "future"
         },
+        "creative-minds.ro": {
+            "epoch": "1568930400",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
         "creativeingredient.com": {
             "epoch": "1590444000",
             "expiration_date": "26-may-2020",
@@ -30368,6 +30373,11 @@
         "cricyard.com": {
             "epoch": "1563400800",
             "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "crikateaumes.cf": {
+            "epoch": "1833832800",
+            "expiration_date": "11-feb-2028",
             "state": "future"
         },
         "crimetime.se": {
@@ -30574,6 +30584,11 @@
             "epoch": "1550354400",
             "expiration_date": "17-feb-2019",
             "state": "future"
+        },
+        "crypto-exchange.ro": {
+            "epoch": "1539900000",
+            "expiration_date": "19-oct-2018",
+            "state": "past"
         },
         "crypto-giveaway.net": {
             "epoch": "1567029600",
@@ -31266,8 +31281,8 @@
             "state": "future"
         },
         "culturadelaguaceaspue.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "culturascigana.org": {
