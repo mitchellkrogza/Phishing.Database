@@ -2028,7 +2028,7 @@
         "aaratipower.com": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aaravcscdurg.com": {
             "epoch": "1560981600",
