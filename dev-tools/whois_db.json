@@ -18835,6 +18835,11 @@
             "expiration_date": "18-apr-2019",
             "state": "future"
         },
+        "blockchains.directory": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "blockchajin.com": {
             "epoch": "1567375200",
             "expiration_date": "02-sep-2019",
