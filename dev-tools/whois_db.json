@@ -12525,6 +12525,11 @@
             "expiration_date": "12-aug-2019",
             "state": "future"
         },
+        "authenticpp-subscribeppvaliderroreaea.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
         "authentification-service.com": {
             "epoch": "1552255200",
             "expiration_date": "11-mar-2019",
@@ -13438,6 +13443,11 @@
         "azonprofitsystem.com": {
             "epoch": "1565647200",
             "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "azotatdeamoniu.ro": {
+            "epoch": "1542924000",
+            "expiration_date": "23-nov-2018",
             "state": "future"
         },
         "azsoccer.org": {
