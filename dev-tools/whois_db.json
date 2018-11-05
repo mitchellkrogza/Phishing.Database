@@ -52533,7 +52533,7 @@
         "grupo-sol.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "grupo-viva.com": {
             "epoch": "1548626400",
@@ -52683,6 +52683,11 @@
         "gsmfaizan.com": {
             "epoch": "1564351200",
             "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "gss-autocare.ro": {
+            "epoch": "1602367200",
+            "expiration_date": "11-oct-2020",
             "state": "future"
         },
         "gsshenoy.com": {
@@ -53956,8 +53961,8 @@
             "state": "future"
         },
         "hasado.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "hasamt.org": {
