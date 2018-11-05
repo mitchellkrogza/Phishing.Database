@@ -23548,7 +23548,7 @@
         "caseificioaversano.it": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "caselemnbianca.ro": {
             "epoch": "1569016800",
@@ -24010,6 +24010,11 @@
             "expiration_date": "09-mar-2019",
             "state": "future"
         },
+        "cciroenfr.ro": {
+            "epoch": "1538517600",
+            "expiration_date": "03-oct-2018",
+            "state": "past"
+        },
         "cclose.com": {
             "epoch": "1597183200",
             "expiration_date": "12-aug-2020",
@@ -24371,8 +24376,8 @@
             "state": "future"
         },
         "cenkershipping.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "centennialacresdressage.com": {
@@ -24506,9 +24511,9 @@
             "state": "future"
         },
         "centralvalleyvineyard.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "centralwavex.com": {
             "epoch": "1562191200",
@@ -24808,7 +24813,7 @@
         "cgc-aluminios.trade": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cgct.us": {
             "epoch": "1543442400",
