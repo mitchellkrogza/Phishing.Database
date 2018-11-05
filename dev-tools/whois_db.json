@@ -45855,6 +45855,11 @@
             "expiration_date": "21-jun-2019",
             "state": "future"
         },
+        "findmejobs.ca": {
+            "epoch": "1589061600",
+            "expiration_date": "10-may-2020",
+            "state": "future"
+        },
         "findmelocal.in": {
             "epoch": "1547676000",
             "expiration_date": "17-jan-2019",
