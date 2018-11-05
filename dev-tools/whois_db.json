@@ -34105,6 +34105,16 @@
             "expiration_date": "27-jul-2019",
             "state": "future"
         },
+        "dezvoltarecariera.ro": {
+            "epoch": "1561154400",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "dezvoltaregionala.ro": {
+            "epoch": "1533852000",
+            "expiration_date": "10-aug-2018",
+            "state": "past"
+        },
         "dfa.cc": {
             "epoch": "1568239200",
             "expiration_date": "12-sep-2019",
@@ -34701,8 +34711,8 @@
             "state": "future"
         },
         "dineshjangidphotography.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "dingdingdating.com": {
