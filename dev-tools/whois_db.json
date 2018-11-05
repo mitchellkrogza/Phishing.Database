@@ -42525,6 +42525,11 @@
             "expiration_date": "23-jun-2019",
             "state": "future"
         },
+        "ethnophonie.ro": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
         "ethnow.org": {
             "epoch": "1560117600",
             "expiration_date": "10-jun-2019",
