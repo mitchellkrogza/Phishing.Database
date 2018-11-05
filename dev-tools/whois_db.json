@@ -5120,6 +5120,11 @@
             "expiration_date": "06-jun-2019",
             "state": "future"
         },
+        "aieeeplus.com": {
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
         "aiemont.com": {
             "epoch": "1567116000",
             "expiration_date": "30-aug-2019",
@@ -5536,9 +5541,9 @@
             "state": "future"
         },
         "akasharock.com": {
-            "epoch": "1534456800",
-            "expiration_date": "17-aug-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "akbank-onayla.com": {
             "epoch": "1562277600",
