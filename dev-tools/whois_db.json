@@ -43331,8 +43331,8 @@
             "state": "future"
         },
         "eventsexpo.net": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "ever00nstender.com": {
@@ -44416,9 +44416,9 @@
             "state": "future"
         },
         "famatechnologies.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1635890400",
+            "expiration_date": "03-nov-2021",
+            "state": "future"
         },
         "fameboxagro.com": {
             "epoch": "1570312800",
@@ -44506,8 +44506,8 @@
             "state": "future"
         },
         "farhadshams.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "faridkhourylaw.com": {
