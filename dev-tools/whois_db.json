@@ -13778,7 +13778,7 @@
         "bahairadio3.info": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bahianinho-casasbahia.com": {
             "epoch": "1565301600",
@@ -13831,8 +13831,8 @@
             "state": "future"
         },
         "baijianiu.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "baikal.by": {
@@ -14316,9 +14316,9 @@
             "state": "future"
         },
         "banglatabloid.com": {
-            "epoch": "1534456800",
-            "expiration_date": "17-aug-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "banglavashi.com": {
             "epoch": "1548799200",
