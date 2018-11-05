@@ -21970,6 +21970,11 @@
             "expiration_date": "20-aug-2019",
             "state": "future"
         },
+        "cadastru-cartefunciara.ro": {
+            "epoch": "1570917600",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
         "cadburchocolate.com": {
             "epoch": "1564005600",
             "expiration_date": "25-jul-2019",
@@ -22653,7 +22658,7 @@
         "canyoudeliver.it": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "caotronghop.com": {
             "epoch": "1550527200",
