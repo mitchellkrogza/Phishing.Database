@@ -10740,6 +10740,11 @@
             "expiration_date": "13-feb-2019",
             "state": "future"
         },
+        "arjawa.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
         "arjmand.net": {
             "epoch": "1571436000",
             "expiration_date": "19-oct-2019",
@@ -11068,7 +11073,7 @@
         "artlitera.ro": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "artmedia-huruftimbul.com": {
             "epoch": "1554415200",
