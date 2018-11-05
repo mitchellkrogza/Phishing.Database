@@ -56226,9 +56226,9 @@
             "state": "future"
         },
         "hotelwoodlandsomnath.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "hotelzamzam.com": {
             "epoch": "1550959200",
@@ -56281,9 +56281,9 @@
             "state": "future"
         },
         "hotproductsshop.com": {
-            "epoch": "1534543200",
-            "expiration_date": "18-aug-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "hotrodsvipcard.com": {
             "epoch": "1554415200",
@@ -56433,6 +56433,11 @@
         "howtoweb.rs": {
             "epoch": "1571349600",
             "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "howtowordpress.ro": {
+            "epoch": "1565820000",
+            "expiration_date": "15-aug-2019",
             "state": "future"
         },
         "howudeyna.com": {
