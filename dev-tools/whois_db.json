@@ -36051,8 +36051,8 @@
             "state": "future"
         },
         "dorukcicekcilik.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "dosghost.com": {
@@ -36826,9 +36826,9 @@
             "state": "future"
         },
         "dsg-sa.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "dsgcbeonline.com": {
             "epoch": "1571176800",
