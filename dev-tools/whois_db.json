@@ -113710,6 +113710,11 @@
             "expiration_date": "21-apr-2019",
             "state": "future"
         },
+        "te-resolution-account.gq": {
+            "epoch": "1785621600",
+            "expiration_date": "02-aug-2026",
+            "state": "future"
+        },
         "teaduniya.com": {
             "epoch": "1557180000",
             "expiration_date": "07-may-2019",
@@ -114506,9 +114511,9 @@
             "state": "future"
         },
         "terracegardeners.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "terrafirmadesignltd.com": {
             "epoch": "1566424800",
