@@ -99373,7 +99373,7 @@
         "robertocastagna.it": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "robertomarroquin.com": {
             "epoch": "1559080800",
@@ -100229,6 +100229,11 @@
             "epoch": "1566252000",
             "expiration_date": "20-aug-2019",
             "state": "future"
+        },
+        "ruki.ro": {
+            "epoch": "1540591200",
+            "expiration_date": "27-oct-2018",
+            "state": "past"
         },
         "rumahdesain.co": {
             "epoch": "1553032800",
