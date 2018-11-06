@@ -79090,6 +79090,11 @@
             "expiration_date": "06-dec-2019",
             "state": "future"
         },
+        "morningnewsbrief.ro": {
+            "epoch": "1540332000",
+            "expiration_date": "24-oct-2018",
+            "state": "past"
+        },
         "morsealpha.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
