@@ -85278,7 +85278,7 @@
         "nwcryptoexchange.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nxtlog.com": {
             "epoch": "1565215200",
