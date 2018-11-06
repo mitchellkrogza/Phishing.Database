@@ -79803,7 +79803,7 @@
         "mulligansfamilyfun.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "multi-familyacquisitiongroup.com": {
             "epoch": "1599256800",
@@ -79959,6 +79959,11 @@
             "epoch": "1572213600",
             "expiration_date": "28-oct-2019",
             "state": "future"
+        },
+        "museion.ro": {
+            "epoch": "1539381600",
+            "expiration_date": "13-oct-2018",
+            "state": "past"
         },
         "museumhousegroup.com": {
             "epoch": "1562536800",
@@ -80236,9 +80241,9 @@
             "state": "future"
         },
         "my-healthmasters.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "my-kassa.com": {
             "epoch": "1550700000",
@@ -81308,7 +81313,7 @@
         "myjumpseat.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mykctv.com": {
             "epoch": "1571868000",
@@ -81371,8 +81376,8 @@
             "state": "future"
         },
         "mylpdemo.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "mymatchpics.com": {
