@@ -63793,7 +63793,7 @@
         "joshuamjordan.com": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "joshuaspoon.com": {
             "epoch": "1544652000",
@@ -63878,7 +63878,7 @@
         "joytin.com": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "joywinning.com": {
             "epoch": "1564005600",
