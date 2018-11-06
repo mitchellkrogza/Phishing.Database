@@ -90176,9 +90176,9 @@
             "state": "future"
         },
         "pctconsulting.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "pcz.tv": {
             "epoch": "1553724000",
@@ -90426,9 +90426,9 @@
             "state": "future"
         },
         "penguinairwaxhaw.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "peni-poweblast.com": {
             "epoch": "1555365600",
@@ -90480,6 +90480,11 @@
             "expiration_date": "20-nov-2018",
             "state": "future"
         },
+        "pensiunea-andutu.ro": {
+            "epoch": "1538085600",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
         "pentagonsys.com": {
             "epoch": "1582495200",
             "expiration_date": "24-feb-2020",
@@ -90508,6 +90513,11 @@
         "peoplestheatrebd.org": {
             "epoch": "1564956000",
             "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "pepelearesidence.ro": {
+            "epoch": "1543874400",
+            "expiration_date": "04-dec-2018",
             "state": "future"
         },
         "pepgamez.com": {
