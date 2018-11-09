@@ -68,6 +68,8 @@ travis_branch: master
 unified: False
 # Set the default user agent use when requesting the HTTP code.
 user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+# Enable / disable the verification of the certificate when testing for URL.
+verify_ssl_certificate: False
 # Enable / disable the usage of a database to store the hash of the whois record
 whois_database: True
 
@@ -212,7 +214,6 @@ links:
   iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
   repo: "https://github.com/funilrys/PyFunceble"
   requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
-  script: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/PyFunceble.py"
   psl: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json"
 counter:
   number:
