@@ -25390,6 +25390,11 @@
             "expiration_date": "12-apr-2019",
             "state": "future"
         },
+        "checkbox.cf": {
+            "epoch": "1839016800",
+            "expiration_date": "11-apr-2028",
+            "state": "future"
+        },
         "checkedaccount.biz": {
             "epoch": "1559080800",
             "expiration_date": "29-may-2019",
@@ -25531,8 +25536,8 @@
             "state": "future"
         },
         "chemnor.com": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "chennaisurgicals.com": {
@@ -25676,8 +25681,8 @@
             "state": "future"
         },
         "chihoicham.com": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "chiifood.com": {
@@ -26441,8 +26446,8 @@
             "state": "future"
         },
         "citybusseva.com": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "citychowk.com": {
@@ -26661,9 +26666,9 @@
             "state": "future"
         },
         "clappermedia.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "claraleitao.net": {
             "epoch": "1570399200",
