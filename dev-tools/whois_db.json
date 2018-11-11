@@ -52596,9 +52596,9 @@
             "state": "future"
         },
         "grupo-sol.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "grupo-viva.com": {
             "epoch": "1548626400",
@@ -53411,8 +53411,8 @@
             "state": "future"
         },
         "halbmeier.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "halfasgoodasyou.com": {
@@ -53741,14 +53741,14 @@
             "state": "future"
         },
         "hanoime.com": {
-            "epoch": "1534370400",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "hanoirenting.com": {
-            "epoch": "1536098400",
-            "expiration_date": "05-sep-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "hanpalba.com": {
             "epoch": "1557266400",
@@ -53843,7 +53843,7 @@
         "happyhome.ng": {
             "epoch": "1541887200",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "happylivinghypnotherapy.com": {
             "epoch": "1602972000",
