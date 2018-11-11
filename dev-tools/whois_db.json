@@ -2026,9 +2026,9 @@
             "state": "future"
         },
         "aaratipower.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "aaravcscdurg.com": {
             "epoch": "1560981600",
@@ -2356,8 +2356,8 @@
             "state": "future"
         },
         "abintrasolutions.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "abirderslife.com": {
@@ -2601,8 +2601,8 @@
             "state": "future"
         },
         "acade.fr": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "academiaalld.in": {
