@@ -3598,7 +3598,7 @@
         "activecity.ro": {
             "epoch": "1541714400",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "activekeys.info": {
             "epoch": "1565906400",
@@ -3871,8 +3871,8 @@
             "state": "future"
         },
         "aderezos2banderas.com": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "adesaocef.com": {
@@ -4401,9 +4401,9 @@
             "state": "future"
         },
         "aesurgisaps2018.com": {
-            "epoch": "1534802400",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "aetarms.com": {
             "epoch": "1680645600",
