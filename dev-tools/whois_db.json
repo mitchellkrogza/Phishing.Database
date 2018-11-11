@@ -16380,6 +16380,11 @@
             "expiration_date": "19-may-2019",
             "state": "future"
         },
+        "besocial.ro": {
+            "epoch": "1591653600",
+            "expiration_date": "09-jun-2020",
+            "state": "future"
+        },
         "bespaksport.com": {
             "epoch": "1578607200",
             "expiration_date": "10-jan-2020",
@@ -16751,8 +16756,8 @@
             "state": "future"
         },
         "bestchiropractorsnearme.com": {
-            "epoch": "1541800800",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573336800",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "bestchnage.ru": {
