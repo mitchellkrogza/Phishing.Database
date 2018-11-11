@@ -57328,7 +57328,7 @@
         "ibs-lenart.si": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ibtaxconsulting.com": {
             "epoch": "1583704800",
@@ -58301,8 +58301,8 @@
             "state": "future"
         },
         "igotrip.info": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "igrice-24.com": {
