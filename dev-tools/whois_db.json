@@ -12366,8 +12366,8 @@
             "state": "future"
         },
         "aureus.nyc": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "aurive.it": {
@@ -12591,8 +12591,8 @@
             "state": "future"
         },
         "autism.mn": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "autismhometherapist.com": {
@@ -12859,6 +12859,11 @@
             "epoch": "1692136800",
             "expiration_date": "16-aug-2023",
             "state": "future"
+        },
+        "avantgarden-2.ro": {
+            "epoch": "1540591200",
+            "expiration_date": "27-oct-2018",
+            "state": "past"
         },
         "avanua.pl": {
             "epoch": "1564351200",
@@ -13321,8 +13326,8 @@
             "state": "future"
         },
         "ayodhyaguesthouse.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "ayokitawisata.com": {
@@ -13566,9 +13571,9 @@
             "state": "future"
         },
         "baanwongswin.com": {
-            "epoch": "1534370400",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "baazaroo.com": {
             "epoch": "1570831200",
