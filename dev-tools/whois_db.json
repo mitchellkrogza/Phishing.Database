@@ -10490,6 +10490,11 @@
             "expiration_date": "12-feb-2019",
             "state": "future"
         },
+        "arcromdiamonds.ro": {
+            "epoch": "1851544800",
+            "expiration_date": "03-sep-2028",
+            "state": "future"
+        },
         "arcsengineering.it": {
             "epoch": "1540936800",
             "expiration_date": "31-oct-2018",
@@ -11246,9 +11251,9 @@
             "state": "future"
         },
         "ascware.com": {
-            "epoch": "1534802400",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "asdas.com": {
             "epoch": "1586556000",
@@ -11621,8 +11626,8 @@
             "state": "future"
         },
         "assetmanagementsoftwares.com": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "assistanceportalameli.com": {
