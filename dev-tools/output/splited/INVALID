@@ -542,3 +542,8 @@ test1234567:test1234567@www.doorcomponents.com                                  
 textspeier.de,http:                                                                                  INVALID     SYNTAX    
 tfacoachesportal.com,http:                                                                           INVALID     SYNTAX    
 tg.https.pro,http:                                                                                   INVALID     IANA      
+tirana.gov.al,http:                                                                                  INVALID     IANA      
+tksupply.com?3q=xpksagmpmbfaqsgwudp                                                                  INVALID     SYNTAX    
+tksupply.com?6ex0v8=urcwgcv1utrpgvcvmzyeyzcqi                                                        INVALID     SYNTAX    
+top-ethereum.com,http:                                                                               INVALID     SYNTAX    
+top-fwz1.mail.ru,http:                                                                               INVALID     IANA      
