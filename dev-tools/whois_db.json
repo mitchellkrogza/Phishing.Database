@@ -118031,8 +118031,8 @@
             "state": "future"
         },
         "transheka.com": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "transkom93.com": {
@@ -118131,9 +118131,9 @@
             "state": "future"
         },
         "travel-hound.com": {
-            "epoch": "1534802400",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "travelamazer.com": {
             "epoch": "1571176800",
@@ -118608,7 +118608,7 @@
         "trpresine.it": {
             "epoch": "1541714400",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "trs-int.com": {
             "epoch": "1566511200",
