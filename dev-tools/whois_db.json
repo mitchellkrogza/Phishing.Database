@@ -97733,7 +97733,7 @@
         "ref-confim.com": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "refeprovidermobi.info": {
             "epoch": "1561068000",
@@ -98758,7 +98758,7 @@
         "reyhanlisehri.com": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rezinotehnika64.ru": {
             "epoch": "1566511200",
