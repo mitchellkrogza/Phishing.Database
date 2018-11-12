@@ -63106,9 +63106,9 @@
             "state": "future"
         },
         "jesseslade.net": {
-            "epoch": "1534197600",
-            "expiration_date": "14-aug-2018",
-            "state": "past"
+            "epoch": "1699221600",
+            "expiration_date": "06-nov-2023",
+            "state": "future"
         },
         "jessicafoleylaw.com": {
             "epoch": "1547676000",
@@ -63158,6 +63158,11 @@
         "jesussaved.net": {
             "epoch": "1549404000",
             "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "jetech.org": {
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "jethooky.com": {
@@ -63483,7 +63488,7 @@
         "jnhoje.com": {
             "epoch": "1541887200",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jnisign.com": {
             "epoch": "1543442400",
@@ -63621,8 +63626,8 @@
             "state": "future"
         },
         "joeynizuk.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "joger.se": {
@@ -63671,8 +63676,8 @@
             "state": "future"
         },
         "johnferner.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1604872800",
+            "expiration_date": "09-nov-2020",
             "state": "future"
         },
         "johnfkellywines.com": {
@@ -63861,9 +63866,9 @@
             "state": "future"
         },
         "joshuamjordan.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "joshuaspoon.com": {
             "epoch": "1544652000",
@@ -63946,9 +63951,9 @@
             "state": "future"
         },
         "joytin.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "joywinning.com": {
             "epoch": "1564005600",
