@@ -92006,8 +92006,8 @@
             "state": "future"
         },
         "plantingflow.id": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "plaskibrzuch.com": {
@@ -92488,7 +92488,7 @@
         "polarizadosdeseguridad.com": {
             "epoch": "1541887200",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "polarizednation.com": {
             "epoch": "1571263200",
@@ -92901,9 +92901,9 @@
             "state": "future"
         },
         "portofinocove.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "portplastics.com": {
             "epoch": "1571695200",
@@ -93441,8 +93441,8 @@
             "state": "future"
         },
         "premierstucco.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "premiervaluemarketing.com": {
