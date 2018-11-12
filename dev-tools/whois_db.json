@@ -109926,9 +109926,9 @@
             "state": "future"
         },
         "stardeltaes.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "starfleetepsilon.com": {
             "epoch": "1572818400",
@@ -110431,8 +110431,8 @@
             "state": "future"
         },
         "stellarfitness.in": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "stellarterm.org": {
@@ -110556,8 +110556,8 @@
             "state": "future"
         },
         "steviaworld.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "stgregorysschool.org": {
@@ -110723,7 +110723,7 @@
         "stonepeng.com": {
             "epoch": "1541887200",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "stonesoldiers.biz": {
             "epoch": "1546639200",
@@ -110911,9 +110911,9 @@
             "state": "future"
         },
         "stream-partage.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "streamcommunuity.com": {
             "epoch": "1562536800",
@@ -111101,8 +111101,8 @@
             "state": "future"
         },
         "studiesmadesimple.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "studiia-remontov.bid": {
@@ -111111,9 +111111,9 @@
             "state": "future"
         },
         "studio-taddei.it": {
-            "epoch": "1540504800",
-            "expiration_date": "26-oct-2018",
-            "state": "past"
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
         },
         "studio2080.org": {
             "epoch": "1556229600",
@@ -111233,7 +111233,7 @@
         "stulic.it": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "stupenechka.ru": {
             "epoch": "1559426400",
