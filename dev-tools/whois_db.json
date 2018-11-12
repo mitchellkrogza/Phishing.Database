@@ -73240,6 +73240,11 @@
             "expiration_date": "11-aug-2019",
             "state": "future"
         },
+        "mainstreamjob.ro": {
+            "epoch": "1602453600",
+            "expiration_date": "12-oct-2020",
+            "state": "future"
+        },
         "mainstreetinsurance345.com": {
             "epoch": "1572559200",
             "expiration_date": "01-nov-2019",
@@ -73258,6 +73263,11 @@
         "maiodepromocoes.com": {
             "epoch": "1557612000",
             "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "maiorinvestments.ro": {
+            "epoch": "1647036000",
+            "expiration_date": "12-mar-2022",
             "state": "future"
         },
         "mairalafilms.com": {
