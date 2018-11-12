@@ -79203,7 +79203,7 @@
         "mortgagebyjim.com": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mortgagemakers.org": {
             "epoch": "1552773600",
@@ -79456,9 +79456,9 @@
             "state": "future"
         },
         "movingroadsl.com": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "mowebplus.com": {
             "epoch": "1571695200",
@@ -79513,6 +79513,11 @@
         "mpowerministries.org": {
             "epoch": "1571522400",
             "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "mproiect.ro": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "mps-cert.net": {
@@ -79896,9 +79901,9 @@
             "state": "future"
         },
         "mulligansfamilyfun.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "multi-familyacquisitiongroup.com": {
             "epoch": "1599256800",
