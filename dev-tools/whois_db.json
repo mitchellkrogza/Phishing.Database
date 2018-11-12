@@ -73726,8 +73726,8 @@
             "state": "future"
         },
         "manatour.cl": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "mancoraysol.com": {
@@ -73884,6 +73884,11 @@
             "epoch": "1553724000",
             "expiration_date": "28-mar-2019",
             "state": "future"
+        },
+        "manufacturamagura.ro": {
+            "epoch": "1537740000",
+            "expiration_date": "24-sep-2018",
+            "state": "past"
         },
         "manukcucokrowodowobuntuteakehanune.org": {
             "epoch": "1565647200",
@@ -74088,7 +74093,7 @@
         "margaretbennettrealty.com": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "margaretfourie.com": {
             "epoch": "1549749600",
@@ -74713,7 +74718,7 @@
         "matadejoncs.cat": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "matalwap.com": {
             "epoch": "1547157600",
@@ -74971,9 +74976,9 @@
             "state": "future"
         },
         "maxaimnetworks.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1604613600",
+            "expiration_date": "06-nov-2020",
+            "state": "future"
         },
         "maxapiseo.com": {
             "epoch": "1569448800",
@@ -75081,8 +75086,8 @@
             "state": "future"
         },
         "maykemtuyet.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "mayorfoundation.org": {
