@@ -112281,8 +112281,8 @@
             "state": "future"
         },
         "suriname-tour.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "suripics.com": {
@@ -112361,8 +112361,8 @@
             "state": "future"
         },
         "susannecarbin.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "susannoratto.co": {
@@ -112581,8 +112581,8 @@
             "state": "future"
         },
         "swcreative.ca": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "swdproaudio.com": {
@@ -112916,9 +112916,9 @@
             "state": "future"
         },
         "systemdynamics.it": {
-            "epoch": "1540418400",
-            "expiration_date": "25-oct-2018",
-            "state": "past"
+            "epoch": "1571954400",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
         },
         "systemrazors.com": {
             "epoch": "1591826400",
@@ -113088,7 +113088,7 @@
         "tabi-labo.bid": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "tablesandsheets.com": {
             "epoch": "1557352800",
