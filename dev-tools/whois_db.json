@@ -35138,7 +35138,7 @@
         "disulisa.org": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ditadangmsl.com": {
             "epoch": "1783375200",
@@ -35621,9 +35621,9 @@
             "state": "future"
         },
         "doctorspolyclinic.com": {
-            "epoch": "1537912800",
-            "expiration_date": "26-sep-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "doctransfer.co": {
             "epoch": "1548712800",
@@ -35641,9 +35641,9 @@
             "state": "future"
         },
         "documentoveloce.it": {
-            "epoch": "1540591200",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "documidwest.net": {
             "epoch": "1557525600",
