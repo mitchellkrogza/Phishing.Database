@@ -2068,7 +2068,7 @@
         "aaryavartkikalam.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aas-clean.com": {
             "epoch": "1558735200",
