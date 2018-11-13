@@ -23713,7 +23713,7 @@
         "castgera.bid": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "castlenailspamockingbird.com": {
             "epoch": "1572213600",
@@ -24268,7 +24268,7 @@
         "celebrityhairstore.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "celebrityhealthcentral.com": {
             "epoch": "1566424800",
