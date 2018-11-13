@@ -20448,7 +20448,7 @@
         "brevetdescolleges.trade": {
             "epoch": "1541973600",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "brewlette.in": {
             "epoch": "1542751200",
