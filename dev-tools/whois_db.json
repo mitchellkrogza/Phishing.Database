@@ -38568,7 +38568,7 @@
         "egelikahvecisiduzce.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "egeszseges-taplalkozas.info": {
             "epoch": "1560549600",
@@ -39771,8 +39771,8 @@
             "state": "future"
         },
         "emkor.pl": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "emm311.net": {
@@ -39861,8 +39861,8 @@
             "state": "future"
         },
         "empresasdearagon.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "emprestimo-itau-br.com": {
