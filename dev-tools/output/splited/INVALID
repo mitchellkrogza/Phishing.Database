@@ -3,3 +3,6 @@
 
 Domain                                                                                               Status      HTTP Code 
 184.168.189.1,http:                                                                                  INVALID     SYNTAX    
+188.15.200.109:8080                                                                                  INVALID     SYNTAX    
+18bfe6368da9c911                                                                                     INVALID     SYNTAX    
+190.248.134.158:8081                                                                                 INVALID     SYNTAX    
