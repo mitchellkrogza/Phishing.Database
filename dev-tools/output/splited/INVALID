@@ -27,3 +27,6 @@ casasbahiaweb.ml,http:                                                          
 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php INVALID     SYNTAX    
 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php,http: INVALID     SYNTAX    
 chat.whatzapp.xyz,http:                                                                              INVALID     IANA      
+clubesmillesbr.com,http:                                                                             INVALID     SYNTAX    
+cl-updateid15329.org,http:                                                                           INVALID     SYNTAX    
+cl-updateid21649.org,http:                                                                           INVALID     SYNTAX    
