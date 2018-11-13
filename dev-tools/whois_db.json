@@ -11711,8 +11711,8 @@
             "state": "future"
         },
         "astazi.ro": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "astclick.club": {
@@ -12371,9 +12371,9 @@
             "state": "future"
         },
         "aurive.it": {
-            "epoch": "1540677600",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "aurora-care.com": {
             "epoch": "1562450400",
