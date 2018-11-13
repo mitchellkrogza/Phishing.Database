@@ -43571,9 +43571,9 @@
             "state": "future"
         },
         "excelcare.co": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "excelexim.com": {
             "epoch": "1568844000",
@@ -43836,9 +43836,9 @@
             "state": "future"
         },
         "exploreitbd.net": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "explorenorthfulton.com": {
             "epoch": "1561932000",
@@ -44328,7 +44328,7 @@
         "fail-69cs9.stream": {
             "epoch": "1541887200",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fail-81xe1.stream": {
             "epoch": "1549663200",
