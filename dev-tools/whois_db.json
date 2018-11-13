@@ -5171,8 +5171,8 @@
             "state": "future"
         },
         "aimandachievecic.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "aimarble.com": {
@@ -5818,7 +5818,7 @@
         "alappuzhadistrict.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alarayconcepts.com": {
             "epoch": "1551736800",
@@ -6988,7 +6988,7 @@
         "alpacamylife.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alpha-salon.com": {
             "epoch": "1566770400",
