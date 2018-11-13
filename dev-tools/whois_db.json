@@ -59330,6 +59330,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "inew.ro": {
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
         "infertilityandherbs.com": {
             "epoch": "1570917600",
             "expiration_date": "13-oct-2019",
@@ -59866,8 +59871,8 @@
             "state": "future"
         },
         "innovativemobilephonemarketing.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "innovindo.com": {
@@ -59941,9 +59946,9 @@
             "state": "future"
         },
         "inshalpharma.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "inside-madagascar.com": {
             "epoch": "1567548000",
@@ -60101,9 +60106,9 @@
             "state": "future"
         },
         "instakipcin.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "instakutusu.info": {
             "epoch": "1564005600",
@@ -60383,7 +60388,7 @@
         "interestingfurniture.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "interfaxprensa.com": {
             "epoch": "1543183200",
@@ -60491,8 +60496,8 @@
             "state": "future"
         },
         "internetdatingstories.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "internete-tellekom.ru": {
@@ -60773,7 +60778,7 @@
         "investorrelations.hk": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "investsouthsaigon.com": {
             "epoch": "1565388000",
