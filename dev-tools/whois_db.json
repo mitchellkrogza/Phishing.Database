@@ -62783,12 +62783,12 @@
         "jazzyautoimaging.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jazzyhometheater.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jbeileparchy.org": {
             "epoch": "1555452000",
