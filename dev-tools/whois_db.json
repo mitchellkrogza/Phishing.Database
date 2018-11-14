@@ -106808,7 +106808,7 @@
         "simplycast.us": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "simplyconnectedphotography.ca": {
             "epoch": "1548367200",
@@ -107401,8 +107401,8 @@
             "state": "future"
         },
         "skycamvideoandphoto.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "skyconappliances.com": {
