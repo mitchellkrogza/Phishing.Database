@@ -79211,9 +79211,9 @@
             "state": "future"
         },
         "mortgagebyjim.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "mortgagemakers.org": {
             "epoch": "1552773600",
