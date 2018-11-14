@@ -113766,8 +113766,8 @@
             "state": "future"
         },
         "tbmbusanamuslim.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "tbr-d.com": {
@@ -114171,9 +114171,9 @@
             "state": "future"
         },
         "techsabah.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "techsuneducation.com": {
             "epoch": "1600466400",
