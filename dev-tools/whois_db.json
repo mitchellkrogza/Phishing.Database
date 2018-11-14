@@ -110746,9 +110746,9 @@
             "state": "future"
         },
         "stonepeng.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "stonesoldiers.biz": {
             "epoch": "1546639200",
@@ -111793,7 +111793,7 @@
         "sunsofttec.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sunsurveysystems.com": {
             "epoch": "1595023200",
@@ -111876,9 +111876,9 @@
             "state": "future"
         },
         "superchargeyourprofile.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "superdomannation.com": {
             "epoch": "1569967200",
