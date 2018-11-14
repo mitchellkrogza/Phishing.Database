@@ -90673,7 +90673,7 @@
         "pereiramudancas.net": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "perfect-new.ru": {
             "epoch": "1561068000",
@@ -91141,8 +91141,8 @@
             "state": "future"
         },
         "pharmatechscn.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "pharmaview.org": {
@@ -91501,8 +91501,8 @@
             "state": "future"
         },
         "picabela.pl": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "picasosys.com": {
@@ -91886,8 +91886,8 @@
             "state": "future"
         },
         "pixiesfly.com": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "pixitube.com": {
