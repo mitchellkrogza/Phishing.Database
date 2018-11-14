@@ -93921,8 +93921,8 @@
             "state": "future"
         },
         "prix-russophonie.fr": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "priyafoods.com": {
@@ -95108,7 +95108,7 @@
         "publicpolls.in": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "publiczynkapital.com": {
             "epoch": "1558476000",
@@ -95483,7 +95483,7 @@
         "qbpointofsalesupportnumber.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "qcartridge.com": {
             "epoch": "1560549600",
