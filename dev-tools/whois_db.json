@@ -92506,9 +92506,9 @@
             "state": "future"
         },
         "polarizadosdeseguridad.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "polarizednation.com": {
             "epoch": "1571263200",
@@ -93233,7 +93233,7 @@
         "pracovka.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pracowniakusnierska.pl": {
             "epoch": "1549490400",
@@ -93343,7 +93343,7 @@
         "praywithnic.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "prazakelektro.cz": {
             "epoch": "1580594400",
@@ -93646,9 +93646,9 @@
             "state": "future"
         },
         "prime08.com": {
-            "epoch": "1534456800",
-            "expiration_date": "17-aug-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "primecomfort.com": {
             "epoch": "1552687200",
@@ -93706,9 +93706,9 @@
             "state": "future"
         },
         "primocafeandgrille.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "primspa.mx": {
             "epoch": "1553983200",
