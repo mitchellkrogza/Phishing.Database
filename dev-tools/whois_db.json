@@ -104175,6 +104175,11 @@
             "expiration_date": "19-feb-2019",
             "state": "future"
         },
+        "semnuldincarte.ro": {
+            "epoch": "1661032800",
+            "expiration_date": "21-aug-2022",
+            "state": "future"
+        },
         "semoon.mn": {
             "epoch": "1554501600",
             "expiration_date": "06-apr-2019",
@@ -104341,8 +104346,8 @@
             "state": "future"
         },
         "seputarriau.co": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "ser-paypal.com": {
