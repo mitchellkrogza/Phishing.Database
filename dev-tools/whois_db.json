@@ -67258,7 +67258,7 @@
         "kredtsmarkt.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kreezee.men": {
             "epoch": "1548972000",
@@ -67653,7 +67653,7 @@
         "kursusking.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kurt.nu": {
             "epoch": "1603663200",
@@ -67673,7 +67673,7 @@
         "kushalnaik.net": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kushelevichclinic.by": {
             "epoch": "1567807200",
