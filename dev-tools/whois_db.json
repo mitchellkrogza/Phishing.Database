@@ -99878,7 +99878,7 @@
         "roomedi.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "roomlone.info": {
             "epoch": "1559599200",
@@ -100093,7 +100093,7 @@
         "royaltymarketingco.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "royaltystaffing.org": {
             "epoch": "1573250400",
