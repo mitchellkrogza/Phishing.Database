@@ -82271,8 +82271,8 @@
             "state": "future"
         },
         "nahanbahais.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "nahar-is.org": {
@@ -82881,14 +82881,14 @@
             "state": "future"
         },
         "ndifam.com": {
-            "epoch": "1534975200",
-            "expiration_date": "23-aug-2018",
-            "state": "past"
+            "epoch": "1573336800",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
         },
         "ndolo.net": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nearmall.com": {
             "epoch": "1557439200",
@@ -82998,6 +82998,11 @@
         "nehircam.com": {
             "epoch": "1565560800",
             "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "nehruschoolsendhwa.in": {
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "neilmacqueen.com": {
@@ -83651,9 +83656,9 @@
             "state": "future"
         },
         "newkingstechnology.com": {
-            "epoch": "1535234400",
-            "expiration_date": "26-aug-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "newlafresca.com": {
             "epoch": "1542751200",
@@ -83716,9 +83721,9 @@
             "state": "future"
         },
         "newmrdc.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "newnwhomes.com": {
             "epoch": "1556920800",
