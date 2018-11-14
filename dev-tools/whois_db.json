@@ -104988,7 +104988,7 @@
         "sevkarentacaremlak.com": {
             "epoch": "1542060000",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sewardracing.com": {
             "epoch": "1543960800",
@@ -105181,9 +105181,9 @@
             "state": "future"
         },
         "shabanadli.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "shadanaihai.info": {
             "epoch": "1554501600",
@@ -106173,7 +106173,7 @@
         "sicbweb.com": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sichercenter.com": {
             "epoch": "1566856800",
@@ -106396,8 +106396,8 @@
             "state": "future"
         },
         "sigilare.com": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "sigin-apple.com": {
