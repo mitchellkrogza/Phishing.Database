@@ -127655,6 +127655,11 @@
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "xn--dezmembrri-constana-dfc400d.ro": {
+            "epoch": "1594159200",
+            "expiration_date": "08-jul-2020",
+            "state": "future"
+        },
         "xn--disnyland-yf7d.com": {
             "epoch": "1559167200",
             "expiration_date": "30-may-2019",
