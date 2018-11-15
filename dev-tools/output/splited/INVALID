@@ -148,3 +148,7 @@ verification.peypal.com.meyershouses.co.uk:443                                  
 verified.myethergift.com,http:                                                                       INVALID     IANA      
 verizonwireleess.com,http:                                                                           INVALID     SYNTAX    
 vflturnen.de,http:                                                                                   INVALID     SYNTAX    
+villerconsult.com,http:                                                                              INVALID     SYNTAX    
+vista.com.uy?email=abuse@2.com                                                                       INVALID     SYNTAX    
+vixas.atwebpages.com,http:                                                                           INVALID     IANA      
+vixcuv.weebly.com,http:                                                                              INVALID     IANA      
