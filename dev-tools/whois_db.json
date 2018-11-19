@@ -26041,8 +26041,8 @@
             "state": "future"
         },
         "chronocapture.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "chronopostservice.fr": {
@@ -26096,9 +26096,9 @@
             "state": "future"
         },
         "chuloworld.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "chundergroundsolutions.com": {
             "epoch": "1570312800",
@@ -26511,8 +26511,8 @@
             "state": "future"
         },
         "cjlconsults.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "cjoelyoung.com": {
@@ -26651,8 +26651,8 @@
             "state": "future"
         },
         "clainfra.com": {
-            "epoch": "1542319200",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "clalonestar.com": {
@@ -26688,7 +26688,7 @@
         "clargee.us": {
             "epoch": "1542232800",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "clariter.net": {
             "epoch": "1571781600",
@@ -26901,8 +26901,8 @@
             "state": "future"
         },
         "clgchurch.org": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "clhint.com": {
@@ -27431,9 +27431,9 @@
             "state": "future"
         },
         "cmkum.com": {
-            "epoch": "1536184800",
-            "expiration_date": "06-sep-2018",
-            "state": "past"
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "cmlmultimedia.com": {
             "epoch": "1547762400",
