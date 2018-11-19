@@ -34443,7 +34443,7 @@
         "diehotelprofis.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "dienaservices.com": {
             "epoch": "1547071200",
@@ -34546,8 +34546,8 @@
             "state": "future"
         },
         "digitalbazer.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "digitalbrainprint.com": {
@@ -34676,8 +34676,8 @@
             "state": "future"
         },
         "digiworldcom.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "digmark.com": {
@@ -34896,8 +34896,8 @@
             "state": "future"
         },
         "directorliabilityinsurance.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "directorydynamix.com": {
@@ -35146,9 +35146,9 @@
             "state": "future"
         },
         "disulisa.org": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "ditadangmsl.com": {
             "epoch": "1783375200",
