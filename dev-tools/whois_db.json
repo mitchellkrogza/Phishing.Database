@@ -40051,8 +40051,8 @@
             "state": "future"
         },
         "energytrade.pro": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "eneskay.com": {
@@ -40531,9 +40531,9 @@
             "state": "future"
         },
         "epsilonbattery.com": {
-            "epoch": "1535320800",
-            "expiration_date": "27-aug-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "epsilondefence.com": {
             "epoch": "1549404000",
@@ -40601,9 +40601,9 @@
             "state": "future"
         },
         "erakrim.com": {
-            "epoch": "1535493600",
-            "expiration_date": "29-aug-2018",
-            "state": "past"
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "erate365.com": {
             "epoch": "1598565600",
