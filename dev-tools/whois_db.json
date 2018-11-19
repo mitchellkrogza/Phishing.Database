@@ -1163,7 +1163,7 @@
         "3dpanelim.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "3dpropic.com": {
             "epoch": "1573509600",
