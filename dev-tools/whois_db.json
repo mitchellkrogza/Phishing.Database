@@ -30416,8 +30416,8 @@
             "state": "future"
         },
         "crimetime.se": {
-            "epoch": "1542319200",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "cristalturismo.com": {
@@ -31225,14 +31225,19 @@
             "expiration_date": "05-jun-2019",
             "state": "future"
         },
+        "cuaternar.ro": {
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
         "cubamonte.me": {
             "epoch": "1545084000",
             "expiration_date": "18-dec-2018",
             "state": "future"
         },
         "cubesinfosystems.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1605391200",
+            "expiration_date": "15-nov-2020",
             "state": "future"
         },
         "cubolite.com": {
@@ -31556,8 +31561,8 @@
             "state": "future"
         },
         "customizedmoroccotours.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "customlk.com": {
@@ -31723,11 +31728,11 @@
         "cyasadelnorte.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cybamail.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "cyberexpertz.com": {
