@@ -5083,7 +5083,7 @@
         "aib-immobilien.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aibolit24.ru": {
             "epoch": "1571090400",
@@ -5191,9 +5191,9 @@
             "state": "future"
         },
         "aimillionaire.com": {
-            "epoch": "1535666400",
-            "expiration_date": "31-aug-2018",
-            "state": "past"
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
         },
         "aimscs.org": {
             "epoch": "1546466400",
@@ -5471,8 +5471,8 @@
             "state": "future"
         },
         "ajayveer.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "ajbbo.com": {
@@ -5816,9 +5816,9 @@
             "state": "future"
         },
         "alappuzhadistrict.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "alarayconcepts.com": {
             "epoch": "1551736800",
@@ -5853,7 +5853,7 @@
         "alarm-qt49.stream": {
             "epoch": "1542146400",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alascovinylcorporation.com": {
             "epoch": "1550268000",
