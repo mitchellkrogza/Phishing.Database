@@ -125403,7 +125403,7 @@
         "westernroyalbank.com": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "westhavenuniv.edu": {
             "epoch": "1627682400",
@@ -125498,7 +125498,7 @@
         "wexonex.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wezatv.com": {
             "epoch": "1552082400",
@@ -126096,8 +126096,8 @@
             "state": "future"
         },
         "wik26.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "wikiarabmothers.com": {
@@ -126136,8 +126136,8 @@
             "state": "future"
         },
         "wildfire-agency.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "wildfirecards.com": {
@@ -126711,8 +126711,8 @@
             "state": "future"
         },
         "woodyaflowers.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "woolastook-presbytery.ca": {
@@ -126791,8 +126791,8 @@
             "state": "future"
         },
         "workshopofmusic.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "workworkwork.club": {
