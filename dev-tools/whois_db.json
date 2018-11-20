@@ -123953,7 +123953,7 @@
         "vukarus.ru": {
             "epoch": "1542405600",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "vukyp-akkov.com": {
             "epoch": "1556575200",
