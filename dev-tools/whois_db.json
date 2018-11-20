@@ -93271,9 +93271,9 @@
             "state": "future"
         },
         "pracovka.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "pracowniakusnierska.pl": {
             "epoch": "1549490400",
@@ -93381,9 +93381,9 @@
             "state": "future"
         },
         "praywithnic.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "prazakelektro.cz": {
             "epoch": "1580594400",
@@ -93736,8 +93736,8 @@
             "state": "future"
         },
         "primesourcellc.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "priminobotta.it": {
