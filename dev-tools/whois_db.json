@@ -83330,6 +83330,11 @@
             "expiration_date": "03-sep-2019",
             "state": "future"
         },
+        "netflix-customer.com": {
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
         "netflix-department.com": {
             "epoch": "1561327200",
             "expiration_date": "24-jun-2019",
@@ -83596,8 +83601,8 @@
             "state": "future"
         },
         "newchertia.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "newcinemalive.com": {
@@ -83916,9 +83921,9 @@
             "state": "future"
         },
         "nextgenmusicgroup.com": {
-            "epoch": "1535320800",
-            "expiration_date": "27-aug-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "nextgenn.net": {
             "epoch": "1557957600",
@@ -84276,8 +84281,8 @@
             "state": "future"
         },
         "nilimaconstruction.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "nilkanthpaperproduct.com": {
@@ -84296,9 +84301,9 @@
             "state": "future"
         },
         "nimtzdesigngroup.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1857679200",
+            "expiration_date": "13-nov-2028",
+            "state": "future"
         },
         "ninemilesenior.com": {
             "epoch": "1816898400",
@@ -84356,9 +84361,9 @@
             "state": "future"
         },
         "niqqita.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "niretit.com": {
             "epoch": "1572300000",
