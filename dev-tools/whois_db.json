@@ -91381,8 +91381,8 @@
             "state": "future"
         },
         "phonetography.world": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "phongvanfc.com": {
@@ -91843,6 +91843,11 @@
         "piscine-et-eau.fr": {
             "epoch": "1567202400",
             "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "piscine-la-cheie.ro": {
+            "epoch": "1623103200",
+            "expiration_date": "08-jun-2021",
             "state": "future"
         },
         "piscitorsl.com": {
@@ -92391,8 +92396,8 @@
             "state": "future"
         },
         "pnewsbd.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "pngdla.org": {
@@ -92448,7 +92453,7 @@
         "podtosound.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "poeiurjujasfueik.com": {
             "epoch": "1563228000",
@@ -92581,8 +92586,8 @@
             "state": "future"
         },
         "polihasnur-prodibtp.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "polishamericancenter.org": {
