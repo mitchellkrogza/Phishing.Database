@@ -118473,7 +118473,7 @@
         "trigrad-zora.com": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "triligenergy.com": {
             "epoch": "1549144800",
@@ -118496,9 +118496,9 @@
             "state": "future"
         },
         "trimarian.org": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "trimurpants.com": {
             "epoch": "1553378400",
@@ -118526,8 +118526,8 @@
             "state": "future"
         },
         "trioindia.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "triplethrive.com": {
@@ -118826,8 +118826,8 @@
             "state": "future"
         },
         "tsaew.com": {
-            "epoch": "1542319200",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "tsb-accounts.com": {
@@ -119041,8 +119041,8 @@
             "state": "future"
         },
         "turboincomestreams.com": {
-            "epoch": "1542319200",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "turbotubes.cl": {
@@ -119836,8 +119836,8 @@
             "state": "future"
         },
         "ultraknitfashions.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "ultralevelmarketing.com": {
