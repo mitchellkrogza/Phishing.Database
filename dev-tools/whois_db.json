@@ -106038,7 +106038,7 @@
         "showersofhope.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "showfemdom.stream": {
             "epoch": "1551996000",
@@ -106211,9 +106211,9 @@
             "state": "future"
         },
         "sicbweb.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "sichercenter.com": {
             "epoch": "1566856800",
@@ -106846,9 +106846,9 @@
             "state": "future"
         },
         "simplycast.us": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "simplyconnectedphotography.ca": {
             "epoch": "1548367200",
