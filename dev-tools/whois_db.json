@@ -98896,8 +98896,8 @@
             "state": "future"
         },
         "riadkniza.com": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1605736800",
+            "expiration_date": "19-nov-2020",
             "state": "future"
         },
         "riaexpo.ru": {
@@ -99226,8 +99226,8 @@
             "state": "future"
         },
         "rishtapoint.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "rishteyy.com": {
@@ -99556,8 +99556,8 @@
             "state": "future"
         },
         "robertsdvd.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "robertsfencecompany.com": {
@@ -99658,7 +99658,7 @@
         "rockndenterprises.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rockportcottages.com": {
             "epoch": "1618005600",
@@ -99916,9 +99916,9 @@
             "state": "future"
         },
         "roomedi.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "roomlone.info": {
             "epoch": "1559599200",
@@ -100131,9 +100131,9 @@
             "state": "future"
         },
         "royaltymarketingco.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "royaltystaffing.org": {
             "epoch": "1573250400",
