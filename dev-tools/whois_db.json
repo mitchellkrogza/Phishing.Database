@@ -77513,7 +77513,7 @@
         "minepay.ru": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mineralroksz.info": {
             "epoch": "1561932000",
@@ -77533,7 +77533,7 @@
         "minevinc.com": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "minfor.pl": {
             "epoch": "1551736800",
@@ -77671,8 +77671,8 @@
             "state": "future"
         },
         "minymages.fr": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "mipareministries.org": {
@@ -78148,7 +78148,7 @@
         "mmobitech.com": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mmretreat.com": {
             "epoch": "1558476000",
