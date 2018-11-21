@@ -43253,7 +43253,7 @@
         "eva-group.by": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "eva-trans.com": {
             "epoch": "1554069600",
@@ -43261,9 +43261,9 @@
             "state": "future"
         },
         "evafazzari.com": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "evakuator-duminichi.ru": {
             "epoch": "1556488800",
@@ -44353,7 +44353,7 @@
         "faimdesign.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "faincy.in": {
             "epoch": "1566424800",
@@ -44711,9 +44711,9 @@
             "state": "future"
         },
         "fastshort.net": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "fastskins.pro": {
             "epoch": "1565128800",
