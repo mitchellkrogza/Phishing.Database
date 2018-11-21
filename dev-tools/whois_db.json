@@ -60411,9 +60411,9 @@
             "state": "future"
         },
         "interestingfurniture.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "interfaxprensa.com": {
             "epoch": "1543183200",
@@ -61971,9 +61971,9 @@
             "state": "future"
         },
         "ittechware.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "ittihadsociety.org": {
             "epoch": "1553378400",
