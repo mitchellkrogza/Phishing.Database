@@ -10146,8 +10146,8 @@
             "state": "past"
         },
         "appvs.rs": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "appyss-miappidsrvinc.com": {
@@ -10546,8 +10546,8 @@
             "state": "future"
         },
         "areawellness.info": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "arenajax.com": {
@@ -10598,7 +10598,7 @@
         "argentine-authentique.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "argesogutma.com": {
             "epoch": "1570572000",
