@@ -84,24 +84,24 @@ outputs:
     whois_db: whois_db.json
 
   domains:
-    directory: domains/
+    directory: domains
     filename: list
 
   hosts:
-    directory: hosts/
+    directory: hosts
     filename: hosts
 
   json:
-    directory: json/
+    directory: json
     filename: dump.json
 
   analytic:
     directories:
-      parent: Analytic/
-      potentially_down: POTENTIALLY_INACTIVE/
-      potentially_up: POTENTIALLY_ACTIVE/
-      up: ACTIVE/
-      suspicious: SUSPICIOUS/
+      parent: Analytic
+      potentially_down: POTENTIALLY_INACTIVE
+      potentially_up: POTENTIALLY_ACTIVE
+      up: ACTIVE
+      suspicious: SUSPICIOUS
     filenames:
       potentially_down: down_or_potentially_down
       potentially_up: potentially_up
@@ -110,21 +110,21 @@ outputs:
 
   logs:
     directories:
-      date_format: date_format/
-      no_referer: no_referer/
-      parent: logs/
-      percentage: percentage/
-      whois: whois/
+      parent: logs
+      percentage: percentage
     filenames:
       auto_continue: continue.json
       execution_time: execution_time.json
       percentage: percentage.txt
+      whois: whois.json
+      date_format: date_format.json
+      no_referer: no_referer.json
 
   # This is the main directory which we call output/ in all our communication.
   parent_directory: output/
 
   splited:
-    directory: splited/
+    directory: splited
 
 status:
   list:
