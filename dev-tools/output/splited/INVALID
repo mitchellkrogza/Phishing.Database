@@ -18,3 +18,5 @@ belatchaawena.ga,http:                                                          
 binance-btc.github.io,http:                                                                          INVALID     IANA      
 bonus.ethersgive.com,http:                                                                           INVALID     IANA      
 bonus.eth-promo.org,http:                                                                            INVALID     IANA      
+casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php INVALID     SYNTAX    
+casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php,http: INVALID     SYNTAX    

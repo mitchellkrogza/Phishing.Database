@@ -17,3 +17,5 @@
 0.0.0.0 binance-btc.github.io,http:
 0.0.0.0 bonus.ethersgive.com,http:
 0.0.0.0 bonus.eth-promo.org,http:
+0.0.0.0 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php
+0.0.0.0 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php,http:
