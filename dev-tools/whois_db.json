@@ -39443,7 +39443,7 @@
         "elsabrositorestaurant.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "elshekari.com": {
             "epoch": "1569362400",
@@ -39923,7 +39923,7 @@
         "enagickangenwellnesswater.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "enamoredatthefalls.com": {
             "epoch": "1571522400",
@@ -39941,8 +39941,8 @@
             "state": "future"
         },
         "enceha.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "enclass.ru": {
