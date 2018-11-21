@@ -8208,7 +8208,7 @@
         "anatolyvitoldvitautovichstankyavichyus.co": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "anatomia.io": {
             "epoch": "1559426400",
@@ -9128,7 +9128,7 @@
         "aoqzfim.co": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "aosword.com": {
             "epoch": "1609192800",
