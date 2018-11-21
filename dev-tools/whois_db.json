@@ -15588,7 +15588,7 @@
         "beast-the-animal.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "beatekarlsson.com": {
             "epoch": "1567116000",
@@ -15906,9 +15906,9 @@
             "state": "future"
         },
         "belamourbridal.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "belanjaimpian.com": {
             "epoch": "1561413600",
