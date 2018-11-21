@@ -29883,7 +29883,7 @@
         "couponcurl.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "coupondeals4u.com": {
             "epoch": "1544479200",
@@ -29966,8 +29966,8 @@
             "state": "future"
         },
         "cox2inhibitor.com": {
-            "epoch": "1542319200",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "coxandkingslimited.com": {
