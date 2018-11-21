@@ -34441,9 +34441,9 @@
             "state": "future"
         },
         "diehotelprofis.com": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "dienaservices.com": {
             "epoch": "1547071200",
@@ -35801,8 +35801,8 @@
             "state": "future"
         },
         "dollsinyoface.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "dolphinconservation.org": {
