@@ -51408,7 +51408,7 @@
         "goneor-hosting.com": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "gonetvvork.com": {
             "epoch": "1560204000",
@@ -53183,7 +53183,7 @@
         "gytecgroup.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "gzgir.com": {
             "epoch": "1553896800",
