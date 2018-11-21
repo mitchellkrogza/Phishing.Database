@@ -47353,7 +47353,7 @@
         "fredagore.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fredericobarboza.com": {
             "epoch": "1577656800",
@@ -47661,8 +47661,8 @@
             "state": "future"
         },
         "friendsnetworkinternational.com": {
-            "epoch": "1542492000",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "frioaislantes.com": {
@@ -47716,8 +47716,8 @@
             "state": "future"
         },
         "fructoseintolerantblog.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "fruernes.dk": {
