@@ -20451,8 +20451,8 @@
             "state": "past"
         },
         "brewlette.in": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "brian-fitzgerald.com": {
@@ -20938,7 +20938,7 @@
         "btccode.co": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "btccoinrocks.trade": {
             "epoch": "1555192800",
