@@ -127468,7 +127468,7 @@
         "xgigroup.com": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "xgtees.com": {
             "epoch": "1555452000",
@@ -127501,8 +127501,8 @@
             "state": "future"
         },
         "xiphertech.com": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "xjrating.top": {
