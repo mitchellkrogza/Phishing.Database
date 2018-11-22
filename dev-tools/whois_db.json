@@ -75893,7 +75893,7 @@
         "meekbox.com": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "meeramu.com": {
             "epoch": "1564869600",
@@ -76851,8 +76851,8 @@
             "state": "future"
         },
         "meydane.info": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "meyercorner.com": {
@@ -77531,9 +77531,9 @@
             "state": "future"
         },
         "minepay.ru": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1576879200",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "mineralroksz.info": {
             "epoch": "1561932000",
@@ -77551,9 +77551,9 @@
             "state": "future"
         },
         "minevinc.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "minfor.pl": {
             "epoch": "1551736800",
@@ -77591,8 +77591,8 @@
             "state": "future"
         },
         "minibankmitra.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "minimal-app.com": {
@@ -77651,8 +77651,8 @@
             "state": "future"
         },
         "minoo-insurance.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "minotti.rs": {
@@ -77753,7 +77753,7 @@
         "mirazfood.com": {
             "epoch": "1542751200",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mirazstudio.in": {
             "epoch": "1552773600",
