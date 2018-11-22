@@ -80428,7 +80428,7 @@
         "my-money.su": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "my-naturallight.com": {
             "epoch": "1569189600",
@@ -81556,8 +81556,8 @@
             "state": "future"
         },
         "mymobile.asia": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1605909600",
+            "expiration_date": "21-nov-2020",
             "state": "future"
         },
         "mymobilsite.biz": {
@@ -81768,7 +81768,7 @@
         "mysipblog.com": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mysistersfarm.com": {
             "epoch": "1596578400",
