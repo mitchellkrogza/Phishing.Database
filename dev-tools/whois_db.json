@@ -89611,8 +89611,8 @@
             "state": "future"
         },
         "pattycookies.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "patykplumbing.com": {
@@ -90446,8 +90446,8 @@
             "state": "future"
         },
         "pearlind.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "pearlygatesmontessori.com": {
@@ -90663,7 +90663,7 @@
         "pensionzachej.party": {
             "epoch": "1542664800",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pensiunea-andutu.ro": {
             "epoch": "1538085600",
@@ -90731,9 +90731,9 @@
             "state": "future"
         },
         "pereiramudancas.net": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "perfect-new.ru": {
             "epoch": "1561068000",
@@ -91296,8 +91296,8 @@
             "state": "future"
         },
         "philippsbros.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "philipsmith12.com": {
