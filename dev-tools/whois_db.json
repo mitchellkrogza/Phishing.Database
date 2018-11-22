@@ -118263,7 +118263,7 @@
         "travelfolks.in": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "travelfunfreedom.net": {
             "epoch": "1660600800",
@@ -118501,9 +118501,9 @@
             "state": "future"
         },
         "trigrad-zora.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "triligenergy.com": {
             "epoch": "1549144800",
