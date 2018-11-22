@@ -114201,9 +114201,9 @@
             "state": "future"
         },
         "technofridge.com": {
-            "epoch": "1535580000",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "technoklus.com": {
             "epoch": "1612735200",
@@ -114801,8 +114801,8 @@
             "state": "future"
         },
         "tesisga.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "tesla-nutritions.com": {
