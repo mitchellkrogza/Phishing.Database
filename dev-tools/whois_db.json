@@ -49993,7 +49993,7 @@
         "giaphuthinhgroup.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "giardinasrl.it": {
             "epoch": "1541196000",
@@ -50651,9 +50651,9 @@
             "state": "future"
         },
         "globalgutz.com": {
-            "epoch": "1535839200",
-            "expiration_date": "02-sep-2018",
-            "state": "past"
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
         },
         "globalharmony.us": {
             "epoch": "1573682400",
@@ -50991,9 +50991,9 @@
             "state": "future"
         },
         "gmrubinetterie.it": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "gmsz-marineandcontracting.com": {
             "epoch": "1560895200",
@@ -51286,8 +51286,8 @@
             "state": "future"
         },
         "goldkombucha.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "goldrushproducts.com": {
@@ -51406,9 +51406,9 @@
             "state": "future"
         },
         "goneor-hosting.com": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
-            "state": "past"
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
         },
         "gonetvvork.com": {
             "epoch": "1560204000",
@@ -51493,7 +51493,7 @@
         "goodlooks0fatburns.world": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "goodnewsbest.ru": {
             "epoch": "1557612000",
@@ -51898,7 +51898,7 @@
         "grabagun.club": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "grabify.link": {
             "epoch": "1562277600",
