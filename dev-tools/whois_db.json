@@ -64798,7 +64798,7 @@
         "kamarmu.com": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kambuniadv.com": {
             "epoch": "1597269600",
