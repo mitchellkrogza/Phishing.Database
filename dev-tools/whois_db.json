@@ -52058,7 +52058,7 @@
         "granitezoneindia.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "granitofamily.com": {
             "epoch": "1577916000",
@@ -53181,9 +53181,9 @@
             "state": "future"
         },
         "gytecgroup.com": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "gzgir.com": {
             "epoch": "1553896800",
