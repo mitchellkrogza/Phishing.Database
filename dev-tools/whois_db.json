@@ -31958,7 +31958,7 @@
         "daganganpepak.id": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "dagcilikekipmani.com": {
             "epoch": "1546984800",
@@ -32861,8 +32861,8 @@
             "state": "future"
         },
         "deardurff.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "dearpassport.com": {
