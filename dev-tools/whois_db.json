@@ -20618,7 +20618,7 @@
         "brisadomar.net": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "brisbanerecycling.com": {
             "epoch": "1636581600",
@@ -20653,7 +20653,7 @@
         "britishwinterathletes.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "brmarket.club": {
             "epoch": "1560376800",
@@ -20773,7 +20773,7 @@
         "brucedelange.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bruinou.com": {
             "epoch": "1552341600",
@@ -20871,8 +20871,8 @@
             "state": "future"
         },
         "btbb.org": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "btblhost.com": {
@@ -21356,8 +21356,8 @@
             "state": "future"
         },
         "buoitanlac.com": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "burburhobbies.com": {
@@ -22353,7 +22353,7 @@
         "cameradng.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "camercrypt.org": {
             "epoch": "1555884000",
