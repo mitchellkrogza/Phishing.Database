@@ -73983,7 +73983,7 @@
         "mapedecatifea.ro": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mapfoundation.com": {
             "epoch": "1597701600",
@@ -74646,9 +74646,9 @@
             "state": "future"
         },
         "maspromos.com": {
-            "epoch": "1535839200",
-            "expiration_date": "02-sep-2018",
-            "state": "past"
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "massacademyofballet.com": {
             "epoch": "1591999200",
@@ -74996,8 +74996,8 @@
             "state": "future"
         },
         "maviemasante.org": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "mavro2018.mobi": {
@@ -75891,9 +75891,9 @@
             "state": "future"
         },
         "meekbox.com": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
-            "state": "past"
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
         },
         "meeramu.com": {
             "epoch": "1564869600",
