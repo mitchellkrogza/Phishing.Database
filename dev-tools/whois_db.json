@@ -77036,8 +77036,8 @@
             "state": "future"
         },
         "mibeto.mx": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "micabandheater.com": {
@@ -77751,9 +77751,9 @@
             "state": "future"
         },
         "mirazfood.com": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "mirazstudio.in": {
             "epoch": "1552773600",
