@@ -114258,7 +114258,7 @@
         "techtalkforum.com": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "techvus.com": {
             "epoch": "1562450400",
@@ -115346,8 +115346,8 @@
             "state": "future"
         },
         "thechrisomatic.com": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "thecleanandgreenguide.com": {
