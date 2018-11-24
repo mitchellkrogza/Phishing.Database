@@ -127408,7 +127408,7 @@
         "xeaggq4cqv.club": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "xeexlooneazino.net": {
             "epoch": "1561154400",
@@ -127466,9 +127466,9 @@
             "state": "future"
         },
         "xgigroup.com": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
-            "state": "past"
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
         },
         "xgtees.com": {
             "epoch": "1555452000",
