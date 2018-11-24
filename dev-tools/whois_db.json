@@ -69213,7 +69213,7 @@
         "legacyofdiscorddiamondhack.com": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "legacysnacks.com": {
             "epoch": "1565992800",
