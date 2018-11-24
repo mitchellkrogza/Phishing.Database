@@ -88726,9 +88726,9 @@
             "state": "future"
         },
         "pakdm.com": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "pakearthlinks.com": {
             "epoch": "1557525600",
@@ -88818,7 +88818,7 @@
         "pallarcan.com": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "palmasshop.com": {
             "epoch": "1552773600",
