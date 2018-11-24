@@ -105056,9 +105056,9 @@
             "state": "future"
         },
         "sevkarentacaremlak.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "sewardracing.com": {
             "epoch": "1543960800",
@@ -105501,8 +105501,8 @@
             "state": "future"
         },
         "sharpelect.in": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "sharpnup.com": {
@@ -105528,7 +105528,7 @@
         "shaticgroups.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "shatkiscosmictoolbox.com": {
             "epoch": "1553551200",
