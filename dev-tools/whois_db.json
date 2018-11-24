@@ -99681,9 +99681,9 @@
             "state": "future"
         },
         "rockndenterprises.com": {
-            "epoch": "1542578400",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "rockportcottages.com": {
             "epoch": "1618005600",
@@ -99961,8 +99961,8 @@
             "state": "future"
         },
         "rorzo.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "rosadeco.com": {
