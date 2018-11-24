@@ -108211,8 +108211,8 @@
             "state": "future"
         },
         "sobraltec.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "socal-defense-attorney.com": {
@@ -108758,7 +108758,7 @@
         "soniapaezmk.com": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sonicandpals.com": {
             "epoch": "1546034400",
