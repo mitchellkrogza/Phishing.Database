@@ -49280,6 +49280,11 @@
             "expiration_date": "04-jun-2019",
             "state": "future"
         },
+        "gentishop.ro": {
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
         "gentriwatercorp.com": {
             "epoch": "1571436000",
             "expiration_date": "19-oct-2019",
@@ -49638,7 +49643,7 @@
         "getcoach.mx": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "getelectronicsonline247.com": {
             "epoch": "1556575200",
