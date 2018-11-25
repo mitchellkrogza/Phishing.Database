@@ -60428,7 +60428,7 @@
         "interfaxprensa.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "intergoods.rs": {
             "epoch": "1548885600",
