@@ -64806,9 +64806,9 @@
             "state": "future"
         },
         "kamarmu.com": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "kambuniadv.com": {
             "epoch": "1597269600",
@@ -64891,9 +64891,9 @@
             "state": "future"
         },
         "kantusac.com": {
-            "epoch": "1536184800",
-            "expiration_date": "06-sep-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "kaoraidbaldia.com": {
             "epoch": "1595455200",
