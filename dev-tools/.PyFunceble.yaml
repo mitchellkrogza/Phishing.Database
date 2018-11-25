@@ -54,6 +54,9 @@ show_percentage: True
 simple: False
 # Enable / disable the split of the results files.
 split: True
+# Enable / disable the syntax checking mode.
+# In this mode we do not check for the availability. It's just syntax check.
+syntax: False
 # Enable / disable the Travis CI autosave system.
 travis: False
 # Set the default commit message we have to use when have to save but we did not finished the test.
@@ -128,10 +131,13 @@ outputs:
 
 status:
   list:
+    valid:
+      - valid
+      - syntax_valid
+      - valid_syntax
     up:
       - up
       - active
-      - valid
     generic:
       - generic
     http_active:
@@ -157,6 +163,7 @@ status:
     up: ACTIVE
     down: INACTIVE
     invalid: INVALID
+    valid: VALID
 
 http_codes:
   active: True
