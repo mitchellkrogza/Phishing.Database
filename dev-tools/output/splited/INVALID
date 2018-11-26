@@ -429,3 +429,8 @@ tekilahosting.com,http:                                                         
 telegramm1.ru:443                                                                                    INVALID     SYNTAX    
 telegramm.uz:443                                                                                     INVALID     SYNTAX    
 telegramm.uz,http:                                                                                   INVALID     SYNTAX    
+test1234567:test1234567@www.doorcomponents.com                                                       INVALID     SYNTAX    
+textspeier.de,http:                                                                                  INVALID     SYNTAX    
+tfacoachesportal.com,http:                                                                           INVALID     SYNTAX    
+tg.https.pro,http:                                                                                   INVALID     IANA      
+thefamousfitnessplan.com,http:                                                                       INVALID     SYNTAX    

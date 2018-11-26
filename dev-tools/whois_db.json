@@ -115788,7 +115788,7 @@
         "themagicbulletsbook.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "themakemoneyonlinehq.com": {
             "epoch": "1552168800",
@@ -116398,7 +116398,7 @@
         "thinkeatsmile.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "thinkercommissionoutlook.com": {
             "epoch": "1554933600",
