@@ -340,3 +340,5 @@ netflix-netflixsupport.com,http:                                                
 netflixpremiumaccount.com,http:                                                                      INVALID     SYNTAX    
 netlockmail.com.au:443                                                                               INVALID     IANA      
 novobanconet.com,http:                                                                               INVALID     SYNTAX    
+office365-email-viewer.com,http:                                                                     INVALID     SYNTAX    
+oldschool-beta.eu,http:                                                                              INVALID     SYNTAX    
