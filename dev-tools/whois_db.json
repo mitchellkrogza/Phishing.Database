@@ -108766,9 +108766,9 @@
             "state": "future"
         },
         "soniapaezmk.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1606082400",
+            "expiration_date": "23-nov-2020",
+            "state": "future"
         },
         "sonicandpals.com": {
             "epoch": "1546034400",
@@ -108818,7 +108818,7 @@
         "sophie-aziez.com": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "soporte-depago-confirmacion.com": {
             "epoch": "1555970400",
@@ -109873,6 +109873,11 @@
         "ssusconsulting.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
+            "state": "past"
+        },
+        "sszes.com": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "st-marys-bletchley.org": {
@@ -109946,9 +109951,9 @@
             "state": "future"
         },
         "stalogic.net": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "standardchateredbank.org": {
             "epoch": "1560808800",
