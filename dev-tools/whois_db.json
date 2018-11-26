@@ -125938,7 +125938,7 @@
         "whatsappnumbers.co": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "whatsmyfoodintolerance.com": {
             "epoch": "1555797600",
@@ -126946,9 +126946,9 @@
             "state": "past"
         },
         "wormcluster.com": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "worthydeals.net": {
             "epoch": "1570399200",
