@@ -84038,7 +84038,7 @@
         "ngoengaschool.org": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ngpmarketinggroup.com": {
             "epoch": "1545948000",
@@ -85138,7 +85138,7 @@
         "nrrgarment.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nrspirit.com": {
             "epoch": "1562623200",
