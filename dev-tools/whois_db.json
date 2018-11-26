@@ -111118,7 +111118,7 @@
         "stroishop.by": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "strolunk.com": {
             "epoch": "1562018400",
@@ -111488,7 +111488,7 @@
         "sublimeinnovation.com": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "submarcharmar.com": {
             "epoch": "1554933600",
