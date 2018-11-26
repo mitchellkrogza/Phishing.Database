@@ -349,3 +349,9 @@
 0.0.0.0 paginaswebquito.info,http:
 0.0.0.0 paravoce-acesseportaldobrasil.com,http:
 0.0.0.0 payeth.promo,http:
+0.0.0.0 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
+0.0.0.0 pichhinchas.webcindario.com,http:
+0.0.0.0 pic.mynewmatchpictureprofile.com,http:
+0.0.0.0 pictures.myownnewpics.com,http:
+0.0.0.0 pinfot.ru:55555
+0.0.0.0 platinum-trade.net,http:
