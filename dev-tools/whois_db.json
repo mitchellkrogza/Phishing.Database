@@ -101721,8 +101721,8 @@
             "state": "future"
         },
         "saleenajewellery.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "salehgroup.com": {
@@ -102056,9 +102056,9 @@
             "state": "future"
         },
         "sandsdreamtour.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "sandyhairbraiding.com": {
             "epoch": "1628978400",
