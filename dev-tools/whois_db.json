@@ -106628,7 +106628,7 @@
         "signsatthecrossing.com": {
             "epoch": "1543183200",
             "expiration_date": "26-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sigvipp.ru": {
             "epoch": "1569103200",
