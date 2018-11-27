@@ -22098,7 +22098,7 @@
         "caglayan2noluasm.com": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cagnasso-associati.it": {
             "epoch": "1561327200",
@@ -22631,9 +22631,9 @@
             "state": "future"
         },
         "canmatrix.com": {
-            "epoch": "1543096800",
-            "expiration_date": "25-nov-2018",
-            "state": "past"
+            "epoch": "1574632800",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
         },
         "canmorebrides.com": {
             "epoch": "1638741600",
@@ -23036,8 +23036,8 @@
             "state": "future"
         },
         "carlosalvarezflores.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "carloscarreno.cl": {
@@ -23178,7 +23178,7 @@
         "carsnoreply-service.com": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cartao-dados.info": {
             "epoch": "1549490400",
