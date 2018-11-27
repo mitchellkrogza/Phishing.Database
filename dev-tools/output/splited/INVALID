@@ -33,3 +33,7 @@ buildfuturelife.website:443                                                     
 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php INVALID     SYNTAX    
 casberris.org?password-protected=login&redirect_to=http%3a%2f%2fcasberris.org%2fincludes%2fdoc%2fyahoo.php,http: INVALID     SYNTAX    
 checkingdomerition.borec.cz,http:                                                                    INVALID     IANA      
+coinscrypto.info:443                                                                                 INVALID     SYNTAX    
+coinzzz.pro,http:                                                                                    INVALID     SYNTAX    
+collect.bestethgift.com,http:                                                                        INVALID     IANA      
+collect-ethaway.com,http:                                                                            INVALID     SYNTAX    
