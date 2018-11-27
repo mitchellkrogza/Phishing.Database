@@ -17830,6 +17830,11 @@
             "expiration_date": "26-dec-2018",
             "state": "future"
         },
+        "bimqj.com": {
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "bimsolutions.in": {
             "epoch": "1587333600",
             "expiration_date": "20-apr-2020",
@@ -17958,7 +17963,7 @@
         "bindaasindia.in": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "binerval.com": {
             "epoch": "1557007200",
