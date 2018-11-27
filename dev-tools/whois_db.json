@@ -51161,9 +51161,9 @@
             "state": "future"
         },
         "godatoz.com": {
-            "epoch": "1536444000",
-            "expiration_date": "09-sep-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "godawarigraphics.com": {
             "epoch": "1558303200",
@@ -51361,9 +51361,9 @@
             "state": "future"
         },
         "golfcity-bu.com": {
-            "epoch": "1543183200",
-            "expiration_date": "26-nov-2018",
-            "state": "past"
+            "epoch": "1574719200",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
         },
         "golfnvacation.com": {
             "epoch": "1550700000",
@@ -52171,9 +52171,9 @@
             "state": "future"
         },
         "great-net-system.com": {
-            "epoch": "1536530400",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "greatamericanland.com": {
             "epoch": "1550527200",
@@ -52198,12 +52198,12 @@
         "greatfeet.bid": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "greatgamesup.com": {
-            "epoch": "1536357600",
-            "expiration_date": "08-sep-2018",
-            "state": "past"
+            "epoch": "1574719200",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
         },
         "greatlakesgrowshow.com": {
             "epoch": "1599516000",
@@ -52416,8 +52416,8 @@
             "state": "future"
         },
         "gregerberglund.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "gregonkaygroup.com": {
