@@ -53676,8 +53676,8 @@
             "state": "future"
         },
         "hamilton-robotics.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "hamptonapartmentsgy.com": {
@@ -54203,6 +54203,11 @@
         "hawaiiluxuryrealestatelistings.com": {
             "epoch": "1570312800",
             "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "hawastudio.com": {
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "hawleyguitars.com": {

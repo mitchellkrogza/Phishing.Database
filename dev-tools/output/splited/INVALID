@@ -93,3 +93,7 @@ getnoweth.com,http:                                                             
 get.perfecteth.com,http:                                                                             INVALID     IANA      
 get.personaleth.com,http:                                                                            INVALID     IANA      
 go.boosteth.com,http:                                                                                INVALID     IANA      
+habbnews.fr,http:                                                                                    INVALID     SYNTAX    
+hadiahtelkomsel.cf,http:                                                                             INVALID     SYNTAX    
+hasado.com:443                                                                                       INVALID     SYNTAX    
+hashmachines.org,http:                                                                               INVALID     SYNTAX    
