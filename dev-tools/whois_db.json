@@ -15313,7 +15313,7 @@
         "bbwansha.bid": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bbyapim.com": {
             "epoch": "1570312800",
@@ -17088,7 +17088,7 @@
         "betasport.it": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "betazonasegurabc.com": {
             "epoch": "1566856800",

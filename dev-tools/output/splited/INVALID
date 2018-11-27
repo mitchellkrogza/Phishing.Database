@@ -20,3 +20,8 @@ apr                                                                             
 asd.dolcissimo.be:8080                                                                               INVALID     IANA      
 asd.lescarles.com:8080                                                                               INVALID     IANA      
 asd.semiramis-asbl.org:8080                                                                          INVALID     IANA      
+bbva                                                                                                 INVALID     SYNTAX    
+bde-online.com,http:                                                                                 INVALID     SYNTAX    
+bedestange.ru,http:                                                                                  INVALID     SYNTAX    
+belatchaawena.ga,http:                                                                               INVALID     SYNTAX    
+betafortnite.app,http:                                                                               INVALID     SYNTAX    
