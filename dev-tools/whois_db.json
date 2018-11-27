@@ -49353,7 +49353,7 @@
         "geomlocatelli.it": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "george12.com": {
             "epoch": "1563487200",
@@ -49833,7 +49833,7 @@
         "getzeus.us": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "geze-gen.com": {
             "epoch": "1544479200",
@@ -49981,8 +49981,8 @@
             "state": "future"
         },
         "giaiphapnhadat247.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "gialeefox.info": {
@@ -50703,7 +50703,7 @@
         "globalmedicalsupplystore.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "globalmedisoft.com": {
             "epoch": "1549404000",
