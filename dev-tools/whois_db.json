@@ -1543,7 +1543,7 @@
         "6derbyshire.review": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "6gurus.com": {
             "epoch": "1553983200",
