@@ -129703,7 +129703,7 @@
         "zipansion.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ziplr.pro": {
             "epoch": "1559512800",
