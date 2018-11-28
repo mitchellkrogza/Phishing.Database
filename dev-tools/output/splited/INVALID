@@ -142,3 +142,16 @@ match.shopinverse.net,http:                                                     
 match-viewmynew-pics.weebly.com,http:                                                                INVALID     IANA      
 mc-stores.com,http:                                                                                  INVALID     SYNTAX    
 mhelpparcwaoegnab.in,http:                                                                           INVALID     SYNTAX    
+myad-tracking.com?trackid=zghlzgvkzgh3zfj1zwhkyaolo2zhlje2o2qumt9mlawiozkcozhhl29g                   INVALID     SYNTAX    
+myad-tracking.com?trackid=zghlzgvkzgh3zfj1zwhkyaolo2zhlje2o2qumt9mlawiozkcozhhl29g,http:             INVALID     SYNTAX    
+my-att.org,http:                                                                                     INVALID     SYNTAX    
+mycenturylinl.com,http:                                                                              INVALID     SYNTAX    
+myeatherwallert.com,http:                                                                            INVALID     SYNTAX    
+myeatherwalletr.com,http:                                                                            INVALID     SYNTAX    
+myenterworlld.com,http:                                                                              INVALID     SYNTAX    
+myeostrust.com,http:                                                                                 INVALID     SYNTAX    
+myethearrwallet.com,http:                                                                            INVALID     SYNTAX    
+myethearwellet.com,http:                                                                             INVALID     SYNTAX    
+myownnewpics.com,http:                                                                               INVALID     SYNTAX    
+myphotosview.000webhostapp.com,http:                                                                 INVALID     IANA      
+my.rs,http:                                                                                          INVALID     SYNTAX    
