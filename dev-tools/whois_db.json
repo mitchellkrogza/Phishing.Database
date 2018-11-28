@@ -128626,8 +128626,8 @@
             "state": "future"
         },
         "yennew.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "yenoham.com": {
@@ -128638,7 +128638,7 @@
         "yensaocanary.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "yepnim.estate": {
             "epoch": "1557698400",
@@ -128901,8 +128901,8 @@
             "state": "future"
         },
         "youngadults.net": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "youngandcursed.com": {
