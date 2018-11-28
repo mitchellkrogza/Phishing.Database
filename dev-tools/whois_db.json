@@ -114188,7 +114188,7 @@
         "techistorm.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "techitacs.com": {
             "epoch": "1570399200",
@@ -115796,9 +115796,9 @@
             "state": "future"
         },
         "themagicbulletsbook.com": {
-            "epoch": "1543183200",
-            "expiration_date": "26-nov-2018",
-            "state": "past"
+            "epoch": "1574719200",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
         },
         "themakemoneyonlinehq.com": {
             "epoch": "1552168800",
@@ -115858,7 +115858,7 @@
         "themgos.com": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "themobilitythailand.com": {
             "epoch": "1555020000",
