@@ -73548,7 +73548,7 @@
         "malangtourism.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "malanims.com": {
             "epoch": "1556920800",
@@ -73741,8 +73741,8 @@
             "state": "future"
         },
         "managemysocialmedia.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "managepurchase120storesecure-verificationwebappsid.com": {
@@ -74011,9 +74011,9 @@
             "state": "future"
         },
         "maplehillchurchofchrist.org": {
-            "epoch": "1543183200",
-            "expiration_date": "26-nov-2018",
-            "state": "past"
+            "epoch": "1574719200",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
         },
         "mapleloons.ca": {
             "epoch": "1546380000",
@@ -74571,9 +74571,9 @@
             "state": "future"
         },
         "marykayrus.com": {
-            "epoch": "1536444000",
-            "expiration_date": "09-sep-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "marytritschler.com": {
             "epoch": "1695160800",
