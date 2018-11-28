@@ -123966,9 +123966,9 @@
             "state": "future"
         },
         "vtc.cm": {
-            "epoch": "1513720800",
-            "expiration_date": "20-dec-2017",
-            "state": "past"
+            "epoch": "1576792800",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "vtechshop.net": {
             "epoch": "1586728800",
@@ -124076,8 +124076,8 @@
             "state": "future"
         },
         "vzemy.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "vzt.me": {
@@ -124483,7 +124483,7 @@
         "watchthehype.bid": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "water-bedden.com": {
             "epoch": "1553551200",
@@ -124931,9 +124931,9 @@
             "state": "future"
         },
         "webmailhelpservice.com": {
-            "epoch": "1536444000",
-            "expiration_date": "09-sep-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "webmailservice-provider.net": {
             "epoch": "1547416800",
