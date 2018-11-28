@@ -158,3 +158,8 @@ my.rs,http:                                                                     
 nationalaustralia.bank.com,http:                                                                     INVALID     IANA      
 nationalaustr.aliabank.com,http:                                                                     INVALID     IANA      
 newsair.org,http:                                                                                    INVALID     SYNTAX    
+nocitimailappienot912.com,http:                                                                      INVALID     SYNTAX    
+nonsfw.com:443                                                                                       INVALID     SYNTAX    
+noreplinfobluewin89525.myfreesites.net,http:                                                         INVALID     IANA      
+no-reply@hpair.org                                                                                   INVALID     SYNTAX    
+norton-nortoncomsetup.com,http:                                                                      INVALID     SYNTAX    
