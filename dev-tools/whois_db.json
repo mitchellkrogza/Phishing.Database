@@ -76123,7 +76123,7 @@
         "mehmetefliymm.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mehmetkoruk.com": {
             "epoch": "1548626400",
