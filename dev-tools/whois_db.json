@@ -94151,8 +94151,8 @@
             "state": "future"
         },
         "processoiniciado20390.net": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "processorminder.com": {
@@ -94376,8 +94376,8 @@
             "state": "future"
         },
         "prohealth.pl": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "proiectsbc.ro": {
@@ -94456,8 +94456,8 @@
             "state": "future"
         },
         "prolocobaveno.com": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "prom-trans.su": {
@@ -94953,7 +94953,7 @@
         "pschain.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pserac.com": {
             "epoch": "1635458400",
@@ -95191,9 +95191,9 @@
             "state": "future"
         },
         "publicpolls.in": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "publiczynkapital.com": {
             "epoch": "1558476000",
