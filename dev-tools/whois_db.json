@@ -111668,7 +111668,7 @@
         "sugerir.biz": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sugrichanma.info": {
             "epoch": "1562623200",
@@ -113478,7 +113478,7 @@
         "talrok.pro": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "talukatent.com": {
             "epoch": "1563228000",
