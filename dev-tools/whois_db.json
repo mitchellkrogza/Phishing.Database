@@ -70288,7 +70288,7 @@
         "lindysmithphotography.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "lineage-pace.com": {
             "epoch": "1572818400",
@@ -71608,7 +71608,7 @@
         "lolita888.com": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "lollyprops.com": {
             "epoch": "1807308000",
