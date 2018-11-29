@@ -24848,7 +24848,7 @@
         "cgct.us": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cgi-bnakofamerica-review.com": {
             "epoch": "1560463200",
@@ -25826,8 +25826,8 @@
             "state": "future"
         },
         "chiropracticforward.com": {
-            "epoch": "1543442400",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "chiseafood.com": {
@@ -26306,8 +26306,8 @@
             "state": "future"
         },
         "cinemusicayfricadas.com": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "cinmon.ru": {
