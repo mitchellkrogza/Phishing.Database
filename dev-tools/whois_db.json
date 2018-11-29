@@ -16126,8 +16126,8 @@
             "state": "future"
         },
         "benloydholmes.com": {
-            "epoch": "1543442400",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "benmksd.com": {
@@ -17268,7 +17268,7 @@
         "bgateway.bid": {
             "epoch": "1543269600",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bgcd.info": {
             "epoch": "1564696800",
@@ -17961,9 +17961,9 @@
             "state": "future"
         },
         "bindaasindia.in": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "binerval.com": {
             "epoch": "1557007200",
