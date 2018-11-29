@@ -39,7 +39,7 @@
         "domains/": {
             ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                "sha512": "791bfed488890f174df9ec4496fe206ce955acd60cd5b80956a78bf10e7b5797bac9272f54902e3cd7691c58a7d267cdeb419a7c11bb2d2bf9ecf3402ac6fcce"
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
             }
         },
         "domains/ACTIVE/": {
@@ -69,7 +69,7 @@
         "hosts/": {
             ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                "sha512": "791bfed488890f174df9ec4496fe206ce955acd60cd5b80956a78bf10e7b5797bac9272f54902e3cd7691c58a7d267cdeb419a7c11bb2d2bf9ecf3402ac6fcce"
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
             }
         },
         "hosts/ACTIVE/": {
@@ -99,7 +99,7 @@
         "json/": {
             ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                "sha512": "791bfed488890f174df9ec4496fe206ce955acd60cd5b80956a78bf10e7b5797bac9272f54902e3cd7691c58a7d267cdeb419a7c11bb2d2bf9ecf3402ac6fcce"
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
             }
         },
         "json/ACTIVE/": {
