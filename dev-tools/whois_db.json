@@ -21061,8 +21061,8 @@
             "state": "future"
         },
         "bubbaparis.com": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "bubn.org": {
@@ -21536,8 +21536,8 @@
             "state": "future"
         },
         "businessprocessefficiency.com": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "businesstrading-sa.com": {
@@ -22096,9 +22096,9 @@
             "state": "future"
         },
         "caglayan2noluasm.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "cagnasso-associati.it": {
             "epoch": "1561327200",
