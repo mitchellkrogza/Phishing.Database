@@ -45,15 +45,12 @@ PrepareTravis () {
 fetch () {
     sudo wget https://hosts.ubuntu101.co.za/openphish/openphish-feed.list -O ${feed1}
     cat ${feed1} >> ${input1}
-    dos2unix ${input1}
 
     sudo wget https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
     cat ${feed2} >> ${input3}
-    dos2unix ${input3}
 
     sudo wget https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
     cat ${feed3} >> ${input4}
-    dos2unix ${input3}
 
     sudo rm ${feed2}
     sudo rm ${feed1}
@@ -93,19 +90,23 @@ initiate () {
 # ***************************************
 
 prepare () {
-    sudo truncate -s 0 ${output}
-    sudo cp ${input1} ${output}
+    cat ${input1} > ${output}
     cat ${input2} >> ${output}
     cat ${input3} >> ${output}
     cat ${input4} >> ${output}
-    sudo cp ${output} ${inputA}
+    cat ${output} > ${inputA}
+
     cut -d'/' -f3 ${output} > ${outputtmp}
     sort -u ${outputtmp} -o ${outputtmp}
     grep '[^[:blank:]]' < ${outputtmp} > ${output}
     sudo rm ${outputtmp}
+
     domain2idna -f ${output} -o ${output}
+    dos2unix ${output}
+
     sort -u ${inputA} -o ${inputA}
     domain2idna -f ${inputA} -o ${inputA}
+    dos2unix ${inputA}
 }
 
 PrepareTravis
