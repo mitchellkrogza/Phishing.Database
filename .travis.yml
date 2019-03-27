@@ -32,6 +32,7 @@ addons:
 
 install:
   - pip3 install --upgrade pip
+  - pip3 install domain2idna
   - pip3 install PyFunceble-dev
 
 script:
