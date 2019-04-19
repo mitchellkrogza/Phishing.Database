@@ -105,11 +105,11 @@ prepare () {
     dos2unix -V
 
     domain2idna -f ${output} -o ${output}
-    dos2unix ${output}
+    dos2unix -f ${output}
 
     sort -u ${inputA} -o ${inputA}
     domain2idna -f ${inputA} -o ${inputA}
-    dos2unix ${inputA}
+    dos2unix -f ${inputA}
 }
 
 PrepareTravis
