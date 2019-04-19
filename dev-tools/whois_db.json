@@ -5490,6 +5490,11 @@
             "expiration_date": "17-aug-2019",
             "state": "future"
         },
+        "act2wire.com": {
+            "epoch": "1582754400",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
         "act99.cc": {
             "epoch": "1568757600",
             "expiration_date": "18-sep-2019",
@@ -5505,15 +5510,25 @@
             "expiration_date": "04-feb-2019",
             "state": "future"
         },
+        "actforwarders.com": {
+            "epoch": "1766095200",
+            "expiration_date": "19-dec-2025",
+            "state": "future"
+        },
         "actgtexas.com": {
-            "epoch": "1548972000",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580508000",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "actinla.com": {
-            "epoch": "1551736800",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583359200",
+            "expiration_date": "05-mar-2020",
             "state": "future"
+        },
+        "action4democracy.com": {
+            "epoch": "1548885600",
+            "expiration_date": "31-jan-2019",
+            "state": "past"
         },
         "actionbuildersinc.com": {
             "epoch": "1589493600",
@@ -5523,6 +5538,16 @@
         "actionclouds.com": {
             "epoch": "1546552800",
             "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "actiongrandpoll.space": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "actionhopemalawi.org": {
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "actionnetwork.org": {
@@ -5535,9 +5560,24 @@
             "expiration_date": "16-jul-2019",
             "state": "future"
         },
+        "activaaccion.cl": {
+            "epoch": "1584655200",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
+        },
+        "activairconditioning.co.uk": {
+            "epoch": "1562364000",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
         "activate-facebook.com": {
             "epoch": "1555624800",
             "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "activate-macfee.com": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
             "state": "future"
         },
         "activate-wfb.life": {
@@ -5560,6 +5600,26 @@
             "expiration_date": "01-sep-2019",
             "state": "future"
         },
+        "activation-safety.xyz": {
+            "epoch": "1559772000",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "activationaccessing.com.pl": {
+            "epoch": "1584136800",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
+        "activationinformationccss.com.pl": {
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "activative.co.uk": {
+            "epoch": "1603922400",
+            "expiration_date": "29-oct-2020",
+            "state": "future"
+        },
         "active-account-information.com": {
             "epoch": "1555970400",
             "expiration_date": "23-apr-2019",
@@ -5570,10 +5630,25 @@
             "expiration_date": "23-apr-2019",
             "state": "future"
         },
+        "activeautomation.com": {
+            "epoch": "1740952800",
+            "expiration_date": "03-mar-2025",
+            "state": "future"
+        },
         "activecity.ro": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
-            "state": "past"
+            "epoch": "1581026400",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "activegirlstoys.com": {
+            "epoch": "1558735200",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "activeinternet.site": {
+            "epoch": "1566079200",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
         },
         "activekeys.info": {
             "epoch": "1565906400",
@@ -5581,8 +5656,8 @@
             "state": "future"
         },
         "activemobilityupstate.com": {
-            "epoch": "1548367200",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1611525600",
+            "expiration_date": "25-jan-2021",
             "state": "future"
         },
         "activeparents.club": {
@@ -5590,9 +5665,29 @@
             "expiration_date": "16-sep-2018",
             "state": "past"
         },
+        "activeproofinfoacc.site": {
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "activesantanowvem-ca.com": {
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "activesantanowvem-caaa.com": {
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
         "activesmshub.com": {
             "epoch": "1569362400",
             "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "activetect.net": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
             "state": "future"
         },
         "activewf.agency": {
@@ -5625,6 +5720,31 @@
             "expiration_date": "24-jan-2019",
             "state": "future"
         },
+        "activity12access3suspended8required.icu": {
+            "epoch": "1563573600",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "activusersi.online": {
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "actpropdev.co.za": {
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "actsia-ru.site": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "actualiza-premioscmr.com": {
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
         "actualizacionesjuridicasdeantioquia.com": {
             "epoch": "1564956000",
             "expiration_date": "05-aug-2019",
@@ -5645,9 +5765,29 @@
             "expiration_date": "12-nov-2019",
             "state": "future"
         },
+        "acuainfectus.com": {
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "acuatobreneg.com": {
+            "epoch": "1585519200",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
         "acuherbtherapy.com": {
             "epoch": "1588456800",
             "expiration_date": "03-may-2020",
+            "state": "future"
+        },
+        "acurraintl.com": {
+            "epoch": "1586383200",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "acvkrvk.uk": {
+            "epoch": "1576965600",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "ad-mill.com": {
@@ -5670,9 +5810,24 @@
             "expiration_date": "15-jul-2019",
             "state": "future"
         },
+        "ad3i.info": {
+            "epoch": "1581285600",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "ada-kah.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
         "adaamps.com": {
             "epoch": "1598738400",
             "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "adabey.com.tr": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
             "state": "future"
         },
         "adabtv.org": {
@@ -5695,6 +5850,21 @@
             "expiration_date": "26-mar-2019",
             "state": "future"
         },
+        "adakitchenhk.com": {
+            "epoch": "1581026400",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "adambuchalik.pl": {
+            "epoch": "1580421600",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "adamdecorcenter.com": {
+            "epoch": "1641506400",
+            "expiration_date": "07-jan-2022",
+            "state": "future"
+        },
         "adamdennis.info": {
             "epoch": "1572645600",
             "expiration_date": "02-nov-2019",
@@ -5710,9 +5880,29 @@
             "expiration_date": "14-jul-2019",
             "state": "future"
         },
+        "adamihotspot.com": {
+            "epoch": "1556920800",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
         "adamjeepipes.com": {
             "epoch": "1543528800",
             "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "adamjohnson1.biz": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "adamjohnson1.com": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "adamjohnson1.net": {
+            "epoch": "1570485600",
+            "expiration_date": "08-oct-2019",
             "state": "future"
         },
         "adamrossphoto.com": {
@@ -5720,9 +5910,34 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "adamstaxes.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "adanaerkenbosalma.com": {
+            "epoch": "1579039200",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
+        "adaosantosseguros.com.br": {
+            "epoch": "1604872800",
+            "expiration_date": "09-nov-2020",
+            "state": "future"
+        },
         "adapazarihuzur.com": {
-            "epoch": "1553119200",
-            "expiration_date": "21-mar-2019",
+            "epoch": "1584741600",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "adaproductions.fr": {
+            "epoch": "1568498400",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "adaptiveleadershipstrategie.com": {
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "adapttechs.com": {
@@ -5730,9 +5945,34 @@
             "expiration_date": "02-feb-2019",
             "state": "future"
         },
+        "adarma.xyz": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "adartpub.com": {
+            "epoch": "1558216800",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "adatertv.xyz": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
         "adb-ae.com": {
             "epoch": "1565042400",
             "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "adbacabal.com.br": {
+            "epoch": "1612044000",
+            "expiration_date": "31-jan-2021",
+            "state": "future"
+        },
+        "adbeo.xyz": {
+            "epoch": "1575064800",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "adbx.io": {
@@ -5743,6 +5983,11 @@
         "adc-india.org": {
             "epoch": "1548280800",
             "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "adcefiveg.com": {
+            "epoch": "1585000800",
+            "expiration_date": "24-mar-2020",
             "state": "future"
         },
         "adcentrix.com": {
@@ -5760,6 +6005,16 @@
             "expiration_date": "25-nov-2019",
             "state": "future"
         },
+        "adconminas.com.br": {
+            "epoch": "1571263200",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "adcossalvador.com.br": {
+            "epoch": "1593295200",
+            "expiration_date": "28-jun-2020",
+            "state": "future"
+        },
         "add-vicevodka.com": {
             "epoch": "1570572000",
             "expiration_date": "09-oct-2019",
@@ -5771,13 +6026,28 @@
             "state": "future"
         },
         "addergytech.com": {
-            "epoch": "1552773600",
-            "expiration_date": "17-mar-2019",
+            "epoch": "1584396000",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "addiction-help.info": {
             "epoch": "1550181600",
             "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "addictionhelp4u.com": {
+            "epoch": "1556575200",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "addis.cloud": {
+            "epoch": "1590012000",
+            "expiration_date": "21-may-2020",
+            "state": "future"
+        },
+        "addkasbl.com": {
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "addluxmi.in": {
@@ -5790,9 +6060,24 @@
             "expiration_date": "19-sep-2019",
             "state": "future"
         },
+        "addmysnapnow.com": {
+            "epoch": "1585260000",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
         "addonsap.net": {
             "epoch": "1565301600",
             "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "addplus.com.co": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "addpubli.com": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "adducocommunications.com": {
@@ -5805,9 +6090,19 @@
             "expiration_date": "12-apr-2019",
             "state": "future"
         },
+        "adedalmeida.com": {
+            "epoch": "1603576800",
+            "expiration_date": "25-oct-2020",
+            "state": "future"
+        },
         "adela.it": {
             "epoch": "1549144800",
             "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "adelaidehills1.com": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
             "state": "future"
         },
         "adelaidewholesaleliquor.com": {
@@ -5835,14 +6130,34 @@
             "expiration_date": "11-aug-2019",
             "state": "future"
         },
+        "ademsa.com": {
+            "epoch": "1626732000",
+            "expiration_date": "20-jul-2021",
+            "state": "future"
+        },
         "adenabdullehospital.com": {
             "epoch": "1566943200",
             "expiration_date": "28-aug-2019",
             "state": "future"
         },
+        "adenasaman.com": {
+            "epoch": "1580680800",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "adenatali.id": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
         "adepalma.com": {
             "epoch": "1731016800",
             "expiration_date": "08-nov-2024",
+            "state": "future"
+        },
+        "adepem.icu": {
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "aderezos2banderas.com": {
@@ -5853,6 +6168,11 @@
         "adesaocef.com": {
             "epoch": "1566943200",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "adescakes.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
             "state": "future"
         },
         "adessovino.it": {
@@ -5895,19 +6215,39 @@
             "expiration_date": "05-aug-2019",
             "state": "future"
         },
+        "adhyaksapersada.co.id": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
         "adi-group.com": {
             "epoch": "1574200800",
             "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "adib-bretagne.fr": {
-            "epoch": "1550700000",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582236000",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "adidas-originals.com.tw": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "adiky.com": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "adilsonkindlemann.com": {
             "epoch": "1586469600",
             "expiration_date": "10-apr-2020",
+            "state": "future"
+        },
+        "adimelowplumbingandbuilding.co.uk": {
+            "epoch": "1582408800",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "adimoveisbh.com": {
@@ -5920,9 +6260,29 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "adinkracloud.com.ng": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
         "adipraja.com": {
             "epoch": "1554588000",
             "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "aditallservices.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "aditlinux.com": {
+            "epoch": "1583013600",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "adiwidya-bestariutami.sch.id": {
+            "epoch": "1558389600",
+            "expiration_date": "21-may-2019",
             "state": "future"
         },
         "adlawyers.net": {
@@ -5930,9 +6290,24 @@
             "expiration_date": "06-sep-2019",
             "state": "future"
         },
+        "adleadbrazil.com.br": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
         "adlerlegal.in": {
             "epoch": "1623621600",
             "expiration_date": "14-jun-2021",
+            "state": "future"
+        },
+        "adlhup.com": {
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "admakers.com": {
+            "epoch": "1682892000",
+            "expiration_date": "01-may-2023",
             "state": "future"
         },
         "admin-admin.win": {
@@ -5945,9 +6320,29 @@
             "expiration_date": "30-mar-2019",
             "state": "future"
         },
+        "adminedu.ro": {
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "adminemailnotification.us": {
+            "epoch": "1567202400",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
         "adminflex.dk": {
             "epoch": "1546207200",
             "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "administracionportuariadeveracruz.com": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "administradoradeseguros.com.co": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
             "state": "future"
         },
         "administrar-ordenes.com": {
@@ -5960,9 +6355,49 @@
             "expiration_date": "07-sep-2019",
             "state": "future"
         },
+        "administrativo--1.online": {
+            "epoch": "1567548000",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "adminiumcompany.com": {
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
         "adminmaking.com": {
             "epoch": "1558648800",
             "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "adminofficial.business": {
+            "epoch": "1577656800",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "adminserverauthority.pw": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "admiralaccountants.com": {
+            "epoch": "1557352800",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "admireholdings.co.za": {
+            "epoch": "1582322400",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "admoniphotography.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "admosactonis.xyz": {
+            "epoch": "1583359200",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "adnesendashop.id": {
@@ -5980,9 +6415,24 @@
             "expiration_date": "26-apr-2019",
             "state": "future"
         },
+        "adobe-ratio.bid": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "adobeartists.com": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
         "adocmat.org": {
-            "epoch": "1553810400",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585432800",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
+        },
+        "adolocreative.com": {
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "adonaigenuine.com": {
@@ -6005,14 +6455,19 @@
             "expiration_date": "06-jan-2020",
             "state": "future"
         },
+        "adosptechnologie.com": {
+            "epoch": "1581458400",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
         "adplaner.in": {
             "epoch": "1547157600",
             "expiration_date": "11-jan-2019",
             "state": "future"
         },
         "adpleno.se": {
-            "epoch": "1548540000",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1580076000",
+            "expiration_date": "27-jan-2020",
             "state": "future"
         },
         "adpointtennis.com": {
@@ -6023,6 +6478,16 @@
         "adpress.in": {
             "epoch": "1544479200",
             "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "adquireimoveis.com.br": {
+            "epoch": "1571781600",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "adr-advogados.com.br": {
+            "epoch": "1588629600",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "adrenalinepass.com": {
@@ -6040,6 +6505,26 @@
             "expiration_date": "09-aug-2019",
             "state": "future"
         },
+        "adrianaafi.com": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "adrianaassad.com.br": {
+            "epoch": "1571695200",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "adrianbiddell.com": {
+            "epoch": "1615759200",
+            "expiration_date": "15-mar-2021",
+            "state": "future"
+        },
+        "adriandwilsonmusic.com": {
+            "epoch": "1586556000",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
+        },
         "adriano-contable.com": {
             "epoch": "1565906400",
             "expiration_date": "16-aug-2019",
@@ -6055,9 +6540,64 @@
             "expiration_date": "04-feb-2019",
             "state": "future"
         },
+        "adrimaklogistics.com": {
+            "epoch": "1581804000",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "adrimar.com.br": {
+            "epoch": "1592863200",
+            "expiration_date": "23-jun-2020",
+            "state": "future"
+        },
+        "adrninistrator.site": {
+            "epoch": "1586642400",
+            "expiration_date": "12-apr-2020",
+            "state": "future"
+        },
+        "adroitlandstyle.com": {
+            "epoch": "1566338400",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "adroitshield.com": {
+            "epoch": "1578780000",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "ads-euro.com": {
+            "epoch": "1589148000",
+            "expiration_date": "11-may-2020",
+            "state": "future"
+        },
         "ads-target.com": {
             "epoch": "1561154400",
             "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "ads406.xyz": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "adsaojose.com.br": {
+            "epoch": "1581458400",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "adsbing.site": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
+        "adsbuddy100.com": {
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "adsessions.com": {
+            "epoch": "1585346400",
+            "expiration_date": "28-mar-2020",
             "state": "future"
         },
         "adsfort.ru": {
@@ -6073,6 +6613,11 @@
         "adskpak.com": {
             "epoch": "1573077600",
             "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "adsmanagerrsafethome1.xyz": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
             "state": "future"
         },
         "adsmantra.com": {
@@ -6095,14 +6640,34 @@
             "expiration_date": "28-feb-2019",
             "state": "future"
         },
+        "adspages-maneger01.tech": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "adsreceive.com": {
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "adsthunder.com": {
+            "epoch": "1577916000",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
         "adtekz.com": {
             "epoch": "1560636000",
             "expiration_date": "16-jun-2019",
             "state": "future"
         },
         "adtrkr9.com": {
-            "epoch": "1547330400",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1585951200",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "aduatdoc.xyz": {
+            "epoch": "1582063200",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "adultfriendfinder.com": {
@@ -6111,13 +6676,18 @@
             "state": "future"
         },
         "adultpuberty.com": {
-            "epoch": "1547416800",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578952800",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "adultreseller.net": {
             "epoch": "1574373600",
             "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "adultshop-au.com": {
+            "epoch": "1559512800",
+            "expiration_date": "03-jun-2019",
             "state": "future"
         },
         "adv-factory.com": {
@@ -6128,6 +6698,11 @@
         "adv-fatura.com": {
             "epoch": "1566079200",
             "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "advancecapitalnetwork.com": {
+            "epoch": "1564696800",
+            "expiration_date": "02-aug-2019",
             "state": "future"
         },
         "advancedaccess05wf.com": {
@@ -6145,6 +6720,11 @@
             "expiration_date": "30-mar-2020",
             "state": "future"
         },
+        "advancedhose.co.uk": {
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
         "advancedlearningdynamics.com": {
             "epoch": "1566165600",
             "expiration_date": "19-aug-2019",
@@ -6156,8 +6736,13 @@
             "state": "future"
         },
         "advancedridertraining.info": {
-            "epoch": "1545861600",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577397600",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "advancedroofinghouston.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
             "state": "future"
         },
         "advancedsecurity.pro": {
@@ -6170,9 +6755,19 @@
             "expiration_date": "22-dec-2021",
             "state": "future"
         },
+        "advancedturfcarellc.com": {
+            "epoch": "1590616800",
+            "expiration_date": "28-may-2020",
+            "state": "future"
+        },
         "advancedwfaccess.com": {
             "epoch": "1557784800",
             "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "advancedyogatoday.com": {
+            "epoch": "1558303200",
+            "expiration_date": "20-may-2019",
             "state": "future"
         },
         "advancegroup365.com": {
@@ -6195,9 +6790,24 @@
             "expiration_date": "14-mar-2021",
             "state": "future"
         },
+        "advantechnologies.com": {
+            "epoch": "1564610400",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "advar.ca": {
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
         "adventls.com": {
             "epoch": "1573855200",
             "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "adventpath.org": {
+            "epoch": "1563487200",
+            "expiration_date": "19-jul-2019",
             "state": "future"
         },
         "adventuredaycamps.com": {
@@ -6215,9 +6825,159 @@
             "expiration_date": "24-feb-2019",
             "state": "future"
         },
+        "adventureupnorth.com": {
+            "epoch": "1569448800",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "advert-verify-support-depart.tech": {
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "advert-verify-support.com": {
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "advertising-new-2018-mobile.win": {
+            "epoch": "1560290400",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "advice732.me": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice732.net": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice732.org": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice732.space": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7331.com": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7331.net": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7331.org": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7339.me": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7339.net": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7339.online": {
+            "epoch": "1580335200",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "advice7726.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice775.com": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice775.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice775.org": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice7755.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice77567.com": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice77567.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice77567.net": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice77567.space": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice7756aa.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice7756aa.org": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice7756sd.me": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "advice7756sd.org": {
+            "epoch": "1580767200",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
         "advicetec.com": {
             "epoch": "1551477600",
             "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "advidsjobs.com": {
+            "epoch": "1595800800",
+            "expiration_date": "27-jul-2020",
+            "state": "future"
+        },
+        "advmonitoring.ru": {
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "advoapt.com": {
+            "epoch": "1582581600",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "advocaciaempresarial.com": {
@@ -6225,9 +6985,19 @@
             "expiration_date": "23-may-2019",
             "state": "future"
         },
+        "advocaciaraphael.adv.br": {
+            "epoch": "1559426400",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
         "advocacyaccelerator.org": {
             "epoch": "1585432800",
             "expiration_date": "29-mar-2020",
+            "state": "future"
+        },
+        "advogados-sao-paulo.com.br": {
+            "epoch": "1571004000",
+            "expiration_date": "14-oct-2019",
             "state": "future"
         },
         "advokat-efimov.ru": {
@@ -6250,6 +7020,11 @@
             "expiration_date": "19-nov-2019",
             "state": "future"
         },
+        "advqcoqo.co.uk": {
+            "epoch": "1583186400",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
+        },
         "advshp.com": {
             "epoch": "1555106400",
             "expiration_date": "13-apr-2019",
@@ -6258,6 +7033,11 @@
         "adwaengg.com": {
             "epoch": "1566597600",
             "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "adwanelectric.com": {
+            "epoch": "1562536800",
+            "expiration_date": "08-jul-2019",
             "state": "future"
         },
         "adwaye.org": {
@@ -6290,6 +7070,21 @@
             "expiration_date": "07-dec-2018",
             "state": "future"
         },
+        "aeacampinas.org.br": {
+            "epoch": "1602799200",
+            "expiration_date": "16-oct-2020",
+            "state": "future"
+        },
+        "aeaphotodrone.com.br": {
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "aeawagroup.org": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
         "aecd-n.org": {
             "epoch": "1563400800",
             "expiration_date": "18-jul-2019",
@@ -6316,13 +7111,28 @@
             "state": "future"
         },
         "aeev.net": {
-            "epoch": "1550181600",
-            "expiration_date": "15-feb-2019",
+            "epoch": "1581717600",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "aegbd.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "aehdee.com": {
+            "epoch": "1597010400",
+            "expiration_date": "10-aug-2020",
             "state": "future"
         },
         "aeioukeyboard.com": {
             "epoch": "1573682400",
             "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "aeoer.xyz": {
+            "epoch": "1581372000",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "aeolus-engineservice.com": {
@@ -6336,18 +7146,23 @@
             "state": "future"
         },
         "aeonindustrials.com": {
-            "epoch": "1546725600",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578261600",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "aepcorporationbdltd.com": {
             "epoch": "1551304800",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "aero-source.net": {
-            "epoch": "1548540000",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1580076000",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "aerocareforms.com": {
+            "epoch": "1623276000",
+            "expiration_date": "10-jun-2021",
             "state": "future"
         },
         "aerocommunications.us": {
@@ -6368,6 +7183,21 @@
         "aeromexeco.com": {
             "epoch": "1563746400",
             "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "aeroparaguana.com": {
+            "epoch": "1560808800",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "aeropuertos.co": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "aerp.org.br": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
             "state": "future"
         },
         "aes-associates.com": {
@@ -6400,9 +7230,24 @@
             "expiration_date": "21-jul-2019",
             "state": "future"
         },
+        "aethyrquest.com": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "aevdokimov.ru": {
+            "epoch": "1583186400",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
+        },
         "af-flyfishing.com": {
             "epoch": "1566770400",
             "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "afafcqewq.com.pl": {
+            "epoch": "1583100000",
+            "expiration_date": "02-mar-2020",
             "state": "future"
         },
         "afaqalmashaer.com": {
@@ -6418,7 +7263,7 @@
         "afeng-shop.com": {
             "epoch": "1552341600",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "aferp.fr": {
             "epoch": "1552514400",
@@ -6428,6 +7273,11 @@
         "affectedear.bid": {
             "epoch": "1554760800",
             "expiration_date": "09-apr-2019",
+            "state": "past"
+        },
+        "affiddavit.com.pl": {
+            "epoch": "1582408800",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "affiliatemarketingebookelite.com": {
@@ -6436,13 +7286,38 @@
             "state": "future"
         },
         "affinitaux.fr": {
-            "epoch": "1552341600",
-            "expiration_date": "12-mar-2019",
+            "epoch": "1583964000",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "affinity-numerology.com": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "affinitycircles.com": {
+            "epoch": "1556748000",
+            "expiration_date": "02-may-2019",
             "state": "future"
         },
         "affinityfederalcu.com": {
             "epoch": "1560204000",
             "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "affinityfinancial.ca": {
+            "epoch": "1586728800",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
+        "affinityforliberty.com": {
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
+        },
+        "affluential.com": {
+            "epoch": "1559340000",
+            "expiration_date": "01-jun-2019",
             "state": "future"
         },
         "affordablecarpetcleaning.info": {
@@ -6465,6 +7340,11 @@
             "expiration_date": "11-feb-2020",
             "state": "future"
         },
+        "aficenter.com.co": {
+            "epoch": "1580248800",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
         "afichesdecolombia.com": {
             "epoch": "1544565600",
             "expiration_date": "12-dec-2018",
@@ -6480,9 +7360,29 @@
             "expiration_date": "22-apr-2019",
             "state": "future"
         },
+        "afiliado-bahia-anuncios.com": {
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
         "afincasmr.com": {
-            "epoch": "1550700000",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582236000",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "afirehorse.com": {
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "aflajcharity.com": {
+            "epoch": "1551045600",
+            "expiration_date": "25-feb-2019",
+            "state": "past"
+        },
+        "aflamefe.co.kr": {
+            "epoch": "1583791200",
+            "expiration_date": "10-mar-2020",
             "state": "future"
         },
         "afly.co": {
@@ -6500,9 +7400,29 @@
             "expiration_date": "12-jul-2019",
             "state": "future"
         },
+        "afpdp.org": {
+            "epoch": "1556056800",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "afqfqaf4e.net.pl": {
+            "epoch": "1582668000",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "afrakanasew.com": {
+            "epoch": "1585778400",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
         "africa360.com": {
             "epoch": "1563832800",
             "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "africaixa.co.mz": {
+            "epoch": "1579125600",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "african-century.com": {
@@ -6510,9 +7430,19 @@
             "expiration_date": "03-dec-2018",
             "state": "future"
         },
+        "africanchilli.com": {
+            "epoch": "1558648800",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "africancodingacademy.com": {
+            "epoch": "1581199200",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
         "africanculturalfestival.org": {
-            "epoch": "1549663200",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581199200",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "africanevasion.fr": {
@@ -6533,6 +7463,11 @@
         "africannetworkofwomenshelters.org": {
             "epoch": "1560376800",
             "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "africanthunderevents.co.za": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
             "state": "future"
         },
         "africauniversitysports.com": {
