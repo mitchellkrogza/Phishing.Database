@@ -104,11 +104,11 @@ prepare () {
     dos2unix -V
 
     domain2idna -f ${output} -o ${output}
-    dos2unix ${output}
+    dos2unix -f ${output}
 
     sort -u ${inputA} -o ${inputA}
     domain2idna -f ${inputA} -o ${inputA}
-    dos2unix ${inputA}
+    dos2unix -f ${inputA}
 }
 
 # ****************************************
@@ -124,7 +124,7 @@ cd /tmp
 wget http://archive.ubuntu.com/ubuntu/pool/universe/d/dos2unix/dos2unix_7.4.0.orig.tar.gz
 tar -xvf dos2unix_7.4.0.orig.tar.gz > /dev/null
 cd dos2unix-7.4.0/
-./configure --prefix=/usr/local
+#./configure --prefix=/usr/local
 make -s
 sudo make -s install
 }
