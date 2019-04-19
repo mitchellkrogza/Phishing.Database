@@ -3,7 +3,7 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
-input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
+input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 
 # **********************
