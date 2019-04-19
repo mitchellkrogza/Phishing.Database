@@ -6,6 +6,7 @@
 echo "Starting PyFunceble"
 input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
+pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
 
 # **********************
 # Run PyFunceble Testing
@@ -26,6 +27,7 @@ RunFunceble () {
     if [[ -f "${pyfuncebleConfigurationFileLocation}" ]]
     then
         rm "${pyfuncebleConfigurationFileLocation}"
+        rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
     PyFunceble --travis --idna -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -ex --plain --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
