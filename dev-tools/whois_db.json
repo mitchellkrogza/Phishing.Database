@@ -1,5 +1,5 @@
 {
-    "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
+    "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-ALL.list": {
         "0-facebook.com": {
             "epoch": "1544220000",
             "expiration_date": "08-dec-2018",

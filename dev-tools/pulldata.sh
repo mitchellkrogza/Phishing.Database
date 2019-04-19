@@ -13,7 +13,6 @@ input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
 input3=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
 input4=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog-feed.list
 output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
-output2=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-IDNA.list
 
 # **************
 # Temp Variables
