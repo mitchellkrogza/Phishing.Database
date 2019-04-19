@@ -112,9 +112,28 @@ prepare () {
     dos2unix -f ${inputA}
 }
 
+# ****************************************
+# Let's force update of dos2unix
+# ****************************************
+fixdos2unix () {
+
+# Uninstall dos2unix first
+sudo apt-get remove --purge dos2unix
+
+# Download & Build dos2unix 7.4.0.1
+cd /tmp
+wget http://archive.ubuntu.com/ubuntu/pool/universe/d/dos2unix/dos2unix_7.4.0.orig.tar.gz
+tar -xvf dos2unix_7.4.0.orig.tar.gz > /dev/null
+cd dos2unix_7.4.0/
+./configure --prefix=/usr/local
+make -s
+sudo make -s install
+}
+
 PrepareTravis
 fetch
 initiate
+fixdos2unix
 prepare
 
 
