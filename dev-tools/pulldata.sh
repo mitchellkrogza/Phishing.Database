@@ -101,6 +101,9 @@ prepare () {
     grep '[^[:blank:]]' < ${outputtmp} > ${output}
     sudo rm ${outputtmp}
 
+    # Get dos2unix version
+    dos2unix -V
+
     domain2idna -f ${output} -o ${output}
     dos2unix ${output}
 
