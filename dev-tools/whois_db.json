@@ -21820,6 +21820,11 @@
             "expiration_date": "08-dec-2018",
             "state": "future"
         },
+        "c-line.info": {
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
         "c-nar.com": {
             "epoch": "1559599200",
             "expiration_date": "04-jun-2019",
@@ -21858,6 +21863,16 @@
         "ca-fr-credit-agricole-particuliers.com": {
             "epoch": "1555279200",
             "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "ca-sasbaiapomocoes.online": {
+            "epoch": "1566165600",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "ca-suportl.me": {
+            "epoch": "1585519200",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "ca08.download": {
@@ -22840,6 +22855,11 @@
             "expiration_date": "27-jul-2027",
             "state": "future"
         },
+        "car-rev.space": {
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "carad.in": {
             "epoch": "1560376800",
             "expiration_date": "13-jun-2019",
@@ -23010,14 +23030,29 @@
             "expiration_date": "15-jun-2019",
             "state": "future"
         },
+        "carillonbelleschorus.org": {
+            "epoch": "1558562400",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
         "caringforpuppies.net": {
             "epoch": "1567461600",
             "expiration_date": "03-sep-2019",
             "state": "future"
         },
+        "carkey.co.ke": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
         "carlaanne.com": {
             "epoch": "1563400800",
             "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "carlageraldini.com.br": {
+            "epoch": "1567807200",
+            "expiration_date": "07-sep-2019",
             "state": "future"
         },
         "carlahendricksforhair.com": {
@@ -23028,6 +23063,11 @@
         "carlaknight.com": {
             "epoch": "1545170400",
             "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "carlapradofotografia.com.br": {
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "carlonchostore.com": {
@@ -23041,13 +23081,33 @@
             "state": "future"
         },
         "carloscarreno.cl": {
-            "epoch": "1549922400",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1865541600",
+            "expiration_date": "12-feb-2029",
+            "state": "future"
+        },
+        "carlosluizribeiro.com.br": {
+            "epoch": "1555538400",
+            "expiration_date": "18-apr-2019",
+            "state": "past"
+        },
+        "carlosmalr2.com": {
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "carlosolivabaritone.com": {
             "epoch": "1600812000",
             "expiration_date": "23-sep-2020",
+            "state": "future"
+        },
+        "carlosrojasvaldebenito.cl": {
+            "epoch": "1553810400",
+            "expiration_date": "29-mar-2019",
+            "state": "past"
+        },
+        "carlsi.site": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
             "state": "future"
         },
         "carmaos.com": {
@@ -23080,6 +23140,16 @@
             "expiration_date": "23-aug-2019",
             "state": "future"
         },
+        "carolhancock.com": {
+            "epoch": "1590098400",
+            "expiration_date": "22-may-2020",
+            "state": "future"
+        },
+        "carolinadonorte.com.br": {
+            "epoch": "1559253600",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
         "carolinarealestatepros.com": {
             "epoch": "1558562400",
             "expiration_date": "23-may-2019",
@@ -23110,14 +23180,34 @@
             "expiration_date": "15-dec-2018",
             "state": "future"
         },
+        "carolyneppleyappraisals.com": {
+            "epoch": "1558994400",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
         "carpc.si": {
             "epoch": "1572991200",
             "expiration_date": "06-nov-2019",
             "state": "future"
         },
+        "carpediem.legal": {
+            "epoch": "1589234400",
+            "expiration_date": "12-may-2020",
+            "state": "future"
+        },
         "carpetcleaning-rosevilleca.com": {
             "epoch": "1569448800",
             "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "carphonegoal.co.uk": {
+            "epoch": "1595887200",
+            "expiration_date": "28-jul-2020",
+            "state": "future"
+        },
+        "carprousa.icu": {
+            "epoch": "1579298400",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "carreaublanc.com": {
@@ -23135,9 +23225,19 @@
             "expiration_date": "18-sep-2019",
             "state": "future"
         },
+        "carrier-fundss.com": {
+            "epoch": "1570744800",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
         "carrierdesign.com": {
             "epoch": "1570658400",
             "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "carriere-back.com": {
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "carrinho-do-mes234.com": {
@@ -23148,6 +23248,11 @@
         "carrinho-manuele-week.com": {
             "epoch": "1562536800",
             "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "carrinhoblackfridayfimdeano.com": {
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "carrinhos-americanas.com": {
@@ -23165,19 +23270,44 @@
             "expiration_date": "03-sep-2019",
             "state": "future"
         },
+        "carsandcoffee.com": {
+            "epoch": "1715205600",
+            "expiration_date": "09-may-2024",
+            "state": "future"
+        },
         "carseatalert.com": {
             "epoch": "1562709600",
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
         "carsedengineering.com": {
-            "epoch": "1555365600",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586988000",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
+        "carsel.it": {
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "carshine.com.ar": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
             "state": "future"
         },
         "carsnoreply-service.com": {
             "epoch": "1574805600",
             "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "carspanewport.icu": {
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "carstairscommunitycentre.co.uk": {
+            "epoch": "1568671200",
+            "expiration_date": "17-sep-2019",
             "state": "future"
         },
         "cartao-dados.info": {
@@ -23190,6 +23320,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "cartascelestes.com": {
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
         "carterbraydenquinn.com": {
             "epoch": "1570140000",
             "expiration_date": "04-oct-2019",
@@ -23200,14 +23335,24 @@
             "expiration_date": "02-may-2019",
             "state": "future"
         },
+        "cartetitolari.info": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "cartierqxt.co.kr": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
         "cartoesway.com": {
             "epoch": "1566597600",
             "expiration_date": "24-aug-2019",
             "state": "future"
         },
         "cartolandiashop.it": {
-            "epoch": "1546812000",
-            "expiration_date": "07-jan-2019",
+            "epoch": "1578348000",
+            "expiration_date": "07-jan-2020",
             "state": "future"
         },
         "cartonsdhaiti.com": {
@@ -23215,9 +23360,14 @@
             "expiration_date": "22-nov-2019",
             "state": "future"
         },
+        "cartoriobuzios.com.br": {
+            "epoch": "1591567200",
+            "expiration_date": "08-jun-2020",
+            "state": "future"
+        },
         "cartrendstulsa.com": {
-            "epoch": "1553724000",
-            "expiration_date": "28-mar-2019",
+            "epoch": "1648418400",
+            "expiration_date": "28-mar-2022",
             "state": "future"
         },
         "cartuchosytoner.net": {
@@ -23240,9 +23390,19 @@
             "expiration_date": "21-dec-2018",
             "state": "future"
         },
+        "carypolitics.org": {
+            "epoch": "1613772000",
+            "expiration_date": "20-feb-2021",
+            "state": "future"
+        },
         "carzonselfdrive.com": {
             "epoch": "1549490400",
             "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "casa-davinci.mn": {
+            "epoch": "1580421600",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "casa-grecia.com": {
@@ -23275,6 +23435,31 @@
             "expiration_date": "19-may-2019",
             "state": "future"
         },
+        "casacarcelcaitra.com": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "casacondadohotel.com": {
+            "epoch": "1584914400",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "casadafumaca.com.br": {
+            "epoch": "1599775200",
+            "expiration_date": "11-sep-2020",
+            "state": "future"
+        },
+        "casadeadoracao.com.br": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "casadecarnecentral.com.br": {
+            "epoch": "1566856800",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
         "casadeplata.net": {
             "epoch": "1620165600",
             "expiration_date": "05-may-2021",
@@ -23300,9 +23485,24 @@
             "expiration_date": "17-apr-2019",
             "state": "future"
         },
+        "casanarered.com": {
+            "epoch": "1580680800",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
         "casaonline.ro": {
             "epoch": "1568152800",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "casapilarnola.com": {
+            "epoch": "1578088800",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "casaplay.online": {
+            "epoch": "1562882400",
+            "expiration_date": "12-jul-2019",
             "state": "future"
         },
         "casas-bahia.bid": {
@@ -23325,9 +23525,29 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "casasbahaia-friday.com": {
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "casasbahia-blackfriday.info": {
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "casasbahia-blackout.com": {
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
         "casasbahia-carrinho.com": {
             "epoch": "1562277600",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "casasbahia-esquentablackfriday.com": {
+            "epoch": "1573855200",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "casasbahia-fritadeira.com": {
@@ -23360,6 +23580,11 @@
             "expiration_date": "07-aug-2019",
             "state": "future"
         },
+        "casasbahiapromocao.com": {
+            "epoch": "1575237600",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
         "casasbahiatvs.com": {
             "epoch": "1557871200",
             "expiration_date": "15-may-2019",
@@ -23368,6 +23593,16 @@
         "casasbahiavendas.com": {
             "epoch": "1559167200",
             "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "casasbahiavoce.com": {
+            "epoch": "1576274400",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "casasbahiia.website": {
+            "epoch": "1561327200",
+            "expiration_date": "24-jun-2019",
             "state": "future"
         },
         "casasbaia-bahianinho.com": {
@@ -23383,6 +23618,11 @@
         "casasbaia-site.com": {
             "epoch": "1555711200",
             "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "casasbaiadiadascriancas.com": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
             "state": "future"
         },
         "casasbhaia-blackfriday.com": {
@@ -23440,6 +23680,11 @@
             "expiration_date": "02-may-2019",
             "state": "future"
         },
+        "casasbhaia-ofertsaldao.com": {
+            "epoch": "1569708000",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
         "casasbhaia-promodesc.com": {
             "epoch": "1563919200",
             "expiration_date": "24-jul-2019",
@@ -23485,6 +23730,11 @@
             "expiration_date": "30-jul-2019",
             "state": "future"
         },
+        "casasbhaiafriday.com": {
+            "epoch": "1570053600",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
         "casasbhaiasaldaodeofertas.com": {
             "epoch": "1560549600",
             "expiration_date": "15-jun-2019",
@@ -23493,6 +23743,11 @@
         "casasbhaiasaldaototal.com": {
             "epoch": "1564437600",
             "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "casasbhdasemana.com": {
+            "epoch": "1569967200",
+            "expiration_date": "02-oct-2019",
             "state": "future"
         },
         "casasdasemanaliquida.com": {
@@ -23505,6 +23760,11 @@
             "expiration_date": "07-apr-2019",
             "state": "future"
         },
+        "casasdobahiaweilpromocoes.xyz": {
+            "epoch": "1569276000",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
         "casasespecialdesconto.com": {
             "epoch": "1558994400",
             "expiration_date": "28-may-2019",
@@ -23513,6 +23773,11 @@
         "casaslabahia.com": {
             "epoch": "1565820000",
             "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "casaslabahia.info": {
+            "epoch": "1577311200",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "casasmodabhaia-imperdivel.com": {
@@ -23565,6 +23830,11 @@
             "expiration_date": "04-jul-2028",
             "state": "future"
         },
+        "cascadiawestdevelopment.com": {
+            "epoch": "1558130400",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
         "case-ology.com": {
             "epoch": "1619820000",
             "expiration_date": "01-may-2021",
@@ -23575,6 +23845,11 @@
             "expiration_date": "22-sep-2019",
             "state": "future"
         },
+        "casego.site": {
+            "epoch": "1565647200",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
         "caseificioaversano.it": {
             "epoch": "1572818400",
             "expiration_date": "04-nov-2019",
@@ -23583,6 +23858,11 @@
         "caselemnbianca.ro": {
             "epoch": "1569016800",
             "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "casemodworld.com": {
+            "epoch": "1575496800",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "cases-open.com": {
@@ -23605,9 +23885,19 @@
             "expiration_date": "20-mar-2019",
             "state": "future"
         },
+        "casewsupporutaccount-dorivryastrore.com": {
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
         "cash-csgo.pro": {
             "epoch": "1565906400",
             "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "cash-exchanger.com": {
+            "epoch": "1563660000",
+            "expiration_date": "21-jul-2019",
             "state": "future"
         },
         "cash-win.ru": {
@@ -23620,6 +23910,11 @@
             "expiration_date": "16-nov-2019",
             "state": "future"
         },
+        "cashbank.cc": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
         "cashbit.ru": {
             "epoch": "1570140000",
             "expiration_date": "04-oct-2019",
@@ -23630,10 +23925,25 @@
             "expiration_date": "22-sep-2019",
             "state": "future"
         },
+        "cashcnes.uk": {
+            "epoch": "1575669600",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "cashcoins.net": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "cashdealergamer.com": {
             "epoch": "1537221600",
             "expiration_date": "18-sep-2018",
             "state": "past"
+        },
+        "cashflowinc.com": {
+            "epoch": "1577743200",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
         },
         "cashforlandfastutah.com": {
             "epoch": "1557439200",
@@ -23648,6 +23958,16 @@
         "cashierresume.org": {
             "epoch": "1545775200",
             "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "cashing-direct.com": {
+            "epoch": "1564264800",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "cashing24.online": {
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "cashinthenet.com": {
@@ -23665,9 +23985,39 @@
             "expiration_date": "12-feb-2019",
             "state": "future"
         },
+        "cashobmen24.ru": {
+            "epoch": "1581285600",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "cashoutgod.net": {
+            "epoch": "1564869600",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
         "casidy.download": {
             "epoch": "1556834400",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "casina-service.com": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "casino-gusar.xyz": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "casinocareerinstitute.com": {
+            "epoch": "1564956000",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "casinofreegames.org": {
+            "epoch": "1556402400",
+            "expiration_date": "28-apr-2019",
             "state": "future"
         },
         "casinomestarit.com": {
@@ -23690,9 +24040,34 @@
             "expiration_date": "10-oct-2023",
             "state": "future"
         },
+        "casona.ro": {
+            "epoch": "1560376800",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "casorna.co.uk": {
+            "epoch": "1563746400",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "casperchildrenscenter.com": {
+            "epoch": "1590184800",
+            "expiration_date": "23-may-2020",
+            "state": "future"
+        },
+        "casperstang.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "caspianglobalservices.com": {
-            "epoch": "1551132000",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582668000",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "casquesbeats.icu": {
+            "epoch": "1563400800",
+            "expiration_date": "18-jul-2019",
             "state": "future"
         },
         "cassandrama.com": {
@@ -23705,6 +24080,16 @@
             "expiration_date": "06-oct-2019",
             "state": "future"
         },
+        "cassboughtabus.com": {
+            "epoch": "1563314400",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "casseaudufort.ca": {
+            "epoch": "1569103200",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
         "casseepargne.com": {
             "epoch": "1558648800",
             "expiration_date": "24-may-2019",
@@ -23713,6 +24098,21 @@
         "casselberryautoservice.com": {
             "epoch": "1552168800",
             "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "cassertte.icu": {
+            "epoch": "1580162400",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "casswellcad.co.uk": {
+            "epoch": "1573336800",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "castellanos.pro": {
+            "epoch": "1559685600",
+            "expiration_date": "05-jun-2019",
             "state": "future"
         },
         "castellcars.com": {
@@ -23725,9 +24125,24 @@
             "expiration_date": "06-nov-2018",
             "state": "past"
         },
+        "castillaolivares.net": {
+            "epoch": "1567720800",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "castleduckula.com": {
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
         "castlenailspamockingbird.com": {
             "epoch": "1572213600",
             "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "castlist.org": {
+            "epoch": "1578088800",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "castor.cl": {
@@ -23751,13 +24166,23 @@
             "state": "future"
         },
         "casvior.com": {
-            "epoch": "1547330400",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578866400",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
+        },
+        "catab.com.mx": {
+            "epoch": "1569621600",
+            "expiration_date": "28-sep-2019",
             "state": "future"
         },
         "catalystintercultural.com": {
             "epoch": "1567893600",
             "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "catalystmold.com": {
+            "epoch": "1579557600",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "catalystpt.org": {
@@ -23770,9 +24195,29 @@
             "expiration_date": "27-jan-2021",
             "state": "future"
         },
+        "cataricosmeticos.com.br": {
+            "epoch": "1626386400",
+            "expiration_date": "16-jul-2021",
+            "state": "future"
+        },
+        "catchfishcavan.com": {
+            "epoch": "1585260000",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
         "catchingupwiththemillers.com": {
             "epoch": "1574028000",
             "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "catcloner.com": {
+            "epoch": "1597874400",
+            "expiration_date": "20-aug-2020",
+            "state": "future"
+        },
+        "catererswestyorkshire.co.uk": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
             "state": "future"
         },
         "cateringcibuburjakarta.com": {
@@ -23800,14 +24245,29 @@
             "expiration_date": "28-aug-2019",
             "state": "future"
         },
+        "catherine-baw.com": {
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "catherine-conx.com": {
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "catherine-dex.com": {
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
         "catherineking.net": {
             "epoch": "1565388000",
             "expiration_date": "10-aug-2019",
             "state": "future"
         },
         "catherinelavoie.com": {
-            "epoch": "1545688800",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577224800",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "catherinesaurorechildrenshappyhometrust.com": {
@@ -23845,9 +24305,29 @@
             "expiration_date": "03-sep-2019",
             "state": "future"
         },
+        "catristo.com": {
+            "epoch": "1587679200",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
+        },
         "catshostel.org": {
             "epoch": "1560204000",
             "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "catsso.com": {
+            "epoch": "1580162400",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "catsupplystore.com": {
+            "epoch": "1592690400",
+            "expiration_date": "21-jun-2020",
+            "state": "future"
+        },
+        "cattlevoracious.net": {
+            "epoch": "1586815200",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "caubergcyclocross.com": {
@@ -23855,9 +24335,24 @@
             "expiration_date": "09-jul-2019",
             "state": "future"
         },
+        "caucasian-spotlight.com": {
+            "epoch": "1557871200",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
         "caufotomania.win": {
             "epoch": "1565042400",
             "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "caught-looking.icu": {
+            "epoch": "1563832800",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "caughtoncamera.co.za": {
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "cauquenes.cl": {
@@ -23873,11 +24368,11 @@
         "causediscorelation.bid": {
             "epoch": "1554588000",
             "expiration_date": "07-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "causticsodapodcast.com": {
-            "epoch": "1551909600",
-            "expiration_date": "07-mar-2019",
+            "epoch": "1583532000",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "caustoslemenesse.com": {
@@ -23890,9 +24385,24 @@
             "expiration_date": "15-aug-2019",
             "state": "future"
         },
+        "cavagninoegatti.com": {
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
         "cavagnola.com": {
             "epoch": "1626300000",
             "expiration_date": "15-jul-2021",
+            "state": "future"
+        },
+        "cavallaripetra.com.br": {
+            "epoch": "1550959200",
+            "expiration_date": "24-feb-2019",
+            "state": "past"
+        },
+        "cavamothiones.com": {
+            "epoch": "1569189600",
+            "expiration_date": "23-sep-2019",
             "state": "future"
         },
         "cave4host.com": {
@@ -23903,6 +24413,31 @@
         "caven.se": {
             "epoch": "1570226400",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "caves-pierre-noble-elbeuf.fr": {
+            "epoch": "1568844000",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "cavieslife.com": {
+            "epoch": "1565301600",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "cavime.com": {
+            "epoch": "1584050400",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "cavoksrl.com": {
+            "epoch": "1579816800",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "caw.org": {
+            "epoch": "1571436000",
+            "expiration_date": "19-oct-2019",
             "state": "future"
         },
         "cawaa.org": {
@@ -23920,9 +24455,24 @@
             "expiration_date": "06-jan-2019",
             "state": "future"
         },
+        "caygiongcayanqua.com": {
+            "epoch": "1585000800",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
+        },
+        "cayleighclark.com": {
+            "epoch": "1570399200",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "caymancleaners.com": {
             "epoch": "1572645600",
             "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "cayosantato.com": {
+            "epoch": "1579816800",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "cazanele-dunarii.ro": {
@@ -23935,9 +24485,59 @@
             "expiration_date": "26-oct-2019",
             "state": "future"
         },
+        "cazdatzre.waw.pl": {
+            "epoch": "1582063200",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "cb-verao.com.br": {
+            "epoch": "1578520800",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "cbacpartnership.org": {
+            "epoch": "1576792800",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "cbango.com.ar": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "cbbsca.com": {
+            "epoch": "1557957600",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
         "cbcemea.com": {
             "epoch": "1570226400",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "cbcomputadoras.com": {
+            "epoch": "1612994400",
+            "expiration_date": "11-feb-2021",
+            "state": "future"
+        },
+        "cbdoilanswer.com": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "cbdoilvaporizer.com": {
+            "epoch": "1581285600",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
+        "cbdremedies.net": {
+            "epoch": "1565215200",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "cbet.ca": {
+            "epoch": "1596751200",
+            "expiration_date": "07-aug-2020",
             "state": "future"
         },
         "cbfmrembang.com": {
@@ -23955,14 +24555,44 @@
             "expiration_date": "25-mar-2020",
             "state": "future"
         },
+        "cbintbnk.com": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "cbitassist.com": {
+            "epoch": "1565388000",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "cbmc.sg": {
+            "epoch": "1587333600",
+            "expiration_date": "20-apr-2020",
+            "state": "future"
+        },
+        "cbnsinste.org": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "cbnstage.com": {
             "epoch": "1562364000",
             "expiration_date": "06-jul-2019",
             "state": "future"
         },
+        "cbouloipse.com": {
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
         "cbpk.pl": {
             "epoch": "1556748000",
             "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "cbraja.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
             "state": "future"
         },
         "cbsh.ca": {
@@ -23975,9 +24605,29 @@
             "expiration_date": "23-apr-2019",
             "state": "future"
         },
+        "cbsts.com.ng": {
+            "epoch": "1562277600",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
         "cbtfipl.com": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "cc-2018.com": {
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "cc-digital2018.com": {
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "cc4hsummercamp.com": {
+            "epoch": "1581544800",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "cca-paris.com": {
@@ -24000,6 +24650,16 @@
             "expiration_date": "29-sep-2019",
             "state": "future"
         },
+        "ccasasbahiaa.com": {
+            "epoch": "1575496800",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "ccbaaugusta.com": {
+            "epoch": "1574114400",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
         "ccbank.us": {
             "epoch": "1603922400",
             "expiration_date": "29-oct-2020",
@@ -24015,9 +24675,24 @@
             "expiration_date": "13-may-2019",
             "state": "future"
         },
+        "ccc-car.com": {
+            "epoch": "1557525600",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "cccamiptveu.com": {
+            "epoch": "1592863200",
+            "expiration_date": "23-jun-2020",
+            "state": "future"
+        },
         "cccc.cl": {
             "epoch": "1562018400",
             "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "ccccolumbus.org": {
+            "epoch": "1565992800",
+            "expiration_date": "17-aug-2019",
             "state": "future"
         },
         "cccrs.com": {
@@ -24025,14 +24700,29 @@
             "expiration_date": "07-apr-2022",
             "state": "future"
         },
+        "cccwp.us": {
+            "epoch": "1587247200",
+            "expiration_date": "19-apr-2020",
+            "state": "future"
+        },
         "ccert.org": {
-            "epoch": "1550268000",
-            "expiration_date": "16-feb-2019",
+            "epoch": "1581804000",
+            "expiration_date": "16-feb-2020",
             "state": "future"
         },
         "ccforp.org": {
             "epoch": "1543701600",
             "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "cch.or.kr": {
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "ccicsi.com": {
+            "epoch": "1577656800",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "ccirlimited.com": {
@@ -24045,6 +24735,11 @@
             "expiration_date": "03-oct-2018",
             "state": "past"
         },
+        "cclimaarcondicionado.com.br": {
+            "epoch": "1563919200",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
         "cclose.com": {
             "epoch": "1597183200",
             "expiration_date": "12-aug-2020",
@@ -24055,9 +24750,19 @@
             "expiration_date": "24-dec-2018",
             "state": "future"
         },
+        "ccpchi.com": {
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
         "ccpmart.com": {
             "epoch": "1545516000",
             "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "ccsa-az.us": {
+            "epoch": "1567893600",
+            "expiration_date": "08-sep-2019",
             "state": "future"
         },
         "ccsbioextracts.com": {
@@ -24075,9 +24780,29 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "cctpartners.com": {
+            "epoch": "1576533600",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
         "cctvdiscover.net": {
             "epoch": "1563141600",
             "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "ccuus.com": {
+            "epoch": "1561413600",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "ccvivabuenaventura.com.co": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "cczs.xyz": {
+            "epoch": "1583272800",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "cda-interiordesign.com": {
@@ -24100,14 +24825,39 @@
             "expiration_date": "15-mar-2019",
             "state": "future"
         },
+        "cdfnv.org": {
+            "epoch": "1631052000",
+            "expiration_date": "08-sep-2021",
+            "state": "future"
+        },
         "cdg104.info": {
             "epoch": "1567375200",
             "expiration_date": "02-sep-2019",
             "state": "future"
         },
+        "cdgolf44.fr": {
+            "epoch": "1576792800",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
         "cdhexport.com": {
             "epoch": "1569189600",
             "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "cdhplus.fr": {
+            "epoch": "1776290400",
+            "expiration_date": "16-apr-2026",
+            "state": "future"
+        },
+        "cdiemel.com": {
+            "epoch": "1596924000",
+            "expiration_date": "09-aug-2020",
+            "state": "future"
+        },
+        "cdjcollege.com": {
+            "epoch": "1633125600",
+            "expiration_date": "02-oct-2021",
             "state": "future"
         },
         "cdjconsultants.com": {
@@ -24120,9 +24870,24 @@
             "expiration_date": "22-jun-2019",
             "state": "future"
         },
+        "cdlnil.com.br": {
+            "epoch": "1605477600",
+            "expiration_date": "16-nov-2020",
+            "state": "future"
+        },
         "cdn-secure-hosting.com": {
             "epoch": "1571522400",
             "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "cdnassets.com": {
+            "epoch": "1702850400",
+            "expiration_date": "18-dec-2023",
+            "state": "future"
+        },
+        "cdnusercontent.men": {
+            "epoch": "1562796000",
+            "expiration_date": "11-jul-2019",
             "state": "future"
         },
         "cdnusercontent.win": {
@@ -24130,9 +24895,24 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "cdolitterus.ru": {
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "cdpt.cl": {
+            "epoch": "1787004000",
+            "expiration_date": "18-aug-2026",
+            "state": "future"
+        },
         "cds-bd.com": {
             "epoch": "1546725600",
             "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "cdsadvqeeqvo.co.uk": {
+            "epoch": "1582581600",
+            "expiration_date": "25-feb-2020",
             "state": "future"
         },
         "cducentral.com": {
@@ -24141,8 +24921,8 @@
             "state": "future"
         },
         "cduels.com": {
-            "epoch": "1554501600",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586124000",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "cduloures.org": {
@@ -24156,8 +24936,13 @@
             "state": "future"
         },
         "ce-res.org": {
-            "epoch": "1553896800",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585519200",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
+        "ceabbrasil.com.br": {
+            "epoch": "1808604000",
+            "expiration_date": "25-apr-2027",
             "state": "future"
         },
         "cebdenizbank.com": {
@@ -24180,9 +24965,24 @@
             "expiration_date": "18-nov-2021",
             "state": "future"
         },
+        "cebuled.com": {
+            "epoch": "1618351200",
+            "expiration_date": "14-apr-2021",
+            "state": "future"
+        },
         "cebulending.com": {
             "epoch": "1558562400",
             "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "cebuorange.com": {
+            "epoch": "1564005600",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "cebupreneur.com": {
+            "epoch": "1602799200",
+            "expiration_date": "16-oct-2020",
             "state": "future"
         },
         "cecabkglobal.com": {
@@ -24195,9 +24995,19 @@
             "expiration_date": "10-mar-2019",
             "state": "future"
         },
+        "cecconstructions.com": {
+            "epoch": "1561240800",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
         "cecech.top": {
             "epoch": "1563919200",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "cecewear.net": {
+            "epoch": "1578952800",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "ceciyaafoundation.org": {
@@ -24206,8 +25016,13 @@
             "state": "future"
         },
         "cecmultiservice.it": {
-            "epoch": "1550008800",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581631200",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "cedampampadeltamarugal.cl": {
+            "epoch": "1576101600",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "cedarzaitoun.com": {
@@ -24220,9 +25035,44 @@
             "expiration_date": "17-may-2019",
             "state": "future"
         },
+        "cederberghouse.co.za": {
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "ceemart.com": {
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "ceer.org.ng": {
+            "epoch": "1560117600",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
         "cef1.com": {
             "epoch": "1565992800",
             "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "cefes-seguridad.com": {
+            "epoch": "1576101600",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "cefhome.com": {
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "cefop.net.br": {
+            "epoch": "1611266400",
+            "expiration_date": "22-jan-2021",
+            "state": "future"
+        },
+        "cegear.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
             "state": "future"
         },
         "cegepvenezuela.com": {
@@ -24240,14 +25090,44 @@
             "expiration_date": "10-dec-2024",
             "state": "future"
         },
+        "ceiba.org.ar": {
+            "epoch": "1565474400",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
         "ceibaguate.org": {
             "epoch": "1632175200",
             "expiration_date": "21-sep-2021",
             "state": "future"
         },
+        "ceilingspartitions.co.uk": {
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "ceintec.org": {
+            "epoch": "1582063200",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "ceipersonal.com.br": {
+            "epoch": "1575410400",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "celchanbser.org": {
+            "epoch": "1581717600",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
         "celebrantsharilandeg.com": {
             "epoch": "1552514400",
             "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "celebrateclintoniowa.com": {
+            "epoch": "1613340000",
+            "expiration_date": "15-feb-2021",
             "state": "future"
         },
         "celebratingyourdivinity.com": {
@@ -24285,9 +25165,24 @@
             "expiration_date": "22-aug-2019",
             "state": "future"
         },
+        "celebritynewsone.com": {
+            "epoch": "1583964000",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
+        "celebroworks.com": {
+            "epoch": "1568757600",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
         "celectonhotels.com": {
             "epoch": "1563055200",
             "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "celeschains.com": {
+            "epoch": "1568152800",
+            "expiration_date": "11-sep-2019",
             "state": "future"
         },
         "celestelecaroz.com": {
@@ -24300,6 +25195,16 @@
             "expiration_date": "26-nov-2019",
             "state": "future"
         },
+        "celiactracker.com": {
+            "epoch": "1559167200",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "celiasantioch.com": {
+            "epoch": "1582495200",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
         "celicnabravarija.com": {
             "epoch": "1558994400",
             "expiration_date": "28-may-2019",
@@ -24310,19 +25215,39 @@
             "expiration_date": "29-jan-2019",
             "state": "future"
         },
+        "celine-opticien.fr": {
+            "epoch": "1571090400",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
         "cellardoormagazine.com": {
             "epoch": "1574114400",
             "expiration_date": "19-nov-2019",
             "state": "future"
         },
+        "cellgevityfitness.com": {
+            "epoch": "1568412000",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
         "cellopaw.com": {
-            "epoch": "1555106400",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586728800",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
+        "cellplanetshop.com": {
+            "epoch": "1566597600",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "cellsolgroup.com": {
+            "epoch": "1579125600",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "celltuckvideo.info": {
-            "epoch": "1549317600",
-            "expiration_date": "05-feb-2019",
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "cellulartrunk.com": {
@@ -24330,9 +25255,34 @@
             "expiration_date": "23-jan-2023",
             "state": "future"
         },
+        "celmile.com": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "celo.by": {
+            "epoch": "1576706400",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "celticshopdunedin.com": {
+            "epoch": "1651701600",
+            "expiration_date": "05-may-2022",
+            "state": "future"
+        },
+        "celtinauta.com": {
+            "epoch": "1571522400",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "celtiweb.fr": {
+            "epoch": "1586469600",
+            "expiration_date": "10-apr-2020",
+            "state": "future"
+        },
         "celular.digital": {
-            "epoch": "1552600800",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "celularcell.info": {
@@ -24355,6 +25305,16 @@
             "expiration_date": "19-sep-2019",
             "state": "future"
         },
+        "cemalcemilcake.id": {
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "cemented.co.uk": {
+            "epoch": "1571868000",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "cemestetic.com": {
             "epoch": "1554933600",
             "expiration_date": "11-apr-2019",
@@ -24368,6 +25328,11 @@
         "cemses.com": {
             "epoch": "1570226400",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "cemvierlab.com": {
+            "epoch": "1587160800",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "cen-texspiralpipe.com": {
@@ -24388,6 +25353,11 @@
         "cenfet.com": {
             "epoch": "1562104800",
             "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "cenfopar.com": {
+            "epoch": "1561932000",
+            "expiration_date": "01-jul-2019",
             "state": "future"
         },
         "cengbot.us": {

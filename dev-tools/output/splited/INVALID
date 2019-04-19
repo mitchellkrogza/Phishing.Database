@@ -11,3 +11,7 @@ bbatualizacao.app,http:                                                         
 bfalabellatv.com,http:                                                                               INVALID     SYNTAX    
 casasbahiaweb.ml,http:                                                                               INVALID     SYNTAX    
 cpf-banreservas.com,http:                                                                            INVALID     SYNTAX    
+casberris.org?password-protected=login&redirect_to=http%3A%2F%2Fcasberris.org%2Fincludes%2Fdoc%2Fyahoo.php INVALID     IANA      
+cash-exchanger.com:443                                                                               INVALID     IANA      
+cashbit24.com:443                                                                                    INVALID     IANA      
+cassia.martins@itau-unibanco.com.br                                                                  INVALID     IANA      

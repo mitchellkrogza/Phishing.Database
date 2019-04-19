@@ -157,7 +157,10 @@
         "pb.ao"
     ],
     "app": [
-        "hasura.app"
+        "a.run.app",
+        "hasura.app",
+        "run.app",
+        "telebit.app"
     ],
     "ar": [
         "blogspot.com.ar",
@@ -622,6 +625,9 @@
         "net.bt",
         "org.bt"
     ],
+    "business": [
+        "co.business"
+    ],
     "bw": [
         "co.bw",
         "org.bw"
@@ -799,6 +805,8 @@
         "gov.co",
         "info.co",
         "int.co",
+        "leadpages.co",
+        "lpages.co",
         "mil.co",
         "mypi.co",
         "n4t.co",
@@ -825,6 +833,7 @@
         "ap-south-1.elasticbeanstalk.com",
         "ap-southeast-1.elasticbeanstalk.com",
         "ap-southeast-2.elasticbeanstalk.com",
+        "api.stdlib.com",
         "app.lmpm.com",
         "appchizi.com",
         "applinzi.com",
@@ -908,6 +917,7 @@
         "eu.com",
         "eu.meteorapp.com",
         "familyds.com",
+        "fastly-terrarium.com",
         "fastvps-server.com",
         "firebaseapp.com",
         "firewall-gateway.com",
@@ -1049,6 +1059,7 @@
         "likescandy.com",
         "logoip.com",
         "loseyourip.com",
+        "lpusercontent.com",
         "meteorapp.com",
         "mex.com",
         "miniserver.com",
@@ -1280,6 +1291,7 @@
         "dnsupdater.de",
         "dray-dns.de",
         "draydns.de",
+        "dyn-berlin.de",
         "dyn-ip24.de",
         "dyn-vpn.de",
         "dyn.cosidns.de",
@@ -1294,6 +1306,11 @@
         "git-repos.de",
         "goip.de",
         "home-webserver.de",
+        "in-berlin.de",
+        "in-brb.de",
+        "in-butter.de",
+        "in-dsl.de",
+        "in-vpn.de",
         "internet-dns.de",
         "isteingeek.de",
         "istmein.de",
@@ -1323,6 +1340,9 @@
         "uberspace.de",
         "virtual-user.de",
         "virtualuser.de"
+    ],
+    "design": [
+        "bss.design"
     ],
     "direct": [
         "fastpanel.direct"
@@ -1364,6 +1384,10 @@
         "org.dz",
         "pol.dz"
     ],
+    "earth": [
+        "bzz.dapps.earth",
+        "dapps.earth"
+    ],
     "ec": [
         "com.ec",
         "edu.ec",
@@ -1377,6 +1401,9 @@
         "net.ec",
         "org.ec",
         "pro.ec"
+    ],
+    "education": [
+        "co.education"
     ],
     "ee": [
         "aip.ee",
@@ -1439,6 +1466,9 @@
     "eus": [
         "user.party.eus"
     ],
+    "events": [
+        "co.events"
+    ],
     "faith": [
         "ybo.faith"
     ],
@@ -1450,6 +1480,9 @@
         "blogspot.fi",
         "dy.fi",
         "iki.fi"
+    ],
+    "financial": [
+        "co.financial"
     ],
     "fit": [
         "ptplus.fit"
@@ -1788,6 +1821,7 @@
     "io": [
         "2038.io",
         "apigee.io",
+        "applicationcloud.io",
         "apps.lair.io",
         "azurecontainer.io",
         "backplaneapp.io",
@@ -1819,10 +1853,12 @@
         "resindevice.io",
         "s5y.io",
         "sandcats.io",
+        "scapp.io",
         "shiftedit.io",
         "spacekit.io",
         "stage.nodeart.io",
         "stolos.io",
+        "telebit.io",
         "utwente.io",
         "vaporcloud.io",
         "wedeploy.io"
@@ -4346,6 +4382,12 @@
         "dnsfor.me",
         "dscloud.me",
         "edu.me",
+        "filegear-au.me",
+        "filegear-de.me",
+        "filegear-gb.me",
+        "filegear-ie.me",
+        "filegear-jp.me",
+        "filegear-sg.me",
         "filegear.me",
         "gov.me",
         "hopto.me",
@@ -5148,7 +5190,9 @@
         "homelinux.net",
         "homeunix.net",
         "hu.net",
+        "in-dsl.net",
         "in-the-band.net",
+        "in-vpn.net",
         "in.net",
         "ipifony.net",
         "is-a-chef.net",
@@ -5202,7 +5246,8 @@
         "za.net"
     ],
     "network": [
-        "alces.network"
+        "alces.network",
+        "co.network"
     ],
     "nf": [
         "arts.nf",
@@ -5247,7 +5292,6 @@
     ],
     "nl": [
         "blogspot.nl",
-        "bv.nl",
         "cistron.nl",
         "co.nl",
         "demon.nl",
@@ -6143,6 +6187,8 @@
         "hu.eu.org",
         "ie.eu.org",
         "il.eu.org",
+        "in-dsl.org",
+        "in-vpn.org",
         "in.eu.org",
         "int.eu.org",
         "is-a-bruinsfan.org",
@@ -6522,6 +6568,9 @@
         "zgora.pl",
         "zgorzelec.pl",
         "zp.gov.pl"
+    ],
+    "place": [
+        "co.place"
     ],
     "pm": [
         "own.pm"
@@ -6964,6 +7013,9 @@
     ],
     "td": [
         "blogspot.td"
+    ],
+    "technology": [
+        "co.technology"
     ],
     "th": [
         "ac.th",
@@ -7608,6 +7660,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "fhapp.xyz",
+        "telebit.xyz",
         "zapto.xyz"
     ],
     "ye": [
