@@ -42,13 +42,13 @@ PrepareTravis () {
 # **********************************************
 
 fetch () {
-    sudo wget https://hosts.ubuntu101.co.za/openphish/openphish-feed.list -O ${feed1}
+    sudo wget -q https://hosts.ubuntu101.co.za/openphish/openphish-feed.list -O ${feed1}
     cat ${feed1} >> ${input1}
 
-    sudo wget https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
+    sudo wget -q https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
     cat ${feed2} >> ${input3}
 
-    sudo wget https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
+    sudo wget -q https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
     cat ${feed3} >> ${input4}
 
     sudo rm ${feed2}
