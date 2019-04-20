@@ -23291,15 +23291,14 @@
             "clientsarea-3243.monako-shop.financial",
             "clientservice-business-update.information.webapps.djisamsumagnum3.business",
             "clientservice.business.support-update.djisamsumagnum10.business",
-            "clientsnip.com"
-        ],
-        "to_test": [
-            "computerzonedera.xyz",
+            "clientsnip.com",
+            "comunapracs.xyz",
             "comunicado-mkt.com.br",
             "comunidadconsentido.org.mx",
-            "comvault.web-ex.com",
             "comvault.web-ex.com,http:",
-            "con-cob.cf",
+            "con-cob.cf"
+        ],
+        "to_test": [
             "con-cob.ga",
             "con-cob.tk",
             "condition-bn.tk",
