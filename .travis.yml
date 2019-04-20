@@ -1,3 +1,11 @@
+addons:
+    apt:
+        packages:
+        - dos2unix
+        - pandoc
+cache:
+- pip
+dist: xenial
 env:
   global:
     - secure: ZRTFDzp32VkvvA8T2b7kuLZKHyD51WYyYqi6gsGJPePAdkY+aTT02OkLQvIlEu1Ax/RX5qsNo5oibrzILrcrfCWSYDTO9BiSkL0WDyo+OMX9raPTuaM8oFsPNA6+vemcgRoFd59e/UVOdboOX96bvd9yn9RUjwdSQp9o7gqs09RFJV5BLgNP+GnrDIyEISUWOwGYVKw28RJDmKpIEuuP4x0iGQV1lUf830VfcFaPG8WGBr2FeFHnqtkhAG5ERyJ8Pjp4R+9mCZbBHdJh/p//e5Up9pysDVcszV/OAGCX68iRwT3/22bn2uZkeczDkssIksRwZGYZgHWPc4lXvHPg7lvJ6Pw+ovBGLYCarbYq55KyYRhOo4Xb2jOW7Jb6aBp8gwurp0RLerUwXBw+8d6sQJlwqcGAQTjj/bycrJ+yqBSyo0G7E1nmmEkK1C8lfABF61KUhacaM2RRxCayjZd0RnJyWrsV3L9k13lh/Po0PafUeKA04UC0/XpxftguqZRjI2tRZSjclwzzlIJO9cM0B0zQt4TAjy6g3umUu4z1IA0ZFX+wWHVpujZoW5fYgoH3+uAMygJRmpshY+tMXpqLSHVLqgAxJTiS6txTPsMGXHWCwkmg5GX4LnfTwX3mqXxtL2HxU0OpXDsbNqXoQ62+iCb17SQdPO97JIo/x+etsUY=
@@ -7,8 +15,6 @@ env:
     - GIT_BRANCH: master
     - TZ: Africa/Johannesburg
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
-  matrix:
-    - USE_NETWORK=true
 
 language: python
 
@@ -18,17 +24,7 @@ python:
 matrix:
   fast_finish: true
 
-cache:
-  - apt
-  - pip3
-
 sudo: required
-
-addons:
-  apt:
-    packages:
-      - dos2unix
-      - pandoc
 
 install:
   - pip3 install --upgrade pip
