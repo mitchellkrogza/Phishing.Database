@@ -2,7 +2,6 @@ addons:
     apt:
         packages:
         - dos2unix
-        - pandoc
 cache:
 - pip
 dist: xenial
@@ -19,7 +18,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
