@@ -35,5 +35,5 @@ script:
   - bash dev-tools/pulldata.sh && bash dev-tools/generate.sh
 
 notifications:
-  on_success: change
+  on_success: never
   on_failure: always
