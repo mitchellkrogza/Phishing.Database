@@ -2,7 +2,9 @@
 
 # Phishing Domain Database
 
-A Testing Repository for Phishing Domains, Web Sites and Threats.
+A Testing Repository for Phishing Domains, Web Sites and Threats. 
+Below are results of Domains that have been tested to be Active, Inactive or Invalid. 
+These Lists update every few minutes. 
 
 _______________
 #### Version: V0.1.7936
@@ -21,12 +23,14 @@ This is just one of a number of extensive projects dealing with testing the stat
 ************************************************
 ## How do you test?
 
-We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by [Nissar Chababy](https://github.com/funilrys/). Over a year in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list.
+We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by [Nissar Chababy](https://github.com/funilrys/). Over 2 years in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list.
 
 ************************************************
 ## Contributing
 
 If you have a source list of phishing domains why not contribute them to this project for testing? Simply send a PR adding your input source details and we will add the source. 
+
+[<img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/dev-tools/kofi3.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
 
 
 ************************************************
