@@ -3,10 +3,29 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
-echo "Starting PyFunceble"
 input=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
+
+
+RunPartialCommit () {
+# ****************************************
+# Copy last tested files into root of repo
+# ****************************************
+
+cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
+cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
+cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
+
+# *********************************************************
+# Modify Readme File
+# *********************************************************
+
+bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
+
+}
+
+RunPartialCommit
 
 # **********************
 # Run PyFunceble Testing
