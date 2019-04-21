@@ -7,12 +7,15 @@
 # Input and Output File Variables
 # *******************************
 
-inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
+FullList=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
+
 input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
-input2=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
-input3=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
-input4=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog-feed.list
-output=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
+input2=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
+input3=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog-feed.list
+
+input4=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
+
+PyTestList=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 
 # **************
 # Temp Variables
@@ -46,13 +49,13 @@ fetch () {
     cat ${feed1} >> ${input1}
 
     sudo wget -q https://hosts.ubuntu101.co.za/openphish/phishtank-feed.list -O ${feed2}
-    cat ${feed2} >> ${input3}
+    cat ${feed2} >> ${input2}
 
     sudo wget -q https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
-    cat ${feed3} >> ${input4}
+    cat ${feed3} >> ${input3}
 
-    sudo rm ${feed2}
     sudo rm ${feed1}
+    sudo rm ${feed2}
     sudo rm ${feed3}
 }
 
@@ -67,21 +70,20 @@ initiate () {
     grep '[^[:blank:]]' < ${input1} > ${tmp}
     sudo mv ${tmp} ${input1}
 
-    # Prepare Feed 2 / IllegalFawn
+    # Prepare Feed 2 / Phishtank
     sort -u ${input2} -o ${input2}
     grep '[^[:blank:]]' < ${input2} > ${tmp}
     sudo mv ${tmp} ${input2}
 
-    # Prepare Feed 3 / Phishtank
+    # Prepare Feed 3 / Mitchell Krog
     sort -u ${input3} -o ${input3}
     grep '[^[:blank:]]' < ${input3} > ${tmp}
     sudo mv ${tmp} ${input3}
 
-    # Prepare Feed 4 / Mitchell Krog
+    # Prepare Feed 4 / IllegalFawn
     sort -u ${input4} -o ${input4}
     grep '[^[:blank:]]' < ${input4} > ${tmp}
     sudo mv ${tmp} ${input4}
-
 }
 
 # ***************************************
@@ -89,26 +91,27 @@ initiate () {
 # ***************************************
 
 prepare () {
-    cat ${input1} > ${output}
-    cat ${input2} >> ${output}
-    cat ${input3} >> ${output}
-    cat ${input4} >> ${output}
-    cat ${output} > ${inputA}
+    cat ${input1} > ${FullList}
+    cat ${input2} >> ${FullList}
+    cat ${input3} >> ${FullList}
+    cat ${input4} >> ${FullList}
 
-    cut -d'/' -f3 ${output} > ${outputtmp}
+    cut -d'/' -f3 ${FullList} > ${outputtmp}
     sort -u ${outputtmp} -o ${outputtmp}
-    grep '[^[:blank:]]' < ${outputtmp} > ${output}
+    grep '[^[:blank:]]' < ${outputtmp} > ${FullList}
     sudo rm ${outputtmp}
 
     # Get dos2unix version
     dos2unix -V
 
-    domain2idna -f ${output} -o ${output}
-    dos2unix ${output}
+    #sort -u ${FullList} -o ${FullList}
+    domain2idna -f ${FullList} -o ${FullList}
+    dos2unix ${FullList}
+    sudo cp ${FullList} ${PyTestList}
 
-    sort -u ${inputA} -o ${inputA}
-    domain2idna -f ${inputA} -o ${inputA}
-    dos2unix ${inputA}
+    #sort -u ${PyTestList} -o ${PyTestList}
+    #domain2idna -f ${PyTestList} -o ${PyTestList}
+    #dos2unix ${PyTestList}
 }
 
 # ****************************************
