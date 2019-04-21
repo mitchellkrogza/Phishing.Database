@@ -5,7 +5,7 @@
 A Testing Repository for Phishing Domains, Web Sites and Threats.
 
 _______________
-#### Version: V0.1.7933
+#### Version: V0.1.7934
 #### ACTIVE Phishing Domains (Tested): [10296](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt) (100 %)
 #### INACTIVE Phishing Domains (Tested): [26](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt) (0 %)
 #### INVALID Phishing Domains (Tested): [2](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID.txt) (0 %)
