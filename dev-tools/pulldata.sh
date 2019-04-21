@@ -109,9 +109,6 @@ prepare () {
     dos2unix ${FullList}
     sudo cp ${FullList} ${PyTestList}
 
-    #sort -u ${PyTestList} -o ${PyTestList}
-    #domain2idna -f ${PyTestList} -o ${PyTestList}
-    #dos2unix ${PyTestList}
 }
 
 # ****************************************
