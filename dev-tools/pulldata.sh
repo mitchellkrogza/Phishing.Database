@@ -98,8 +98,10 @@ prepare () {
 
     cut -d'/' -f3 ${FullList} > ${outputtmp}
     sort -u ${outputtmp} -o ${outputtmp}
-    grep '[^[:blank:]]' < ${outputtmp} > ${FullList}
+    grep '[^[:blank:]]' < ${outputtmp} > ${tmp}
+    sed "s/,http:/ /g" ${tmp} > ${FullList}
     sudo rm ${outputtmp}
+    sudo rm ${tmp}
 
     # Get dos2unix version
     dos2unix -V
