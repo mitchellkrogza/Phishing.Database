@@ -22,9 +22,9 @@ activesitest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE-in-testing.tx
 inactivesitest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE-in-testing.txt)
 invalidsitest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID-in-testing.txt)
 totalt=$((${activesitest} + ${inactivesitest} + ${invalidsitest}))
-percentactivet=$(awk "BEGIN { pc=100*${activesitest}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
-percentinactivet=$(awk "BEGIN { pc=100*${inactivesitest}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
-percentinvalidt=$(awk "BEGIN { pc=100*${invalidsitest}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+percentactivet=$(awk "BEGIN { pc=100*${activesitest}/${totalt}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+percentinactivet=$(awk "BEGIN { pc=100*${inactivesitest}/${totalt}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+percentinvalidt=$(awk "BEGIN { pc=100*${invalidsitest}/${totalt}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
 
 # **************************************************
 # Write Version and Exploit Count into the README.md
