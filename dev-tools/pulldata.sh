@@ -91,7 +91,7 @@ initiate () {
 # ***************************************
 
 prepare () {
-    cat ${input1} > ${FullList}
+    cat ${input1} >> ${FullList}
     cat ${input2} >> ${FullList}
     cat ${input3} >> ${FullList}
     cat ${input4} >> ${FullList}
