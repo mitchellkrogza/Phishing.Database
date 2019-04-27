@@ -88,3 +88,5 @@ preview.app.makemereach.com:443
 prochanger.pro:443
 qcyoe2tw9n7e.semiramis-asbl.org:8080
 quoinon.com:443
+randomstring.dolcissimo.be:8080
+randomstring.semiramis-asbl.org:8080
