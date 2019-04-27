@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-ALL.list": {
-        "down": 7593,
-        "invalid": 303,
-        "tested": 74859,
-        "up": 66963
+        "down": 7702,
+        "invalid": 304,
+        "tested": 75414,
+        "up": 67408
     }
 }
