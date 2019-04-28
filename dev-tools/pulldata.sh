@@ -13,7 +13,8 @@ input1=${TRAVIS_BUILD_DIR}/input-source/openphish-feed.list
 input2=${TRAVIS_BUILD_DIR}/input-source/phishtank-feed.list
 input3=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog-feed.list
 
-input4=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
+input4=${TRAVIS_BUILD_DIR}/input-source/phishstats-feed.list
+input5=${TRAVIS_BUILD_DIR}/input-source/illegalfawn-feed.list
 
 PyTestList=${TRAVIS_BUILD_DIR}/dev-tools/phishing-domains-ALL.list
 
@@ -25,6 +26,7 @@ outputtmp=${TRAVIS_BUILD_DIR}/phishing.tmp
 feed1=${TRAVIS_BUILD_DIR}/input-source/openphish.list
 feed2=${TRAVIS_BUILD_DIR}/input-source/phishtank.list
 feed3=${TRAVIS_BUILD_DIR}/input-source/mitchellkrog.list
+feed5=${TRAVIS_BUILD_DIR}/input-source/phishstats.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
 # *********************************************
@@ -54,9 +56,13 @@ fetch () {
     sudo wget -q https://hosts.ubuntu101.co.za/openphish/mitchellkrog-feed.list -O ${feed3}
     cat ${feed3} >> ${input3}
 
+    sudo wget -q https://hosts.ubuntu101.co.za/openphish/phishstats-feed.list -O ${feed5}
+    cat ${feed5} >> ${input5}
+
     sudo rm ${feed1}
     sudo rm ${feed2}
     sudo rm ${feed3}
+    sudo rm ${feed5}
 }
 
 # *************************************************
@@ -84,6 +90,11 @@ initiate () {
     sort -u ${input4} -o ${input4}
     grep '[^[:blank:]]' < ${input4} > ${tmp}
     sudo mv ${tmp} ${input4}
+
+    # Prepare Feed 5 / Phishstats
+    sort -u ${input5} -o ${input5}
+    grep '[^[:blank:]]' < ${input5} > ${tmp}
+    sudo mv ${tmp} ${input5}
 }
 
 # ***************************************
@@ -95,11 +106,13 @@ prepare () {
     cat ${input2} >> ${FullList}
     cat ${input3} >> ${FullList}
     cat ${input4} >> ${FullList}
+    cat ${input5} >> ${FullList}
 
     cut -d'/' -f3 ${FullList} > ${outputtmp}
     sort -u ${outputtmp} -o ${outputtmp}
     grep '[^[:blank:]]' < ${outputtmp} > ${tmp}
     sed "s/,http:/ /g" ${tmp} > ${FullList}
+    sort -u ${FullList} -o ${FullList}
     sudo rm ${outputtmp}
     sudo rm ${tmp}
 
