@@ -106,3 +106,4 @@ login.outlook-mail-microsoftonlnecom.help-office-tdapi.dynv6.net:3380
 login.outlook-mail-microsoftonlnecom.help-office-tdfat.dynv6.net:3380
 login59gj.IMPRESAPRODUCTIONS.COM
 lookmodeusa.com:443
+mail.freshegg.net:32000
