@@ -29,3 +29,4 @@ ec2-18-221-68-182.us-east-2.compute.amazonaws.com:85
 edisonweldinginstitute.sharepoint.com:443
 expochange.com:443
 getyourcoins.org:443
+heraeveriliondev.cloudapp.net:8081
