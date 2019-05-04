@@ -27733,14 +27733,11 @@
             "gattehub.com",
             "gattehub.net",
             "gattehub.net,http:",
-            "gattehub.org"
-        ],
-        "to_test": [
-            "AboutHit.com",
-            "cox.com-6159368de39251d7a-login.id-107SbTd9CBhSbTd5d80a13c0db1f546757jnq9j5754675718167279.kylelierman.com",
-            "cox.com-6159368de39251d7a-login.id-107SbTd9CBhSbTd5d80a13c0db1f546757jnq9j5754675719509362.kylelierman.com",
-            "coxadmin.ml",
+            "gattehub.org",
+            "get-5000-ethereum.com",
+            "get-5001-ethereum.com",
             "get-freecrypto.blogspot.com",
+            "getfitphysio.in",
             "getfree-neo.blogspot.com",
             "getfree-neo.blogspot.my",
             "getyourcoins.org:443",
@@ -27765,7 +27762,13 @@
             "ggdomaingg.usa.cc",
             "ggeeth.com",
             "ggkfg23kpqxyijqbyql0.densteam.tk",
-            "ggklk.com",
+            "ggklk.com"
+        ],
+        "to_test": [
+            "AboutHit.com",
+            "cox.com-6159368de39251d7a-login.id-107SbTd9CBhSbTd5d80a13c0db1f546757jnq9j5754675718167279.kylelierman.com",
+            "cox.com-6159368de39251d7a-login.id-107SbTd9CBhSbTd5d80a13c0db1f546757jnq9j5754675719509362.kylelierman.com",
+            "coxadmin.ml",
             "gift.gifts-for-you.online",
             "gifthd.ml",
             "gifthy.ro",
