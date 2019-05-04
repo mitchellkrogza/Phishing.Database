@@ -27131,10 +27131,7 @@
             "besmchange.org.ru",
             "besnchange.net.ru",
             "besochange.net.ru",
-            "bespchange.org.ru"
-        ],
-        "to_test": [
-            "AboutHit.com",
+            "bespchange.org.ru",
             "besplatno-stiks.tk",
             "besrtchange.org.ru",
             "besschange.org.ru",
@@ -27163,7 +27160,6 @@
             "bestchagge.pp.ru",
             "bestchagge.pp.ru,http:",
             "bestchange.be",
-            "bestchangee.xyz",
             "bestchanige.net.ru",
             "bestchanige.org.ru",
             "bestchanpe.net.ru",
@@ -27192,6 +27188,7 @@
             "bestnet.am",
             "bestqchange.net.ru",
             "bestschange.net.ru",
+            "besttalent-academy.com:80",
             "bestychange.net.ru",
             "bestzchange.net.ru",
             "besuchange.net.ru",
@@ -27200,7 +27197,10 @@
             "beta.bcpseguridad.com",
             "beta.seguridadarturito.com",
             "betabcpzonasegura.com",
-            "betazonaseguras.com",
+            "betazonaseguras.com"
+        ],
+        "to_test": [
+            "AboutHit.com",
             "bettchange.net.ru",
             "bettchange.org.ru",
             "bettchange.pp.ru",
