@@ -27000,10 +27000,7 @@
             "appleid.webscr.user-validate.websession.appleid-userservices.com",
             "appleiosidipad.com",
             "applesecure.studentofthegun.com",
-            "appleuserserviceid.gq"
-        ],
-        "to_test": [
-            "AboutHit.com",
+            "appleuserserviceid.gq",
             "apps09743.hol.es",
             "apps13442.pe.hu",
             "appsidstore-verif1.sytes.net",
@@ -27012,7 +27009,10 @@
             "aprilbounty.blogspot.com",
             "arbeitinderschule.de",
             "archwood.gq",
-            "arianagrandefan.altervista.org",
+            "arianagrandefan.altervista.org"
+        ],
+        "to_test": [
+            "AboutHit.com",
             "artura3r.beget.tech",
             "arturito.promocuentapremio.com",
             "arturito.snspe.com",
