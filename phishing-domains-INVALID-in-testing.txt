@@ -42,3 +42,5 @@ arset=utf-8%3Bbase64%2CPGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93O
 asd.dolcissimo.be:8080
 asd.lescarles.com:8080
 asd.semiramis-asbl.org:8080
+banking24online.com:443
+banks24online.com:443
