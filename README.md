@@ -7,16 +7,16 @@ Below are results of Domains that have been tested to be Active, Inactive or Inv
 These Lists update every few minutes. 
 
 _______________
-#### Version: V0.1.9683
+#### Version: V0.1.9684
 #### ACTIVE Phishing Domains (Tested): [135457](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt) (95 %)
 #### INACTIVE Phishing Domains (Tested): [7328](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt) (5 %)
 #### INVALID Phishing Domains (Tested): [371](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID.txt) (0 %)
 *****************************
 #### Total Phishing URL's Captured: [145903](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds.list) :exclamation: Large File
 *****************************
-#### ACTIVE Phishing Domains (Current Tests): [12197](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE-in-testing.txt) (80 %)
-#### INACTIVE Phishing Domains (Current Tests): [3021](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE-in-testing.txt) (20 %)
-#### INVALID Phishing Domains (Current Tests): [46](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID-in-testing.txt) (0 %)
+#### ACTIVE Phishing Domains (Current Tests): [12621](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE-in-testing.txt) (80 %)
+#### INACTIVE Phishing Domains (Current Tests): [3172](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE-in-testing.txt) (20 %)
+#### INVALID Phishing Domains (Current Tests): [50](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INVALID-in-testing.txt) (0 %)
 ____________________
 
 
