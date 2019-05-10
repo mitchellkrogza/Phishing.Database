@@ -26415,10 +26415,7 @@
             "account.paxfulsecurity.online",
             "account.update.bank.service.paypal.com.delawareairsoft.com",
             "accountalertverification.tk",
-            "accountbankofamerica.ml"
-        ],
-        "to_test": [
-            "AboutHit.com",
+            "accountbankofamerica.ml",
             "accounts.drgeorge.com.mx",
             "accounts.goiiogle.org",
             "accounts.gooeogie.com",
@@ -26432,6 +26429,7 @@
             "acesso.conectaaqui.com",
             "acesso.interblack.site",
             "acesso.matrizpt.xyz",
+            "acessobr-mobile-cc.umbler.net",
             "acessocaixa-gov.cf",
             "aclandtanore.gov.bd",
             "acme-challenge.cf",
@@ -26458,7 +26456,10 @@
             "active-recovered-notify-support-ads-info.ml",
             "active-recovered-notify-support-info-advert.ga",
             "active-recovered-notify-support-info-advert.ml",
-            "active-recovered-notify-support-info-advert.tk",
+            "active-recovered-notify-support-info-advert.tk"
+        ],
+        "to_test": [
+            "AboutHit.com",
             "activity-youraccountsignin.gq",
             "activity.limitedsses-confirmsser.chyinthamhonyet.info",
             "actualizacioncmr-enlinea.com",
