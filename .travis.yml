@@ -29,6 +29,7 @@ install:
   - pip3 install --upgrade pip
   - pip3 install domain2idna
   - pip3 install PyFunceble-dev
+  - pip3 install ultimate-hosts-blacklist-whitelist
 
 script:
   # We put both in same statement so that if one fails the whole test result will fail.
