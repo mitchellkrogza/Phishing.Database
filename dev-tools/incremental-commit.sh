@@ -13,6 +13,12 @@ cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INACTIVE/list | grep -v "^$" | 
 cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID-in-testing.txt
 
 # *********************************************************
+# Clean with whitelist
+# *********************************************************
+
+cd ${TRAVIS_BUILD_DIR} && bash dev-tools/whitelist.sh
+
+# *********************************************************
 # Modify Readme File
 # *********************************************************
 
