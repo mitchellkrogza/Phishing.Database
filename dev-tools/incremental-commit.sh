@@ -16,7 +16,7 @@ cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | g
 # Clean with whitelist
 # *********************************************************
 
-cd ${TRAVIS_BUILD_DIR} && bash dev-tools/whitelist.sh
+bash ${TRAVIS_BUILD_DIR}/dev-tools/whitelist.sh
 
 # *********************************************************
 # Modify Readme File
