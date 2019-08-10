@@ -1,0 +1,178 @@
+{
+    "output/": {
+        "": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complemets/",
+                "sha512": "d955c17a0dd0976dd812bdc76d8ae2b0def2fd5541e4832a4ac6813ed51f1485d7cf9adeea902a440c1c5efc4bbccdbee7702e2be8019ad95520fa3fcaadfb92"
+            }
+        },
+        "Analytic/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/POTENTIALLY_ACTIVE/@@@!/POTENTIALLY_INACTIVE/@@@!/SUSPICIOUS/",
+                "sha512": "a790efcfa86e41b9d1c9cfacc2af49f44cfadb401a755bde4630edb8f577b1aee28b28578bcd46d4a28ac2abe3736e4ce8f75328ee29346ef7d37502458b1eff"
+            }
+        },
+        "Analytic/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "Analytic/POTENTIALLY_ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "Analytic/POTENTIALLY_INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "Analytic/SUSPICIOUS/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "complements/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
+            }
+        },
+        "complements/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "complements/INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "complements/INVALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "complements/VALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "domains/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
+            }
+        },
+        "domains/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "domains/INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "domains/INVALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "domains/VALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "hosts/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
+            }
+        },
+        "hosts/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "hosts/INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "hosts/INVALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "hosts/VALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
+                "sha512": "7204dc4062a3e1df2c99dd671e10cb24bc07a897c496e56deeb8e40d1693ccd9a1da4aec302c8f6647dd1bab5750a1473c9eda1ff1898a4253eee67efb1be315"
+            }
+        },
+        "json/ACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/INACTIVE/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/INVALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "json/VALID/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "logs/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore@@@!/date_format/@@@!/no_referer/@@@!/percentage/@@@!/whois/",
+                "sha512": "83f76a1d8feaa294f19dfd5ceb8301c676a7168961c5298ede5b093eefaf5134952ce326c1c32031f2f936f70af5fc0103c2d01b111de78d09f6ba2d97247e3f"
+            }
+        },
+        "logs/percentage/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        },
+        "splited/": {
+            ".gitignore": {
+                "content": "*@@@!.gitignore",
+                "sha512": "68fbcbebe57013e70f798ec673d6c554cf0b118f41a56baf92d53686f8d24fda670ed6dda23c6cbab630dfaf8cbf6d6a52a6815ac3680b24dad99b1305de6279"
+            }
+        }
+    }
+}

@@ -1,0 +1,259 @@
+# Enable / disable the adblock format decoding.
+adblock: False
+# Enable / disable the auto continue system.
+auto_continue: True
+# Set the command to run before each commit (except the final one).
+command: ""
+# Set the command to run before the final commit.
+command_before_end: ""
+# Set the custom IP to use when we generate a line in the hosts file format.
+custom_ip: "0.0.0.0"
+# Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
+days_between_db_retest: 1
+# Set the db type to use.
+db_type: json
+# Enable / disable the generation of debug file(s).
+debug: False
+# Set the DNS server to use. If None is given we use the one given by the OS.
+# Note:
+#   The following format is expected if you want to give custom dns server.
+#
+#       dns_server:
+#         - "1.1.1.1" # First DNS server.
+#         - "1.0.0.1" # Second DNS server.
+dns_server: null
+# Set the element to filter.
+filter: ""
+# Enable / disable the generation of complements.
+generate_complements: False
+# Enable / disable the generation of the hosts file(s).
+generate_hosts: True
+# Enable / Disable the generation of a JSON format for the output
+generate_json: False
+# Say to the system if the header has been already printed or not.
+header_printed: False
+# Tell to the system to use the historical sorting instead of the alphabetical sorting.
+hierarchical_sorting: False
+# Set the server to call to get the whois referer of a given element.
+iana_whois_server: whois.iana.org
+# Tell to the system to convert all domain to IDNA if possible.
+idna_conversion: False
+# Enable / Disable the usage of a database to store the INACTIVE and INVALID domain to retest overtime.
+inactive_database: True
+# Enable / Disable the output of every information of screen.
+less: True
+# Enable / Disable the test in local network.
+local: False
+# Enable / Disable the output of every logs.
+logs: True
+# Set the maximal number of simultaneous processes to run.
+maximal_processes: 25
+# Enable / Disable the URL/domain mining.
+mining: False
+# Enable / Disable the usage of multiple processes.
+multiprocess: False
+# Enable / Disable the generation of any file(s).
+no_files: False
+# Enable / Disable the usage of the SPECIAL rule(s).
+no_special: False
+# Enable / Disable the usage of whois in the tests.
+no_whois: False
+# Enable / Disable the generation of the plain list of element sorted by statuses.
+plain_list_domain: False
+# Enable / Disable the generation of output on screen.
+quiet: False
+# Set the timeout to apply to every HTTP status code requests.
+seconds_before_http_timeout: 3
+# Enable / disable the logs sharing.
+share_logs: False
+# Enable / disable the output of the execution time.
+show_execution_time: False
+# Enable / disable the output of the percentage of each statuses.
+show_percentage: True
+# Enable / disable the simple output mode.
+simple: False
+# Enable / disable the split of the results files.
+split: True
+# Enable / disable the syntax checking mode.
+# In this mode we do not check for the availability. It's just syntax check.
+syntax: False
+# Enable / disable the Travis CI autosave system.
+travis: False
+# Set the default commit message we have to use when have to save but we did not finished the test.
+travis_autosave_commit: "PyFunceble - AutoSave"
+# Set the default final commit message we have to usve when have to save and we finished the test.
+travis_autosave_final_commit: "PyFunceble - Results"
+# Set the minimum of minutes we have to run before to automatically save our test results.
+travis_autosave_minutes: 15
+# Set the git branch where we are going to push our results.
+travis_branch: master
+# Activate/Deactivate the generation of unified files for the results logs.
+unified: False
+# Set the default user agent use when requesting the HTTP code.
+user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+# Enable / disable the verification of the certificate when testing for URL.
+verify_ssl_certificate: False
+# Enable / disable the usage of a database to store the hash of the whois record
+whois_database: True
+
+outputs:
+  default_files:
+    dir_structure: dir_structure.json
+    iana: iana-domains-db.json
+    inactive_db: inactive_db.json
+    results: results.txt
+    public_suffix: public-suffix.json
+    mining: mining.json
+    whois_db: whois_db.json
+    sqlite: pyfunceble.db
+
+  db_type:
+    directory: db_types
+    files:
+      sqlite: sqlite.sql
+      mariadb: mariadb.sql
+      mysql: mysql.sql
+
+  domains:
+    directory: domains
+    filename: list
+
+  hosts:
+    directory: hosts
+    filename: hosts
+    ip_filename: ips
+
+  json:
+    directory: json
+    filename: dump.json
+
+  analytic:
+    directories:
+      parent: Analytic
+      potentially_down: POTENTIALLY_INACTIVE
+      potentially_up: POTENTIALLY_ACTIVE
+      up: ACTIVE
+      suspicious: SUSPICIOUS
+    filenames:
+      potentially_down: down_or_potentially_down
+      potentially_up: potentially_up
+      up: active_and_merged_in_results
+      suspicious: suspicious_and_merged_in_results
+
+  complements:
+    directory: complements
+
+  logs:
+    directories:
+      parent: logs
+      percentage: percentage
+    filenames:
+      auto_continue: continue.json
+      execution_time: execution_time.json
+      percentage: percentage.txt
+      whois: whois.json
+      date_format: date_format.json
+      no_referer: no_referer.json
+
+  # This is the main directory which we call output/ in all our communication.
+  parent_directory: output/
+
+  splited:
+    directory: splited
+
+status:
+  list:
+    valid:
+      - valid
+      - syntax_valid
+      - valid_syntax
+    up:
+      - up
+      - active
+    generic:
+      - generic
+    http_active:
+      - http_active
+    down:
+      - down
+      - inactive
+      - error
+    invalid:
+      - ouch
+      - invalid
+    potentially_down:
+      - potentially_down
+      - potentially_inactive
+    potentially_up:
+      - potentially_up
+      - potentially_active
+    suspicious:
+      - strange
+      - suspicious
+      - hum
+  official:
+    up: ACTIVE
+    down: INACTIVE
+    invalid: INVALID
+    valid: VALID
+
+http_codes:
+  active: True
+  list:
+    up:
+      - 100
+      - 101
+      - 200
+      - 201
+      - 202
+      - 203
+      - 204
+      - 205
+      - 206
+    potentially_down:
+      - 400
+      - 402
+      - 403
+      - 404
+      - 409
+      - 410
+      - 412
+      - 414
+      - 415
+      - 416
+    potentially_up:
+      - 000
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 307
+      - 403
+      - 405
+      - 406
+      - 407
+      - 408
+      - 411
+      - 413
+      - 417
+      - 500
+      - 501
+      - 502
+      - 503
+      - 504
+      - 505
+
+links:
+  api_date_format: "https://pyfunceble.funilrys.com/api/date-format"
+  api_no_referer: "https://pyfunceble.funilrys.com/api/no-referer"
+  config: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
+  dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
+  iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
+  mariadb: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mariadb.sql"
+  mysql: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mysql.sql"
+  psl: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json"
+  repo: "https://github.com/funilrys/PyFunceble"
+  requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
+  sqlite: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/sqlite.sql"
