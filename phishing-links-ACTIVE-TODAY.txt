@@ -11,11 +11,11 @@ http://140.82.27.13/bfa/verification/89041BA58NEEM6D9D614/card.php?cmd=_account-
 http://140.82.27.13/bfa/verification/89041BA58NEEM6D9D614/id.php?cmd=_account-details&session=02ab2ba20ccbfb4b21fec5b93872bac3&dispatch=b0d4d9b772c79e048a9b4b4a336ce5d6d4cf0abc
 http://140.82.27.13/bfa/verification/89041BA58NEEM6D9D614/index.php?country.x=-&lang.x=en
 http://140.82.27.13/bfa/verification/89041BA58NEEM6D9D614/qes.php?cmd=_account-details&session=85e6d6f4b455b09b129b115b16080faa&dispatch=96060ee8eea8f9fad1af8ffec25f85813d7bfc3c
-http://167.99.11.245/apple/ro/?ID=login&amp;Key=09bbb28bf414e5f4fd0cc3125305869e&amp;login=&amp;path=/signin/?referrer=
 http://167.99.11.245/apple/ro/?ID=login&amp;Key=09bbb28bf414e5f4fd0cc3125305869e&amp;login&amp;path=/signin/?referrer
-http://167.99.11.245/apple/ro/?ID=login&amp;Key=65bb14e415398df04c0f1812f76c52e5&amp;login&amp;path=/signin/?referrer
-http://167.99.11.245/apple/ro/?ID=login&amp;Key=65bb14e415398df04c0f1812f76c52e5&amp;login&amp;path=/signin/?referrer=
+http://167.99.11.245/apple/ro/?ID=login&amp;Key=09bbb28bf414e5f4fd0cc3125305869e&amp;login=&amp;path=/signin/?referrer=
 http://167.99.11.245/apple/ro/?ID=login&amp;Key=65bb14e415398df04c0f1812f76c52e5&amp;login=&amp;path=/signin/?referrer=
+http://167.99.11.245/apple/ro/?ID=login&amp;Key=65bb14e415398df04c0f1812f76c52e5&amp;login&amp;path=/signin/?referrer=
+http://167.99.11.245/apple/ro/?ID=login&amp;Key=65bb14e415398df04c0f1812f76c52e5&amp;login&amp;path=/signin/?referrer
 http://31.220.40.88/izimern/crrypt/crypt/index.php?email={{email}}
 http://38-ho.com/bbs/login.php
 http://697343de.000webhostapp.com
@@ -52,6 +52,7 @@ http://carlopvt.000webhostapp.com/wet-file-download/wet-file-download/index.php
 http://congdonghoaky.com/wordpress/form
 http://congdonghoaky.com/wordpress/form/signn.php?x.country=en_GB&pp_authID=jxZUJHOMKgUVotJmLXUXzoGNgufkhF
 http://cursos.o2digital.com/wp/descriptionge.html
+http://dtfopro.com/wp-content/uploads/2019/06/sv/Mail-update/index.php?email=
 http://economicproject.org/neaterm.html
 http://email.conclusivefinancial.co.uk/c/eJwVzk1uwyAQQOHT2Es0wxgYFizSNF72DsBAjerYkX9y_rjSk972k1CwGqf7FjSgB0YCC2iMQgX6frfuNprv8cHM1A2Q1yXP597epbYlLrnFWeVVnX_9FEz1MOhICYgFinWVc7JmEK8lauB-DtNxvPaObp0erySqX7n-9dh-OhqtkE-Joi_OI2W0Auh40EmEGKvvt7CfWy3b_ppjLpdmWo9nbP-C5wff5jpi
 http://entivastudio.pl/wp-content/themes/twentyfourteen/bia/7c9bc7a/6dc926f3.php/cmd-login=7cfc127418ae28a8d42f974ecd2951d5/eo0asouyuvm9wbz4yuqsrspq.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=dedwards@mcclabel.com&loginpage=&.rand=13InboxLight.aspx?n=1774256418&fid=4
@@ -155,9 +156,6 @@ https://apple.com.id-me.us/?c2n0xpxywdbMdBjHw0hqaHNdw3=
 https://apple.com.id-me.us/?ezjywMYlBu0jBRcxsedu=
 https://apple.com.resolve-centre.services/?c23My3B3cmxmYypRBz30xydcHMRyJHNwjl
 https://apple.com.resolve-centre.services/?c2xbdbq3yJqnBcyxNhzHmaqwnRFMNJym=
-http://sarei.id/wp-content/uploads/2018/12/wp-admin/resend/login.php
-http://sarei.id/wp-content/uploads/2018/12/wp-admin/resend/login.php?cmd=login_submit&amp;id=43445d465f89e2bab43e646d1c46bf5d43445d465f89e2bab43e646d1c46bf5d&amp;session=43445d465f89e2bab43e646d1c46bf5d43445d465f89e2bab43e646d1c46bf5d
-http://sarei.id/wp-content/uploads/2018/12/wp-admin/resend/login.php?cmd=login_submit&amp;id=ee4d6e10f952ea0f97db94443bbad875ee4d6e10f952ea0f97db94443bbad875&amp;session=ee4d6e10f952ea0f97db94443bbad875ee4d6e10f952ea0f97db94443bbad875
 https://auhospitality.net
 https://auhospitality.org
 https://auth-acnu.tk/index.php/16737e/en/season.php?country.x=c574640c29dcb762854a610dbd1f6c16c574640c29dcb762854a610dbd1f6c16
@@ -189,7 +187,6 @@ https://dhilloncraneservice.com/.well-known/bankofamerica.com/login.php?cmd=logi
 https://dhilloncraneservice.com/.well-known/bankofamerica.com/login.php?cmd=login_submit&amp;id=9a36fe62259735d789ed6f2c697a0e479a36fe62259735d789ed6f2c697a0e47&amp;session=9a36fe62259735d789ed6f2c697a0e479a36fe62259735d789ed6f2c697a0e47
 https://dhilloncraneservice.com/.well-known/bankofamerica.com/login.php?cmd=login_submit&amp;id=a6654a3baf7c0e0dfd3d5219b39dcddaa6654a3baf7c0e0dfd3d5219b39dcdda&amp;session=a6654a3baf7c0e0dfd3d5219b39dcddaa6654a3baf7c0e0dfd3d5219b39dcdda
 https://dkclaw-my.sharepoint.com/:b:/p/doug/EQpCYMPxolRMkgVX1EKxMj4B11bcGk8Y_mdQ5XgMi4OrEg?e=tpCfCa
-https://docs-apple.com/?c2nyaxb0c3nqmxnjcmlwdhnzaj
 https://ebay-payment6011.webcindario.com
 https://ecocalle.org/wp-includes/css/emoji
 https://ecocalle.org/wp-includes/css/emoji/access.php
@@ -220,6 +217,7 @@ https://jfoodsonline.com.cp-in-18.webhostbox.net/in%20de%20x%20989089%2098980%20
 https://jfoodsonline.com.cp-in-18.webhostbox.net/in%20de%20x%20989089%2098980%20908/i%20mailings/48eb0648cc132ee/error/Home.php?cmd%3D_update%26dispatch%3D8185b17166c20aade%26locale%3Den_US
 https://jfoodsonline.com.cp-in-18.webhostbox.net/in%20de%20x%20989089%2098980%20908/i%20mailings/48eb0648cc132ee/error/code2.php
 https://jfoodsonline.com.cp-in-18.webhostbox.net/in%20de%20x%20989089%2098980%20908/i%20mailings/48eb0648cc132ee/error/code.php
+https://jobarba.com/wp-content/plugins/home
 https://keratogenous-slits.000webhostapp.com/YahoomassStoreClean/New%20YahoomassStore/enter_password.php
 https://keratogenous-slits.000webhostapp.com/YahoomassStoreClean/New%20YahoomassStore/index.php
 https://konfecfashion.com.br/Document
@@ -309,16 +307,14 @@ https://uoo.lk/index.php/iYrBF?REDACTED
 http://superstoregeek.co.kr/new/inc/index.php
 https://usd24.ro/wp-admin/includes/dropox/db/a
 https://weekendchef.xyz/index/readme.htm
+https://wl.bola.site/Service
 https://www.account.supportpaypal.sign.in.publicitemsa.com/signin
 https://www.apple.com.id-me.us/?c2n0xpxywdbMdBjHw0hqaHNdw3=
 https://www.apple.com.iuszfa.cn/mim/5d9044t573nd51ib337sya6tnf31yt0n1470b4wl9vk365p225.html
 https://www.apple.com.iuszfa.cn/mim/vz24492b3e60g45hwv8030v6ms233627888v1a1328i95g10if.html
 https://www.apple.com.resolve-centre.services/?c23My3B3cmxmYypRBz30xydcHMRyJHNwjl
 https://www.arcea.es/arclockej/error/PPL-03265-965875-9653326-9658745-965874321-965874532/Payp/?country.x=US&locale.x=en_US%3E&client=e37e10be59eb33cd52214b5f732e2bb0
-https://www.auth-acnu.cf/index.php/ba5b2c/en/season.php?country.x=d8d47f8b5cb01b1e3917f8160fff42f3d8d47f8b5cb01b1e3917f8160fff42f3
 https://www.auth-acnu.cf/index.php/e1811a/en/season.php?country.x=593db4b8dd6ef685ac1416dd8270caea593db4b8dd6ef685ac1416dd8270caea
-https://www.auth-acnu.ml/index.php/83f6a2/en/season.php?country.x=07cccd5175520ac79b7939ee06ed304707cccd5175520ac79b7939ee06ed3047
-https://www.auth-ucun.tk/index.php/20236d/en/season.php?country.x=717dfb4935e517900b25612584caacf1717dfb4935e517900b25612584caacf1
 https://www.blogfemmesexy.com/ds/sa
 https://www.budokrusz.pl/uploads/update
 https://www.icloud.iphone.asmyxr.cn/mim/5d9044t573nd51ib337sya6tnf31yt0n1470b4wl9vk365p225.html
@@ -338,7 +334,6 @@ https://www.sulamalisjakarta.id/wp-admin/css/colors/light/~/.newfile%20/Sunt/fil
 https://www.sulamalisjakarta.id/wp-admin/css/colors/light/~/.newfile%20/Sunt/files/SunTrust.html?cmd=login_submit&id=1c0e7aeb4fb969e44660c4d132614bbe1c0e7aeb4fb969e44660c4d132614bbe&session=1c0e7aeb4fb969e44660c4d132614bbe1c0e7aeb4fb969e44660c4d132614bbe
 https://www.sulamalisjakarta.id/wp-admin/css/colors/light/~/.newfile%20/Sunt/files/update.html?sf58gfd1s689sxd2sdf8angf264s9df23sd2f1n495K3L2C151645172991f1477dbd26917ef3822423f62e984a91f1477dbd26917ef3822423f62e984a91f1477dbd
 https://zmbbb.azurewebsites.net/zmbbb
-http://tds.midmnmarketing.com/wp-includes/js/tinymce/utils/secure/id/api
 http://tesla-promo.club/btc
 http://tesla-promo.club/eth
 http://test.bcitech.com/profiles/minimal/780124435960781206685369172031169852364079820/reply
@@ -352,9 +347,9 @@ http://verif.paypadeutsche.com.drlkm.info
 http://verif.paypadeutsche.com.drlkm.info/7293229475595015/Confirmation.php
 http://verif.paypadeutsche.com.drlkm.info/9232585628477164/Login.php
 http://virutchamtrust.org/gu/index.php
-http://walletsantanderbanco.com/particulares/home/Phone_Number
-http://walletsantanderbanco.com/particulares/home/firma_electronica
-http://walletsantanderbanco.com/particulares/home/sms_codigo
+http://walletsantanderbanco.com/particulares/home/Mi_cuenta
+http://walletsantanderbanco.com/particulares/home/codigo_incorrecta
+http://walletsantanderbanco.com/particulares/home/particulares
 http://web.aditya.ac.in/lq/%3f34b43d04e135fa55d1720e181cc4b48e
 http://web.aditya.ac.in/lq/%3f440a31d372c7bb446bdf1c54b1b8e47a
 http://web.aditya.ac.in/lq/%3fb0076c7ebde0b54b08622ab8cff0e146
