@@ -224,9 +224,12 @@
         "act.edu.au",
         "asn.au",
         "blogspot.com.au",
+        "catholic.edu.au",
         "com.au",
         "conf.au",
         "edu.au",
+        "education.tas.edu.au",
+        "eq.edu.au",
         "gov.au",
         "id.au",
         "info.au",
@@ -243,6 +246,7 @@
         "sa.au",
         "sa.edu.au",
         "sa.gov.au",
+        "schools.nsw.edu.au",
         "tas.au",
         "tas.edu.au",
         "tas.gov.au",
@@ -1126,6 +1130,7 @@
         "publishproxy.com",
         "qa2.com",
         "qc.com",
+        "qualifioapp.com",
         "quicksytes.com",
         "quipelements.com",
         "rackmaze.com",
@@ -1208,6 +1213,7 @@
         "servepics.com",
         "servequake.com",
         "servesarcasm.com",
+        "shopitsite.com",
         "simple-url.com",
         "sinaapp.com",
         "space-to-rent.com",
@@ -1218,6 +1224,7 @@
         "theworkpc.com",
         "thingdustdata.com",
         "townnews-staging.com",
+        "trycloudflare.com",
         "u2-local.xnbay.com",
         "u2.xnbay.com",
         "uk.com",
@@ -1380,9 +1387,11 @@
         "bss.design"
     ],
     "dev": [
+        "iserv.dev",
         "lcl.dev",
         "loginline.dev",
         "stg.dev",
+        "webhare.dev",
         "workers.dev"
     ],
     "digital": [
@@ -1444,6 +1453,7 @@
         "med.ec",
         "mil.ec",
         "net.ec",
+        "nym.ec",
         "org.ec",
         "pro.ec"
     ],
@@ -1695,6 +1705,7 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
+        "nym.hk",
         "org.hk",
         "xn--55qx5d.hk",
         "xn--ciqpn.hk",
@@ -4016,6 +4027,7 @@
         "uruma.okinawa.jp",
         "uryu.hokkaido.jp",
         "usa.oita.jp",
+        "user.aseinet.ne.jp",
         "usercontent.jp",
         "ushiku.ibaraki.jp",
         "usui.fukuoka.jp",
@@ -4948,8 +4960,6 @@
         "norfolk.museum",
         "north.museum",
         "nrw.museum",
-        "nuernberg.museum",
-        "nuremberg.museum",
         "nyc.museum",
         "nyny.museum",
         "oceanographic.museum",
@@ -5332,6 +5342,7 @@
         "soc.srcf.net",
         "square7.net",
         "static-access.net",
+        "storage.yandexcloud.net",
         "sytes.net",
         "t3l3p0rt.net",
         "thruhere.net",
@@ -5341,6 +5352,8 @@
         "user.srcf.net",
         "vpndns.net",
         "webhop.net",
+        "website.yandexcloud.net",
+        "yandexcloud.net",
         "za.net"
     ],
     "network": [
@@ -5366,6 +5379,7 @@
         "col.ng",
         "com.ng",
         "edu.ng",
+        "firm.ng",
         "gen.ng",
         "gov.ng",
         "i.ng",
@@ -6357,6 +6371,7 @@
         "poivron.org",
         "potager.org",
         "pt.eu.org",
+        "pubtls.org",
         "q-a.eu.org",
         "read-books.org",
         "readmyblog.org",
@@ -6867,6 +6882,7 @@
     ],
     "run": [
         "development.run",
+        "hs.run",
         "ravendb.run",
         "repl.run"
     ],
@@ -6905,6 +6921,9 @@
         "gov.sc",
         "net.sc",
         "org.sc"
+    ],
+    "school": [
+        "ng.school"
     ],
     "science": [
         "ybo.science"
@@ -6998,6 +7017,7 @@
         "byen.site",
         "cloudera.site",
         "cyon.site",
+        "lelux.site",
         "loginline.site",
         "platformsh.site"
     ],
@@ -7688,8 +7708,10 @@
     ],
     "vc": [
         "com.vc",
+        "d.gv.vc",
         "edu.vc",
         "gov.vc",
+        "gv.vc",
         "mil.vc",
         "net.vc",
         "nom.vc",
@@ -7807,6 +7829,7 @@
         "mil.za",
         "net.za",
         "ngo.za",
+        "nic.za",
         "nis.za",
         "nom.za",
         "org.za",
@@ -7829,6 +7852,7 @@
     ],
     "zone": [
         "cloud66.zone",
+        "hs.zone",
         "lima.zone",
         "triton.zone"
     ],
