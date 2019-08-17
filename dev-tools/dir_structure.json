@@ -3,7 +3,7 @@
         "": {
             ".gitignore": {
                 "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complements/",
-                "sha512": "243d7ff904a52e6ec1e59d4e569bbe506f878f72202eefc066fd2275ddb7a59075c324f62b8f0d1d3013249cc945be88b2896858e37098ff9910c48c56cfdad2"
+                "sha512": "66daa5dc6007742a7fa52874ef244592a678b5131a4018a924908987d1641a858a8766d370433f33d53b29cc7372bf2bcf9ff9691c51fe115690ab44a3389f8f"
             }
         },
         "Analytic/": {
