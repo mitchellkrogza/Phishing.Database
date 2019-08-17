@@ -171,8 +171,8 @@ CREATE TABLE IF NOT EXISTS pyfunceble_tested (
 
 DROP TRIGGER IF EXISTS updatePyFuncebleTestedsDates;
 DELIMITER ///
-CREATE TRIGGER updatePyFuncebleWhoisDates
-    BEFORE UPDATE ON pyfunceble_whois FOR EACH ROW
+CREATE TRIGGER updatePyFuncebleTestedsDates
+    BEFORE UPDATE ON pyfunceble_tested FOR EACH ROW
 BEGIN
     IF NEW.modified <= OLD.modified THEN
         SET NEW.modified = CURRENT_TIMESTAMP;
