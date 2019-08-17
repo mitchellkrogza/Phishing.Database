@@ -143,3 +143,34 @@ BEGIN
 END ///
 DELIMITER ;
 
+CREATE TABLE IF NOT EXISTS pyfunceble_tested (
+    id BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+    digest VARCHAR(64) NOT NULL,
+    tested LONGTEXT NOT NULL,
+    file_path LONGTEXT DEFAULT NULL,
+    _status LONGTEXT DEFAULT NULL,
+    status LONGTEXT DEFAULT NULL,
+    _status_source LONGTEXT DEFAULT NULL,
+    status_source LONGTEXT DEFAULT NULL,
+    domain_syntax_validation TINYINT(1) DEFAULT NULL,
+    expiration_date VARCHAR(12) DEFAULT NULL,
+    http_status_code INT(4) DEFAULT NULL,
+    ipv4_range_syntax_validation TINYINT(1) DEFAULT NULL,
+    ipv4_syntax_validation TINYINT(1) DEFAULT NULL,
+    subdomain_syntax_validation TINYINT(1) DEFAULT NULL,
+    url_syntax_validation TINYINT(1) DEFAULT NULL,
+    whois_server LONGTEXT DEFAULT NULL,
+    created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    modified TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE(digest)
+);
+
+DELIMITER ///
+CREATE TRIGGER IF NOT EXISTS updatePyFuncebleTestedDates
+    BEFORE UPDATE ON pyfunceble_tested FOR EACH ROW
+BEGIN
+    IF NEW.modified <= OLD.modified THEN
+        SET NEW.modified = CURRENT_TIMESTAMP;
+    END IF;
+END ///
+DELIMITER ;

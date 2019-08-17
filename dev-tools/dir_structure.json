@@ -2,8 +2,8 @@
     "output/": {
         "": {
             ".gitignore": {
-                "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complemets/",
-                "sha512": "d955c17a0dd0976dd812bdc76d8ae2b0def2fd5541e4832a4ac6813ed51f1485d7cf9adeea902a440c1c5efc4bbccdbee7702e2be8019ad95520fa3fcaadfb92"
+                "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complements/",
+                "sha512": "243d7ff904a52e6ec1e59d4e569bbe506f878f72202eefc066fd2275ddb7a59075c324f62b8f0d1d3013249cc945be88b2896858e37098ff9910c48c56cfdad2"
             }
         },
         "Analytic/": {
