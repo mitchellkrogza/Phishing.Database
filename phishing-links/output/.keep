@@ -17,4 +17,4 @@
 # We don't ignore the json directory
 !/json/
 # We don't ignore the complemets directory
-!/complemets/
+!/complements/
