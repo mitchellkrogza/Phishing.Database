@@ -3,8 +3,8 @@
 # Phishing Domain Database <a href='https://twitter.com/PhishFindR'><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/twitter-35.png"/><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/spacer.jpg"/><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/spacer.jpg"/><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindr'></a>
 
 _______________
-#### Version: 13420 (2019-09-04 01:12:18 SAST)
-| :boom: Latest Threats<br/>@ 01:12:18 | :boom: Active Threats<br/>Wednesday 2019-09-04 | Total Links<br/>Discovered Today |
+#### Version: 13421 (2019-09-04 02:12:12 SAST)
+| :boom: Latest Threats<br/>@ 02:12:12 | :boom: Active Threats<br/>Wednesday 2019-09-04 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [15](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [147](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [13](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
