@@ -1,4 +1,4 @@
--- -- The tool to check the availability or syntax of domains, IPv4 or URL.
+-- -- The tool to check the availability or syntax of domains, IPv4, IPv6 or URL.
 -- --
 -- ::
 --
@@ -174,3 +174,9 @@ BEGIN
     END IF;
 END ///
 DELIMITER ;
+
+
+---------- PATCHES -------------
+
+ALTER TABLE pyfunceble_tested ADD COLUMN IF NOT EXISTS ipv6_syntax_validation TINYINT(1) NULL AFTER ipv4_syntax_validation;
+ALTER TABLE pyfunceble_tested ADD COLUMN IF NOT EXISTS ipv6_range_syntax_validation TINYINT(1) NULL AFTER ipv6_syntax_validation;

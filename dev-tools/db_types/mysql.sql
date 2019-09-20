@@ -1,4 +1,4 @@
--- -- The tool to check the availability or syntax of domains, IPv4 or URL.
+-- -- The tool to check the availability or syntax of domains, IPv4, IPv6 or URL.
 -- --
 -- ::
 --
@@ -180,3 +180,61 @@ BEGIN
 END ///
 DELIMITER ;
 
+---------- PATCHES -------------
+---- Thanks to https://dba.stackexchange.com/a/199688 as I don't use MySQL myself.
+
+SET @tablename = "pyfunceble_tested";
+SET @columnname = "ipv6_syntax_validation";
+SET @columntype = "TINYINT(1) NULL";
+SET @columnafter = "ipv4_syntax_validation"
+SET @preparedStatement = (SELECT IF(
+    (
+        SELECT COUNT(*) FROM INFORMATION_SCHEMA.COLUMNS
+        WHERE
+        (table_name = @tablename)
+        AND (column_name = @columnname)
+    ) > 0,
+    "SELECT 1",
+    CONCAT(
+        "ALTER TABLE ",
+        @tablename,
+        " ADD ",
+        @columnname,
+        " ",
+        @columntype,
+        " AFTER ",
+        @columnafter,
+        ";"
+    )
+));
+PREPARE alterIfNotExists FROM @preparedStatement;
+EXECUTE alterIfNotExists;
+DEALLOCATE PREPARE alterIfNotExists;
+
+SET @tablename = "pyfunceble_tested";
+SET @columnname = "ipv6_range_syntax_validation";
+SET @columntype = "TINYINT(1) NULL";
+SET @columnafter = "ipv6_syntax_validation"
+SET @preparedStatement = (SELECT IF(
+    (
+        SELECT COUNT(*) FROM INFORMATION_SCHEMA.COLUMNS
+        WHERE
+        (table_name = @tablename)
+        AND (column_name = @columnname)
+    ) > 0,
+    "SELECT 1",
+    CONCAT(
+        "ALTER TABLE ",
+        @tablename,
+        " ADD ",
+        @columnname,
+        " ",
+        @columntype,
+        " AFTER ",
+        @columnafter,
+        ";"
+    )
+));
+PREPARE alterIfNotExists FROM @preparedStatement;
+EXECUTE alterIfNotExists;
+DEALLOCATE PREPARE alterIfNotExists;
