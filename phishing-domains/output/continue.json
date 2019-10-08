@@ -1,14 +1,50 @@
 {
     "/home/mitchellkrog/PyFuncebleTests/Phishing.Domains/input/ALL-feeds.lst": {
         "ACTIVE": [
-            "wx.winneroad.cn",
-            "co-star.net",
-            "hrsgkworker.com",
-            "susanette.com",
-            "sflooring-my.sharepoint.com",
-            "fallow-wines.000webhostapp.com",
-            "resep-nikmat.com",
-            "perfume.of.to"
+            "00000000000000000000000000000000000000dfjjjhv.000webhostapp.com",
+            "000000000000000000000000000000000000dbscrfg.000webhostapp.com",
+            "000000000000000000000000000yteyeuya.000webhostapp.com",
+            "00000000000000000dhl.000webhostapp.com",
+            "00000000000000rqrewewrwrdfq.000webhostapp.com",
+            "0000000000000qowowiieueu0000000.000webhostapp.com",
+            "0000000wer.000webhostapp.com",
+            "00000skunnnn.000webhostapp.com",
+            "0000111servicehelpdesk.godaddysites.com",
+            "000011accesswebform.godaddysites.com",
+            "00024390000067.000webhostapp.com",
+            "000945.000webhostapp.com",
+            "0009servicedeskowa.godaddysites.com",
+            "000f02ef-3ec1-4247-ae2a-17788214a6a0.htmlpasta.com",
+            "000m8ih.wcomhost.com",
+            "000n38p.wcomhost.com",
+            "000n38t.wcomhost.com",
+            "000n8pc.wcomhost.com",
+            "000ne9r.wcomhost.com",
+            "000njep.wcomhost.com",
+            "000nku9.wcomhost.com",
+            "000nt6r.wcomhost.com",
+            "000nx2b.wcomhost.com",
+            "000o1g0.wcomhost.com",
+            "000o2ba.wcomhost.com",
+            "000o2sl.wcomhost.com",
+            "000o4d4.wcomhost.com",
+            "000o4n8.wcomhost.com",
+            "000o5eh.wcomhost.com",
+            "000o8dc.wcomhost.com",
+            "000web2.000webhostapp.com",
+            "000web3.000webhostapp.com",
+            "000webhos1.000webhostapp.com",
+            "000webhostcrazystikers.000webhostapp.com",
+            "000wechost.000webhostapp.com",
+            "000wexbhost.000webhostapp.com"
+        ],
+        "INACTIVE": [
+            "00003.online"
+        ],
+        "INVALID": [
+            "-->",
+            ">",
+            "="
         ]
     }
 }
