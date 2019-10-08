@@ -1815,8 +1815,7 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "web.id",
-        "zone.id"
+        "web.id"
     ],
     "ie": [
         "blogspot.ie",
@@ -1923,6 +1922,7 @@
         "hasura-app.io",
         "hzc.io",
         "loginline.io",
+        "lolipop.io",
         "mo-siemens.io",
         "moonscale.io",
         "ngrok.io",
@@ -6238,6 +6238,7 @@
         "accesscam.org",
         "ae.org",
         "al.eu.org",
+        "altervista.org",
         "app.os.fedoraproject.org",
         "app.os.stg.fedoraproject.org",
         "asso.eu.org",
@@ -7053,6 +7054,14 @@
         "uber.space",
         "xs4all.space"
     ],
+    "ss": [
+        "biz.ss",
+        "com.ss",
+        "edu.ss",
+        "gov.ss",
+        "net.ss",
+        "org.ss"
+    ],
     "st": [
         "co.st",
         "com.st",
@@ -7226,6 +7235,7 @@
     ],
     "to": [
         "com.to",
+        "direct.quickconnect.to",
         "edu.to",
         "gov.to",
         "mil.to",
