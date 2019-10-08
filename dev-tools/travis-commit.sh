@@ -105,11 +105,24 @@ git push origin master
 }
 
 StripIPs () {
+# STRIP FROM ACTIVE
 grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt > ${TRAVIS_BUILD_DIR}/phishing-IPs-ACTIVE.txt
 sort -u ${TRAVIS_BUILD_DIR}/phishing-IPs-ACTIVE.txt -o ${TRAVIS_BUILD_DIR}/phishing-IPs-ACTIVE.txt
 sort -u ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt -o ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt
 grep -Fvxf ${TRAVIS_BUILD_DIR}/phishing-IPs-ACTIVE.txt ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt > ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVEtmp.txt
 sudo mv ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVEtmp.txt ${TRAVIS_BUILD_DIR}/phishing-domains-ACTIVE.txt 
+# STRIP FROM INACTIVE
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt > ${TRAVIS_BUILD_DIR}/phishing-IPs-INACTIVE.txt
+sort -u ${TRAVIS_BUILD_DIR}/phishing-IPs-INACTIVE.txt -o ${TRAVIS_BUILD_DIR}/phishing-IPs-INACTIVE.txt
+sort -u ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt -o ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt
+grep -Fvxf ${TRAVIS_BUILD_DIR}/phishing-IPs-INACTIVE.txt ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt > ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVEtmp.txt
+sudo mv ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVEtmp.txt ${TRAVIS_BUILD_DIR}/phishing-domains-INACTIVE.txt 
+# STRIP FROM INVALID
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt > ${TRAVIS_BUILD_DIR}/phishing-IPs-INVALID.txt
+sort -u ${TRAVIS_BUILD_DIR}/phishing-IPs-INVALID.txt -o ${TRAVIS_BUILD_DIR}/phishing-IPs-INVALID.txt
+sort -u ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt -o ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt
+grep -Fvxf ${TRAVIS_BUILD_DIR}/phishing-IPs-INVALID.txt ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt > ${TRAVIS_BUILD_DIR}/phishing-domains-INVALIDtmp.txt
+sudo mv ${TRAVIS_BUILD_DIR}/phishing-domains-INVALIDtmp.txt ${TRAVIS_BUILD_DIR}/phishing-domains-INVALID.txt 
 }
 
 
