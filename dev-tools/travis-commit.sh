@@ -73,7 +73,9 @@ do
     fi
 done
 
+}
 
+RunWhitelist () {
 # *********************************************************
 # Clean with whitelist
 # *********************************************************
@@ -85,8 +87,8 @@ bash ${TRAVIS_BUILD_DIR}/dev-tools/whitelist.sh
 # *********************************************************
 
 bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
-
 }
+
 
 CommitData () {
 commitdate=$(date +%F)
@@ -129,6 +131,7 @@ sudo mv ${TRAVIS_BUILD_DIR}/phishing-domains-INVALIDtmp.txt ${TRAVIS_BUILD_DIR}/
 PrepareTravis
 UpdateFiles
 StripIPs
+RunWhitelist
 CommitData
 
 # **********************
