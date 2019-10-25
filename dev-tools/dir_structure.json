@@ -1,351 +1,177 @@
 {
     "output/": {
         "": {
-            "": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complements/",
-                    "sha512": "3ad25606f3ac6f369d163632244969038915d054cd6d49cd395dae86"
-                }
-            },
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@# We don't ignore the domains directory@@@!/domains/@@@# We don't ignore the hosts directory@@@!/hosts/@@@# We don't ignore the HTTP_Analytic directory@@@# We keep the following for historical reason.@@@# Indeed, the following directory may exist in some session.@@@!/HTTP_Analytic/@@@# We don't ignore the logs directory@@@!/logs/@@@# We don't ignore the splited directory@@@!/splited/@@@# We don't ignore the analytic directory@@@!/Analytic/@@@# We don't ignore the json directory@@@!/json/@@@# We don't ignore the complemets directory@@@!/complements/",
                 "sha512": "3ad25606f3ac6f369d163632244969038915d054cd6d49cd395dae86"
             }
         },
         "Analytic/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/POTENTIALLY_ACTIVE/@@@!/POTENTIALLY_INACTIVE/@@@!/SUSPICIOUS/",
                 "sha512": "27caf2edf9b0fbbd3cb1a2dde931ed6c8aa380f5b5aac83b9433ec11"
-            },
-            "Analytic/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/POTENTIALLY_ACTIVE/@@@!/POTENTIALLY_INACTIVE/@@@!/SUSPICIOUS/",
-                    "sha512": "27caf2edf9b0fbbd3cb1a2dde931ed6c8aa380f5b5aac83b9433ec11"
-                }
             }
         },
         "Analytic/ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "Analytic/ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "Analytic/POTENTIALLY_ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "Analytic/POTENTIALLY_ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "Analytic/POTENTIALLY_INACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "Analytic/POTENTIALLY_INACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "Analytic/SUSPICIOUS/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "Analytic/SUSPICIOUS/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "complements/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
                 "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-            },
-            "complements/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                    "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-                }
             }
         },
         "complements/ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "complements/ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "complements/INACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "complements/INACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "complements/INVALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "complements/INVALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "complements/VALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "complements/VALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "domains/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
                 "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-            },
-            "domains/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                    "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-                }
             }
         },
         "domains/ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "domains/ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "domains/INACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "domains/INACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "domains/INVALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "domains/INVALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "domains/VALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "domains/VALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "hosts/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
                 "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-            },
-            "hosts/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                    "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-                }
             }
         },
         "hosts/ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "hosts/ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "hosts/INACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "hosts/INACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "hosts/INVALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "hosts/INVALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "hosts/VALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "hosts/VALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "json/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
                 "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-            },
-            "json/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/ACTIVE/@@@!/INACTIVE/@@@!/INVALID/@@@!/VALID/",
-                    "sha512": "c8c080efb23b01f681a1c0e9c42698e66c4e97ebaa405ef9fe26d270"
-                }
             }
         },
         "json/ACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "json/ACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "json/INACTIVE/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "json/INACTIVE/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "json/INVALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "json/INVALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "json/VALID/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "json/VALID/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "logs/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore@@@!/date_format/@@@!/no_referer/@@@!/percentage/@@@!/whois/",
                 "sha512": "475d7b0dedad050e4551466a8a17bff7cf0af0a5ef5e463979981cba"
-            },
-            "logs/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore@@@!/date_format/@@@!/no_referer/@@@!/percentage/@@@!/whois/",
-                    "sha512": "475d7b0dedad050e4551466a8a17bff7cf0af0a5ef5e463979981cba"
-                }
             }
         },
         "logs/percentage/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "logs/percentage/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         },
         "splited/": {
-            ".keep": {
+            ".gitignore": {
                 "content": "*@@@!.gitignore",
                 "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-            },
-            "splited/": {
-                ".gitignore": {
-                    "content": "*@@@!.gitignore",
-                    "sha512": "0bd551cb904befcee06b7a99ef7ac54dba91ee21b5944c78759c1e4b"
-                }
             }
         }
     }
