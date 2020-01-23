@@ -68,6 +68,11 @@ no_whois: False
 plain_list_domain: False
 # Enable / Disable the generation of output on screen.
 quiet: False
+# Enable/Disable the usage of the reputation data.
+use_reputation_data: False
+# Enable/Disable the reputation checking mode.
+# In this mode we only check against the reputation.
+reputation: False
 # Enable / disable the logs sharing.
 share_logs: False
 # Enable / disable the output of the execution time.
@@ -200,11 +205,20 @@ status:
       - strange
       - suspicious
       - hum
+    malicious:
+      - malicious
+      - bad_actor
+    sane:
+      - sane
+      - safe
+    not_malicious:
   official:
     up: ACTIVE
     down: INACTIVE
     invalid: INVALID
     valid: VALID
+    malicious: MALICIOUS
+    sane: SANE
 
 http_codes:
   active: True
@@ -266,3 +280,4 @@ links:
   psl: "https://raw.githubusercontent.com/PyFunceble/public-suffix/master/public-suffix.json"
   repo: "https://github.com/funilrys/PyFunceble"
   requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
+  ipv4_reputation: "https://reputation.alienvault.com/reputation.data"
