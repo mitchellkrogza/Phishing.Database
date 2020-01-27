@@ -8,6 +8,8 @@ auto_continue: True
 command: ""
 # Set the command to run before the final commit.
 command_before_end: ""
+# Set the number of seconds to wait between each test.
+cooldown_time: null
 # Set the custom IP to use when we generate a line in the hosts file format.
 custom_ip: "0.0.0.0"
 # Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
