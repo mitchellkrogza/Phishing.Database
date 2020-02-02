@@ -1137,6 +1137,7 @@
         "point2this.com",
         "publishproxy.com",
         "qa2.com",
+        "qbuser.com",
         "qc.com",
         "qualifioapp.com",
         "quicksytes.com",
@@ -1266,6 +1267,7 @@
         "za.com"
     ],
     "community": [
+        "myforum.community",
         "ravendb.community"
     ],
     "cool": [
@@ -1336,9 +1338,11 @@
         "blogspot.de",
         "bplaced.de",
         "com.de",
+        "community-pro.de",
         "customer.speedpartner.de",
         "dd-dns.de",
         "ddnss.de",
+        "diskussionsbereich.de",
         "dnshome.de",
         "dnsupdater.de",
         "dray-dns.de",
@@ -5270,6 +5274,7 @@
         "cloudfront.net",
         "cloudfunctions.net",
         "cloudycluster.net",
+        "community-pro.net",
         "cryptonomic.net",
         "dattolocal.net",
         "ddns.net",
@@ -5323,6 +5328,7 @@
         "knx-server.net",
         "map.fastly.net",
         "map.fastlylb.net",
+        "meinforum.net",
         "memset.net",
         "moonscale.net",
         "mydatto.net",
@@ -5349,6 +5355,7 @@
         "se.net",
         "selfip.net",
         "sells-it.net",
+        "senseering.net",
         "servebbs.net",
         "serveblog.net",
         "serveftp.net",
@@ -5362,6 +5369,7 @@
         "t3l3p0rt.net",
         "thruhere.net",
         "twmail.net",
+        "u.channelsdvr.net",
         "uk.net",
         "uni5.net",
         "user.srcf.net",
@@ -7188,6 +7196,9 @@
     ],
     "td": [
         "blogspot.td"
+    ],
+    "team": [
+        "discourse.team"
     ],
     "technology": [
         "co.technology"
