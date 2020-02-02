@@ -108,7 +108,10 @@ ci_distribution_branch: master
 # Activate/Deactivate the generation of unified files for the results logs.
 unified: False
 # Set the default user agent use when requesting the HTTP code.
-user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36"
+user_agent:
+  browser: chrome
+  platform: linux
+  custom: null
 # Enable / disable the verification of the certificate when testing for URL.
 verify_ssl_certificate: False
 # Enable / disable the usage of a database to store the hash of the whois record
@@ -277,9 +280,10 @@ links:
   config: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
   dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
   iana: "https://raw.githubusercontent.com/PyFunceble/iana/master/iana-domains-db.json"
+  ipv4_reputation: "https://reputation.alienvault.com/reputation.data"
   mariadb: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mariadb.sql"
   mysql: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mysql.sql"
   psl: "https://raw.githubusercontent.com/PyFunceble/public-suffix/master/public-suffix.json"
   repo: "https://github.com/funilrys/PyFunceble"
   requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
-  ipv4_reputation: "https://reputation.alienvault.com/reputation.data"
+  user_agents: "https://raw.githubusercontent.com/PyFunceble/user_agents/master/user_agents.json"
