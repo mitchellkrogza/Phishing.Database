@@ -1565,7 +1565,16 @@
         "ptplus.fit"
     ],
     "fj": [
-        "fj"
+        "ac.fj",
+        "biz.fj",
+        "com.fj",
+        "gov.fj",
+        "info.fj",
+        "mil.fj",
+        "name.fj",
+        "net.fj",
+        "org.fj",
+        "pro.fj"
     ],
     "fk": [
         "fk"
