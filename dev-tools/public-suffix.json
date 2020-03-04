@@ -757,6 +757,7 @@
         "sensiosite.cloud",
         "statics.cloud",
         "trafficplex.cloud",
+        "urown.cloud",
         "vapor.cloud",
         "voorloper.cloud"
     ],
@@ -1892,6 +1893,7 @@
         "barrell-of-knowledge.info",
         "barsy.info",
         "cloudns.info",
+        "dnsupdate.info",
         "dvrcam.info",
         "dynamic-dns.info",
         "dyndns.info",
@@ -6225,8 +6227,7 @@
         "merseine.nu",
         "mine.nu",
         "nom.nu",
-        "shacknet.nu",
-        "site.builder.nu"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
