@@ -3,6 +3,8 @@ http://142.11.236.212/iniciar-sesion
 http://149.248.1.153
 http://185.244.150.139
 http://51.68.90.244/online/CIBC/9716f0f033d9850121de89153714e9a9
+http://6cae6eff.ngrok.io/www/itau.com.br/02/desktop.inicial.php?app=https://www.itau.com.br/acesso/seguranca/sincronismo
+http://6cae6eff.ngrok.io/www/itau.com.br/04/desktop.inicial.php?app=https://www.itau.com.br/acesso/seguranca/sincronismo
 http://8.81.199.35.bc.googleusercontent.com/itau/home/webApps_AplicationDevice.php?brazil=%3C?php%2012:06:13=date('H,i,s,A,z,n,m,u,d,g,o,l');%20echo'12:06:13';%20?%3E.dll
 http://8.81.199.35.bc.googleusercontent.com/itau/home/webApps_AplicationToken1.php?brazil=15,06,16,PM,65,3,03,000000,06,3,2020,Friday.dll
 http://8.81.199.35.bc.googleusercontent.com/itau/home/webApps_AplicationToken1.php?brazil=15,06,18,PM,65,3,03,000000,06,3,2020,Friday.dll
@@ -24,6 +26,7 @@ http://aaorgo.com/mychase/jpmchase.html
 http://afterhourshealth.com/wp-admin/css/colors/blue/Dropbox/main.html
 http://agricredit.xyz/godaddy.secureserver/godaddy.secureserver/godaddycanceldeactivate.html
 http://alexvillasbali.com/wp-includes/SimplePie/Content/Type/abbrandsllc/home/home/oneddrive
+http://alexvillasbali.com/wp-includes/SimplePie/Content/Type/cfpc/home/home/oneddrive
 http://amgautos.fr/modules/mod_footer/fonts/verified-china/chn
 http://arabiantoursdubai.com/wp-content/rw/e8db8de8df6bcd899ca8b60f498cb38c
 http://arabiantoursdubai.com/wp-content/rw/e8db8de8df6bcd899ca8b60f498cb38c/bill.html?id=update_rlod?'.a46263873a1e141f5e8c5054f5882b4d.cc4e648858961a86078dfa653891608298bbbe07.'
@@ -510,6 +513,7 @@ https://wuteh.a100.com.pl/Writeable/default/7e67f8b72d867054db6182b8ac3a0555/Snd
 https://wuteh.a100.com.pl/Writeable/default/7e67f8b72d867054db6182b8ac3a0555/Snd/default/888cd1cf558b4e617e85b875b8fdb63a/sms1.html
 https://wuteh.a100.com.pl/Writeable/default/7e67f8b72d867054db6182b8ac3a0555/Snd/default/888cd1cf558b4e617e85b875b8fdb63a/sms2.html
 https://wuteh.a100.com.pl/Writeable/default/7e67f8b72d867054db6182b8ac3a0555/Snd/default/888cd1cf558b4e617e85b875b8fdb63a/sms.html
+https://wwwamazom.iyou-online.com
 https://www.amazon.co.jp.auresormi-buez.monster
 https://www.beauvaisis-notre-territoire.fr/cli/Ned/ruez.htm?cmd=login_submit&id=ccafb4b402c0ebec8492cc014985cf22ccafb4b402c0ebec8492cc014985cf22&session=ccafb4b402c0ebec8492cc014985cf22ccafb4b402c0ebec8492cc014985cf22
 https://www.boticanatural.ec/wp.dhl/mydhl
