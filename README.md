@@ -29,6 +29,16 @@ ____________________
 
 A Testing Repository for Phishing Domains, Web Sites and Threats. Above are results of Domains that have been tested to be Active, Inactive or Invalid. These Lists update hourly. This is just one of a number of extensive projects dealing with testing the status of harmful domain names and web sites. We test sources of Phishing attacks to keep track of how many of the domain names used in Phishing attacks are still active and functioning. We sort all domains from all sources into one list, removing any duplicates so that we have a clean list of domains to work with.
 
+## Additions
+
+### Add Phishing Domains
+To add domains to this database send a Pull Request on the file https://github.com/mitchellkrogza/Phishing.Database/input-source/domains/public-domain-additions.txt
+- include the domain name only (no http / https) eg. www.thisisphishing.com and not https://www.thisisphishing.com/
+
+### Add Phishing Urls / Links
+To add links / urls to this database send a Pull Request on the file https://github.com/mitchellkrogza/Phishing.Database/input-source/urls/public-url-additions.txt
+- Include the full link
+
 ************************************************
 ## Define an Active Status
 
