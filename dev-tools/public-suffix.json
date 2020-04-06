@@ -960,7 +960,6 @@
         "fastvps-server.com",
         "firebaseapp.com",
         "firewall-gateway.com",
-        "flynnhub.com",
         "freebox-os.com",
         "freeboxos.com",
         "from-ak.com",
@@ -1136,6 +1135,8 @@
         "pagespeedmobilizer.com",
         "pgfog.com",
         "pixolino.com",
+        "platter-app.com",
+        "playstation-cloud.com",
         "point2this.com",
         "publishproxy.com",
         "qa2.com",
@@ -1406,6 +1407,7 @@
         "iserv.dev",
         "lcl.dev",
         "loginline.dev",
+        "platter-app.dev",
         "stg.dev",
         "webhare.dev",
         "workers.dev"
@@ -1760,8 +1762,10 @@
     ],
     "host": [
         "cloudaccess.host",
+        "fastvps.host",
         "freesite.host",
         "half.host",
+        "myfast.host",
         "pcloud.host"
     ],
     "hosting": [
@@ -4501,6 +4505,7 @@
         "brasilia.me",
         "c66.me",
         "co.me",
+        "couk.me",
         "daplie.me",
         "ddns.me",
         "diskstation.me",
@@ -4534,6 +4539,7 @@
         "soundcast.me",
         "synology.me",
         "tcp4.me",
+        "ukco.me",
         "webhop.me",
         "wedeploy.me",
         "yombo.me"
@@ -7060,6 +7066,7 @@
         "byen.site",
         "cloudera.site",
         "cyon.site",
+        "fastvps.site",
         "lelux.site",
         "loginline.site",
         "platformsh.site"
@@ -7096,6 +7103,7 @@
     ],
     "space": [
         "linkitools.space",
+        "myfast.space",
         "uber.space",
         "xs4all.space"
     ],
@@ -7487,6 +7495,8 @@
         "barsyonline.co.uk",
         "blogspot.co.uk",
         "co.uk",
+        "conn.uk",
+        "copro.uk",
         "dh.bytemark.co.uk",
         "glug.org.uk",
         "gov.uk",
@@ -7588,6 +7598,7 @@
         "ga.us",
         "gen.mi.us",
         "golffan.us",
+        "graphox.us",
         "gu.us",
         "hi.us",
         "ia.us",
@@ -7729,6 +7740,7 @@
         "or.us",
         "pa.us",
         "paroch.k12.ma.us",
+        "platterp.us",
         "pointto.us",
         "pr.us",
         "pvt.k12.ma.us",
