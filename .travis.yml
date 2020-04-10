@@ -15,6 +15,7 @@ env:
     - TZ: Africa/Johannesburg
     - PYFUNCEBLE_CONFIG_DIR: dev-tools/
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+    - PYFUNCEBLE_CONFIG_DIR: /tmp
 
 language: python
 
