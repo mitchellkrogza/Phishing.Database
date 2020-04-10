@@ -2,6 +2,8 @@
 # Whitelist Script for Phishing.Database
 # Contributed by Alex Williams - https://github.com/mkb2091
 
+set -e
+
 # Sort Lists
 sort -u ${TRAVIS_BUILD_DIR}/whitelist.me/whitelist.me -o ${TRAVIS_BUILD_DIR}/whitelist.me/whitelist.me
 sort -u ${TRAVIS_BUILD_DIR}/whitelist.anti/whitelist.anti -o ${TRAVIS_BUILD_DIR}/whitelist.anti/whitelist.anti
