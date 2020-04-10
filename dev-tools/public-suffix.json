@@ -165,6 +165,7 @@
         "a.run.app",
         "hasura.app",
         "loginline.app",
+        "netlify.app",
         "run.app",
         "telebit.app",
         "web.app",
@@ -216,7 +217,8 @@
         "kunden.ortsinfo.at",
         "lima-city.at",
         "or.at",
-        "priv.at"
+        "priv.at",
+        "sth.ac.at"
     ],
     "au": [
         "act.au",
@@ -1125,6 +1127,7 @@
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
         "on-aptible.com",
+        "onfabrica.com",
         "onrender.com",
         "onthewifi.com",
         "ooguy.com",
@@ -1405,6 +1408,7 @@
         "bss.design"
     ],
     "dev": [
+        "curv.dev",
         "iserv.dev",
         "lcl.dev",
         "loginline.dev",
@@ -1637,9 +1641,11 @@
     "gg": [
         "co.gg",
         "cya.gg",
+        "daemon.panel.gg",
         "kaas.gg",
         "net.gg",
-        "org.gg"
+        "org.gg",
+        "panel.gg"
     ],
     "gh": [
         "com.gh",
@@ -1948,6 +1954,7 @@
         "devices.resinstaging.io",
         "drud.io",
         "dyn53.io",
+        "dyndns.dappnode.io",
         "enonic.io",
         "github.io",
         "gitlab.io",
