@@ -3,6 +3,8 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
+set -e
+
 tmprdme=tmprdme
 tmprdme2=tmprdme2
 versiondate="$(date)"
