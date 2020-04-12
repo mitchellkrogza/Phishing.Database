@@ -163,7 +163,10 @@ http://e-kedai.my/web/verification-finished.php?cmd=_account-details&amp;session
 http://embutec.com.br/cuppon
 http://embutec.com.br/cuppon/BOA/card.php
 http://embutec.com.br/cuppon/BOA/qes.php
+http://embutec.com.br/cuppon/verification/1NNN6N5M44AAB47M846E/index.php?country.x=US-United+States&lang.x=en
+http://embutec.com.br/cuppon/verification/2D1AD737CA1ADC4B713B/index.php?country.x=US-United+States&lang.x=en
 http://embutec.com.br/cuppon/verification/326D89EBEE792017MC3A/card.php
+http://embutec.com.br/cuppon/verification/326D89EBEE792017MC3A/index.php?country_x=US-United%20States&amp;lang_x=en
 http://embutec.com.br/cuppon/verification/326D89EBEE792017MC3A/index.php?country_x=US-United+States&lang_x=en
 http://embutec.com.br/cuppon/verification/326D89EBEE792017MC3A/qes.php
 http://embutec.com.br/cuppon/verification/6981569773C51M00M3DB/card.php
@@ -390,6 +393,7 @@ http://rxzkiwag.goruli.com
 http://s266577.smrtp.ru
 https://75abd9f5.ngrok.io
 https://75abd9f5.ngrok.io/id=1.php
+https://abiftae.com
 https://abir26mobile.000webhostapp.com
 https://acbnafox.xyz/wew/cymk/securepassword.php?email=nobody@mycraftmail.com
 https://account1-update.com/01161aaa0b6d1345dd8fe4e481144d84
@@ -419,6 +423,7 @@ https://arcogroupltd.com/office/love/klin
 https://arenda167016.000webhostapp.com
 https://arenda167020.000webhostapp.com
 http://sas2453axz.appspot.com
+https://ascpozs.000webhostapp.com/login.htm
 http://sasdasdf.000webhostapp.com/Paypal0/Paypal0/Paypal/Paypal/customer_center/customer-IDPP00C357/myaccount/signin
 https://attlogin-communication.weebly.com
 https://ayogabungdigrupwa164.000webhostapp.com
@@ -954,6 +959,7 @@ http://u675443il8.ha004.t.justns.ru/Netflix/Netflix/signin.php?country=-&lang=en
 http://u684693kl0.ha004.t.justns.ru/pundo/c33e6fb8da8861ac20c5b0492bfa880e
 http://ugovlahovic.hr/wp-content/upgrade/--/EN-OTP/2020/Login
 http://unitech-ikk.com/onlinebanking
+http://unitech-ikk.com/onlinebanking/login?josso_back_to=https://online.bdo.com.ph/sso/josso_security_check
 http://usexghf176846.appspot.com
 http://utilitylootlo.xyz/luluking/home/home/oneddrive/index.php
 http://utilitylootlo.xyz/luluking/home/home/oneddrive/microsoft.php
