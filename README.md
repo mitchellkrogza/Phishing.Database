@@ -3,10 +3,10 @@
 # Phishing Domain Database <a href='https://twitter.com/PhishFindR'><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/twitter-35.png"/><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/spacer.jpg"/><img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/spacer.jpg"/><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindr'></a>
 
 _______________
-#### Version: 18957 (2020-04-24 13:12:52 SAST)
-| :boom: Latest Threats<br/>@ 13:12:52 | :boom: Active Threats<br/>Friday 2020-04-24 | Total Links<br/>Discovered Today |
+#### Version: 18958 (2020-04-24 14:12:44 SAST)
+| :boom: Latest Threats<br/>@ 14:12:44 | :boom: Active Threats<br/>Friday 2020-04-24 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
-| :warning: [15](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [147](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [726](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [15](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [147](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [732](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 | Phishing Domains Status  | Domain Count | Percentage | Last Tested | Download |
 | ---: | :---: | :---: | :---: |:---: |
@@ -20,8 +20,8 @@ _______________
 | INACTIVE <img src=https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/red.jpg/>  | [40835](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-INACTIVE.txt)  | 10 % | 2019-10-21 09:17:55 +0200 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-INACTIVE.txt) |
 | INVALID <img src=https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/blue.jpg/> | [68](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-INVALID.txt)  | 0 % | 2019-10-21 09:17:55 +0200 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-INVALID.txt) |
 *****************************
-#### Total Phishing Domains Captured: [160673](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst)
-#### Total Phishing Links Captured: [391799](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst)
+#### Total Phishing Domains Captured: [160678](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst)
+#### Total Phishing Links Captured: [391805](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst)
 ____________________
 
 
