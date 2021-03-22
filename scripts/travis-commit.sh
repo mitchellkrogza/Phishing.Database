@@ -108,6 +108,11 @@ grep -Fvxf ./phishing-IPs-INVALID.txt ./phishing-domains-INVALID.txt > ./phishin
 mv ./phishing-domains-INVALIDtmp.txt ./phishing-domains-INVALID.txt 
 }
 
+RemoveInvalid () {
+sed "/\.$/d" ./phishing-IPs-ACTIVE.txt > ./phishing-IPs-ACTIVE.tmp && mv ./phishing-IPs-ACTIVE.tmp ./phishing-IPs-ACTIVE.txt
+sed "/\.$/d" ./phishing-domains-ACTIVE.txt > ./phishing-domains-ACTIVE.tmp && mv ./phishing-domains-ACTIVE.tmp ./phishing-domains-ACTIVE.txt
+}
+
 Compress () {
 # TAR OUR INPUT FILES
 echo "Delete old zip files"
@@ -135,6 +140,7 @@ CommitData () {
 
 UpdateFiles
 StripIPs
+RemoveInvalid
 RunWhitelist
 Compress
 CommitData
