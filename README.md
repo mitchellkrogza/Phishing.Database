@@ -8,7 +8,7 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 
 _______________
 #### Version: V.2021-03-23.10
-| :boom: Latest Threats<br/>@ 10:13:02 | :boom: Active Threats<br/>Tuesday 2021-03-23 | Total Links<br/>Discovered Today |
+| :boom: Latest Threats<br/>@ 10:26:06 | :boom: Active Threats<br/>Tuesday 2021-03-23 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [47](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [373](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [642](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
