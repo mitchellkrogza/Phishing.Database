@@ -1,0 +1,4 @@
+[2021-01-15 13:48:14,463::INFO::/home/mitchellkrog/.conda/envs/diffcheck/lib/python3.9/site-packages/PyFunceble/lookup/dns.py:120@__get_resolver](PID220164:MainProcess): DNS Server not explicitly given, providing the systemwide one.
+[2021-01-15 14:04:04,189::INFO::/home/mitchellkrog/.conda/envs/diffcheck/lib/python3.9/site-packages/PyFunceble/lookup/dns.py:120@__get_resolver](PID338482:MainProcess): DNS Server not explicitly given, providing the systemwide one.
+[2021-01-16 10:25:21,637::INFO::/home/mitchellkrog/.conda/envs/diffcheck/lib/python3.9/site-packages/PyFunceble/lookup/dns.py:120@__get_resolver](PID918448:MainProcess): DNS Server not explicitly given, providing the systemwide one.
+[2021-03-17 14:47:17,256::INFO::/home/mitchellkrog/.conda/envs/diffcheck/lib/python3.9/site-packages/PyFunceble/lookup/dns.py:120@__get_resolver](PID5197:MainProcess): DNS Server not explicitly given, providing the systemwide one.
