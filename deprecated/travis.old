@@ -1,0 +1,42 @@
+os: linux
+dist: bionic
+
+env:
+  global:
+    - secure: ZRTFDzp32VkvvA8T2b7kuLZKHyD51WYyYqi6gsGJPePAdkY+aTT02OkLQvIlEu1Ax/RX5qsNo5oibrzILrcrfCWSYDTO9BiSkL0WDyo+OMX9raPTuaM8oFsPNA6+vemcgRoFd59e/UVOdboOX96bvd9yn9RUjwdSQp9o7gqs09RFJV5BLgNP+GnrDIyEISUWOwGYVKw28RJDmKpIEuuP4x0iGQV1lUf830VfcFaPG8WGBr2FeFHnqtkhAG5ERyJ8Pjp4R+9mCZbBHdJh/p//e5Up9pysDVcszV/OAGCX68iRwT3/22bn2uZkeczDkssIksRwZGYZgHWPc4lXvHPg7lvJ6Pw+ovBGLYCarbYq55KyYRhOo4Xb2jOW7Jb6aBp8gwurp0RLerUwXBw+8d6sQJlwqcGAQTjj/bycrJ+yqBSyo0G7E1nmmEkK1C8lfABF61KUhacaM2RRxCayjZd0RnJyWrsV3L9k13lh/Po0PafUeKA04UC0/XpxftguqZRjI2tRZSjclwzzlIJO9cM0B0zQt4TAjy6g3umUu4z1IA0ZFX+wWHVpujZoW5fYgoH3+uAMygJRmpshY+tMXpqLSHVLqgAxJTiS6txTPsMGXHWCwkmg5GX4LnfTwX3mqXxtL2HxU0OpXDsbNqXoQ62+iCb17SQdPO97JIo/x+etsUY=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: mitchellkrog@gmail.com
+    - TRAVIS_REPO_SLUG: mitchellkrogza/Phishing.Database
+    - GIT_BRANCH: master
+    - TZ: Africa/Johannesburg
+    - PYFUNCEBLE_CONFIG_DIR: dev-tools/
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+    - PYFUNCEBLE_CONFIG_DIR: /tmp
+
+jobs:
+  fast_finish: true
+
+addons:
+    apt:
+        packages:
+        - dos2unix
+cache:
+- pip
+
+language: python
+
+python:
+  - "3.7"
+
+install:
+  - pip3 install --upgrade pip
+  - pip3 install domain2idna
+  - pip3 install PyFunceble-dev
+  - pip3 install ultimate-hosts-blacklist-whitelist
+
+script:
+  - bash dev-tools/travis-commit.sh
+
+notifications:
+  on_success: never
+  on_failure: always
