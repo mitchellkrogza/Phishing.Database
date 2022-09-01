@@ -1,0 +1,8 @@
+*
+!.gitignore
+!/ACTIVE/
+!/INACTIVE/
+!/INVALID/
+!/MALICIOUS/
+!/SANE/
+!/VALID/
