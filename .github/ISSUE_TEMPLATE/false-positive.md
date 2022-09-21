@@ -26,6 +26,6 @@ Add any other context about the problem here.
 We understand being listed on a Phishing Database like this can be frustrating and embarrassing for many web site owners. The first step is to remain calm. The second step is to rest assured one of our maintainers will address your issue as soon as possible. Please make sure you have provided as much information as possible to help speed up the process.
 
 **Send a Pull Request for faster removal**
-Users who understand github and creating Pull Requests can assist us with faster removals by sending a PR on the whitelist.me file
-> https://github.com/mitchellkrogza/Phishing.Database/blob/master/whitelist.me/whitelist.me
+Users who understand github and creating Pull Requests can assist us with faster removals by sending a PR to **mitchellkrogza/phishing** repository, on the falsepositive.list file
+> https://github.com/mitchellkrogza/phishing/blob/main/falsepositive.list
 Please include the same above information to help speed up the whitelisting process.
