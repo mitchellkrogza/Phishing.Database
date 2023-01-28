@@ -1,7 +1,7 @@
 MIT License
 
-Copyright (c) 2018 Mitchell Krog
-https://github.com/mitchellkrogza
+Copyright (c) 2018-2023 Mitchell Krog - github.com/mitchellkrogza
+Copyright (c) 2018-2023 Nissar Chababy - github.com/funilrys
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
