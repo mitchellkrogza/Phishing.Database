@@ -5,7 +5,7 @@
 set -e
 set -o pipefail
 
-whitelistFiles="./whitelist.me/whitelist.me https://raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners"
+whitelistFiles="./whitelist.me/whitelist.me https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"
 
 # UNTAR INPUT FILES
 #cd ./input-source/
@@ -30,7 +30,7 @@ uhb_whitelist -f ./phishing-links-INACTIVE.txt -o ./phishing-links-INACTIVE.txt 
 uhb_whitelist -f ./phishing-links-INVALID.txt -o ./phishing-links-INVALID.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 uhb_whitelist -f ./input-source/ALL-feeds-URLS.lst -o ./ALL-phishing-links.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 
-# FIX Remove Orphaned Domains - Lines not containing a . 
+# FIX Remove Orphaned Domains - Lines not containing a .
 cat ./phishing-domains-ACTIVE.txt | sed '/\./!d' > ./phishing-domains-ACTIVE.tmp && mv ./phishing-domains-ACTIVE.tmp ./phishing-domains-ACTIVE.txt
 cat ./phishing-domains-INACTIVE.txt | sed '/\./!d' > ./phishing-domains-INACTIVE.tmp && mv ./phishing-domains-INACTIVE.tmp ./phishing-domains-INACTIVE.txt
 
