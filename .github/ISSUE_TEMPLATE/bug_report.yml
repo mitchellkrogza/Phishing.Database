@@ -1,0 +1,83 @@
+name: Bug Report
+title: '[Bug] '
+description: Create a report to help us improve
+labels:
+  - 'bug'
+assignees:
+  - mitchellkrogza
+  - funilrys
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: |
+        A clear and concise description of what the bug is. (Clear Text)
+      render: Text
+    validations:
+      required: true
+
+  - type: textarea
+    id: repoduce
+    attributes:
+      label: Reproduction steps
+      description: 'How do you trigger this bug? Please walk us through it step by step. (Markdown)'
+      value: |
+        1. 
+        2. 
+        3.
+        ...
+      render: Markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.  (Markdown)
+      value: 'Really :grey_question:'
+      render: Markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots
+      description: 'If applicable, add screenshots to help explain your problem.'
+      placeholder: Paste your screenshot here...
+      render: Markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional text
+      description: 'Add any other context about the problem here. (Markdown)'
+      placeholder: |
+        I think...
+        It comes to my mind...
+      render: Markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Paste your log here
+      description: |
+        If you have a logfile please paste it here to help tracing the issue
+      value: |
+        <details><summary>Click to expand</summary>
+
+        ```
+        Paste your log file here between the back tics
+        ```
+
+        </details>
+      render: Markdown
+    validations:
+      required: false
