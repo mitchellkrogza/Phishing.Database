@@ -1,0 +1,101 @@
+name: False Positive
+title: '[FALSE-POSITIVE] YOUR_DOMAIN'
+description: |
+  Reporting of any false positives or domains that need to be whitelisted
+labels:
+  - 'false positive'
+assignees:
+  - mitchellkrogza
+  - funilrys
+body:
+  - type: markdown
+    attributes:
+      value: '## Domains or links'
+  - type: markdown
+    attributes:
+      value: |
+        Please list any domains and links listed here which you believe
+        are a false positive.
+
+  - type: checkboxes
+    id: source
+    attributes:
+      label: More Information
+      description: |
+        How did you discover your web site or domain was listed here?
+      options:
+        - label: Website was hacked
+        - label: Phishtank
+        - label: OpenPhish
+        - label: VirusTotal
+        - label: Other
+
+  - type: textarea
+    id: ifOther
+    attributes:
+      label: If other
+      description: Please tell us where you have requested whitelisting from
+      placeholder: |
+        1. Mitchell Krogza - Phishing https://github.com/mitchellkrogza/phishing/issues/$ID
+        2. My Privacy DNS https://0xacab.org/my-privacy-dns/matrix/-/issues/$iid
+        3. EasyList https://github.com/easylist/easylist/issues/$ID
+      render: Text
+
+  - type: textarea
+    id: removal
+    attributes:
+      label: Have you requested removal from other sources?
+      description: |
+        Please include all relevant links to your existing
+        removals / whitelistings.
+      placeholder: |
+        I was marked as phishing at Project XYZ where I have requested
+        to be delisted via issue `https://examle.net/issue/$ID`
+      render: Text
+
+  - type: textarea
+    id: actions
+    attributes:
+      label: Actions you have taken to fix your domain
+      description: |
+        Descripe what actions and precaution you have done to remove and
+        safeguarding your server against further attack.
+
+        This descriptions should be in headline style to avoid give to much
+        to information to the attacker.
+      placeholder: |
+        - I have deleted infected files
+        - Updated the code as we did find the bug
+        - I did nothing and hoping this won't hapen again, just like that
+      render: Markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      placeholder: |
+        Add any additinal text about the problem and solutions here.
+      render: Text
+
+  - type: checkboxes
+    id: todo
+    attributes:
+      label: 'I confirm that i have:'
+      description: |
+        Before you commit this issue, you have to be sure have done the
+        following things
+      options:
+        - label: I have delete any, to me known. phishing content from my site
+          required: true
+        - label: |
+            I have to the best of my knowledge and resources, protected my
+            server(s) against repetition of this problem(S)
+          required: true
+        - label: Read and understood [CONTRIBUTING](https://github.com/spirillen/ITT/blob/master/CONTRIBUTING.md#false-positives)
+          required: true
+        - label: |
+            I accept, if I deliberatly gives false information, I risk
+            never to be removed from this or any other blacklist(s).
+          required: true
