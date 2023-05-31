@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Report new phishing url ordomain to mitchellkrogza/Phishing.Database
+    url: https://github.com/mitchellkrogza/Phishing
+    about:
+  - name: Report new blacklist domains to My Privacy DNS
+    url: https://mypdns.eu.org/matrix/reporter/
+    about: Adding new domains to be blacklisted by My Privacy DNS easy commit site
   - name: Mitchell Krogza Phishing Database
     url: https://github.com/mitchellkrogza/Phishing.Database
     about: Phishing Database
