@@ -1,267 +1,106 @@
-# Contribute
+- [Phishing domain(s)](#phishing-domains)
+- [Q\&A](#qa)
+- [False Positives](#false-positives)
+    - [Please do also notify](#please-do-also-notify)
+- [Create a Pull Request for faster handling](#create-a-pull-request-for-faster-handling)
+- [Bug reporting](#bug-reporting)
+- [Open Source Project domain reporting tools](#open-source-project-domain-reporting-tools)
+- [Document revision](#document-revision)
 
-If you feel like contributing there are a couple of ways to do this
+## Phishing domain(s)
+If you would like to report a single or a bunch of phishing, there are a
+coupe of options, but none of them goes into this repository.
 
-1. You can add new super high speed bash code, optimizing existing, rewrite for
-    broader support of bash environments across OS's
-2. You can add domains to either the wildcard.list or domain.list in their
-    respective folders
-3. You can through **Damned** good arguments try to get a domain into the
-    whitelisted
+Therefore, we recommanding you to report to ffollwing projects:
 
-**NOTE**: When you first start to commit issues, the [akismet][akismet]
-unfortunately very fast to mark you as a spammer, but don't this
-includes everyone even admin accounts.
+Amung the most solid and reliable projects you can report to is:
 
-When this happens, please add this 'Ping @spirillen, I've got mark as spam`
-to this [issue,](https://0xacab.org/my-privacy-dns/support/-/issues/268) and we will
-get your account back on track.
+1. [Mitchell Krogza Phishing + Whitelist][MP], All manual labour
+2. You can option for one of [My Privacy DNS][MYPDNSTL] many
+   automatisation and bulk commit tools.
+3. Phistank
+4. OpenPhish
 
-### Adding a new domain
-The workflow is a bit clumsy, but the most reliable and fail-safe.
-   1. You add an issue with you question, feature request or contribution
-      via [Issue templates](https://0xacab.org/my-privacy-dns/matrix#issue-templates-quick-links)
-      (This is the history of _why_ to blacklist a record)
+## Q&A
 
-      ALL fields MOST be filled out, the questions is there for a
-      good reason...
+Q: Why are you recommending these projects over others?
 
-   2. Add your new domain record(s) to suitable file(s) in the `submit_here/`
-      folder.
-      An issue is required to be able to historically trace why you
-      have committed the records and for other to verify your commit
-      without having to visit a pornographic site, for which they actually
-      try to avoid by using this list.
+A: Well Let's be honest, @spirillen are amung the moderators on both MK's
+**Phishing** and **My Privacy DNS** projects and probably the most active and
+online avatar on both blacklists.  
+While both @funilrys and @mitchellkrogza are all Github and less online.
 
-   3. If you added any content to any of the files in `submit_here/`
-      You open an [MR](/merge_requests/new) (Merge Request) where you'll
-	  add your contribution (This is the _when_ we did the blacklisting)
+If you ask me (@spirillen) I would go for [My privacy DNS][MYPDNS] when
+it comes for reporting any item to be blacklisted, while for whitelisting
+(Not FalsePositives) your should 100% go for
+[Mitchell Krogza Phishing + Whitelist][MP].
 
-   4. You add the new domain record entry in the top or bottom of the list,
-      then it is easier to find.
-      The CI/CD code will sort it in alphanumeric order
+For reporting falsepositive you should absolutely ensure all (mentioned
+above) and invloved projects get informed.
 
-   5. Follow the [New commit](#new-commit) guide
+## False Positives
 
-## Manage sub-domain in existing issue domains
-Add then in same style and with the usual minimum of need data in a
-comment to the primary domain, then if the report is confirmed, it will
-be edited into the original issue.
+We understand being listed on a Phishing Database like this can be frustrating
+and embarrassing for many web site owners. The first step is to remain calm.
+The second step is to rest assured one of our maintainers will address your
+issue as soon as possible.
 
-Each individual subdomain should have its own "master" comment.
+Please make sure you have provided as much information as possible to help
+speed up the process.
 
-In that way you can challenge/comment to each subdomain as things will
-change over time.
+#### Please do also notify
 
-As practised here: https://0xacab.org/my-privacy-dns/matrix/-/issues/201#note_32072
+You should please also inform [My Privacy DNS][MYPDNS], you can search for
+the url/domain at <https://mypdns.eu.org/matrix/is_listed/>
 
-<details><summary>Click to expand</summary>
+## Create a Pull Request for faster handling
 
-![Manage sub-domains](https://0xacab.org/my-privacy-dns/support/uploads/fe17e6b1382738e24a90abfe054432ab/image.png)
+Users who understand git can creat a Pull Requests, an assist us for faster
+removals by sending a PR to the manual repository of 
+[Mitchell Krogza Phishing + Whitelist][MP] repository and add the FP domain
+one of the whitelists:
 
-</details>
+  - [falsepositive.list][MPFL] matches `1 on 1`
+  - [falsepositive_regex.list][MPFLRGX] matches against regex.
+  - [falsepositive_rzd.list][MPFLRZD] This list will tell the system to 
+    explicitly check for the given string plus all possible TLD.
 
+Please include the same information as above to help speed up the whitelisting
+process.
 
-## Why first issue then MR?
-The simplest idea is often the most safe, and this is the very reason for this
-workflow. It is also giving the project a searchable database for added domains
-and the comment, by which we can't add in other ways, as all the lists needs to
-be raw data; from which other scripts easily can work with, without first have
-to run several cleanup processes.
+You should note that you should not expect merges are done in
+[Mitchell Krogza Phishing + Whitelist][MP] until the issue have been solved
+here, this is because those who can merge do not have access to the logs for
+why your domain got listed.
 
-Please also read our [Writing Guide](https://0xacab.org/my-privacy-dns/support/-/wikis/contributing/Writing-Guide) before continuing with your issue contribution
+## Bug reporting
+When you are commiting bug reports please be as precise as possible and narrow
+down the issue as much as you possible can.
 
-# GPG signed
-We require all submissions to be signed with a valid GPG key.
+If you have any questions recarding one of the MK's phishing or phishing DB
+projects, please either just ask in the Bug report issue template and change
+the title to `[Question]`
 
-Only exception to this rule is the CI/CD bot
+## Open Source Project domain reporting tools
+Our friends over at [My Privacy DNS][MYPDNS] have a number of option for
+you to easily and quickly add new domains to a number of categorised
+blacklists including phishing.
 
-## How do I sign with GPG
-If you know nothing about GPG keys I, really suggest you search on
-[duckduckgo.com][DDG] for the best way, to do it for the OS you
-are using.
+1. By using the web, support anonymously reporting: [My Privacy DNS Webreporter][MyPDNSR]    
+2. By installing one of the cool [Firefox add-ons, API, GUI, CLI tools][MYPDNSFF]
+3. All of their [commit tools][MYPDNSTL]
 
-However, if you do have a GPG key, add it to you submission profile and add a `-S`
-to `git commit -S -m "Some very cool enhancements"` and that is. You can also
-set this globally or pr git. Do a search on [duckduckgo.com][DDG]
-to figure out the current way.
+[MP]: https://github.com/mitchellkrogza/phishing "Mitchell Krogza Phishing + Whitelist"
+[MPFL]: https://github.com/mitchellkrogza/phishing/blob/main/falsepositive.list
+[MPFLRGX]: https://github.com/mitchellkrogza/phishing/blob/main/falsepositive_regex.list
+[MPFLRZD]: https://github.com/mitchellkrogza/phishing/blob/main/falsepositive_rzd.list
+[MYPDNS]: https://mypdns.eu.org/ "My Privacy DNS Let no one spy on you online"
+[MyPDNSR]: https://mypdns.eu.org/matrix/reporter/ "My Privacy DNS Webreporter"
+[MYPDNSFF]: https://0xacab.org/my-privacy-dns/matrix/-/blob/master/tools/client_addon.md "My Privacy DNS Firefox Add-ons for easy domain reporting"
+[MYPDNSTL]: https://0xacab.org/my-privacy-dns/matrix/-/blob/master/tools/README.md "My Privacy DNS easy issue commiting tools"
 
-# Writing files/lines
-- All files most end with a newline `\n` (LF) UTF-8.
-- All files have to be in universal UTF-8 style without BOM
-- Files containing `_windows_` in its filename most be encoded in `ISO-8859-1`
-  Latin1 and newlines shall end in (CRLF).
-- Line length should not be more than 80 chars for terminals support.
+## Document revision
 
---------------------
+This is revision 0.1b
 
-# Adult contents contribution
-
-# Contributing
-
-If you feel like contributing there are a couple of ways to do this
-
-1. You can add new super high-speed code, optimizing existing code
-   or rewrite for broader support of bash environments across *nix
-   OS's
-
-2. You should **_not_** add domains to the `submit_here/` folder of
-   this repo. It has to be committed via an ISSUE.
-
-   Because I do have some scripts that handle/maintains several things
-   each time an issue is confirmed, like the DNS RPZ zone and the
-   repository at once.
-
-# Submit - Contribute
-
-All commits of new NSFW adult records should be done to
-[Porn Records][PR]
-
-You can use the following quick links
-
-| Category              | Commit issue                                                                                          |
-| :-------------------- | :---------------------------------------------------------------------------------------------------- |
-| Adult contents        | https://0xacab.org/my-privacy-dns/porn-records/-/issues/new?issuable_template=Adult_contents        |
-| Adult CDN             | https://0xacab.org/my-privacy-dns/porn-records/-/issues/new?issuable_template=Adult_CDN             |
-| Strict Adult contents | https://0xacab.org/my-privacy-dns/porn-records/-/issues/new?issuable_template=Strict_Adult_contents |
-| Strict Adult CDN      | https://0xacab.org/my-privacy-dns/porn-records/-/issues/new?issuable_template=Strict_Adult_CDN      |
-| Snuff & gore          | https://0xacab.org/my-privacy-dns/porn-records/-/issues/new?issuable_template=Snuff                 |
-| Common support        | https://0xacab.org/my-privacy-dns/support/-/wikis/-/issues/new                                      |
-| Common wiki           | https://0xacab.org/my-privacy-dns/support/-/wikis/                                                  |
-
-
-## Workflow
-
-## Add new domains
-This one is too simple or therefore probably too good to be
-true... right?
-
-Nope, it is true. How can you contribute to 4 Blacklist with
-one issue + several RPZ Zone?
-
-1. You open an issue from the list above
-
-   ### Issue comment
-   you should know a couple of things about the issue templates,
-   as I know a lot of people hates them as I suspect they don't
-   understand the long-term and bigger idea behind them.
-
-   Hopefully, the following text might help with that.
-   - It is 1 domain = 1 issue
-   - The templates are designed so nobody should have to visit any of the
-   domains to verify, it is a pornographic domain, hence why the small
-   screenshots of the site are required.
-   - Everything should, at best, be designed to help others in their goal
-   for maintaining and blacklisting adult-related material.
-   - We shall always do our best to achieve this so that no one has to
-   visit a pornographic site to verify it, once the team behind the
-   project has done this.
-   - They are designed to match another project (Long term), currently known
-   as the matrix, yes because of a $2 domain while watching the matrix
-   movie. https://mypdns.org/infrastructure/matrix-rocks/www.matrix.rocks/-/blob/master/README.md
-
-2. @spirillen will handle these regularly basis, which usual
-   would be a couple of times a week.
-
-**IMPORTANT**: Fill out any fields, or you will at first be requested to
-add missing values, if you fail to do this, your commitment can in sever
-cases end up being deleted.
-
-## Manage sub-domain in existing issue domains
-Add then in the same style and with the usual minimum of need data in a
-comment to the primary domain, then if the report is confirmed, it will
-be edited into the original issue.
-
-Each subdomain should have its own "master" comment.
-
-In that way, you can challenge/comment to each subdomain as things will
-change over time.
-
-As practiced here: https://0xacab.org/my-privacy-dns/matrix/-/issues/201#note_32072
-
-<details><summary>Click to expand</summary>
-
-![Manage sub-domains](https://0xacab.org/my-privacy-dns/support/uploads/fe17e6b1382738e24a90abfe054432ab/image.png)
-
-</details>
-
-
-
-## Screenshot
-Why @spirillen is so picky about the screenshots is due to the time
-available for him to handle this. You should also have read this
-[comment](#issue-comment)
-
-We prefer you upload your fresh screenshot directly to us, as
-hot-linking screenshots is bad in most ways, such as 3rd party tracking
-and other user data collection and tracking cookies. Minimize the number
-of hotlinks used, it's not forbidden as long this won't be abused.
-There are also cases where people simply block all 3rd party contents, 
-they are not able to see any hot-linked contents.
-
-### New code
-If you feel like adding new code or modifying existing code to make it run
-better, faster, smarter, etc. You will be editing and contributing to the
-code, automatically be redirected to a fork of the main repo, from where
-you add and/or modify the code.
-
-When you are done with your contribution, you will save the file in
-a new branch. Don't forget to make a full reference to the issue in
-your commit message as a full URL to issue:
-
-```md
-https://0xacab.org/my-privacy-dns/porn-records/-/issues/<ID>
-```
-
-Replace the `<ID>` with the issue id from
-https://0xacab.org/my-privacy-dns/porn-records/-/issues
-
-![new commit](https://user-images.githubusercontent.com/44526987/134584727-5ce2cc04-6eac-485d-a934-1b730cb1fe44.png)
-
-Next you'll be taken to the `Open a pull request`
-
-![Open a pull request](https://user-images.githubusercontent.com/44526987/134584048-51c583f1-8fe8-4536-831d-8b821077fe57.png)
-
-When everything is filled out correctly, you just hit the
-`Create pull request` and you are done.
-
-
-## GPG signed
-We require all submissions to be signed with a valid GPG key.
-
-The only exception to this rule is the CI/CD bot.
-
-### How to sign with GPG
-If you know nothing about GPG keys I suggest you search on
-[duckduckgo][duckduckgo] for the best way to do it, on your
-current OS.
-
-However, if you do have a GPG key, add it to your submission profile add a
-`-S` to the `git commit -S -m "Some very cool enhancements"` and that
-is. You can set this globally or pr git. Search [duckduckgo][duckduckgo] to figure out the current way.
-
-### Encoding when writing files/lines
-  - All files must end with a newline `\n`(LF) UTF-8.
-  - All files have to be in universal UTF-8 style without BOM
-  - Any files or file location containing `_windows_` in its files must
-    be encoded in `ISO-8859-1 Latin1` and newlines *most* end in (CRLF)
-  - Line length should not be any longer than 80 chars for supporting
-    terminals.
-
-
-<!-- Document links -->
-[DDG]: https://duckduckgo.com
-[PR]: https://0xacab.org/my-privacy-dns/porn-records
-[duckduckgo]: https://safe.duckduckgo.com
-[akismet]: https://akismet.com/ "Akismet stops spam."
-
-
-This version supersedes <https://0xacab.org/my-privacy-dns/support/-/wikis/Contributing>
-
-Revision date: 26. Nov 2021.
-
-Last edited by: <https://mypdns.org/Spirillen/>
-
-Approved by: <https://mypdns.org/Spirillen/>
-
-Version: rPD 1.2
+Last updated by @spirillen changed 1st of June 2023
