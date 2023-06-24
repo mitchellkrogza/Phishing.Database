@@ -32,7 +32,7 @@ uhb_whitelist -f ./phishing-links-INVALID.txt -o ./phishing-links-INVALID.txt --
 uhb_whitelist -f ./phishing-links-NEW-today.txt -o ./phishing-links-NEW-today.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 uhb_whitelist -f ./phishing-links-ACTIVE-TODAY.txt -o ./phishing-links-ACTIVE-TODAY.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 uhb_whitelist -f ./phishing-links-ACTIVE-today.txt -o ./phishing-links-ACTIVE-today.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
-uhb_whitelist -f ./phishing-links-today -o ./phishing-links-today --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
+#uhb_whitelist -f ./phishing-links-today -o ./phishing-links-today --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 uhb_whitelist -f ./input-source/ALL-feeds-URLS.lst -o ./ALL-phishing-links.txt --anti-whitelist ./whitelist.anti/whitelist.anti -w ${whitelistFiles}
 
 # FIX Remove Orphaned Domains - Lines not containing a .
