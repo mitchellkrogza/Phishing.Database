@@ -1,0 +1,100 @@
+#!/usr/bin/env bash
+
+# The ci/cd updater for the Phishing.Database project.
+#
+# MIT License
+# Copyright (c) 2018-2024 Mitchell Krog - github.com/mitchellkrogza
+# Copyright (c) 2018-2024 Nissar Chababy - github.com/funilrys
+
+# A Function that let use unify the way we print titles.
+#
+# Usage: printTitle "My Awesome Title"
+function printTitle() {
+    local title="${1:-''}"
+
+    printf "*\e[100b\n"
+    echo "${title}"
+    printf "*\e[100b\n"
+}
+
+# A function that help us strip binary characters.
+#
+# Usage: stripBinaryChars "/path/to/awesome/file"
+function stripBinaryChars() {
+    local targetFile="${1}"
+
+    perl -i.tmpstrip -ple "s/[^ -~\t\r]//g" "${targetFile}"
+    mv ${targetFile}.tmpstrip "${targetFile}"
+}
+
+# A function that truncate the given files.
+#
+# Usage: truncateFiles "${arraysOfFilePaths[@]}"
+function truncateFiles() {
+    printTitle "Truncating files"
+
+    local files="${@}"
+
+    for file in ${files[@]}; do
+        echo "Truncating: ${file}"
+
+        truncate -s 0 "${file}"
+    done
+}
+
+
+# A function that setup the git configuration.
+#
+# Arguments:
+#   email: The email to use for git. If empty, we will fallback to "${PHISH_GIT_EMAIL}".
+#   name: The name to use for git. If empty, we will fallback to "${PHISH_GIT_NAME}".
+#
+# Usage: setupGit "email" "name"
+function setupGit() {
+    # The email to use for git. If empty, we will fallback to "${PHISH_GIT_EMAIL}".
+    local email="${1:-''}"
+    # The name to use for git. If empty, we will fallback to "${PHISH_GIT_NAME}".
+    local name="${2:-''}"
+
+    printTitle "Setting up git"
+
+    if [[ -z "${email//\'/}" ]]
+    then
+        email="${PHISH_GIT_EMAIL:-noreply@phish.co.za}"
+    fi
+
+    if [[ -z "${name//\'/}" ]]
+    then
+        name="${PHISH_GIT_NAME:-Phishing.Database}"
+    fi
+
+    git config --global user.email "${email}"
+    git config --global user.name "${name}"
+}
+
+# a function that pushes the changes to the remote repository.
+#
+# Arguments:
+#   commitMessage: The commit message to use. If empty, we will fallback to the build.
+#
+# Usage: pushChanges "My Awesome Commit Message"
+function pushData() {
+    # The commit message to use. If empty, we will fallback to the build.
+    local commitMessage="${1:-''}"
+
+    if [[ -z "${NO_PUSH:-''}" || "${NO_PUSH}" == "yes" ]]; then
+        echo "Pushing data is disabled."
+        return
+    fi
+
+    printTitle "Pushing data"
+
+    if [[ -z "${commitMessage//\'/}" ]]
+    then
+        commitMessage="${BUILD_NUMBER:-State}"
+    fi
+
+    git add .
+    git commit -m "${commitMessage}"
+    git push
+}
