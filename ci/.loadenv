@@ -1,0 +1,92 @@
+#!/usr/bin/env bash
+
+# The ci/cd updater for the Phishing.Database project.
+#
+# MIT License
+# Copyright (c) 2018-2024 Mitchell Krog - github.com/mitchellkrogza
+# Copyright (c) 2018-2024 Nissar Chababy - github.com/funilrys
+
+if [[ -z "${workDir}" ]]
+then
+    # The work directory of the project.
+    export ciDir="$(realpath $(dirname ${0}))"
+    export workDir="$(dirname ${ciDir})"
+fi
+
+# Switch this the the location you want, otherwise, the current directory will
+# be used#
+defaultDir="${workDir}"
+
+# The global version number to use.
+export VERSION_NUMBER="$(date "+%F.%H")"
+export BUILD_NUMBER="V.${VERSION_NUMBER}"
+
+export CPU_COUNT="$(nproc)"
+
+export PHISH_GIT_EMAIL="mitchellkrog@gmail.com"
+export PHISH_GIT_NAME="mitchellkrogza"
+# Switch this to avoid any accidental push.
+# WARNING: Lowercase is expected.
+export NO_PUSH="no"
+
+export CI_TEMPLATES_DIR="${ciDir}/templates"
+export CI_ADBLOCK_HEADER_TEMPLATE="${CI_TEMPLATES_DIR}/adblock.header.template"
+export CI_README_TEMPLATE="${CI_TEMPLATES_DIR}/README.template"
+
+export README_FILE="${defaultDir}/README.md"
+
+export WHITELIST_ME_DIR="${defaultDir}/whitelist.me"
+export WHITELIST_ANTI_DIR="${defaultDir}/whitelist.anti"
+export INPUT_SOURCE_DIR="${defaultDir}/input-source"
+export STATUS_DIR="${defaultDir}/status"
+
+export DOMAINS_STATUS_DIR="${STATUS_DIR}/domains"
+export IPS_STATUS_DIR="${STATUS_DIR}/ips"
+export URLS_STATUS_DIR="${STATUS_DIR}/urls"
+
+export DOMAINS_SOURCE_DIR="${defaultDir}/input-source/domains"
+export IPS_SOURCE_DIR="${defaultDir}/input-source/ips"
+export URLS_SOURCE_DIR="${defaultDir}/input-source/urls"
+
+export LEGACY_INPUT_DOMAINS_FILE="${DOMAINS_SOURCE_DIR}/public-domain-additions.txt"
+export LEGACY_INPUT_URLS_FILE="${URLS_SOURCE_DIR}/public-url-additions.txt"
+export INPUT_DOMAINS_FILE="${DOMAINS_SOURCE_DIR}/additional-domains.txt"
+export INPUT_IPS_FILE="${IPS_SOURCE_DIR}/additional-ips.txt"
+export INPUT_URLS_FILE="${URLS_SOURCE_DIR}/additional-urls.txt"
+
+export WHITELIST_ME_FILE="${WHITELIST_ME_DIR}/whitelist.me"
+export WHITELIST_ME_REGEX_FILE="${WHITELIST_ME_DIR}/whitelist.me.regex"
+export WHITELIST_ME_RZD_FILE="${WHITELIST_ME_DIR}/whitelist.me.rzd"
+export WHITELIST_ME_WILDCARD_FILE="${WHITELIST_ME_DIR}/whitelist.me.wildcard"
+export WHITELIST_ANTI_FILE="${WHITELIST_ANTI_DIR}/whitelist.anti"
+
+export PHISHING_ALL_FEEDS_DOMAINS_ZIP="${INPUT_SOURCE_DIR}/ALL-feeds.zip"
+export PHISHING_ALL_FEEDS_DOMAINS_FILE="${INPUT_SOURCE_DIR}/ALL-feeds.lst"
+export PHISHING_ALL_FEEDS_LINKS_ZIP="${INPUT_SOURCE_DIR}/ALL-feeds-URLS.zip"
+export PHISHING_ALL_FEEDS_LINKS_FILE="${INPUT_SOURCE_DIR}/ALL-feeds-URLS.lst"
+
+export PHISHING_DOMAINS_ACTIVE_FILE="${defaultDir}/phishing-domains-ACTIVE.txt"
+export PHISHING_DOMAINS_INACTIVE_FILE="${defaultDir}/phishing-domains-INACTIVE.txt"
+export PHISHING_DOMAINS_INVALID_FILE="${defaultDir}/phishing-domains-INVALID.txt"
+export PHISHING_DOMAINS_NEW_TODAY_FILE="${defaultDir}/phishing-domains-NEW-today.txt"
+export PHISHING_DOMAINS_ACTIVE_TODAY_FILE="${defaultDir}/phishing-domains-ACTIVE-today.txt"
+export PHISHING_DOMAINS_ACTIVE_ADBLOCK_FILE="${defaultDir}/phishing-domains-ACTIVE.adblock"
+export PHISHING_ALL_DOMAINS_FILE="${defaultDir}/ALL-phishing-domains.txt"
+export PHISHING_ALL_DOMAINS_TGZ="${defaultDir}/ALL-phishing-domains.tar.gz"
+
+export PHISHING_LINKS_ACTIVE_FILE="${defaultDir}/phishing-links-ACTIVE.txt"
+export PHISHING_LINKS_INACTIVE_FILE="${defaultDir}/phishing-links-INACTIVE.txt"
+export PHISHING_LINKS_INVALID_FILE="${defaultDir}/phishing-links-INVALID.txt"
+export PHISHING_LINKS_NEW_TODAY_FILE="${defaultDir}/phishing-links-NEW-TODAY.txt"
+export PHISHING_LINKS_ACTIVE_TODAY_FILE="${defaultDir}/phishing-links-ACTIVE-today.txt"
+export PHISHING_ALL_LINKS_FILE="${defaultDir}/ALL-phishing-links.txt"
+export PHISHING_ALL_LINKS_TGZ="${defaultDir}/ALL-phishing-links.tar.gz"
+export LEGACY_PHISHING_LINKS_ACTIVE_TODAY_FILE="${defaultDir}/phishing-links-ACTIVE-TODAY.txt"
+
+
+# A space separated list of files to be used as whitelist sources.
+export EXTRAS_WHITELIST_SOURCES="https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list"
+
+export TEMP_DIR="/tmp/Phishing.Database"
+
+mkdir -p "${TEMP_DIR}"
