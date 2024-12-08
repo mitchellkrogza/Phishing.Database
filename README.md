@@ -18,13 +18,13 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 | <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> |                                                                                           Help Support Me at https://ko-fi.com/mitchellkrog                                                                                            |
 
 _______________
-#### Version: V.2024-12-08.03
-|                                     :boom: Latest Threats<br/>@ 03:45:29                                      |                                   :boom: Active Threats<br/>Sunday 2024-12-08                                   |                                  Total Links<br/>Discovered Today                                   |
+#### Version: V.2024-12-08.04
+|                                     :boom: Latest Threats<br/>@ 04:33:35                                      |                                   :boom: Active Threats<br/>Sunday 2024-12-08                                   |                                  Total Links<br/>Discovered Today                                   |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [908](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 12K tar.gz)
-#### Total Phishing Links Captured: [1370319](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
+#### Total Phishing Links Captured: [1370381](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
 ____________________
 
 
