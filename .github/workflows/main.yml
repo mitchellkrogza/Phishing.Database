@@ -1,0 +1,44 @@
+# Build Script for Phishing Database using GHA
+
+name: CI
+
+on:
+  schedule:
+    - cron: "15 */1 * * *"
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install APT dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y dos2unix
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+          pip install -r ci/requirements.txt
+
+      - name: Run build
+        shell: bash
+        run: |
+          ci/update.sh
+
