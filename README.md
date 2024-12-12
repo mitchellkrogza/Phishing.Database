@@ -19,7 +19,7 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 
 _______________
 #### Version: V.2024-12-12.03
-|                                     :boom: Latest Threats<br/>@ 03:10:17                                      |                                   :boom: Active Threats<br/>Thursday 2024-12-12                                   |                                  Total Links<br/>Discovered Today                                   |
+|                                     :boom: Latest Threats<br/>@ 03:46:01                                      |                                   :boom: Active Threats<br/>Thursday 2024-12-12                                   |                                  Total Links<br/>Discovered Today                                   |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
