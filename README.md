@@ -1,4 +1,4 @@
-<img src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/phishing-logo.jpg" alt="Phishing Domain Status Testing Repo"/>
+<img src="https://github.com/Phishing-Database/assets/raw/main/phishing-logo.jpg" alt="Phishing Domain Status Testing Repo"/>
 
 # Phishing Domain Database <a href="https://twitter.com/PhishFindR" ><img src="https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow" /></a>
 
@@ -21,7 +21,7 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 ---
 
 #### Version: V.2024-12-14.20
-|                                           :boom: Latest Threats<br/>@ 20:12:32                                            |                                        :boom: Active Threats<br/>Saturday 2024-12-14                                         |                                             Total Links<br/>Discovered Today                                             |
+|                                           :boom: Latest Threats<br/>@ 20:17:43                                            |                                        :boom: Active Threats<br/>Saturday 2024-12-14                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
