@@ -128,8 +128,8 @@ function fetchExtraData() {
 function unpackInputFiles() {
     printTitle "Unpacking input files"
 
-    unzip -o "${PHISHING_ALL_FEEDS_DOMAINS_ZIP}" -d "${INPUT_SOURCE_DIR}"
-    unzip -o "${PHISHING_ALL_FEEDS_LINKS_ZIP}" -d "${INPUT_SOURCE_DIR}"
+    unzip -o "${PHISHING_ALL_PHISHING_DOMAINS_ZIP}" -d "${INPUT_SOURCE_DIR}"
+    unzip -o "${PHISHING_ALL_PHISHING_LINKS_ZIP}" -d "${INPUT_SOURCE_DIR}"
 
     ls -la "${INPUT_SOURCE_DIR}"
 }
@@ -172,7 +172,7 @@ function applyWhitelist() {
         "${PHISHING_DOMAINS_INVALID_FILE}"
         "${PHISHING_DOMAINS_NEW_TODAY_FILE}"
         "${PHISHING_DOMAINS_ACTIVE_TODAY_FILE}"
-        "${PHISHING_ALL_FEEDS_DOMAINS_FILE}"
+        "${PHISHING_ALL_PHISHING_DOMAINS_FILE}"
     )
 
     local outputDomainsFile=(
@@ -190,7 +190,7 @@ function applyWhitelist() {
         "${PHISHING_LINKS_INVALID_FILE}"
         "${PHISHING_LINKS_NEW_TODAY_FILE}"
         "${PHISHING_LINKS_ACTIVE_TODAY_FILE}"
-        "${PHISHING_ALL_FEEDS_LINKS_FILE}"
+        "${PHISHING_ALL_PHISHING_LINKS_FILE}"
     )
 
     local outputLinksFile=(
@@ -293,19 +293,19 @@ function compressFiles() {
     printTitle "Compressing files"
 
     # Cleanup the previous versions.
-    rm -f "${PHISHING_ALL_FEEDS_DOMAINS_ZIP}"
-    rm -f "${PHISHING_ALL_FEEDS_LINKS_ZIP}"
+    rm -f "${PHISHING_ALL_PHISHING_DOMAINS_ZIP}"
+    rm -f "${PHISHING_ALL_PHISHING_LINKS_ZIP}"
     rm -f "${PHISHING_ALL_DOMAINS_TGZ}"
     rm -f "${PHISHING_ALL_LINKS_TGZ}"
 
-    zip -j "${PHISHING_ALL_FEEDS_DOMAINS_ZIP}" "${PHISHING_ALL_FEEDS_DOMAINS_FILE}"
-    zip -j "${PHISHING_ALL_FEEDS_LINKS_ZIP}" "${PHISHING_ALL_FEEDS_LINKS_FILE}"
+    zip -j "${PHISHING_ALL_PHISHING_DOMAINS_ZIP}" "${PHISHING_ALL_PHISHING_DOMAINS_FILE}"
+    zip -j "${PHISHING_ALL_PHISHING_LINKS_ZIP}" "${PHISHING_ALL_PHISHING_LINKS_FILE}"
 
-    cp "${PHISHING_ALL_FEEDS_DOMAINS_FILE}" "${PHISHING_ALL_DOMAINS_FILE}"
-    cp "${PHISHING_ALL_FEEDS_LINKS_FILE}" "${PHISHING_ALL_LINKS_FILE}"
+    cp "${PHISHING_ALL_PHISHING_DOMAINS_FILE}" "${PHISHING_ALL_DOMAINS_FILE}"
+    cp "${PHISHING_ALL_PHISHING_LINKS_FILE}" "${PHISHING_ALL_LINKS_FILE}"
 
-    tar -zcvf "${PHISHING_ALL_DOMAINS_TGZ}" "${PHISHING_ALL_FEEDS_DOMAINS_FILE}"
-    tar -zcvf "${PHISHING_ALL_LINKS_TGZ}" "${PHISHING_ALL_FEEDS_LINKS_FILE}"
+    tar -zcvf "${PHISHING_ALL_DOMAINS_TGZ}" "${PHISHING_ALL_PHISHING_DOMAINS_FILE}"
+    tar -zcvf "${PHISHING_ALL_LINKS_TGZ}" "${PHISHING_ALL_PHISHING_LINKS_FILE}"
 }
 
 # A function taht updates the README file.
@@ -322,8 +322,8 @@ function updateReadme() {
     local activeNowCount="0"
     local activeTodayCount="0"
     local discoveredTodayCount="0"
-    local domainsCount="$(wc -l ${PHISHING_ALL_FEEDS_DOMAINS_FILE} | awk '{ print $1 }')"
-    local linksCount="$(wc -l ${PHISHING_ALL_FEEDS_LINKS_FILE} | awk '{ print $1 }')"
+    local domainsCount="$(wc -l ${PHISHING_ALL_PHISHING_DOMAINS_FILE} | awk '{ print $1 }')"
+    local linksCount="$(wc -l ${PHISHING_ALL_PHISHING_LINKS_FILE} | awk '{ print $1 }')"
 
     local domainsTGZSize="$(du -h ${PHISHING_ALL_DOMAINS_TGZ} | awk '{ print $1 }')"
     local linksTGZSize="$(du -h ${PHISHING_ALL_LINKS_TGZ} | awk '{ print $1 }')"
@@ -346,8 +346,8 @@ function updateReadme() {
 # Usage: cleanupFiles
 function cleanupFiles() {
     # We now remove the original files.
-    rm -f "${PHISHING_ALL_FEEDS_DOMAINS_FILE}"
-    rm -f "${PHISHING_ALL_FEEDS_LINKS_FILE}"
+    rm -f "${PHISHING_ALL_PHISHING_DOMAINS_FILE}"
+    rm -f "${PHISHING_ALL_PHISHING_LINKS_FILE}"
     rm -f "${PHISHING_ALL_DOMAINS_FILE}"
     rm -f "${PHISHING_ALL_LINKS_FILE}"
 }
