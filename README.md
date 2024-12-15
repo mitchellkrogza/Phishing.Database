@@ -20,13 +20,13 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2024-12-15.06
-|                                           :boom: Latest Threats<br/>@ 06:38:40                                            |                                        :boom: Active Threats<br/>Sunday 2024-12-15                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2024-12-15.12
+|                                           :boom: Latest Threats<br/>@ 12:51:54                                            |                                        :boom: Active Threats<br/>Sunday 2024-12-15                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [908](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 12K tar.gz)
-#### Total Phishing Links Captured: [1375059](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
+#### Total Phishing Links Captured: [1375231](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
 
 ---
 
