@@ -20,13 +20,13 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2024-12-15.02
-|                                           :boom: Latest Threats<br/>@ 02:16:32                                            |                                        :boom: Active Threats<br/>Sunday 2024-12-15                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2024-12-15.06
+|                                           :boom: Latest Threats<br/>@ 06:38:40                                            |                                        :boom: Active Threats<br/>Sunday 2024-12-15                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [908](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 12K tar.gz)
-#### Total Phishing Links Captured: [1375043](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
+#### Total Phishing Links Captured: [1375059](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
 
 ---
 
@@ -42,12 +42,22 @@ To ensure uninterrupted access to the data, please download the latest lists dir
 
 The links below will direct you to the latest data files for this project.
 
-| File Name                   | Official Source                                                    |
-| --------------------------- | ------------------------------------------------------------------ |
-| ALL-phishing-domains.lst    | [Download](https://phish.co.za/latest/ALL-phishing-domains.lst)    |
-| ALL-phishing-links.lst      | [Download](https://phish.co.za/latest/ALL-phishing-links.lst)      |
-| ALL-phishing-domains.tar.gz | [Download](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) |
-| ALL-phishing-links.tar.gz   | [Download](https://phish.co.za/latest/ALL-phishing-links.tar.gz)   |
+| File Name                     | Official Source                                                      |
+| ----------------------------- | -------------------------------------------------------------------- |
+| ALL-phishing-domains.lst      | [Download](https://phish.co.za/latest/ALL-phishing-domains.lst)      |
+| ALL-phishing-links.lst        | [Download](https://phish.co.za/latest/ALL-phishing-links.lst)        |
+| ALL-phishing-domains.tar.gz   | [Download](https://phish.co.za/latest/ALL-phishing-domains.tar.gz)   |
+| ALL-phishing-links.tar.gz     | [Download](https://phish.co.za/latest/ALL-phishing-links.tar.gz)     |
+| phishing-domains-ACTIVE.txt   | [Download](https://phish.co.za/latest/phishing-domains-ACTIVE.txt)   |
+| phishing-domains-INACTIVE.txt | [Download](https://phish.co.za/latest/phishing-domains-INACTIVE.txt) |
+| phishing-domains-INVALID.txt  | [Download](https://phish.co.za/latest/phishing-domains-INVALID.txt)  |
+| phishing-IPs-ACTIVE.txt       | [Download](https://phish.co.za/latest/phishing-IPs-ACTIVE.txt)       |
+| phishing-IPs-INACTIVE.txt     | [Download](https://phish.co.za/latest/phishing-IPs-INACTIVE.txt)     |
+| phishing-IPs-INVALID.txt      | [Download](https://phish.co.za/latest/phishing-IPs-INVALID.txt)      |
+| phishing-links-ACTIVE.txt     | [Download](https://phish.co.za/latest/phishing-links-ACTIVE.txt)     |
+| phishing-links-INACTIVE.txt   | [Download](https://phish.co.za/latest/phishing-links-INACTIVE.txt)   |
+| phishing-links-INVALID.txt    | [Download](https://phish.co.za/latest/phishing-links-INVALID.txt)    |
+
 
 _The files are updated regularly._
 
