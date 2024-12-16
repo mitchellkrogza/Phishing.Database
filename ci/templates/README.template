@@ -42,6 +42,8 @@ To ensure uninterrupted access to the data, please download the latest lists dir
 
 The links below will direct you to the latest data files for this project.
 
+The checksums for the files are available in the [checksums repository](https://github.com/Phishing-Database/checksums).
+
 | File Name                     | Official Source                                                      |
 | ----------------------------- | -------------------------------------------------------------------- |
 | ALL-phishing-domains.lst      | [Download](https://phish.co.za/latest/ALL-phishing-domains.lst)      |
@@ -65,7 +67,7 @@ _The files are updated regularly._
 
 ## Automated Testing
 
-The testing of the domains and URLs is automated using the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) witten by Nissar Chababy _(AKA [@funilrys](https://github.com/funilrys))_. Over many years in development, this tool has become a robust and reliable source of domain and URL status. We use it in an automated environment which actively retests domains and URLs on a regular basis.
+The testing of the domains and URLs is automated using the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by Nissar Chababy _(AKA [@funilrys](https://github.com/funilrys))_. Over many years in development, this tool has become a robust and reliable source of domain and URL status. We use it in an automated environment which actively retests domains and URLs on a regular basis.
 
 ### Who do we define an active status?
 
