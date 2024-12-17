@@ -1,4 +1,4 @@
-<img src="https://github.com/Phishing-Database/assets/raw/main/phishing-logo.jpg" alt="Phishing Domain Status Testing Repo"/>
+<img src="https://github.com/Phishing-Database/assets/raw/master/phishing-logo.jpg" alt="Phishing Domain Status Testing Repo"/>
 
 # Phishing Domain Database <a href="https://twitter.com/PhishFindR" ><img src="https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow" /></a>
 
@@ -20,10 +20,10 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2024-12-17.13
-|                                           :boom: Latest Threats<br/>@ 13:31:06                                            |                                        :boom: Active Threats<br/>Tuesday 2024-12-17                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2024-12-17.15
+|                                           :boom: Latest Threats<br/>@ 15:06:18                                            |                                        :boom: Active Threats<br/>Tuesday 2024-12-17                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| :warning: [328779](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [1184](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [393](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [328786](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [1184](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [393](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [908](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 12K tar.gz)
 #### Total Phishing Links Captured: [1376751](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
@@ -41,6 +41,8 @@ To ensure uninterrupted access to the data, please download the latest lists dir
 ## File Sources
 
 The links below will direct you to the latest data files for this project.
+
+The checksums for the files are available in the [checksums repository](https://github.com/Phishing-Database/checksums).
 
 | File Name                     | Official Source                                                      |
 | ----------------------------- | -------------------------------------------------------------------- |
@@ -65,7 +67,7 @@ _The files are updated regularly._
 
 ## Automated Testing
 
-The testing of the domains and URLs is automated using the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) witten by Nissar Chababy _(AKA [@funilrys](https://github.com/funilrys))_. Over many years in development, this tool has become a robust and reliable source of domain and URL status. We use it in an automated environment which actively retests domains and URLs on a regular basis.
+The testing of the domains and URLs is automated using the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by Nissar Chababy _(AKA [@funilrys](https://github.com/funilrys))_. Over many years in development, this tool has become a robust and reliable source of domain and URL status. We use it in an automated environment which actively retests domains and URLs on a regular basis.
 
 ### Who do we define an active status?
 
