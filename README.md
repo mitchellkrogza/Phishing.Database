@@ -20,13 +20,13 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2024-12-17.01
-|                                           :boom: Latest Threats<br/>@ 01:31:07                                            |                                        :boom: Active Threats<br/>Tuesday 2024-12-17                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2024-12-17.03
+|                                           :boom: Latest Threats<br/>@ 03:31:07                                            |                                        :boom: Active Threats<br/>Tuesday 2024-12-17                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | :warning: [328779](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [1184](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [393](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [908](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 12K tar.gz)
-#### Total Phishing Links Captured: [1375942](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
+#### Total Phishing Links Captured: [1376364](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
 
 ---
 
